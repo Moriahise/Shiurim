@@ -30,6 +30,11 @@ class ContentReviewTests(unittest.TestCase):
             rows.append({'paragraph_id':p['paragraph_id'],'verdict':('not_applicable' if p['suggested_kind'] in ('application','method') else 'supported') if stage=='evidence' else 'equivalent','source_ids':[sid],'evidence_quotes':[{'source_id':sid,'quote':source['text']}],'reason':{'en':'Fixture result only.','he':'תוצאת בדיקה מלאכותית בלבד.'}})
         return {'stage':stage,'paragraphs':rows}
 
+    def wire_stage(self,stage,payload):
+        data=self.stage(stage,payload)
+        data['paragraphs']=[{k:v for k,v in row.items() if k!='evidence_quotes'}|{'evidence_source_ids':[a['source_id'] for a in row['evidence_quotes']]} for row in data['paragraphs']]
+        return data
+
     def client(self,stage,payload,config,key,model):
         self.calls.append(stage)
         return {'result':self.stage(stage,payload),'response_id':'test-response','model':model,'usage':{'input_tokens':1}}
@@ -167,7 +172,7 @@ class ContentReviewTests(unittest.TestCase):
         captured=[]
         def requester(request,timeout):
             captured.append((request,timeout))
-            return {'status':'completed','id':'fixture','model':'fixture-model','output':[{'content':[{'type':'output_text','text':json.dumps(self.stage('evidence',payload))}]}]}
+            return {'status':'completed','id':'fixture','model':'fixture-model','output':[{'content':[{'type':'output_text','text':json.dumps(self.wire_stage('evidence',payload))}]}]}
         value=r.api_review('evidence',payload,self.policy['semantic'],'fake-key','fixture-model',requester)
         request,timeout=captured[0];body=json.loads(request.data)
         self.assertEqual(request.full_url,'https://api.openai.com/v1/responses')
@@ -175,6 +180,25 @@ class ContentReviewTests(unittest.TestCase):
         self.assertNotIn('fake-key',request.data.decode());self.assertEqual(timeout,180)
         self.assertEqual(body['max_output_tokens'],8000)
         self.assertEqual(value['result']['stage'],'evidence')
+        self.assertEqual(value['result']['paragraphs'][0]['evidence_quotes'][0]['quote'],payload['sources'][0]['text'])
+        props=body['text']['format']['schema']['properties']['paragraphs']['items']['properties']
+        self.assertNotIn('evidence_quotes',props)
+        self.assertEqual(set(props['evidence_source_ids']['items']['enum']),{s['id'] for s in payload['sources']})
+
+    def test_evidence_selection_cannot_introduce_text_or_unknown_source_ids(self):
+        payload=r.semantic_payload(self.edition,self.sources,self.evidence)
+        for mutation in ('unknown','duplicate','extra_text','wrong_paragraph_source','empty_support'):
+            with self.subTest(mutation=mutation):
+                wire=self.wire_stage('evidence',payload)
+                row=wire['paragraphs'][0]
+                if mutation=='unknown':row['evidence_source_ids']=['invented']
+                elif mutation=='duplicate':row['evidence_source_ids']*=2
+                elif mutation=='extra_text':row['evidence_quotes']=[{'source_id':row['source_ids'][0],'quote':'fabricated text'}]
+                elif mutation=='wrong_paragraph_source':
+                    sid=next(s['id'] for s in payload['sources'] if s['id'] not in payload['paragraphs'][0]['source_ids'])
+                    row['evidence_source_ids']=[sid];row['source_ids']=[sid]
+                else:row['evidence_source_ids']=[]
+                with self.assertRaises(r.ReviewError):r.validate_semantic(r.resolve_evidence(wire,payload),'evidence',payload)
 
     def test_incomplete_refused_or_invalid_api_results_fail(self):
         payload=r.semantic_payload(self.edition,self.sources,self.evidence)
