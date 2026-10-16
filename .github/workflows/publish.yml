@@ -61,6 +61,7 @@ jobs:
           python tools/shiurim.py build
           node --check assets/site.js
           node --check assets/source-library.js
+          node --test tests/test_sefaria_navigation.cjs tests/test_source_picker.cjs
       - name: Persist publication ledger before deployment
         run: |
           test "$GITHUB_REPOSITORY" = 'Moriahise/Shiurim'

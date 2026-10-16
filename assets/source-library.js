@@ -15,7 +15,7 @@
       ((u.hostname === 'shekhina.org') ||
        (u.hostname === 'moriahise.github.io' && u.pathname.startsWith('/Sanhedrin/')) ||
        (u.hostname === 'storage.googleapis.com' && u.pathname.startsWith('/sefaria-export/json/')) ||
-       (u.hostname === 'www.sefaria.org' && u.pathname.startsWith('/api/texts/'))));
+       (u.hostname === 'www.sefaria.org' && ['/api/texts/', '/api/shape/', '/api/v2/raw/index/'].some(path=>u.pathname.startsWith(path)))));
     if (!permitted || decodeURIComponent(u.pathname).split('/').includes('..')) throw Error('Unapproved library URL');
     return u;
   };
@@ -220,28 +220,148 @@
     const version=data[isHebrew?'heVersionTitle':'versionTitle']||'unrecorded';
     return {id:'sefaria-'+(await hash(data.ref+'|'+language+'|'+version)).slice(0,20),provider:'sefaria',language:isHebrew?'he':'en',reference_en:data.ref,reference_he:data.heRef||'ספריא',url:'https://www.sefaria.org/'+encodeURIComponent(data.ref.replaceAll(' ','_')),version,version_source:data[isHebrew?'heVersionSource':'versionSource'],license:data[isHebrew?'heLicense':'license']||'unrecorded',retrieved_at:new Date().toISOString(),text:parts.join('\n'),origin:{resolved_ref:data.ref,retrieval:'exact-reference-api'},review_status:'research_capture_only'};
   }
-  async function openBook(book) {
-    const epoch=++readerEpoch;feedback(text('Opening the selected book…','פותחים את החיבור שנבחר…'));
-    const language=book.languages.Hebrew?'Hebrew':'English';const version=book.languages[language];
-    const extras=[link(text('Google export ↗','יצוא Google ↗'),version.url)];
-    try {
-      // Exact-reference API supplies a canonical location and version attribution.
-      // The GCS download remains available as a direct link regardless of bucket CORS.
-      $('exact-reference').value=book.title;$('reference-language').value=language;
-      const dossier=await exactReference(book.title,language,epoch);
-      await showDossier(dossier,epoch,extras);
-    } catch(error) {if(epoch===readerEpoch) {
-      const box=node('div');box.append(node('h2',book.title),node('p',text('The in-page reader is unavailable. The original export can still be opened directly.','הקורא הפנימי אינו זמין. אפשר עדיין לפתוח את היצוא המקורי ישירות.')),...extras);
-      $('source-reader').replaceChildren(box);feedback(error.message);
-    }}
+  let works = [], selectedBook = null, sectionList = [], selectedPassage = null, pickerEpoch = 0;
+  const structures = new Map();
+  const categoryHebrew = {'Tanakh':'תנ״ך','Mishnah':'משנה','Talmud':'תלמוד','Midrash':'מדרש','Halakhah':'הלכה','Kabbalah':'קבלה','Liturgy':'תפילה','Jewish Thought':'מחשבת ישראל','Chasidut':'חסידות','Musar':'מוסר','Responsa':'שו״ת','Tosefta':'תוספתא','Second Temple':'בית שני','Reference':'ספרי עזר'};
+  function option(value, en, he = en) {
+    const o = node('option',text(en,he));o.value=value;o.dataset.en=en;o.dataset.he=he;o.dir='auto';return o;
   }
+  function bilingual(element, en, he) {
+    const english=node('span',en,'l-en');english.lang='en';english.dir='ltr';
+    const hebrew=node('span',he,'l-he');hebrew.lang='he';hebrew.dir='rtl';
+    element.replaceChildren(english,hebrew);
+  }
+  function pickerState(en, he) { bilingual($('sefaria-picker-state'),en,he); }
+  function exportLink() {
+    const version=selectedBook?.languages[$('reference-language').value];
+    const box=$('selected-export');box.replaceChildren();
+    if(version) {const a=link('Google export ↗',version.url);bilingual(a,'Google export ↗','יצוא Google ↗');box.append(a);}
+  }
+  function resetPassage() {
+    ++pickerEpoch;++readerEpoch;selectedBook=null;selectedPassage=null;sectionList=[];
+    $('sefaria-section').replaceChildren(option('', 'Choose a book first', 'בחרו תחילה חיבור'));
+    $('sefaria-section').disabled=true;$('sefaria-section').removeAttribute('aria-busy');
+    $('sefaria-levels').replaceChildren();$('selected-reference').textContent='';$('selected-export').replaceChildren();
+    $('read-selection').disabled=true;$('retry-sefaria').hidden=true;
+    pickerState('Choose a book to see its sections.','בחרו חיבור להצגת קטעיו.');
+    for (const o of $('reference-language').options) o.disabled=false;
+  }
+  function bookOptions(selected = '') {
+    const terms=normal($('sefaria-book-filter').value).split(/\s+/).filter(Boolean);
+    const category=$('sefaria-category').value;
+    const tanakhOrder=['Genesis','Exodus','Leviticus','Numbers','Deuteronomy','Joshua','Judges','I Samuel','II Samuel','I Kings','II Kings','Isaiah','Jeremiah','Ezekiel','Hosea','Joel','Amos','Obadiah','Jonah','Micah','Nahum','Habakkuk','Zephaniah','Haggai','Zechariah','Malachi','Psalms','Proverbs','Job','Song of Songs','Ruth','Lamentations','Ecclesiastes','Esther','Daniel','Ezra','Nehemiah','I Chronicles','II Chronicles'];
+    const priority=b=>{const i=tanakhOrder.indexOf(b.title);return i<0?100:i;};
+    const matches=works.filter(b=>(!category || b.categories[0]===category) && terms.every(t=>normal(b.title+' '+(b.he_title||'')+' '+b.categories.join(' ')).includes(t)));
+    if(category==='Tanakh') matches.sort((a,b)=>priority(a)-priority(b));
+    const options=matches.map(b=>{
+      const o=option(b.title, b.title+' · '+(b.he_title||b.title)+' — '+b.categories.slice(1).join(' › '), (b.he_title||b.title)+' · '+b.title+' — '+b.categories.slice(1).join(' › '));
+      o.title=b.categories.join(' › ');return o;
+    });
+    $('sefaria-book').replaceChildren(option('', matches.length?'Choose a book…':'No matching books',matches.length?'בחרו חיבור…':'לא נמצאו חיבורים'),...options);
+    $('sefaria-book').value=selected;$('sefaria-book').disabled=!matches.length;
+    bilingual($('sefaria-book-count'),`${matches.length.toLocaleString()} books · all matches listed`,`${matches.length.toLocaleString()} חיבורים · כל התוצאות מוצגות`);
+  }
+  async function initPicker() {
+    try {
+      const c=await catalogue();works=c.works;
+      const categories=[...new Set(works.map(b=>b.categories[0]))].sort();
+      $('sefaria-category').replaceChildren(option('', 'All categories', 'כל הקטגוריות'),...categories.map(c=>option(c,c,categoryHebrew[c]||c)));
+      $('sefaria-category').value='Tanakh';$('sefaria-category').disabled=false;$('sefaria-book-filter').disabled=false;
+      resetPassage();bookOptions();
+    } catch (_) {
+      pickerState('The book catalogue could not be loaded. Try again or enter a reference manually.','לא ניתן לטעון את קטלוג החיבורים. נסו שוב או הזינו מראה מקום ידנית.');
+      $('retry-sefaria').hidden=false;
+    }
+  }
+  async function bookStructure(book) {
+    if (!structures.has(book.title)) {
+      const title=encodeURIComponent(book.title);
+      const promise=Promise.all([
+        json('https://www.sefaria.org/api/shape/'+title),
+        json('https://www.sefaria.org/api/v2/raw/index/'+title).catch(()=>null)
+      ]).then(([shape,index])=>SefariaNavigation.sections(shape,index)).catch(error=>{structures.delete(book.title);throw error;});
+      structures.set(book.title,promise);
+      if (structures.size>20) structures.delete(structures.keys().next().value);
+    }
+    return structures.get(book.title);
+  }
+  function choosePassage(passage, invalidate = true) {
+    if(invalidate)++readerEpoch;selectedPassage=passage;
+    $('selected-reference').textContent=passage.ref;
+    $('read-selection').disabled=false;
+  }
+  function deeperChoices(parent, container, depth = 0) {
+    if (depth>8) return;
+    const choices=SefariaNavigation.children(parent);
+    if (!choices.length) return;
+    const label=node('label');const name=node('span');bilingual(name,'Narrow the passage (optional)','צמצום הקטע (רשות)');
+    const select=node('select');select.id='sefaria-level-'+depth;label.htmlFor=select.id;
+    select.append(option('', 'Whole selected section', 'כל הקטע שנבחר'),...choices.map((p,i)=>option(String(i),p.ref,p.ref)));
+    const next=node('div');label.append(name,select);container.append(label,next);
+    select.addEventListener('change',()=>{
+      next.replaceChildren();const picked=select.value===''?parent:choices[Number(select.value)];
+      choosePassage(picked);if(select.value!=='')deeperChoices(picked,next,depth+1);
+    });
+  }
+  function selectSection(invalidate = true) {
+    const section=sectionList[Number($('sefaria-section').value)];if(!section)return;
+    $('sefaria-levels').replaceChildren();choosePassage(section,invalidate);deeperChoices(section,$('sefaria-levels'));
+  }
+  async function selectBook(book) {
+    resetPassage();selectedBook=book;const epoch=pickerEpoch;const reader=readerEpoch;
+    for (const o of $('reference-language').options) o.disabled=!book.languages[o.value];
+    if(!book.languages[$('reference-language').value]) $('reference-language').value=book.languages.Hebrew?'Hebrew':'English';
+    exportLink();
+    $('sefaria-section').replaceChildren(option('', 'Loading sections…', 'טוענים קטעים…'));
+    $('sefaria-section').setAttribute('aria-busy','true');
+    pickerState('Loading the available sections…','טוענים את הקטעים הזמינים…');
+    try {
+      const sections=await bookStructure(book);if(epoch!==pickerEpoch)return false;
+      sectionList=sections;
+      $('sefaria-section').replaceChildren(...sections.map((p,i)=>option(String(i),p.en,p.he)));
+      $('sefaria-section').disabled=false;$('sefaria-section').removeAttribute('aria-busy');
+      selectSection(false);pickerState('Choose a section, then read the selected passage.','בחרו קטע ולחצו לקריאת הקטע שנבחר.');return {reader};
+    } catch (_) {
+      if(epoch!==pickerEpoch)return false;
+      $('sefaria-section').replaceChildren(option('', 'Sections unavailable', 'הקטעים אינם זמינים'));
+      $('sefaria-section').removeAttribute('aria-busy');
+      pickerState('Sections could not be loaded. Try again or enter an exact reference manually.','לא ניתן לטעון את הקטעים. נסו שוב או הזינו מראה מקום מדויק ידנית.');
+      $('retry-sefaria').hidden=false;return false;
+    }
+  }
+  async function readSelection() {
+    if(!selectedPassage || !selectedBook)return;
+    const epoch=++readerEpoch;const ref=selectedPassage.ref;const language=$('reference-language').value;
+    const version=selectedBook.languages[language];
+    feedback(text('Reading the selected passage…','קוראים את הקטע שנבחר…'));
+    try {
+      await showDossier(await exactReference(ref,language,epoch),epoch,version?[link(text('Google export ↗','יצוא Google ↗'),version.url)]:[]);
+    } catch(error) {if(epoch===readerEpoch)feedback(error.message);}
+  }
+  async function openBook(book) {
+    // Search cards and the category browser use the same selection state.
+    if(!works.length) { try {await initPicker();}catch(_){return;} }
+    $('sefaria-category').value=book.categories[0];$('sefaria-book-filter').value='';bookOptions(book.title);
+    const selection=await selectBook(book);
+    if(selection && readerEpoch===selection.reader) await readSelection();
+  }
+  $('sefaria-category').addEventListener('change',()=>{resetPassage();bookOptions();});
+  $('sefaria-book-filter').addEventListener('input',()=>{resetPassage();bookOptions();});
+  $('sefaria-book').addEventListener('change',()=>{
+    const book=works.find(b=>b.title===$('sefaria-book').value);
+    if(book)selectBook(book);else resetPassage();
+  });
+  $('sefaria-section').addEventListener('change',selectSection);
+  $('reference-language').addEventListener('change',()=>{++readerEpoch;exportLink();});
+  $('sefaria-picker').addEventListener('submit',event=>{event.preventDefault();readSelection();});
+  $('retry-sefaria').addEventListener('click',()=>selectedBook?selectBook(selectedBook):initPicker());
   $('source-search').addEventListener('submit',search);
   $('reference-form').addEventListener('submit',async event=>{
     event.preventDefault();const epoch=++readerEpoch;feedback(text('Resolving the exact reference…','מאתרים את מראה המקום המדויק…'));
     try {await showDossier(await exactReference($('exact-reference').value,$('reference-language').value,epoch),epoch);}
     catch(error) {if(epoch===readerEpoch)feedback(error.message);}
   });
-  Promise.allSettled([sanhedrin(),catalogue()]).then(results=>{
+  Promise.allSettled([sanhedrin(),initPicker()]).then(results=>{
     if(results[0].status==='rejected') $('sanhedrin-state').textContent=text('Temporarily unavailable','לא זמין כעת');
     if(results[1].status==='rejected') $('sefaria-state').textContent=text('Catalogue unavailable','הקטלוג אינו זמין');
     search();
