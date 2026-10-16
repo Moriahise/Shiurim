@@ -44,7 +44,10 @@ Nur im neuen Repository `Moriahise/Shiurim`:
 
 1. Unter **Settings → Secrets and variables → Actions → Secrets** ein Repository-Secret **`SHIURIM_REVIEW_API_KEY`** mit einem geeigneten OpenAI-API-Schlüssel anlegen.
 2. Unter **Variables** die Repository-Variable **`SHIURIM_REVIEW_MODEL`** mit der tatsächlichen ID eines im eigenen API-Konto verfügbaren Modells setzen. Es muss Responses API und Structured Outputs unterstützen. Es wird kein unbestätigter Modellname als Standard eingesetzt.
+   **Wichtig:** Der Wert ist ein Modellname, kein Einschalter: `true` oder `false` sind hier falsch. Ein dokumentiertes Beispiel ist `gpt-5.4`, das Responses API und Structured Outputs unterstützt; der tatsächliche Zugriff muss im verwendeten OpenAI-Projekt bestehen. Siehe [offizielle Modellbeschreibung](https://developers.openai.com/api/docs/models/gpt-5.4).
 3. **Actions → Publish Shiurim → Run workflow** starten.
+
+Offensichtliche Schalterwerte werden vor jedem API-Aufruf abgefangen und als ungültige Konfiguration im EN/HE-Bericht erklärt. Bei HTTP 404 zeigt der Bericht einen Hinweis auf Modell-ID und Projektzugriff. Beides bleibt eine unvollständige Vorprüfung. Ein grüner Website-Build bestätigt die technische Veröffentlichung des Berichts, nicht den Erfolg der KI-Prüfung.
 
 Die Anwendung benutzt ausschließlich diesen eigenen Prüfschlüssel. Sie liest keinen Schlüssel aus Sanhedrin und überträgt keine Secrets zwischen Repositories. Der Schlüssel wird nur dem serverseitigen Vorprüfschritt bereitgestellt; er gelangt weder in den Browser noch in die Prüfberichte.
 
@@ -80,6 +83,6 @@ Hinweise verlangen Durchsicht, erteilen aber keine Freigabe. Eine fehlende KI-Pr
 
 ## Validierung
 
-54 automatisierte Tests prüfen den Publikationskern, die Quellenanbindungen und die neue Vorprüfung. Die KI-Protokolltests verwenden ausdrücklich künstliche Antworten und keine behaupteten echten Modellgutachten. Ein realer KI-Lauf konnte ohne eigenen konfigurierten Schlüssel und Modell noch nicht ausgeführt werden. Eine vollständige Browserabnahme steht weiterhin aus.
+57 automatisierte Python-Tests prüfen den Publikationskern, die Quellenanbindungen und die Vorprüfung. Neun weitere JavaScript-Tests prüfen die Sefaria-Navigation. Die KI-Protokolltests verwenden ausdrücklich künstliche Antworten und keine behaupteten echten Modellgutachten. Der erste konfigurierte Produktionslauf vom 16.10.2026 kam mit dem Modellwert `true` an und endete vor einem inhaltlichen Ergebnis mit HTTP 404. Beide KI-Stufen sind damit weiterhin offen. Es liegt kein positives Modellgutachten vor. Eine vollständige Browserabnahme steht weiterhin aus.
 
 Offizielle Schnittstellengrundlage: [OpenAI Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs?api-mode=responses).

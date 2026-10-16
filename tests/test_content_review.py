@@ -87,6 +87,38 @@ class ContentReviewTests(unittest.TestCase):
         self.assertEqual(result['status'],'incomplete');self.assertFalse(result['scholarly_approval_granted'])
         self.assertEqual(self.calls,[]);self.assertEqual(before,self.edition)
 
+    def test_switch_values_never_trigger_an_api_call_or_complete_preflight(self):
+        for model in ('true','FALSE','on','yes','1','0','none',' true '):
+            with self.subTest(model=model):
+                result=r.evaluate(self.edition,self.sources,self.evidence,self.policy,root=self.root,semantic='auto',client=self.client,environ=self.env|{'SHIURIM_REVIEW_MODEL':model})
+                self.assertEqual(result['semantic']['status'],'invalid_configuration')
+                self.assertEqual(result['semantic']['diagnostic']['code'],'INVALID_MODEL')
+                self.assertEqual(result['status'],'incomplete')
+                self.assertEqual(self.calls,[])
+                self.assertFalse(result['scholarly_approval_granted'])
+                with self.assertRaisesRegex(r.ReviewError,'actual model ID'):
+                    r.api_review('evidence',{},self.policy['semantic'],'fake-key',model,lambda *args:self.fail('No request allowed'))
+
+    def test_model_access_failure_is_diagnosable_without_leaking_provider_data(self):
+        def unavailable(*args):raise r.ReviewError('Review API HTTP 404')
+        report=r.evaluate(self.edition,self.sources,self.evidence,self.policy,root=self.root,semantic='auto',client=unavailable,environ=self.env)
+        self.assertEqual(report['semantic']['diagnostic']['code'],'MODEL_UNAVAILABLE')
+        from html import escape
+        page=r.report_body(report,self.edition,lambda v:escape(v['en'])+' '+escape(v['he']))
+        self.assertIn('HTTP 404',page)
+        self.assertNotIn(self.env['SHIURIM_REVIEW_API_KEY'],page)
+        self.assertEqual(report['status'],'incomplete')
+
+    def test_invalid_configuration_is_explained_in_the_public_report(self):
+        report=r.evaluate(self.edition,self.sources,self.evidence,self.policy,root=self.root,semantic='auto',client=self.client,environ=self.env|{'SHIURIM_REVIEW_MODEL':'true'})
+        from html import escape
+        public=r.public_report(report)
+        page=r.report_body(public,self.edition,lambda v:escape(v['en'])+' '+escape(v['he']))
+        self.assertIn('SHIURIM_REVIEW_MODEL',page)
+        self.assertIn('No AI review request was sent.',page)
+        self.assertIn('לא נשלחה',page)
+        self.assertNotIn(self.env['SHIURIM_REVIEW_API_KEY'],json.dumps(public))
+
     def test_two_passes_cached_only_for_identical_inputs(self):
         first=r.evaluate(self.edition,self.sources,self.evidence,self.policy,root=self.root,semantic='auto',client=self.client,environ=self.env)
         second=r.evaluate(self.edition,self.sources,self.evidence,self.policy,root=self.root,semantic='auto',client=self.client,environ=self.env)
