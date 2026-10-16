@@ -269,6 +269,7 @@
       $('sefaria-category').value='Tanakh';$('sefaria-category').disabled=false;$('sefaria-book-filter').disabled=false;
       resetPassage();bookOptions();
     } catch (_) {
+      $('sefaria-state').textContent=text('Catalogue unavailable','הקטלוג אינו זמין');
       pickerState('The book catalogue could not be loaded. Try again or enter a reference manually.','לא ניתן לטעון את קטלוג החיבורים. נסו שוב או הזינו מראה מקום ידנית.');
       $('retry-sefaria').hidden=false;
     }
