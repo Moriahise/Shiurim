@@ -172,7 +172,7 @@ class ContentReviewTests(unittest.TestCase):
         request,timeout=captured[0];body=json.loads(request.data)
         self.assertEqual(request.full_url,'https://api.openai.com/v1/responses')
         self.assertFalse(body['store']);self.assertTrue(body['text']['format']['strict'])
-        self.assertNotIn('fake-key',request.data.decode());self.assertEqual(timeout,45)
+        self.assertNotIn('fake-key',request.data.decode());self.assertEqual(timeout,180)
         self.assertEqual(body['max_output_tokens'],8000)
         self.assertEqual(value['result']['stage'],'evidence')
 

@@ -357,7 +357,7 @@ def main():
         for e in editions:
             report=evaluate(e,sources,load_evidence(ROOT,e['id']),policy,root=ROOT,semantic=args.semantic)
             save(ROOT/'reports/preflight'/(e['id']+'.json'),report)
-            summaries.append({'edition_id':e['id'],'status':report['status'],'semantic':report['semantic']['status'],**({'diagnostic':report['semantic']['diagnostic']} if 'diagnostic' in report['semantic'] else {}),**report['summary']})
+            summaries.append({'edition_id':e['id'],'status':report['status'],'semantic':report['semantic']['status'],**({'diagnostic':report['semantic']['diagnostic']} if 'diagnostic' in report['semantic'] else {}),**({'technical_error':report['semantic']['error']} if 'error' in report['semantic'] else {}),**report['summary']})
             incomplete=incomplete or report['status']!='ready_for_editor'
         print(json.dumps(summaries,ensure_ascii=False,indent=2))
         return 2 if args.semantic=='required' and incomplete else 0

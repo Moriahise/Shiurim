@@ -57,7 +57,7 @@ Ein Modellurteil „gestützt“ ohne tatsächlich auffindbaren Beleg wird verwo
 
 ## Begrenzung und Wiederverwendung
 
-Pro Ausgabe werden höchstens zwei API-Aufrufe ausgeführt, ohne automatische Wiederholungsschleife: ein Quellen- und ein Sprachprüflauf. Je Aufruf sind höchstens 8.000 Ausgabetokens und 45 Sekunden Wartezeit eingestellt. Zu große Eingaben werden angehalten, nicht still gekürzt. Diese Grenzen sind keine Euro-Kostenkalkulation.
+Pro Ausgabe werden höchstens zwei API-Aufrufe ausgeführt, ohne automatische Wiederholungsschleife: ein Quellen- und ein Sprachprüflauf. Je Aufruf sind höchstens 8.000 Ausgabetokens und 180 Sekunden Wartezeit eingestellt. Zu große Eingaben werden angehalten, nicht still gekürzt. Diese Grenzen sind keine Euro-Kostenkalkulation.
 
 Erfolgreiche Ergebnisse werden an Inhalt, Quellen, Belegregister, Prüfrichtlinie, Programmstand und Modellkonfiguration gebunden. Der GitHub-Workflow verwendet einen passenden Cache, damit unveränderte Inhalte nicht bei jedem Zeitgeberlauf erneut bezahlt geprüft werden. Ein geänderter Inhalt oder Prüfschlüssel des Datenstands verlangt einen neuen Lauf. Ein Cache kann vom Anbieter entfernt werden; bei einem erneuten tatsächlichen Lauf gelten wieder die genannten Grenzen. Fehlgeschlagene Durchgänge werden nicht als erfolgreiche Cacheeinträge gespeichert.
 
@@ -86,3 +86,9 @@ Hinweise verlangen Durchsicht, erteilen aber keine Freigabe. Eine fehlende KI-Pr
 57 automatisierte Python-Tests prüfen den Publikationskern, die Quellenanbindungen und die Vorprüfung. Neun weitere JavaScript-Tests prüfen die Sefaria-Navigation. Die KI-Protokolltests verwenden ausdrücklich künstliche Antworten und keine behaupteten echten Modellgutachten. Der erste konfigurierte Produktionslauf vom 16.10.2026 kam mit dem Modellwert `true` an und endete vor einem inhaltlichen Ergebnis mit HTTP 404. Beide KI-Stufen sind damit weiterhin offen. Es liegt kein positives Modellgutachten vor. Eine vollständige Browserabnahme steht weiterhin aus.
 
 Offizielle Schnittstellengrundlage: [OpenAI Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs?api-mode=responses).
+
+## Betriebsanpassung nach dem ersten Modelllauf
+
+Nach Korrektur auf `gpt-5.4` wurde das Modell am 16.10.2026 korrekt übernommen. Der erste echte Versuch endete am früheren 45-Sekunden-Zeitlimit, ohne inhaltliches Ergebnis. Deshalb beträgt die begrenzte Wartezeit nun 180 Sekunden je Aufruf; die Anzahl der Aufrufe und das Tokenlimit bleiben gleich. Technische Fehlergründe erscheinen zusätzlich im Workflow-Protokoll.
+
+Pages-Pakete und vollständige Prüfarbeitsstände tragen jetzt Lauf-ID und Versuchszähler im Namen. Der Deploy-Job erhält den Namen aus dem tatsächlich abgeschlossenen Build. Dadurch verwechselt eine Wiederholung keine gleichnamigen Pakete aus mehreren Versuchen.

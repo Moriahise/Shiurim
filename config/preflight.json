@@ -11,6 +11,6 @@
     "max_calls_per_edition": 2,
     "max_input_characters": 85000,
     "max_output_tokens_per_call": 8000,
-    "timeout_seconds": 45
+    "timeout_seconds": 180
   }
 }
