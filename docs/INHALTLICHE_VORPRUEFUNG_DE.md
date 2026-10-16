@@ -83,7 +83,7 @@ Hinweise verlangen Durchsicht, erteilen aber keine Freigabe. Eine fehlende KI-Pr
 
 ## Validierung
 
-58 automatisierte Python-Tests prüfen den Publikationskern, die Quellenanbindungen und die Vorprüfung. Neun weitere JavaScript-Tests prüfen die Sefaria-Navigation. Die KI-Protokolltests verwenden ausdrücklich künstliche Antworten und keine behaupteten echten Modellgutachten. Der erste konfigurierte Produktionslauf vom 16.10.2026 kam mit dem Modellwert `true` an und endete vor einem inhaltlichen Ergebnis mit HTTP 404. Beide KI-Stufen sind damit weiterhin offen. Es liegt kein positives Modellgutachten vor. Eine vollständige Browserabnahme steht weiterhin aus.
+58 automatisierte Python-Tests prüfen den Publikationskern, die Quellenanbindungen und die Vorprüfung. Neun weitere JavaScript-Tests prüfen die Sefaria-Navigation. Die KI-Protokolltests verwenden ausdrücklich künstliche Antworten und keine behaupteten echten Modellgutachten. Der erste konfigurierte Produktionslauf vom 16.10.2026 kam mit dem Modellwert `true` an und endete vor einem inhaltlichen Ergebnis mit HTTP 404. In diesem fehlgeschlagenen Lauf blieben beide KI-Stufen offen; daraus ergab sich kein positives Modellgutachten. Eine vollständige Browserabnahme steht weiterhin aus.
 
 Offizielle Schnittstellengrundlage: [OpenAI Structured Outputs](https://developers.openai.com/api/docs/guides/structured-outputs?api-mode=responses).
 
@@ -94,3 +94,16 @@ Nach Korrektur auf `gpt-5.4` wurde das Modell am 16.10.2026 korrekt übernommen.
 Pages-Pakete und vollständige Prüfarbeitsstände tragen jetzt Lauf-ID und Versuchszähler im Namen. Der Deploy-Job erhält den Namen aus dem tatsächlich abgeschlossenen Build. Dadurch verwechselt eine Wiederholung keine gleichnamigen Pakete aus mehreren Versuchen.
 
 Ein weiterer echter Modellversuch wurde wegen eines nicht verifizierbaren Modellzitats zurückgewiesen. Die Belegübergabe verwendet deshalb jetzt schemafest vorgegebene Quellen-IDs; Originaltexte stammen ausschließlich aus den gespeicherten Quellenausschnitten. Die Bedeutungskontrolle wird nicht durch diesen technischen Wortlautnachweis ersetzt. Unbekannte Quellen, fremde Absatzzuordnungen und ein Urteil „gestützt“ ohne ausgewählten Beleg bleiben unzulässig. Das normalisierte Berichtsformat mit Quellenwortlaut und die Veröffentlichungsschranken bleiben erhalten.
+
+## Erster vollständig abgeschlossener KI-Lauf · 16.10.2026
+
+Mit `gpt-5.4` wurden beide Durchgänge für alle 22 Absätze abgeschlossen und validiert:
+
+- Quellenprüfung: fünf Absätze als gestützt bewertet, neun mit nur teilweiser Belegabdeckung und acht als Anwendung oder methodische Einordnung.
+- Bedeutungsabgleich: alle 22 englisch-hebräischen Absatzpaare als gleichbedeutend bewertet.
+- Gesamtbericht: keine blockierenden Befunde, 16 Hinweise zur Durchsicht — neun aus der KI-Quellenprüfung und sieben aus den nachvollziehbaren Regeln. Status: `editor_attention`.
+- 26 von 26 gespeicherten Textankern stimmen mit den Originalquellen überein.
+
+Die Hinweise betreffen insbesondere die Reichweite der bereitgestellten Quellen und die Abgrenzung von Quellenaussage, Auslegung und Anwendung. Sie wurden nicht automatisch ausgeräumt. Diese Modellergebnisse erteilen keine fachliche Freigabe. Die Ausgabe bleibt redaktioneller Pilot; die reguläre Wochenveröffentlichung bleibt ausgeschaltet.
+
+Aktueller öffentlicher [Prüfbericht](https://moriahise.github.io/Shiurim/review/5787-noach-responsibility/) und [strukturierter Bericht](https://moriahise.github.io/Shiurim/data/preflight/5787-noach-responsibility.json). Der Bericht gilt nur für seinen gebundenen Inhalts-, Quellen-, Richtlinien- und Programmstand.
