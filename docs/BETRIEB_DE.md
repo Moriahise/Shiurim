@@ -2,11 +2,13 @@
 
 ## Stand der ersten Version
 
-Die Plattform und der Publisher sind implementiert. Die Noach-Ausgabe ist ein öffentlich sichtbarer Pilot mit sechs dokumentierten Originalstellen. Eine unabhängige fachliche Prüfung ist noch offen. Die reguläre Freigabeautomatik steht auf `false`. Es gibt noch keinen unbeaufsichtigten KI-Autor und keine neue OpenAI-Anbindung.
+Die Plattform und der Publisher sind implementiert. Die Noach-Ausgabe ist ein öffentlich sichtbarer Pilot mit sechs dokumentierten Originalstellen. Eine unabhängige fachliche Prüfung ist noch offen. Die reguläre Freigabeautomatik steht auf `false`. Es gibt noch keinen unbeaufsichtigten KI-Autor. Eine separate OpenAI-Anbindung für die inhaltliche Vorprüfung ist vorbereitet und benötigt einen eigenen Prüfschlüssel und ein konfiguriertes Modell.
 
 Dateien, Einstellungen, Secrets und Publikationswege von Sanhedrin werden nicht verändert.
 
 Die Quellenbibliotheken sind jetzt technisch lesend angeschlossen. Die neue Ansicht `sources/` verbindet den veröffentlichten Sanhedrin-Export und den externen Sefaria-Katalog. Recherche und präzise Quellenübernahme sind implementiert; die reguläre Lehrtext-Erzeugung und fachliche Freigabe bleiben davon getrennt. Details und CLI-Beispiele: [Quellenanbindung](QUELLENANBINDUNG_DE.md). Der aktuelle Testumfang beträgt 33 Prüfungen; die weiter unten genannten 16 sind der ursprüngliche Publikationskern.
+
+Die automatische inhaltliche Vorprüfung ist ergänzt: Belegregister, Wortlautprüfung, Sprachhinweise und eine vorbereitete zweistufige KI-Prüfung. Der aktuelle Testumfang beträgt 54 Prüfungen; 33 bezeichnet den Stand nach Quellenanbindung. Eigener Prüfschlüssel und Modell müssen für einen echten KI-Lauf konfiguriert sein. Anleitung und klare Grenzen: [Inhaltliche Vorprüfung](INHALTLICHE_VORPRUEFUNG_DE.md).
 
 ## Einmalige Pages-Aktivierung
 

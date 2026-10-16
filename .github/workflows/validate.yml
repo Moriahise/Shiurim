@@ -19,6 +19,7 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - run: python -m unittest discover -s tests -v
       - run: python tools/shiurim.py validate
+      - run: python tools/content_review.py --semantic off
       - run: python tools/shiurim.py build
       - run: node --check assets/site.js
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4

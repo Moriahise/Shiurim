@@ -1,0 +1,294 @@
+{
+  "schema": 1,
+  "edition_id": "5787-noach-responsibility",
+  "content_sha256": "ae5a8368e8a18e07178cd4e105d28e26381b2503a8dd103e153a97bc692fa9cf",
+  "paragraphs": [
+    {
+      "paragraph_id": "opening:1",
+      "kind": "source_statement",
+      "support_scope": "context_only",
+      "evidence": [
+        {
+          "source_id": "genesis-6-9",
+          "quote": "אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים הִֽתְהַלֶּךְ־נֹֽחַ׃",
+          "source_sha256": "77d242aa4ed68bbfb852d22f27ba9d40f33569c27cbd18f605c472e8856b2211"
+        },
+        {
+          "source_id": "genesis-8-16",
+          "quote": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+          "source_sha256": "372b1b1885621e9098af0ce80d9d63ed3bb93ce41a74b68600f67eefbe4b42fa"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "opening:2",
+      "kind": "method",
+      "support_scope": "textual",
+      "evidence": []
+    },
+    {
+      "paragraph_id": "integrity:1",
+      "kind": "source_statement",
+      "support_scope": "textual",
+      "evidence": [
+        {
+          "source_id": "genesis-6-9",
+          "quote": "אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים הִֽתְהַלֶּךְ־נֹֽחַ׃",
+          "source_sha256": "77d242aa4ed68bbfb852d22f27ba9d40f33569c27cbd18f605c472e8856b2211"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "integrity:2",
+      "kind": "interpretation",
+      "support_scope": "context_only",
+      "evidence": [
+        {
+          "source_id": "genesis-6-9",
+          "quote": "אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים הִֽתְהַלֶּךְ־נֹֽחַ׃",
+          "source_sha256": "77d242aa4ed68bbfb852d22f27ba9d40f33569c27cbd18f605c472e8856b2211"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "integrity:3",
+      "kind": "application",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-6-9",
+          "quote": "אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים הִֽתְהַלֶּךְ־נֹֽחַ׃",
+          "source_sha256": "77d242aa4ed68bbfb852d22f27ba9d40f33569c27cbd18f605c472e8856b2211"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "faithful-action:1",
+      "kind": "source_statement",
+      "support_scope": "context_only",
+      "evidence": [
+        {
+          "source_id": "genesis-6-22",
+          "quote": "וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה׃",
+          "source_sha256": "3862eed09c9e3d416b9b2a77b1b10e5c9bc3c4de629d0e78a5ac86a410a994af"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "faithful-action:2",
+      "kind": "interpretation",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-6-22",
+          "quote": "וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה׃",
+          "source_sha256": "3862eed09c9e3d416b9b2a77b1b10e5c9bc3c4de629d0e78a5ac86a410a994af"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "faithful-action:3",
+      "kind": "application",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-6-22",
+          "quote": "וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה׃",
+          "source_sha256": "3862eed09c9e3d416b9b2a77b1b10e5c9bc3c4de629d0e78a5ac86a410a994af"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "leave-the-ark:1",
+      "kind": "source_statement",
+      "support_scope": "textual",
+      "evidence": [
+        {
+          "source_id": "genesis-8-16",
+          "quote": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+          "source_sha256": "372b1b1885621e9098af0ce80d9d63ed3bb93ce41a74b68600f67eefbe4b42fa"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "leave-the-ark:2",
+      "kind": "interpretation",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-8-16",
+          "quote": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+          "source_sha256": "372b1b1885621e9098af0ce80d9d63ed3bb93ce41a74b68600f67eefbe4b42fa"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "leave-the-ark:3",
+      "kind": "application",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-8-16",
+          "quote": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+          "source_sha256": "372b1b1885621e9098af0ce80d9d63ed3bb93ce41a74b68600f67eefbe4b42fa"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "gratitude:1",
+      "kind": "source_statement",
+      "support_scope": "textual",
+      "evidence": [
+        {
+          "source_id": "genesis-8-20",
+          "quote": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל ׀ הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃",
+          "source_sha256": "b426dc7fad3df2b5db2419bb8be4abbc4c0e156f1e6c4e36f5b93e350af95bf2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "gratitude:2",
+      "kind": "interpretation",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-8-20",
+          "quote": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל ׀ הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃",
+          "source_sha256": "b426dc7fad3df2b5db2419bb8be4abbc4c0e156f1e6c4e36f5b93e350af95bf2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "gratitude:3",
+      "kind": "application",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-8-20",
+          "quote": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל ׀ הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃",
+          "source_sha256": "b426dc7fad3df2b5db2419bb8be4abbc4c0e156f1e6c4e36f5b93e350af95bf2"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "covenant:1",
+      "kind": "source_statement",
+      "support_scope": "textual",
+      "evidence": [
+        {
+          "source_id": "genesis-9-9",
+          "quote": "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃",
+          "source_sha256": "358c626a73db36dc54edbf501983dc730d05f57d78124024cb37cc66c3e6e036"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "covenant:2",
+      "kind": "interpretation",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-9-9",
+          "quote": "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃",
+          "source_sha256": "358c626a73db36dc54edbf501983dc730d05f57d78124024cb37cc66c3e6e036"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "covenant:3",
+      "kind": "application",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-9-9",
+          "quote": "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃",
+          "source_sha256": "358c626a73db36dc54edbf501983dc730d05f57d78124024cb37cc66c3e6e036"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "a-name:1",
+      "kind": "source_statement",
+      "support_scope": "textual",
+      "evidence": [
+        {
+          "source_id": "genesis-11-4",
+          "quote": "וַיֹּאמְר֞וּ הָ֣בָה ׀ נִבְנֶה־לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם פֶּן־נָפ֖וּץ עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃",
+          "source_sha256": "4c72ce1d61886ec964952f694d1d2783f24733f1c91f980a260b5d12bd79a404"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "a-name:2",
+      "kind": "interpretation",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-11-4",
+          "quote": "וַיֹּאמְר֞וּ הָ֣בָה ׀ נִבְנֶה־לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם פֶּן־נָפ֖וּץ עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃",
+          "source_sha256": "4c72ce1d61886ec964952f694d1d2783f24733f1c91f980a260b5d12bd79a404"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "a-name:3",
+      "kind": "application",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-11-4",
+          "quote": "וַיֹּאמְר֞וּ הָ֣בָה ׀ נִבְנֶה־לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם פֶּן־נָפ֖וּץ עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃",
+          "source_sha256": "4c72ce1d61886ec964952f694d1d2783f24733f1c91f980a260b5d12bd79a404"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "takeaway:1",
+      "kind": "interpretation",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-6-22",
+          "quote": "וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה׃",
+          "source_sha256": "3862eed09c9e3d416b9b2a77b1b10e5c9bc3c4de629d0e78a5ac86a410a994af"
+        },
+        {
+          "source_id": "genesis-8-16",
+          "quote": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+          "source_sha256": "372b1b1885621e9098af0ce80d9d63ed3bb93ce41a74b68600f67eefbe4b42fa"
+        },
+        {
+          "source_id": "genesis-9-9",
+          "quote": "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃",
+          "source_sha256": "358c626a73db36dc54edbf501983dc730d05f57d78124024cb37cc66c3e6e036"
+        }
+      ]
+    },
+    {
+      "paragraph_id": "takeaway:2",
+      "kind": "application",
+      "support_scope": "interpretive",
+      "evidence": [
+        {
+          "source_id": "genesis-6-22",
+          "quote": "וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה׃",
+          "source_sha256": "3862eed09c9e3d416b9b2a77b1b10e5c9bc3c4de629d0e78a5ac86a410a994af"
+        },
+        {
+          "source_id": "genesis-8-16",
+          "quote": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃",
+          "source_sha256": "372b1b1885621e9098af0ce80d9d63ed3bb93ce41a74b68600f67eefbe4b42fa"
+        },
+        {
+          "source_id": "genesis-9-9",
+          "quote": "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃",
+          "source_sha256": "358c626a73db36dc54edbf501983dc730d05f57d78124024cb37cc66c3e6e036"
+        }
+      ]
+    }
+  ],
+  "note": {
+    "en": "Editorial mapping for the unchanged pilot. Context-only anchors need wider primary passages; no scholarly approval is implied.",
+    "he": "מיפוי מערכתי לשיעור הניסיון ללא שינוי תוכנו. אסמכתאות להקשר בלבד דורשות מקורות ראשוניים רחבים יותר; אין בכך אישור תורני."
+  }
+}

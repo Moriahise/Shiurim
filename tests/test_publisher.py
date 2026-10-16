@@ -34,6 +34,9 @@ class PublisherTests(unittest.TestCase):
         sources={s['id']:s for s in (app.read(p) for p in (self.root/'content/sources').glob('*.json'))}
         self.edition['review']={'scholarly_review':'approved','reviewer':'Test fixture only','reviewed_revision':1,'content_sha256':app.digest(self.edition,sources)}
         self.save()
+        evidence_path=self.root/'content/evidence'/(self.edition['id']+'.json')
+        evidence=app.read(evidence_path);evidence['content_sha256']=app.digest(self.edition,sources)
+        app.write(evidence_path,evidence)
         c=app.read(self.root/'config/site.json');c['automatic_publication']=True
         app.write(self.root/'config/site.json',c)
 
@@ -100,6 +103,25 @@ class PublisherTests(unittest.TestCase):
         self.assertEqual(first['published'],[self.edition['id']])
         self.assertEqual(second['published'],[])
         self.assertEqual(ledger,(self.root/'content/publications.json').read_bytes())
+
+    def test_preflight_blocker_prevents_new_release_without_changing_approval(self):
+        self.reviewed_queue()
+        evidence_path=self.root/'content/evidence'/(self.edition['id']+'.json')
+        evidence=app.read(evidence_path);evidence['paragraphs'][0]['evidence'][0]['quote']='not found in source'
+        app.write(evidence_path,evidence)
+        result=app.publish_due(app.now_value('2026-10-15T18:20:00+03:00'),self.root)
+        self.assertEqual(result['published'],[])
+        self.assertIn('preflight',result['waiting'][0])
+        self.assertEqual(app.read(self.path)['review']['scholarly_review'],'approved')
+
+    def test_current_semantic_blocker_prevents_release(self):
+        self.reviewed_queue();r=app.review_tools();policy=app.read(self.root/'config/preflight.json')
+        _,sources,_,_=app.load_all(self.root)
+        report=r.current_report(self.root,self.edition,sources,policy)
+        report['findings'].append(r.issue('SEMANTIC_BILINGUAL','error','opening:1','Fixture drift.','הבדל מלאכותי לבדיקה.'))
+        r.save(self.root/'reports/preflight'/(self.edition['id']+'.json'),report)
+        result=app.publish_due(app.now_value('2026-10-15T18:20:00+03:00'),self.root)
+        self.assertEqual(result['published'],[])
 
     def test_disabled_queue_early_and_late_runs_do_not_release(self):
         self.reviewed_queue()

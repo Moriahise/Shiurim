@@ -6,6 +6,8 @@ The first release contains a complete Noach pilot, six attributed Hebrew primary
 
 The source libraries are now connected read-only: full-text retrieval from the published Sanhedrin export and a Sefaria work catalogue based on the official Google Cloud Storage export and the preparations in `Moriahise/sefaria-studio`. Open `sources/` for research, exact references, original export links, and downloadable source dossiers. See [source connection guide](docs/QUELLENANBINDUNG_DE.md).
 
+Automatic content preflight now checks the paragraph evidence register, text anchors, and possible EN/HE discrepancies. Its two-stage semantic reviewer is ready for a dedicated `SHIURIM_REVIEW_API_KEY` secret and `SHIURIM_REVIEW_MODEL` repository variable. Without them, semantic review remains explicitly incomplete. View the published report at `review/`. This never grants scholarly approval. See [content preflight guide](docs/INHALTLICHE_VORPRUEFUNG_DE.md).
+
 **Pilot status:** independent scholarly review is pending. Automatic release of regular editions is disabled until the pilot and editorial process have been evaluated. The first pilot is deliberately visible and clearly labelled. No rabbinical authorship or approval is claimed.
 
 ## Run locally

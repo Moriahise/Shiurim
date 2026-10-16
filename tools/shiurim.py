@@ -98,6 +98,12 @@ def source_text(item):
     return item.get('hebrew') if 'hebrew' in item else item.get('text','')
 
 
+def review_tools():
+    if str(ROOT) not in sys.path:sys.path.insert(0,str(ROOT))
+    from tools import content_review
+    return content_review
+
+
 def validate_pair(value, field):
     if not isinstance(value, dict) or any(not isinstance(value.get(lang), str) or not value[lang].strip() for lang in ("en", "he")):
         raise ValidationError(f"Missing EN/HE pair: {field}")
@@ -226,6 +232,12 @@ def publish_due(now, root=ROOT):
             if not config["automatic_publication"] or now < due:
                 result["waiting"].append(e["id"])
                 continue
+            reviewer=review_tools()
+            policy=read(root/'config/preflight.json')
+            preflight=reviewer.current_report(root,e,sources,policy)
+            if any(f['severity']=='error' for f in preflight['findings']):
+                result['waiting'].append(e['id']+': content preflight has blocking findings')
+                continue
             if now.date() >= target - timedelta(days=1) or now - due > timedelta(days=config["max_catchup_days"]):
                 result["waiting"].append(e["id"] + ": missed safe publication window")
                 continue
@@ -246,9 +258,10 @@ def publish_due(now, root=ROOT):
         return result
 
 
-def layout(title, body, prefix="./", description="Weekly Torah learning in English and Hebrew.", libraries=False):
+def layout(title, body, prefix="./", description="Weekly Torah learning in English and Hebrew.", libraries=False, review=False):
     connections="https://shekhina.org https://moriahise.github.io https://storage.googleapis.com https://www.sefaria.org" if libraries else ''
     library_script=f'<link rel="stylesheet" href="{prefix}assets/sources.css"><script defer src="{prefix}assets/source-library.js"></script>' if libraries else ''
+    review_style=f'<link rel="stylesheet" href="{prefix}assets/review.css">' if review else ''
     return f'''<!doctype html>
 <html lang="en" dir="ltr" class="no-js" data-mode="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -256,7 +269,7 @@ def layout(title, body, prefix="./", description="Weekly Torah learning in Engli
 <meta name="theme-color" content="#152d39"><meta name="color-scheme" content="light">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self' {connections}; font-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
 <link rel="icon" href="{prefix}assets/mark.svg" type="image/svg+xml"><link rel="stylesheet" href="{prefix}assets/site.css">
-<script defer src="{prefix}assets/site.js"></script>{library_script}</head><body>
+<script defer src="{prefix}assets/site.js"></script>{library_script}{review_style}</head><body>
 <a class="skip" href="#main">{label('Skip to content','דילוג לתוכן')}</a>
 <header class="site-header"><a class="wordmark" href="{prefix}"><span class="brand-mark" aria-hidden="true">ש</span><span>SHIURIM<small lang="he" dir="rtl">שיעורים</small></span></a>
 <nav aria-label="Main navigation"><a href="{prefix}#library">{label('The library','ספריית השיעורים')}</a><a href="{prefix}sources/">{label('Source libraries','ספריות המקורות')}</a><a href="{prefix}#path">{label('Learning path','מסלול הלימוד')}</a><a href="{prefix}about/">{label('Our approach','דרך הלימוד')}</a></nav>
@@ -299,7 +312,7 @@ def lesson(e, sources, released=False, sheet=False):
         questions = ''.join(f'<li>{pair(q)}</li>' for q in e['questions'])
         contents.append(f'<section class="discussion"><div class="eyebrow">{label("For the study table","לשולחן הלימוד")}</div><h2>{label("Keep the conversation going","ממשיכים לשאול")}</h2><ol>{questions}</ol></section>')
     sheet_body = ''.join(source_block(sources[sid], i+1) for i,sid in enumerate(e['source_ids']))
-    body = f'''<main id="main"><div class="reading-top"><a href="{prefix}#library">{label('← The library','ספריית השיעורים ←')}</a><div class="reading-actions"><a href="{reading}{'' if sheet else 'sources/'}">{label('Read lesson' if sheet else 'Source sheet','לשיעור' if sheet else 'דף מקורות')}</a><button data-print>{label('Print / save PDF','הדפסה / שמירה כ־PDF')}</button></div></div>
+    body = f'''<main id="main"><div class="reading-top"><a href="{prefix}#library">{label('← The library','ספריית השיעורים ←')}</a><div class="reading-actions"><a href="{reading}{'' if sheet else 'sources/'}">{label('Read lesson' if sheet else 'Source sheet','לשיעור' if sheet else 'דף מקורות')}</a><a href="{prefix}review/{e['id']}/">{label('Content preflight','בדיקה מקדימה')}</a><button data-print>{label('Print / save PDF','הדפסה / שמירה כ־PDF')}</button></div></div>
 <header class="lesson-header"><div class="eyebrow">{pair(e['parashah'])} <span aria-hidden="true">/</span> {date_label(e)}</div><div class="edition-status">{status_label(e,released)}</div><h1>{pair(e['title'])}</h1><p class="lesson-subtitle">{pair(e['subtitle'])}</p><div class="lesson-meta">{label(str(m['en'])+' min read',str(m['he'])+' דקות קריאה')} <span>·</span> {label(str(len(e['source_ids']))+' sources',str(len(e['source_ids']))+' מקורות')} <span>·</span> {pair(e['level'])}</div><p class="byline">{pair(e['authorship'])}</p></header>
 <div class="lesson-grid"><aside class="contents"><p class="eyebrow">{label('In this shiur','בשיעור זה')}</p>{sidebar if not sheet else ''}<a href="#sources">{label('The sources','המקורות')}</a><a href="#main">{label('Back to top ↑','לראש הדף ↑')}</a></aside><article class="lesson-body"><div class="guiding-question"><div class="eyebrow">{label('The guiding question','השאלה המנחה')}</div>{pair(e['question'],'p')}</div>{''.join(contents)}<section id="sources" class="sources-section"><div class="eyebrow">{label('Return to the text','חוזרים למקור')}</div><h2>{label('The source sheet','דף המקורות')}</h2>{sheet_body}</section><p class="editorial-note">{label('Pilot text: source-linked and AI-assisted; independent scholarly review is pending. Interpretive applications are distinguished from the source text.','טקסט ניסיון: מבוסס מקורות ונערך בסיוע בינה מלאכותית; ביקורת תורנית עצמאית טרם הושלמה. היישומים הפרשניים מובחנים מלשון המקור.') if not released else label('Study text with documented source references. See our editorial method for review scope.','טקסט לימודי עם מראי מקומות מתועדים. היקף הביקורת מפורט בדרך העריכה.')} {label('Revision','גרסה')} {e['revision']}.</p></article></div></main>'''
     return layout(e['title']['en'] + (' · Sources' if sheet else ''),body,prefix,e['summary']['en'])
@@ -381,12 +394,25 @@ def build(now, root=ROOT):
             (temp/'about/index.html').write_text(about(),encoding='utf-8')
             (temp/'sources').mkdir()
             (temp/'sources/index.html').write_text(library_page(),encoding='utf-8')
+            reviewer=review_tools()
+            policy=read(root/'config/preflight.json')
+            (temp/'review').mkdir()
+            report_links=[]
+            for e in visible:
+                report=reviewer.current_report(root,e,sources,policy)
+                report_dir=temp/'review'/e['id'];report_dir.mkdir()
+                report_html=layout('Content preflight · '+e['title']['en'],reviewer.report_body(report,e,pair),'../../',review=True)
+                (report_dir/'index.html').write_text(report_html,encoding='utf-8')
+                report_links.append(f'<article class="review-card"><h2><a href="./{e["id"]}/">{pair(e["title"])}</a></h2><p>{label("Automatic preliminary checks; scholarly approval is separate.","בדיקות מקדימות אוטומטיות; האישור התורני נפרד.")}</p><p>{report["summary"]["errors"]} {label("blocking findings","ממצאים חוסמים")} · {report["summary"]["warnings"]} {label("inspection notes","הערות לבדיקה")}</p></article>')
+                write(temp/'data/preflight'/(e['id']+'.json'),reviewer.public_report(report))
+            review_body='<main id="main" class="review-main"><header class="review-header"><div class="eyebrow">'+label('Editorial transparency','שקיפות מערכתית')+'</div><h1>'+label('Content preflight reports','דוחות בדיקה מקדימה לתוכן')+'</h1><p>'+label('These reports record preliminary checks and remaining questions. They do not grant scholarly approval.','הדוחות מתעדים בדיקות מקדימות ושאלות שנותרו. הם אינם מעניקים אישור תורני.')+'</p></header>'+''.join(report_links)+'</main>'
+            (temp/'review/index.html').write_text(layout('Content preflight reports',review_body,'../',review=True),encoding='utf-8')
             for e in visible:
                 directory=temp/'shiur'/e['id']
                 (directory/'sources').mkdir(parents=True)
                 (directory/'index.html').write_text(lesson(e,sources,e['id'] in released),encoding='utf-8')
                 (directory/'sources/index.html').write_text(lesson(e,sources,e['id'] in released,True),encoding='utf-8')
-            (temp/'data').mkdir()
+            (temp/'data').mkdir(exist_ok=True)
             catalogue_path=root/'content/library-catalogue/sefaria.json.gz'
             if catalogue_path.exists():
                 catalogue_raw=gzip.decompress(catalogue_path.read_bytes())
@@ -406,7 +432,7 @@ def build(now, root=ROOT):
             (temp/'.nojekyll').touch()
             (temp/'404.html').write_text(layout('Page not found', '<main id="main" class="about-main"><h1>'+label('This page could not be found.','הדף לא נמצא.')+'</h1><a href="'+escape(config['base_url'],quote=True)+'">'+label('Return to Shiurim','חזרה לשיעורים')+'</a></main>',config['base_url']),encoding='utf-8')
             (temp/'robots.txt').write_text('User-agent: *\nAllow: /\n',encoding='utf-8')
-            urls=['', 'about/', 'sources/']+[f'shiur/{e["id"]}/' for e in visible]
+            urls=['', 'about/', 'sources/', 'review/']+[f'shiur/{e["id"]}/' for e in visible]
             (temp/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+escape(config['base_url']+u)+'</loc></url>' for u in urls)+'</urlset>',encoding='utf-8')
             validate_export(temp)
             output=root/'dist'
