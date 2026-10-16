@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "repository": "Moriahise/Shiurim",
+  "base_url": "https://moriahise.github.io/Shiurim/",
+  "timezone": "Asia/Jerusalem",
+  "region": "israel",
+  "publication_weekday": 3,
+  "publication_time": "18:17",
+  "automatic_publication": false,
+  "pilot_visible": true,
+  "max_catchup_days": 2,
+  "focus_rotation": ["tanach", "halacha", "mussar", "mikdash"]
+}
