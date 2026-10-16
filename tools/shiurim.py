@@ -7,6 +7,7 @@ from datetime import date, datetime, time, timedelta, timezone
 from hashlib import sha256
 from html import escape
 import json
+import gzip
 from pathlib import Path
 import re
 import shutil
@@ -93,6 +94,10 @@ def digest(edition, sources):
     return sha256(json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
 
 
+def source_text(item):
+    return item.get('hebrew') if 'hebrew' in item else item.get('text','')
+
+
 def validate_pair(value, field):
     if not isinstance(value, dict) or any(not isinstance(value.get(lang), str) or not value[lang].strip() for lang in ("en", "he")):
         raise ValidationError(f"Missing EN/HE pair: {field}")
@@ -110,9 +115,11 @@ def load_all(root=ROOT):
         sid = item["id"]
         if not SAFE_ID.fullmatch(sid) or sid in sources:
             raise ValidationError("Invalid or duplicate source ID")
-        if sha256(item["hebrew"].encode()).hexdigest() != item["sha256"]:
+        if not source_text(item) or sha256(source_text(item).encode()).hexdigest() != item["sha256"]:
             raise ValidationError(f"Source checksum mismatch: {sid}")
-        if urlparse(item["url"]).scheme != "https" or urlparse(item["url"]).hostname != "www.sefaria.org":
+        u = urlparse(item["url"])
+        if (u.scheme != "https" or u.username or u.password or u.hostname not in {'www.sefaria.org','shekhina.org','moriahise.github.io'}
+                or (u.hostname=='moriahise.github.io' and not u.path.startswith('/Sanhedrin/'))):
             raise ValidationError("Unapproved source URL")
         for key in ("reference_en", "reference_he", "version", "license", "retrieved_at"):
             if not item.get(key):
@@ -239,18 +246,20 @@ def publish_due(now, root=ROOT):
         return result
 
 
-def layout(title, body, prefix="./", description="Weekly Torah learning in English and Hebrew."):
+def layout(title, body, prefix="./", description="Weekly Torah learning in English and Hebrew.", libraries=False):
+    connections="https://shekhina.org https://moriahise.github.io https://storage.googleapis.com https://www.sefaria.org" if libraries else ''
+    library_script=f'<link rel="stylesheet" href="{prefix}assets/sources.css"><script defer src="{prefix}assets/source-library.js"></script>' if libraries else ''
     return f'''<!doctype html>
 <html lang="en" dir="ltr" class="no-js" data-mode="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{escape(title)} · Shiurim</title><meta name="description" content="{escape(description, quote=True)}">
 <meta name="theme-color" content="#152d39"><meta name="color-scheme" content="light">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; font-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self' {connections}; font-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
 <link rel="icon" href="{prefix}assets/mark.svg" type="image/svg+xml"><link rel="stylesheet" href="{prefix}assets/site.css">
-<script defer src="{prefix}assets/site.js"></script></head><body>
+<script defer src="{prefix}assets/site.js"></script>{library_script}</head><body>
 <a class="skip" href="#main">{label('Skip to content','דילוג לתוכן')}</a>
 <header class="site-header"><a class="wordmark" href="{prefix}"><span class="brand-mark" aria-hidden="true">ש</span><span>SHIURIM<small lang="he" dir="rtl">שיעורים</small></span></a>
-<nav aria-label="Main navigation"><a href="{prefix}#library">{label('The library','ספריית השיעורים')}</a><a href="{prefix}#path">{label('Learning path','מסלול הלימוד')}</a><a href="{prefix}about/">{label('Our approach','דרך הלימוד')}</a></nav>
+<nav aria-label="Main navigation"><a href="{prefix}#library">{label('The library','ספריית השיעורים')}</a><a href="{prefix}sources/">{label('Source libraries','ספריות המקורות')}</a><a href="{prefix}#path">{label('Learning path','מסלול הלימוד')}</a><a href="{prefix}about/">{label('Our approach','דרך הלימוד')}</a></nav>
 <div class="language-controls" role="group" aria-label="Reading language"><button data-mode-set="en" aria-pressed="true">EN</button><button data-mode-set="he" aria-pressed="false" lang="he">עב</button><button data-mode-set="parallel" aria-pressed="false">{label('Parallel','מקביל')}</button></div></header>
 {body}
 <footer class="site-footer"><div class="footer-brand">SHIURIM <span lang="he">שיעורים</span></div><p>{label('One question. A week of learning.','שאלה אחת. שבוע של לימוד.')}</p><div><a href="{prefix}about/">{label('Sources & editorial method','מקורות ודרך העריכה')}</a><a href="https://shekhina.org/">{label('Sanhedrin · Responsa archive ↗','סנהדרין · ארכיון שאלות ותשובות ↗')}</a><a href="https://github.com/Moriahise/Shiurim">GitHub ↗</a></div></footer>
@@ -271,7 +280,9 @@ def status_label(e, released=False):
 
 
 def source_block(s, number):
-    return f'''<article class="source" id="source-{escape(s['id'])}"><div class="source-heading"><span class="source-no">{number:02}</span><h3>{label(s['reference_en'],s['reference_he'])}</h3><a href="{escape(s['url'],quote=True)}" target="_blank" rel="noopener noreferrer">{label('Open source ↗','פתיחת המקור ↗')}</a></div><blockquote lang="he" dir="rtl">{escape(s['hebrew'])}</blockquote><p class="provenance">{escape(s['version'])} · {escape(s['license'])} · {label('via Sefaria','באמצעות ספריא')}<br>{label('Unaltered Hebrew source; English discussion written for this project.','המקור העברי ללא שינוי; הדיון באנגלית נכתב למיזם זה.')}</p></article>'''
+    lang=s.get('language','he')
+    provider=s.get('provider','sefaria')
+    return f'''<article class="source" id="source-{escape(s['id'])}"><div class="source-heading"><span class="source-no">{number:02}</span><h3>{label(s['reference_en'],s['reference_he'])}</h3><a href="{escape(s['url'],quote=True)}" target="_blank" rel="noopener noreferrer">{label('Open source ↗','פתיחת המקור ↗')}</a></div><blockquote lang="{escape(lang)}" dir="{'rtl' if lang=='he' else 'ltr'}">{escape(source_text(s))}</blockquote><p class="provenance">{escape(s['version'])} · {escape(str(s['license']))} · {escape(provider)}<br>{label('Source text and editorial discussion are kept distinct.','לשון המקור והדיון המערכתי מובחנים זה מזה.')}</p></article>'''
 
 
 def lesson(e, sources, released=False, sheet=False):
@@ -331,8 +342,20 @@ def home(editions, ledger, now):
     return layout('Weekly Torah learning · שיעור השבוע',body)
 
 
+def library_page():
+    body=f'''<main id="main" class="source-main"><header class="source-intro"><div class="eyebrow">{label('A wider Beit Midrash','בית מדרש רחב יותר')}</div><h1>{label('Go back to the sources.','חוזרים למקורות.')}</h1><p>{label('Search the Sanhedrin responsa archive. Find a work in the Sefaria export library. Read, compare, and preserve the exact passages that support your learning.','חפשו בארכיון השאלות והתשובות של סנהדרין. מצאו חיבור בספריית היצוא של ספריא. קראו ושמרו את הקטעים המדויקים שעליהם נשען הלימוד.')}</p></header>
+<div class="connection-strip"><div><strong>Sanhedrin · סנהדרין</strong><span id="sanhedrin-state" role="status">{label('Connecting…','מתחברים…')}</span></div><div><strong>Sefaria · ספריא</strong><span id="sefaria-state" role="status">{label('Loading book catalogue…','טוענים את קטלוג הספרים…')}</span></div></div>
+<form id="source-search" class="source-search"><label for="source-query">{label('Search topic, title, or Hebrew term','חיפוש נושא, כותרת או מונח בעברית')}<input id="source-query" type="search" placeholder="Noah / נח / Rashi / רש״י" maxlength="200"></label><label for="source-provider">{label('Library','ספרייה')}<select id="source-provider"><option value="all" data-en="Both libraries" data-he="שתי הספריות">Both libraries</option><option value="sanhedrin">Sanhedrin · סנהדרין</option><option value="sefaria">Sefaria · ספריא</option></select></label><button class="button primary" type="submit">{label('Search','חיפוש')} ↗</button></form>
+<p class="source-help">{label('Sanhedrin searches questions and answers. Sefaria searches book titles and categories; use an exact reference below to retrieve a particular passage.','סנהדרין מחפש בשאלות ובתשובות. ספריא מחפש בשמות חיבורים וקטגוריות; לשליפת קטע מסוים הזינו מראה מקום מדויק למטה.')}</p>
+<form id="reference-form" class="reference-form"><label for="exact-reference">{label('Exact Sefaria reference','מראה מקום מדויק בספריא')}<input id="exact-reference" placeholder="Genesis 6:9 / Rashi on Genesis 6:9:1" maxlength="240" required></label><label for="reference-language">{label('Text language','שפת המקור')}<select id="reference-language"><option value="Hebrew" data-en="Hebrew" data-he="עברית">Hebrew</option><option value="English" data-en="English" data-he="אנגלית">English</option></select></label><button class="button" type="submit">{label('Read passage','קריאת הקטע')} ↗</button></form>
+<div id="source-feedback" role="status" aria-live="polite"></div><div class="source-workspace"><section id="source-results" aria-label="Source search results"></section><aside id="source-reader" aria-label="Selected source"><div class="reader-placeholder"><span class="brand-mark" aria-hidden="true">ש</span><h2>{label('A source, in its own words.','המקור, בלשונו.')}</h2><p>{label('Select a result to read it here. Source dossiers preserve the text, reference, author, version, and retrieval date for editorial use.','בחרו תוצאה לקריאה כאן. תיק המקור שומר את הטקסט, מראה המקום, המחבר, הגרסה ותאריך השליפה לצורכי עריכה.')}</p></div></aside></div>
+<noscript><p>{label('The source search requires JavaScript. You can also open the original libraries directly.','חיפוש המקורות דורש JavaScript. אפשר לפתוח את הספריות המקוריות ישירות.')}</p></noscript><div class="library-origin"><a href="https://shekhina.org/">Sanhedrin ↗</a><a href="https://github.com/Moriahise/sefaria-studio">Sefaria Studio ↗</a><a href="https://github.com/Sefaria/Sefaria-Export">Sefaria Export ↗</a><p>{label('External records remain at their source. A research dossier is not a scholarly approval or an automatic addition to a shiur.','הרשומות החיצוניות נשארות במקורן. תיק מחקר אינו אישור תורני ואינו מתווסף לשיעור באופן אוטומטי.')}</p></div></main>'''
+    return layout('Source libraries · ספריות המקורות',body,'../',libraries=True)
+
+
 def about():
     blocks = [
+        ('Connected source libraries','ספריות מקורות מחוברות','The source research view reads the published Sanhedrin archive and the Sefaria work catalogue, including the Google Cloud Storage exports prepared in Sefaria Studio. Search results can be read and saved as attributed research dossiers. They do not automatically become a published lesson or a scholarly approval.','תצוגת חקר המקורות קוראת את ארכיון סנהדרין שפורסם ואת קטלוג ספריא, לרבות קובצי היצוא ב־Google Cloud Storage שהוכנו ב־Sefaria Studio. אפשר לקרוא תוצאות ולשמור אותן כתיקי מחקר עם ייחוס. הן אינן נעשות שיעור מפורסם או אישור תורני באופן אוטומטי.'),
         ('A Beit Midrash with a clear purpose','בית מדרש עם תכלית ברורה','Shiurim is an independent weekly study project alongside the Sanhedrin responsa archive. It brings one focused line of learning into English and Hebrew, with original sources close at hand.','שיעורים הוא מיזם לימוד שבועי עצמאי לצד ארכיון השאלות והתשובות של סנהדרין. הוא מציע מהלך לימודי ממוקד באנגלית ובעברית, כשהמקורות המקוריים קרובים לעין.'),
         ('How a study is built','כיצד נבנה שיעור','Each edition begins with a guiding question and a source dossier. The argument is developed in paired sections. Hebrew and English carry the same references, qualifications, and conclusions. Quoted text, interpretation, and ethical application are kept distinct.','כל מהדורה מתחילה בשאלה מנחה ובתיק מקורות. מהלך הלימוד נבנה בסעיפים מקבילים. העברית והאנגלית נושאות אותם מראי מקומות, סייגים ומסקנות. לשון המקור, הפרשנות והיישום המוסרי מובחנים זה מזה.'),
         ('The pilot stage','שלב הניסיון','The first edition is an AI-assisted editorial pilot. Its Hebrew passages have been retrieved from Sefaria, preserved with provenance and checksums, and linked to the discussion. Independent scholarly review has not yet been completed. A pilot label is not a claim of rabbinical approval.','המהדורה הראשונה היא מהדורת ניסיון מערכתית בסיוע בינה מלאכותית. פסוקיה העבריים נשלפו מספריא, נשמרו עם פרטי מקור וחתימות בדיקה וקושרו לדיון. ביקורת תורנית עצמאית טרם הושלמה. סימון מהדורת הניסיון אינו טענה לאישור רבני.'),
@@ -356,12 +379,24 @@ def build(now, root=ROOT):
             (temp/'index.html').write_text(home(visible,ledger,now),encoding='utf-8')
             (temp/'about').mkdir()
             (temp/'about/index.html').write_text(about(),encoding='utf-8')
+            (temp/'sources').mkdir()
+            (temp/'sources/index.html').write_text(library_page(),encoding='utf-8')
             for e in visible:
                 directory=temp/'shiur'/e['id']
                 (directory/'sources').mkdir(parents=True)
                 (directory/'index.html').write_text(lesson(e,sources,e['id'] in released),encoding='utf-8')
                 (directory/'sources/index.html').write_text(lesson(e,sources,e['id'] in released,True),encoding='utf-8')
             (temp/'data').mkdir()
+            catalogue_path=root/'content/library-catalogue/sefaria.json.gz'
+            if catalogue_path.exists():
+                catalogue_raw=gzip.decompress(catalogue_path.read_bytes())
+                catalogue=json.loads(catalogue_raw)
+                if catalogue.get('schema')!=1 or not isinstance(catalogue.get('works'),list):
+                    raise ValidationError('Invalid Sefaria catalogue')
+                (temp/'data/sefaria-library.json').write_bytes(catalogue_raw)
+            health_path=root/'reports/libraries-health.json'
+            if health_path.exists():
+                shutil.copyfile(health_path,temp/'data/libraries-status.json')
             write(temp/'data/calendar.json',{'schema':1,'calculated_at':now.isoformat(),'timezone':'Asia/Jerusalem','weeks':upcoming_calendar(now,52)})
             write(temp/'data/catalogue.json',{'schema':1,'editions':[{'id':e['id'],'title':e['title'],'parashah':e['parashah'],'target_shabbat':e['target_shabbat'],'category':e['category'],'status':'published' if e['id'] in released else 'pilot'} for e in visible]})
             write(temp/'data/status.json',{'schema':1,'built_at':now.isoformat(),'published_editions':len(released),'pilot_editions':len([e for e in visible if e['status']=='pilot']),'automatic_publication':config['automatic_publication'],'next_steps':'Pilot scholarly review; then enable reviewed queue publication.'})
@@ -371,7 +406,7 @@ def build(now, root=ROOT):
             (temp/'.nojekyll').touch()
             (temp/'404.html').write_text(layout('Page not found', '<main id="main" class="about-main"><h1>'+label('This page could not be found.','הדף לא נמצא.')+'</h1><a href="'+escape(config['base_url'],quote=True)+'">'+label('Return to Shiurim','חזרה לשיעורים')+'</a></main>',config['base_url']),encoding='utf-8')
             (temp/'robots.txt').write_text('User-agent: *\nAllow: /\n',encoding='utf-8')
-            urls=['', 'about/']+[f'shiur/{e["id"]}/' for e in visible]
+            urls=['', 'about/', 'sources/']+[f'shiur/{e["id"]}/' for e in visible]
             (temp/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+escape(config['base_url']+u)+'</loc></url>' for u in urls)+'</urlset>',encoding='utf-8')
             validate_export(temp)
             output=root/'dist'

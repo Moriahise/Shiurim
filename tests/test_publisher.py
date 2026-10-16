@@ -144,5 +144,17 @@ class PublisherTests(unittest.TestCase):
         c=app.read(self.root/'config/site.json');c['repository']='Moriahise/Sanhedrin';app.write(self.root/'config/site.json',c)
         with self.assertRaisesRegex(app.ValidationError,'restricted'):app.load_all(self.root)
 
+    def test_selected_sanhedrin_source_integrates_without_overwriting_primary_sources(self):
+        text='A selected English source for editorial use.'
+        source={'id':'sanhedrin-fixture','provider':'sanhedrin','language':'en','text':text,'sha256':app.sha256(text.encode()).hexdigest(),'reference_en':'Fixture reference','reference_he':'מקור לבדיקה','url':'https://shekhina.org/qa.html?id=fixture','version':'v1-fixture','license':'unrecorded','retrieved_at':'2026-10-16T00:00:00Z'}
+        app.write(self.root/'content/sources/sanhedrin-fixture.json',source)
+        self.edition['source_ids'].append(source['id'])
+        self.edition['sections'][0]['sources'].append(source['id']);self.save()
+        app.build(app.now_value('2026-10-16T17:00:00+03:00'),self.root)
+        page=(self.root/f'dist/shiur/{self.edition["id"]}/sources/index.html').read_text()
+        self.assertIn(text,page)
+        self.assertIn('blockquote lang="en" dir="ltr"',page)
+        self.assertEqual(len(app.read(self.root/'dist/data/source-provenance.json')['sources']),7)
+
 
 if __name__=='__main__':unittest.main()

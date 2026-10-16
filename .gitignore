@@ -6,3 +6,4 @@ dist/
 reports/
 .env
 drafts/
+content/library-catalogue/*.json

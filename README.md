@@ -4,6 +4,8 @@ Independent weekly Torah study in English and Hebrew. Repository: **Moriahise/Sh
 
 The first release contains a complete Noach pilot, six attributed Hebrew primary texts, a parallel-language reader, a source sheet, a searchable library, a 52-week Israel/Diaspora calendar, and a reviewed-edition publication queue.
 
+The source libraries are now connected read-only: full-text retrieval from the published Sanhedrin export and a Sefaria work catalogue based on the official Google Cloud Storage export and the preparations in `Moriahise/sefaria-studio`. Open `sources/` for research, exact references, original export links, and downloadable source dossiers. See [source connection guide](docs/QUELLENANBINDUNG_DE.md).
+
 **Pilot status:** independent scholarly review is pending. Automatic release of regular editions is disabled until the pilot and editorial process have been evaluated. The first pilot is deliberately visible and clearly labelled. No rabbinical authorship or approval is claimed.
 
 ## Run locally
@@ -41,13 +43,12 @@ There is currently **no unattended AI authoring service**. The working automatio
 - This repository, workflows, content, and publication ledger are independent.
 - The workflow refuses any repository except `Moriahise/Shiurim`.
 - No token or secret from Sanhedrin is used; `GITHUB_TOKEN` is scoped to this repository.
-- There is no importer or writer targeting Sanhedrin and no shared database.
+- There is no writer targeting Sanhedrin and no shared database. Its published static export is read via GET only.
 - The Sanhedrin link is an ordinary outbound navigation link.
-- The original `test.html` remains unchanged.
 
 ## Editorial operations
 
-See [German operations guide](docs/BETRIEB_DE.md), [editorial plan](docs/REDAKTIONSPLAN_DE.md), [source attribution](docs/SOURCES.md), and [implementation plan](docs/UMSETZUNGSPLAN_DE.md).
+See [German operations guide](docs/BETRIEB_DE.md), [source connection guide](docs/QUELLENANBINDUNG_DE.md), [editorial plan](docs/REDAKTIONSPLAN_DE.md), [source attribution](docs/SOURCES.md), and [implementation plan](docs/UMSETZUNGSPLAN_DE.md).
 
 ## Sources and dependencies
 
