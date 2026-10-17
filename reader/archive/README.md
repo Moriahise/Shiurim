@@ -7,3 +7,5 @@ The archive build adds the study and source-sheet pages, a five-book annual inde
 The supplied wording, questions and source passages are displayed in English and Hebrew. Markdown escapes are rendered as punctuation. Source names, references and credits remain attached to their passages. The portrait collection supplies a fixed identity for each study in its cycle.
 
 Run after the portrait build: `python3 reader/archive.py --site _site`.
+
+Multiple earlier cycles can be built together. The shared year selector lists each cycle once and keeps the latest cycle selected by default. Imported manuscripts retain all supplied teaching sections, discussion questions and complete multi-verse source passages.

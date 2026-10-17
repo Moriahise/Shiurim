@@ -38,7 +38,7 @@ def load(path):
             raise ValueError('Invalid archive identity')
         if not data['cycle_start']<=e['target_shabbat']<data['next_cycle_start']:raise ValueError('Reading date outside cycle')
         date.fromisoformat(e['target_shabbat'])
-        if len(e['sections'])!=5 or len(e['questions'])!=3 or len(e['sources'])<3:raise ValueError('Incomplete study')
+        if len(e['sections'])<5 or len(e['questions'])<3 or len(e['sources'])<3 or any(not s['paragraphs'] for s in e['sections']):raise ValueError('Incomplete study')
         pairs=[e[k] for k in ('title','subtitle','parashah','question','objective')]+e['questions']
         pairs += [s['title'] for s in e['sections']]+[p for s in e['sections'] for p in s['paragraphs']]
         for pair in pairs:
@@ -137,12 +137,15 @@ def enrich_home(text,catalogue,archived,assigned,year):
     years=sorted({cycle_of(e) for e in catalogue},reverse=True)
     options=''.join(f'<option value="{y}" data-en="{y}'+(' · Current cycle' if y==current else ' · Archive')+'" data-he="'+str(y)+(' · המחזור הנוכחי' if y==current else ' · ארכיון')+'"'+(' selected' if y==current else '')+'>'+str(y)+(' · Current cycle' if y==current else ' · Archive')+'</option>' for y in years)
     control='<label class="filter-label year-filter" for="cycle-year">'+label('Reading cycle','מחזור קריאה')+f'<select id="cycle-year" data-default-year="{current}">'+options+'<option value="all" data-en="All cycles" data-he="כל המחזורים">All cycles</option></select></label>'
-    edits.append((tools.closing_start,tools.closing_start,control))
+    existing=next((n for n in doc.nodes if n.has('year-filter')),None)
+    if existing:edits.append((existing.start,existing.end,control))
+    else:edits.append((tools.closing_start,tools.closing_start,control))
     library=next(n for n in doc.nodes if n.has('library-section'))
     section_heading=doc.inside(library,'section-heading')[0]
     edits.append((section_heading.closing_start,section_heading.closing_start,f'<a class="text-link archive-shortcut" href="./archive/{year}/">'+label(f'Explore archive {year} →',f'לעיון בארכיון {year} ←')+'</a>'))
     head=next(n for n in doc.nodes if n.tag=='head')
-    edits.append((head.closing_start,head.closing_start,'<link rel="stylesheet" href="./assets/archive.css"><script defer src="./assets/archive.js"></script>\n'))
+    if not any(n.tag=='script' and n.attrs.get('src')=='./assets/archive.js' for n in doc.nodes):
+        edits.append((head.closing_start,head.closing_start,'<link rel="stylesheet" href="./assets/archive.css"><script defer src="./assets/archive.js"></script>\n'))
     for start,end,replacement in sorted(edits,reverse=True):text=text[:start]+replacement+text[end:]
     return text
 
