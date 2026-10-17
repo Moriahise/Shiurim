@@ -45,10 +45,14 @@ jobs:
               assert set(item)=={'id','title','parashah','target_shabbat','category'}
           print('Reader website checked.')
           PY
+      - name: Check stable portrait assignments and unchanged lesson text
+        run: python3 -m unittest discover -s reader/tests -q
+      - name: Add the Sanhedrin portrait collection to the deployment copy
+        run: python3 reader/portraits.py --source site --output _site
       - name: Package website
         uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b
         with:
-          path: site
+          path: _site
           name: website-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Publish website
         id: deployment

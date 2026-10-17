@@ -1,0 +1,574 @@
+{
+  "schema": 1,
+  "source_repository": "Moriahise/Sanhedrin",
+  "source_commit": "2c045788a6399276d6cca5ed9756ab28f84ea0dc",
+  "source_file_count": 71,
+  "profiles": [
+    {
+      "id": "aharon-mualem-chacham-dayan",
+      "name": "Aharon Mualem Chacham Dayan",
+      "source_path": "Rav/Aharon Mualem Chacham Dayan.png",
+      "source_blob_sha": "a9d1900eb67baa4ae69c9e1d3774815d7e240713",
+      "image": "assets/portraits/aharon-mualem-chacham-dayan.webp",
+      "image_sha256": "3b86509da08f7047d180b8e8340c8e73587d39d06c5d4e867f2f5b9e74c667fb"
+    },
+    {
+      "id": "aharon-sutton-chacham-dayan",
+      "name": "Aharon Sutton Chacham Dayan",
+      "source_path": "Rav/Aharon Sutton Chacham Dayan.png",
+      "source_blob_sha": "53869ad7cf49d4a32c5d4327d3b610a5cd9fa7ad",
+      "image": "assets/portraits/aharon-sutton-chacham-dayan.webp",
+      "image_sha256": "d2f16c2252fbda5d8993da417e2bf012d94ff8966a8b2d99f2ec34fc202b1de7"
+    },
+    {
+      "id": "amram-buskila-talmid-chacham",
+      "name": "Amram Buskila Talmid Chacham",
+      "source_path": "Rav/Amram Buskila Talmid Chacham.png",
+      "source_blob_sha": "a3402f923ce10206565bbcffd415766825dbef45",
+      "image": "assets/portraits/amram-buskila-talmid-chacham.webp",
+      "image_sha256": "13eec63ee0383165d79799807fe4c38b380a567602e685407b8d93cab15e5508"
+    },
+    {
+      "id": "avraham-fuzailov-chacham-dayan",
+      "name": "Avraham Fuzailov Chacham Dayan",
+      "source_path": "Rav/Avraham Fuzailov Chacham Dayan.png",
+      "source_blob_sha": "a369ad6f855aa544d5656fee287d7d85f08733db",
+      "image": "assets/portraits/avraham-fuzailov-chacham-dayan.webp",
+      "image_sha256": "0fa8dc0dbf63dc636e0df645eb922ebe570d5935ca97c85e8fc9cf8e2e066224"
+    },
+    {
+      "id": "avraham-qorah-chacham-dayan",
+      "name": "Avraham Qorah Chacham Dayan",
+      "source_path": "Rav/Avraham Qorah Chacham Dayan.png",
+      "source_blob_sha": "80add648099c8aeb6cf1f1f65101cd31ea9242da",
+      "image": "assets/portraits/avraham-qorah-chacham-dayan.webp",
+      "image_sha256": "e52cb68e3a9b800a93ebf08f15a3c60a214a11893c7551a60009ada67a5885d4"
+    },
+    {
+      "id": "avraham-sassoon-chacham-dayan",
+      "name": "Avraham Sassoon Chacham Dayan",
+      "source_path": "Rav/Avraham Sassoon Chacham Dayan.png",
+      "source_blob_sha": "e77abd7a95bb4ba2c8f870adb815cc641cd04179",
+      "image": "assets/portraits/avraham-sassoon-chacham-dayan.webp",
+      "image_sha256": "4f84b4493394028d1a5dee543d8b7532cbfdc0f0095bae10f7da893dbf770428"
+    },
+    {
+      "id": "chai-uzan-talmid-chacham",
+      "name": "Chai Uzan Talmid Chacham",
+      "source_path": "Rav/Chai Uzan Talmid Chacham.png",
+      "source_blob_sha": "1c77b4e6dfeae5f6a2138c1749ee7ba851d591db",
+      "image": "assets/portraits/chai-uzan-talmid-chacham.webp",
+      "image_sha256": "0bd49763e0e34a1791d83aea610270ed81024d125eb2918d2563c39f28efe3bc"
+    },
+    {
+      "id": "chaim-arusi-chacham-dayan",
+      "name": "Chaim Arusi Chacham Dayan",
+      "source_path": "Rav/Chaim Arusi Chacham Dayan.png",
+      "source_blob_sha": "05c2aa57a45d843c70228f0636dd8ce6730086ea",
+      "image": "assets/portraits/chaim-arusi-chacham-dayan.webp",
+      "image_sha256": "76354168befffdea170be9ff791c8d53afba760aadbb1d169acfaf86fe2029dd"
+    },
+    {
+      "id": "chaim-franco-chacham-dayan",
+      "name": "Chaim Franco Chacham Dayan",
+      "source_path": "Rav/Chaim Franco Chacham Dayan.png",
+      "source_blob_sha": "94a45141807d808d0b222a3c49422a05a96c8091",
+      "image": "assets/portraits/chaim-franco-chacham-dayan.webp",
+      "image_sha256": "be173ee50f8f5a4b9443071b3b670214593f2a20f9f8be85a97fbc65122a1668"
+    },
+    {
+      "id": "chaim-ohana-chacham-dayan",
+      "name": "Chaim Ohana Chacham Dayan",
+      "source_path": "Rav/Chaim Ohana Chacham Dayan.png",
+      "source_blob_sha": "20aca549fc3e14c6034290c46f9ff5285ada118d",
+      "image": "assets/portraits/chaim-ohana-chacham-dayan.webp",
+      "image_sha256": "ef26e6502f1af4a657b41ee9fd65eb17472d97847a861de6563a45a200b3e43e"
+    },
+    {
+      "id": "chananya-levian-chacham-dayan",
+      "name": "Chananya Levian Chacham Dayan",
+      "source_path": "Rav/Chananya Levian Chacham Dayan.png",
+      "source_blob_sha": "746e7081b0a86519443fdc04e8e914fe5853adf8",
+      "image": "assets/portraits/chananya-levian-chacham-dayan.webp",
+      "image_sha256": "1f1ee85a1b65ed55cd7caa2841c092172a0bb708c3f7257ca8b3a12fbf5f4f24"
+    },
+    {
+      "id": "chizkiyahu-hedaya-chacham-dayan",
+      "name": "Chizkiyahu Hedaya Chacham Dayan",
+      "source_path": "Rav/Chizkiyahu Hedaya Chacham Dayan.png",
+      "source_blob_sha": "256623181cb906e465c246a448f1e77a5a560be0",
+      "image": "assets/portraits/chizkiyahu-hedaya-chacham-dayan.webp",
+      "image_sha256": "e0095a5c0555744464e25e6316ff6bbb8bfb42decb0287cb73d9ad32d6c953ca"
+    },
+    {
+      "id": "david-davitashvili-talmid-chacham",
+      "name": "David Davitashvili Talmid Chacham",
+      "source_path": "Rav/David Davitashvili Talmid Chacham.png",
+      "source_blob_sha": "753fd3ae7d6f3fe25f70cf2dfb4a2555bbf6813b",
+      "image": "assets/portraits/david-davitashvili-talmid-chacham.webp",
+      "image_sha256": "edd78b98a4932bc17058aa3bbdf7a268a633f9a5b8588e59d4de3fc463bc3821"
+    },
+    {
+      "id": "david-hamedani-chacham-dayan",
+      "name": "David Hamedani Chacham Dayan",
+      "source_path": "Rav/David Hamedani Chacham Dayan.png",
+      "source_blob_sha": "c40643d6c877eb7aff9e21a6d76310c387f306c1",
+      "image": "assets/portraits/david-hamedani-chacham-dayan.webp",
+      "image_sha256": "fb55810126e4779a1e0fc00c28859253867972e3a31c73ec0998fe7c46b6dfe7"
+    },
+    {
+      "id": "david-maman-chacham-dayan",
+      "name": "David Maman Chacham Dayan",
+      "source_path": "Rav/David Maman Chacham Dayan.png",
+      "source_blob_sha": "0db159a40986f089832987ab545ac446177fa9b1",
+      "image": "assets/portraits/david-maman-chacham-dayan.webp",
+      "image_sha256": "46edfad4881fbb1e2a090c5e540ca57add3dd172e71fb57bd52dee4af95fa613"
+    },
+    {
+      "id": "eliyahu-bekhor-chacham-dayan",
+      "name": "Eliyahu Bekhor Chacham Dayan",
+      "source_path": "Rav/Eliyahu Bekhor Chacham Dayan.png",
+      "source_blob_sha": "468d04459926eb20284f661d486276014ad1cd38",
+      "image": "assets/portraits/eliyahu-bekhor-chacham-dayan.webp",
+      "image_sha256": "966b786e05ec23ba98a3b483ae1a269a9c046ca14af9cc6b7bcf1d8a342ddd62"
+    },
+    {
+      "id": "eliyahu-yerushalmi-chacham-dayan",
+      "name": "Eliyahu Yerushalmi Chacham Dayan",
+      "source_path": "Rav/Eliyahu Yerushalmi Chacham Dayan.png",
+      "source_blob_sha": "a43b0295997dd59770a18f07cc98a8c2447f4f2b",
+      "image": "assets/portraits/eliyahu-yerushalmi-chacham-dayan.webp",
+      "image_sha256": "473d04c2f8c96afb66c1d050a2715449091ba5402f924688cf39f1e31b776208"
+    },
+    {
+      "id": "ezra-dangoor-chacham-dayan",
+      "name": "Ezra Dangoor Chacham Dayan",
+      "source_path": "Rav/Ezra Dangoor Chacham Dayan.png",
+      "source_blob_sha": "6728d1e5ed3cac02e2536d0f0265fab11f779e95",
+      "image": "assets/portraits/ezra-dangoor-chacham-dayan.webp",
+      "image_sha256": "5aff91f0ef1583f9b3753476245b2e9368ab3f88dcc722f532109b9d7f6a42fe"
+    },
+    {
+      "id": "ezra-hazan-chacham-dayan",
+      "name": "Ezra Hazan Chacham Dayan",
+      "source_path": "Rav/Ezra Hazan Chacham Dayan.png",
+      "source_blob_sha": "779f93f1b741879001010fd9cff612dff5b75b4a",
+      "image": "assets/portraits/ezra-hazan-chacham-dayan.webp",
+      "image_sha256": "746b32d0f38082a19c0f07385895dcbe532771c0aacc0957ebbe9dedf22b6f58"
+    },
+    {
+      "id": "fraji-labi-talmid-chacham",
+      "name": "Fraji Labi Talmid Chacham",
+      "source_path": "Rav/Fraji Labi Talmid Chacham.png",
+      "source_blob_sha": "ca343eeab043f99e58f8e3f7c6d6b36a1d55e417",
+      "image": "assets/portraits/fraji-labi-talmid-chacham.webp",
+      "image_sha256": "e05f7c6614f3035d942ed55f335ab7f5ed101c33d64e9f34aad8ff2248f650d8"
+    },
+    {
+      "id": "kes-avraham-adane-chacham-dayan",
+      "name": "Kes Avraham Adane Chacham Dayan",
+      "source_path": "Rav/Kes Avraham Adane Chacham Dayan.png",
+      "source_blob_sha": "8824419d5420f87df8907b5d35f0363912a4521e",
+      "image": "assets/portraits/kes-avraham-adane-chacham-dayan.webp",
+      "image_sha256": "a940f1b9114dc7c5134594fccfbd2e31690f2ddcb41ffc85dd6a68df6197b4fe"
+    },
+    {
+      "id": "kes-baruch-malede-chacham-dayan",
+      "name": "Kes Baruch Malede Chacham Dayan",
+      "source_path": "Rav/Kes Baruch Malede Chacham Dayan.png",
+      "source_blob_sha": "272a6fabc96b462567d7c692b13ca345fe9f12d1",
+      "image": "assets/portraits/kes-baruch-malede-chacham-dayan.webp",
+      "image_sha256": "e4e0bd53de1ab0e03d5db9ce416a245b7bd0d6e9ec5768d24d56e5474c4c84a0"
+    },
+    {
+      "id": "kes-refael-desta-talmid-chacham",
+      "name": "Kes Refael Desta Talmid Chacham",
+      "source_path": "Rav/Kes Refael Desta Talmid Chacham.png",
+      "source_blob_sha": "b456513317e661d09123bc14b20103a7bf42b826",
+      "image": "assets/portraits/kes-refael-desta-talmid-chacham.webp",
+      "image_sha256": "cb697cd0da7c53f81b2e6f34daa4e7387af7adb542c8c2ead25576435501702e"
+    },
+    {
+      "id": "machluf-elbaz-chacham-dayan",
+      "name": "Machluf Elbaz Chacham Dayan",
+      "source_path": "Rav/Machluf Elbaz Chacham Dayan.png",
+      "source_blob_sha": "8c56164a25ec594d8599dd5716256d0b1488b447",
+      "image": "assets/portraits/machluf-elbaz-chacham-dayan.webp",
+      "image_sha256": "89623efcbdaadee539d42cf2c443b5545a720c3d86c9ea71e7ee9beb88f47e17"
+    },
+    {
+      "id": "meir-ben-chetrit-chacham-dayan",
+      "name": "Meir Ben Chetrit Chacham Dayan",
+      "source_path": "Rav/Meir Ben Chetrit Chacham Dayan.png",
+      "source_blob_sha": "1fb266e293938f42386012607f853ad59f46ab58",
+      "image": "assets/portraits/meir-ben-chetrit-chacham-dayan.webp",
+      "image_sha256": "30b5b1cd89aec031fcce69d5bce0355982f3cea5d4dc1c5fc96ae0d307c5c0da"
+    },
+    {
+      "id": "menashe-twena-chacham-dayan",
+      "name": "Menashe Twena Chacham Dayan",
+      "source_path": "Rav/Menashe Twena Chacham Dayan.png",
+      "source_blob_sha": "888256f1219e45cd10a871bf729f5540b483175e",
+      "image": "assets/portraits/menashe-twena-chacham-dayan.webp",
+      "image_sha256": "8b8a865af5da691f11f1bd21fab31ab876c03e92f15fc1f492f9d8974347ff74"
+    },
+    {
+      "id": "michael-michaeli-chacham-dayan",
+      "name": "Michael Michaeli Chacham Dayan",
+      "source_path": "Rav/Michael Michaeli Chacham Dayan.png",
+      "source_blob_sha": "dc3408781447b385b22736f203d6366ed469c8fd",
+      "image": "assets/portraits/michael-michaeli-chacham-dayan.webp",
+      "image_sha256": "c8385416ddc6823390362362a5e47038427d83c53d5972ea304b884419c423d5"
+    },
+    {
+      "id": "mordechai-bibas-chacham-dayan",
+      "name": "Mordechai Bibas Chacham Dayan",
+      "source_path": "Rav/Mordechai Bibas  Chacham Dayan.png",
+      "source_blob_sha": "f9199a28db8fcf4f2ed521574520d06dc05f9711",
+      "image": "assets/portraits/mordechai-bibas-chacham-dayan.webp",
+      "image_sha256": "645085168c022e6d538188d3df6f07c881fb4290c707c5a6ed798dd7b9ca8f7e"
+    },
+    {
+      "id": "mordechai-shrem-talmid-chacham",
+      "name": "Mordechai Shrem Talmid Chacham",
+      "source_path": "Rav/Mordechai Shrem Talmid Chacham.png",
+      "source_blob_sha": "1cd95d4d70d6489ac42071103397191facd2f74b",
+      "image": "assets/portraits/mordechai-shrem-talmid-chacham.webp",
+      "image_sha256": "523fa83bdca2de226d3e761de57a6769c3325dcfa8c54a0fa8fa09ecfa6c0a33"
+    },
+    {
+      "id": "moshe-aghai-talmid-chacham",
+      "name": "Moshe Aghai Talmid Chacham",
+      "source_path": "Rav/Moshe Aghai Talmid Chacham.png",
+      "source_blob_sha": "c98a5876947d9345ef3892c9e38f2f096fc857fb",
+      "image": "assets/portraits/moshe-aghai-talmid-chacham.webp",
+      "image_sha256": "64a518b4c759732e3935ae369cdbab64b64b793b4cb07d3fe352786eba338160"
+    },
+    {
+      "id": "moshe-douek-chacham-dayan",
+      "name": "Moshe Douek Chacham Dayan",
+      "source_path": "Rav/Moshe Douek Chacham Dayan.png",
+      "source_blob_sha": "b3d40860a0f4dafce875438ed3700c81622d1251",
+      "image": "assets/portraits/moshe-douek-chacham-dayan.webp",
+      "image_sha256": "0608e05a272f72868a9bc7c1830345d4e20c762be8588ae0994d004d49f6b08a"
+    },
+    {
+      "id": "moshe-saltiel-chacham-dayan",
+      "name": "Moshe Saltiel Chacham Dayan",
+      "source_path": "Rav/Moshe Saltiel Chacham Dayan.png",
+      "source_blob_sha": "50cf649107d3ddaae3fac8592447ad67ccdb1911",
+      "image": "assets/portraits/moshe-saltiel-chacham-dayan.webp",
+      "image_sha256": "2d9dbe308eb999ff47cef05f6dfbab75263406eec64050e982283151573d6f8a"
+    },
+    {
+      "id": "nissim-alhadeff-chacham-dayan",
+      "name": "Nissim Alhadeff Chacham Dayan",
+      "source_path": "Rav/Nissim Alhadeff Chacham Dayan.png",
+      "source_blob_sha": "4c7372da1c9b47643276ceb46eaf6954de0f8b4e",
+      "image": "assets/portraits/nissim-alhadeff-chacham-dayan.webp",
+      "image_sha256": "bef7cc8bc83bfcf95c72cb5ab516cf1de3a3a771902bf2e3e75b1c411a048486"
+    },
+    {
+      "id": "nissim-aminov-chacham-dayan",
+      "name": "Nissim Aminov Chacham Dayan",
+      "source_path": "Rav/Nissim Aminov Chacham Dayan.png",
+      "source_blob_sha": "06f7ba45624eb060e2dd1ce9de40880ece153474",
+      "image": "assets/portraits/nissim-aminov-chacham-dayan.webp",
+      "image_sha256": "523faf16879c6cb7bd82b6ac6a1c2bcc75ad8190687fcf2ee07e7b9cee6f8674"
+    },
+    {
+      "id": "nissim-guedj-chacham-dayan",
+      "name": "Nissim Guedj Chacham Dayan",
+      "source_path": "Rav/Nissim Guedj Chacham Dayan.png",
+      "source_blob_sha": "dbdfa459fb6c05b6d1774b63d707db04016ab891",
+      "image": "assets/portraits/nissim-guedj-chacham-dayan.webp",
+      "image_sha256": "38f19b2125c2efa8122c899a304058a03e084a7c743e5f70342ffe98ca9bc3a9"
+    },
+    {
+      "id": "nissim-sharabi-chacham-dayan",
+      "name": "Nissim Sharabi Chacham Dayan",
+      "source_path": "Rav/Nissim Sharabi Chacham Dayan.png",
+      "source_blob_sha": "e6a7857802f361f0351774b77493a24ac3a99de3",
+      "image": "assets/portraits/nissim-sharabi-chacham-dayan.webp",
+      "image_sha256": "561fca9be835d22f552114605ec8271bc73df7fa64f02db83aebf2d9bd5b3f65"
+    },
+    {
+      "id": "ovadia-abergel-nasi",
+      "name": "Ovadia Abergel-נשיא · Nasi",
+      "source_path": "Rav/Ovadia Abergel-נשיא · Nasi.png",
+      "source_blob_sha": "5eebc828bfcb78903a83ea2fe6dd17a786f98ad5",
+      "image": "assets/portraits/ovadia-abergel-nasi.webp",
+      "image_sha256": "b54cfb7698acaaa20f82eb05a1320789dd0b23456b10807815a49a9b174008d3"
+    },
+    {
+      "id": "ovadia-ades-chacham-dayan",
+      "name": "Ovadia Ades Chacham Dayan",
+      "source_path": "Rav/Ovadia Ades Chacham Dayan.png",
+      "source_blob_sha": "dca2bb3493aea2e607665c6f75c699b069b60dc5",
+      "image": "assets/portraits/ovadia-ades-chacham-dayan.webp",
+      "image_sha256": "63435ce93fb31889f3279daed869052817a864d482196be1f502fc452f42caa1"
+    },
+    {
+      "id": "rachamim-tayeb-chacham-dayan",
+      "name": "Rachamim Tayeb Chacham Dayan",
+      "source_path": "Rav/Rachamim Tayeb Chacham Dayan.png",
+      "source_blob_sha": "ef21ed1cbaa571cd099266cc3dee78126ee3566c",
+      "image": "assets/portraits/rachamim-tayeb-chacham-dayan.webp",
+      "image_sha256": "8374fbc872c87eb6400fb455537f08243c4998027150954ffa3df97a1c5611f7"
+    },
+    {
+      "id": "refael-antebi-chacham-dayan",
+      "name": "Refael Antebi Chacham Dayan",
+      "source_path": "Rav/Refael Antebi Chacham Dayan.png",
+      "source_blob_sha": "48f3cad43f1535bdc8048dd422dc879270b770bb",
+      "image": "assets/portraits/refael-antebi-chacham-dayan.webp",
+      "image_sha256": "cbf76a2f053815d69559775765dab492127cf759370176390df52d04aca56a8a"
+    },
+    {
+      "id": "refael-moshayev-talmid-chacham",
+      "name": "Refael Moshayev Talmid Chacham",
+      "source_path": "Rav/Refael Moshayev Talmid Chacham.png",
+      "source_blob_sha": "53944bbb3ec126d4e4f8187e3d8e9e1cb222decd",
+      "image": "assets/portraits/refael-moshayev-talmid-chacham.webp",
+      "image_sha256": "96e420d98e62022462bdaa751ab8f57dca248d9c32e29c005bcd37522462e2dc"
+    },
+    {
+      "id": "refael-toledano-chacham-dayan",
+      "name": "Refael Toledano Chacham Dayan",
+      "source_path": "Rav/Refael Toledano Chacham Dayan.png",
+      "source_blob_sha": "62b96d1c4adc958df188f7d7f6e032906174a09d",
+      "image": "assets/portraits/refael-toledano-chacham-dayan.webp",
+      "image_sha256": "ab080bf8fb0da060d183af7b613d26b515e8421cf6536df6d8d8c02dd466cf43"
+    },
+    {
+      "id": "reuven-shina-talmid-chacham",
+      "name": "Reuven Shina Talmid Chacham",
+      "source_path": "Rav/Reuven Shina Talmid Chacham.png",
+      "source_blob_sha": "7d648be6eac53a0b1942ce20c452f2a41824054c",
+      "image": "assets/portraits/reuven-shina-talmid-chacham.webp",
+      "image_sha256": "faf2740b38c65256401bd8b7a11fcf80cce4937aadca89e7f477606e1d8105d7"
+    },
+    {
+      "id": "saadia-jamil-chacham-dayan",
+      "name": "Saadia Jamil Chacham Dayan",
+      "source_path": "Rav/Saadia Jamil Chacham Dayan.png",
+      "source_blob_sha": "7bc7e521241d78db6ec93106deffd1b89829b00d",
+      "image": "assets/portraits/saadia-jamil-chacham-dayan.webp",
+      "image_sha256": "71d20472c94dc27198cc615a758fe2e57c9f09b7d17b9beab3bffcdc3a881b6a"
+    },
+    {
+      "id": "sasson-zilkha-chacham-dayan",
+      "name": "Sasson Zilkha Chacham Dayan",
+      "source_path": "Rav/Sasson Zilkha Chacham Dayan.png",
+      "source_blob_sha": "e692accc5456bdda4dfc21ba0ff579f43d9b5676",
+      "image": "assets/portraits/sasson-zilkha-chacham-dayan.webp",
+      "image_sha256": "fc849124ac59d6c9c1777adb599f8e7975ce5a26dcb2c945a6b40f867967f756"
+    },
+    {
+      "id": "shabtai-gabbai-chacham-dayan",
+      "name": "Shabtai Gabbai Chacham Dayan",
+      "source_path": "Rav/Shabtai Gabbai Chacham Dayan.png",
+      "source_blob_sha": "df164fd2d6756fd255dbf6203d7488aed379b142",
+      "image": "assets/portraits/shabtai-gabbai-chacham-dayan.webp",
+      "image_sha256": "2bea4c9384046e7fee4d047110b8ea4c7e0f1cfbbc6b23eba054b63a9d93a3a7"
+    },
+    {
+      "id": "shalom-nahari-talmid-chacham",
+      "name": "Shalom Nahari Talmid Chacham",
+      "source_path": "Rav/Shalom Nahari Talmid Chacham.png",
+      "source_blob_sha": "07b46917cf9c5af9d6d67a23380f4a968e1bf7fc",
+      "image": "assets/portraits/shalom-nahari-talmid-chacham.webp",
+      "image_sha256": "1d05f1d3103f5ee2e600f3dd289095c57ec8ae1a2d3e785d7bfa39b9c3d988a8"
+    },
+    {
+      "id": "shalom-wazana-chacham-dayan",
+      "name": "Shalom Wazana Chacham Dayan",
+      "source_path": "Rav/Shalom Wazana Chacham Dayan.png",
+      "source_blob_sha": "fd2de12289e10cffb425af1034a752eec2ccee83",
+      "image": "assets/portraits/shalom-wazana-chacham-dayan.webp",
+      "image_sha256": "e77aea80f7022d53342c66f2a2ebb9603e25cadb9b32ead4ba3e15e1c73ea8e3"
+    },
+    {
+      "id": "shaul-journo-chacham-dayan",
+      "name": "Shaul Journo Chacham Dayan",
+      "source_path": "Rav/Shaul Journo Chacham Dayan.png",
+      "source_blob_sha": "cb8d600edd59beffe328ab4fcbb4f9bcaaec9648",
+      "image": "assets/portraits/shaul-journo-chacham-dayan.webp",
+      "image_sha256": "029777bae3dccec2bdd8a55a420c348b4f754b85c1cf44462c6f8928e010e734"
+    },
+    {
+      "id": "shimon-djerbi-chacham-dayan",
+      "name": "Shimon Djerbi Chacham Dayan",
+      "source_path": "Rav/Shimon Djerbi Chacham Dayan.png",
+      "source_blob_sha": "da856b4993e99a43f1c8555a6add47e53b009acc",
+      "image": "assets/portraits/shimon-djerbi-chacham-dayan.webp",
+      "image_sha256": "d833d4464fa2645b6d4af6695c95d922ec0b797797b9091f948ae7617f5a49fa"
+    },
+    {
+      "id": "shimon-laniado-chacham-dayan",
+      "name": "Shimon Laniado Chacham Dayan",
+      "source_path": "Rav/Shimon Laniado Chacham Dayan.png",
+      "source_blob_sha": "4167416765a4a9163035550d29dff453c3fada01",
+      "image": "assets/portraits/shimon-laniado-chacham-dayan.webp",
+      "image_sha256": "404e081f13d5a633b17106d42f01ef1e13575e54ed18d4e4cd39b92f0828339c"
+    },
+    {
+      "id": "shlomo-behar-chacham-dayan",
+      "name": "Shlomo Behar Chacham Dayan",
+      "source_path": "Rav/Shlomo Behar Chacham Dayan.png",
+      "source_blob_sha": "ac91c765223d4c343f1c1bacaf8abd90223464b5",
+      "image": "assets/portraits/shlomo-behar-chacham-dayan.webp",
+      "image_sha256": "c834c9f3029cb96af0c349337b4e74311fdbe4c4f019e42e156f8352e72523e3"
+    },
+    {
+      "id": "shlomo-cattaui-chacham-dayan",
+      "name": "Shlomo Cattaui Chacham Dayan",
+      "source_path": "Rav/Shlomo Cattaui Chacham Dayan.png",
+      "source_blob_sha": "c14a4d062097fa327639f9031f72fa3239172839",
+      "image": "assets/portraits/shlomo-cattaui-chacham-dayan.webp",
+      "image_sha256": "ee997ae3d594e7d618a707e5a278d8426e932b5249dc9ac1804986583980e2e1"
+    },
+    {
+      "id": "shmuel-shirazi-chacham-dayan",
+      "name": "Shmuel Shirazi Chacham Dayan",
+      "source_path": "Rav/Shmuel Shirazi Chacham Dayan.png",
+      "source_blob_sha": "70b4f293532e872b7cf2eba3f51a22ce3b5ff045",
+      "image": "assets/portraits/shmuel-shirazi-chacham-dayan.webp",
+      "image_sha256": "71be52bf0f1c550d08f22260ea14f15ac71591b638fa6f77e5f4ccc48bf2718f"
+    },
+    {
+      "id": "yaakov-assouline-chacham-dayan",
+      "name": "Yaakov Assouline Chacham Dayan",
+      "source_path": "Rav/Yaakov Assouline Chacham Dayan.png",
+      "source_blob_sha": "fee5e44e63678ed4eae6f988b6bb3d83ab86550b",
+      "image": "assets/portraits/yaakov-assouline-chacham-dayan.webp",
+      "image_sha256": "37c41e6161c9b101163d555f08a4c1bd7ef444a40bc364bab6d7036c8ef8e394"
+    },
+    {
+      "id": "yaakov-dweck-chacham-dayan",
+      "name": "Yaakov Dweck Chacham Dayan",
+      "source_path": "Rav/Yaakov Dweck Chacham Dayan.png",
+      "source_blob_sha": "d68f9f3ee072cd7282a54e3e3b1a623278526556",
+      "image": "assets/portraits/yaakov-dweck-chacham-dayan.webp",
+      "image_sha256": "f502c957af04b181a327b3fe370c71e02fd31aa1d6478038e7c53a14bbf7f13f"
+    },
+    {
+      "id": "yaakov-gategno-talmid-chacham",
+      "name": "Yaakov Gategno Talmid Chacham",
+      "source_path": "Rav/Yaakov Gategno Talmid Chacham.png",
+      "source_blob_sha": "192fcd73553b43d3f07ca9b0f086067c33e4c40c",
+      "image": "assets/portraits/yaakov-gategno-talmid-chacham.webp",
+      "image_sha256": "45e591c70f9bc6857769155a69a33cfefbf0a9830f90d8a268fa92f363679cdf"
+    },
+    {
+      "id": "yechezkel-khalastchi-chacham-dayan",
+      "name": "Yechezkel Khalastchi Chacham Dayan",
+      "source_path": "Rav/Yechezkel Khalastchi Chacham Dayan.png",
+      "source_blob_sha": "0a35dee62961dd83b68a960924be26c97a8e6575",
+      "image": "assets/portraits/yechezkel-khalastchi-chacham-dayan.webp",
+      "image_sha256": "91ffb4bccc9e63cd1fb8711fcb830739651142e592eb707b6515e9d0cf2f1fd4"
+    },
+    {
+      "id": "yechiel-kashani-chacham-dayan",
+      "name": "Yechiel Kashani Chacham Dayan",
+      "source_path": "Rav/Yechiel Kashani Chacham Dayan.png",
+      "source_blob_sha": "bd3253535b1751c42f00b39afb7e9e3d77ea758d",
+      "image": "assets/portraits/yechiel-kashani-chacham-dayan.webp",
+      "image_sha256": "9a9c860429e3843c10ce7ee9a7b2269a1ffcb93fdeabe744559dcde25c0119b8"
+    },
+    {
+      "id": "yehuda-guetta-chacham-dayan",
+      "name": "Yehuda Guetta Chacham Dayan",
+      "source_path": "Rav/Yehuda Guetta Chacham Dayan.png",
+      "source_blob_sha": "e4c2f0486c93cab0f06b0320237472ca5c662d6f",
+      "image": "assets/portraits/yehuda-guetta-chacham-dayan.webp",
+      "image_sha256": "c5641698fb791e619480151b80a21398b17742aff9cf14d4446bc242fb37ab25"
+    },
+    {
+      "id": "yeshaya-yitzhari-talmid-chacham",
+      "name": "Yeshaya Yitzhari Talmid Chacham",
+      "source_path": "Rav/Yeshaya Yitzhari Talmid Chacham.png",
+      "source_blob_sha": "69854a255a46e60f43ca4b0181b57a6ab36e2623",
+      "image": "assets/portraits/yeshaya-yitzhari-talmid-chacham.webp",
+      "image_sha256": "dd6495d8768257065ea74cdb934f79f7ef486ec39ea9c586f2df8759d0fa7dac"
+    },
+    {
+      "id": "yichya-tzadok-chacham-dayan",
+      "name": "Yichya Tzadok Chacham Dayan",
+      "source_path": "Rav/Yichya Tzadok Chacham Dayan.png",
+      "source_blob_sha": "bed1c4b068bc734b5c023435724e9e7227d1a162",
+      "image": "assets/portraits/yichya-tzadok-chacham-dayan.webp",
+      "image_sha256": "6c5a4b0e26dcb6ab4706dcb6af2cd1016b4319e4b35b4d9814e536a837808857"
+    },
+    {
+      "id": "yitzhak-elashvili-chacham-dayan",
+      "name": "Yitzhak Elashvili Chacham Dayan",
+      "source_path": "Rav/Yitzhak Elashvili Chacham Dayan.png",
+      "source_blob_sha": "a4dc24e47cf31d18e8ce7ff9d05a1d970397bbd9",
+      "image": "assets/portraits/yitzhak-elashvili-chacham-dayan.webp",
+      "image_sha256": "329284deb075ff0fe60abbac4f6452f0e6017e84c02bd2922fae49a8d3202b4e"
+    },
+    {
+      "id": "yitzhak-nawi-talmid-chacham",
+      "name": "Yitzhak Nawi Talmid Chacham",
+      "source_path": "Rav/Yitzhak Nawi Talmid Chacham.png",
+      "source_blob_sha": "6e10738ed7816f53631b0fe85e241101c75e353e",
+      "image": "assets/portraits/yitzhak-nawi-talmid-chacham.webp",
+      "image_sha256": "738d3dd9df258a76678bc2dfb5dc2cd5d805dc13bc67b3869fd55c83e9776d06"
+    },
+    {
+      "id": "yosef-hubara-chacham-dayan",
+      "name": "Yosef Hubara Chacham Dayan",
+      "source_path": "Rav/Yosef Hubara Chacham Dayan.png",
+      "source_blob_sha": "de902bda0db7c1243b7d8ee2623674c40833f9bd",
+      "image": "assets/portraits/yosef-hubara-chacham-dayan.webp",
+      "image_sha256": "3717f2a5caa1703dc66019ec8432aaf48c30c533afbae2e02c2e12c17b7fa09d"
+    },
+    {
+      "id": "yosef-kalontarov-chacham-dayan",
+      "name": "Yosef Kalontarov Chacham Dayan",
+      "source_path": "Rav/Yosef Kalontarov Chacham Dayan.png",
+      "source_blob_sha": "77c7542c3de879f5c4846255c980c69ff9959265",
+      "image": "assets/portraits/yosef-kalontarov-chacham-dayan.webp",
+      "image_sha256": "f0ffe3265fb40475907521d06b39730f2c6841e35c6dfd05f18324f9da9c3311"
+    },
+    {
+      "id": "yosef-somekh-av-beit-din",
+      "name": "Yosef Somekh - Av Beit Din",
+      "source_path": "Rav/Yosef Somekh - Av Beit Din.png",
+      "source_blob_sha": "962d1b1c5ec995360c827e6925d64acc4a9d8f42",
+      "image": "assets/portraits/yosef-somekh-av-beit-din.webp",
+      "image_sha256": "5124b28405d250fd939bfc46bf399e6c7adef45755773d413a5f451be9a2a3db"
+    },
+    {
+      "id": "yosef-zaken-chacham-dayan",
+      "name": "Yosef Zaken Chacham Dayan",
+      "source_path": "Rav/Yosef Zaken Chacham Dayan.png",
+      "source_blob_sha": "2c7d553838f089c2e8cbad7091207cdc7d51bb9e",
+      "image": "assets/portraits/yosef-zaken-chacham-dayan.webp",
+      "image_sha256": "af51db571ca990ea57ef2691a8291ae7d505ebb674f994101400be998f07c20d"
+    },
+    {
+      "id": "yosef-zonana-chacham-dayan",
+      "name": "Yosef Zonana Chacham Dayan",
+      "source_path": "Rav/Yosef Zonana Chacham Dayan.png",
+      "source_blob_sha": "6eeee8b8f866935f694e358969a0bc0022c58e6b",
+      "image": "assets/portraits/yosef-zonana-chacham-dayan.webp",
+      "image_sha256": "d65b5b46dfd0e528c4c75540bf0e2e7ae5cb27a6429e4c32d06ad62914378e38"
+    },
+    {
+      "id": "zecharya-damari-chacham-dayan",
+      "name": "Zecharya Damari Chacham Dayan",
+      "source_path": "Rav/Zecharya Damari Chacham Dayan.png",
+      "source_blob_sha": "edca7bc539e4657d4683d3f64903f4ba6fbc3f4d",
+      "image": "assets/portraits/zecharya-damari-chacham-dayan.webp",
+      "image_sha256": "28af33d1c4ffed0119d8f3b86c0c5726172a96251112b20ece76b1d62de6288f"
+    }
+  ],
+  "duplicate_files": [
+    {
+      "path": "Rav/Refael Toledano-חכם ודיין · Chacham & Dayan.png",
+      "same_as": "Rav/Refael Toledano Chacham Dayan.png"
+    }
+  ]
+}
