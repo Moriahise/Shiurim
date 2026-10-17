@@ -2,6 +2,30 @@
   "schema": 1,
   "sources": [
     {
+      "id": "genesis-1-27",
+      "provider": "sefaria",
+      "language": "he",
+      "reference_en": "Genesis 1:27",
+      "reference_he": "בראשית א׳:כ״ז",
+      "url": "https://www.sefaria.org/Genesis.1.27",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-17T02:43:30.162459+00:00",
+      "hebrew": "וַיִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃"
+    },
+    {
+      "id": "genesis-1-31",
+      "provider": "sefaria",
+      "language": "he",
+      "reference_en": "Genesis 1:31",
+      "reference_he": "בראשית א׳:ל״א",
+      "url": "https://www.sefaria.org/Genesis.1.31",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-17T02:43:30.176291+00:00",
+      "hebrew": "וַיַּ֤רְא אֱלֹהִים֙ אֶת־כׇּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי׃ {פ}"
+    },
+    {
       "id": "genesis-11-4",
       "reference_en": "Genesis 11:4",
       "reference_he": "בראשית י״א:ד׳",
@@ -10,6 +34,54 @@
       "license": "CC-BY-SA",
       "retrieved_at": "2026-10-16T18:44:42.175133+00:00",
       "hebrew": "וַיֹּאמְר֞וּ הָ֣בָה ׀ נִבְנֶה־לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם פֶּן־נָפ֖וּץ עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃"
+    },
+    {
+      "id": "genesis-2-15",
+      "provider": "sefaria",
+      "language": "he",
+      "reference_en": "Genesis 2:15",
+      "reference_he": "בראשית ב׳:ט״ו",
+      "url": "https://www.sefaria.org/Genesis.2.15",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-17T02:43:30.145160+00:00",
+      "hebrew": "וַיִּקַּ֛ח יְהֹוָ֥ה אֱלֹהִ֖ים אֶת־הָֽאָדָ֑ם וַיַּנִּחֵ֣הוּ בְגַן־עֵ֔דֶן לְעׇבְדָ֖הּ וּלְשׇׁמְרָֽהּ׃"
+    },
+    {
+      "id": "genesis-2-3",
+      "provider": "sefaria",
+      "language": "he",
+      "reference_en": "Genesis 2:3",
+      "reference_he": "בראשית ב׳:ג׳",
+      "url": "https://www.sefaria.org/Genesis.2.3",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-17T02:43:30.103363+00:00",
+      "hebrew": "וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכׇּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת׃ {פ}"
+    },
+    {
+      "id": "genesis-3-9",
+      "provider": "sefaria",
+      "language": "he",
+      "reference_en": "Genesis 3:9",
+      "reference_he": "בראשית ג׳:ט׳",
+      "url": "https://www.sefaria.org/Genesis.3.9",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-17T02:43:30.121512+00:00",
+      "hebrew": "וַיִּקְרָ֛א יְהֹוָ֥ה אֱלֹהִ֖ים אֶל־הָֽאָדָ֑ם וַיֹּ֥אמֶר ל֖וֹ אַיֶּֽכָּה׃"
+    },
+    {
+      "id": "genesis-4-9",
+      "provider": "sefaria",
+      "language": "he",
+      "reference_en": "Genesis 4:9",
+      "reference_he": "בראשית ד׳:ט׳",
+      "url": "https://www.sefaria.org/Genesis.4.9",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-17T02:43:30.193292+00:00",
+      "hebrew": "וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־קַ֔יִן אֵ֖י הֶ֣בֶל אָחִ֑יךָ וַיֹּ֙אמֶר֙ לֹ֣א יָדַ֔עְתִּי הֲשֹׁמֵ֥ר אָחִ֖י אָנֹֽכִי׃"
     },
     {
       "id": "genesis-6-22",

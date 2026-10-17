@@ -2,6 +2,19 @@
   "schema": 1,
   "editions": [
     {
+      "id": "5787-bereshit-responsibility",
+      "title": {
+        "en": "A world entrusted to us",
+        "he": "עולם שהופקד בידינו"
+      },
+      "parashah": {
+        "en": "Bereshit",
+        "he": "בראשית"
+      },
+      "target_shabbat": "2026-10-10",
+      "category": "tanach"
+    },
+    {
       "id": "5787-noach-responsibility",
       "title": {
         "en": "Beyond the ark",
