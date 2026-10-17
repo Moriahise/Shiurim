@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-10-17T22:27:29.371508+03:00",
+  "calculated_at": "2026-10-18T01:23:46.555531+03:00",
   "timezone": "Asia/Jerusalem",
   "weeks": [
-    {
-      "target_shabbat": "2026-10-17",
-      "hebrew_date": "ו׳ חשון תשפ״ז",
-      "israel": {
-        "en": "Noach",
-        "he": "נח"
-      },
-      "diaspora": {
-        "en": "Noach",
-        "he": "נח"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": true
-    },
     {
       "target_shabbat": "2026-10-24",
       "hebrew_date": "י״ג חשון תשפ״ז",
@@ -834,6 +818,22 @@
       "festival": null,
       "festival_he": null,
       "has_weekly_parashah": true
+    },
+    {
+      "target_shabbat": "2027-10-16",
+      "hebrew_date": "ט״ו תשרי תשפ״ח",
+      "israel": {
+        "en": "Succos",
+        "he": "סוכות"
+      },
+      "diaspora": {
+        "en": "Succos",
+        "he": "סוכות"
+      },
+      "different_readings": false,
+      "festival": "Succos",
+      "festival_he": "סוכות",
+      "has_weekly_parashah": false
     }
   ]
 }
