@@ -155,7 +155,7 @@
       const button=node('button',title,'source-title');button.type='button';button.dir='auto';
       button.addEventListener('click',()=>provider==='sanhedrin'?openSanhedrin(item):openBook(item));
       card.append(button,node('p',provider==='sanhedrin'?item.excerpt:item.categories.join(' › ')));
-      const meta=provider==='sanhedrin' ? `${item.provider} · ${item.answers} ${text('answers','תשובות')}${item.needs_review?' · '+text('category needs review','הקטגוריה טעונה בדיקה'):''}` : Object.keys(item.languages).join(' / ');
+      const meta=provider==='sanhedrin' ? `${item.provider} · ${item.answers} ${text('answers','תשובות')}` : Object.keys(item.languages).join(' / ');
       card.append(node('small',meta));section.append(card);
     });
     return section;
@@ -190,13 +190,7 @@
     const meta=node('p',`${dossier.provider} · ${dossier.version} · ${dossier.license || 'unrecorded'}`,'source-reader-meta');
     const passage=node('div',dossier.text,'source-reader-text');passage.dir=dossier.language==='he'?'rtl':'ltr';passage.lang=dossier.language;
     const actions=node('div',undefined,'source-reader-actions');actions.append(link(text('Original source ↗','המקור המקורי ↗'),dossier.url),...extraLinks);
-    const save=node('button',text('Save source dossier','שמירת תיק המקור'),'button');save.type='button';
-    save.addEventListener('click',()=>{
-      const blob=new Blob([JSON.stringify(dossier,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);
-      const a=document.createElement('a');a.href=url;a.download=dossier.id+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
-    });actions.append(save);
-    const note=node('p',text('Research copy. Check the passage, interpretation, attribution, and license before using it in a published shiur.','עותק למחקר. לפני שילוב בשיעור שיפורסם יש לבדוק את הקטע, הפרשנות, הייחוס והרישיון.'),'source-help');
-    reader.replaceChildren(heading,meta,actions,passage,note);feedback(text('Source loaded.','המקור נטען.'));
+    reader.replaceChildren(heading,meta,actions,passage);feedback(text('Source loaded.','המקור נטען.'));
   }
   async function openSanhedrin(item) {
     const epoch=++readerEpoch;feedback(text('Reading the selected Sanhedrin record…','קוראים את הרשומה שנבחרה…'));
@@ -208,7 +202,7 @@
       const {base,m}=await sanhedrin();
       const parts=[plain(q.question_html)];
       q.answers.forEach(a=>parts.push(plain(a.html)));
-      const dossier={id:'sanhedrin-'+digest.slice(0,20),provider:'sanhedrin',language:q.language||'he',reference_en:q.title_en||q.title,reference_he:q.title_he||'סנהדרין · '+q.id,url:base+'qa.html?id='+encodeURIComponent(q.id),original_url:q.url,version:m.release,license:q.license||'unrecorded',author:q.author,answers_attribution:q.answers.map(({html,...a})=>a),retrieved_at:new Date().toISOString(),text:parts.filter(Boolean).join('\n\n'),origin:{public_id:q.id,release:m.release,data_base:m.data_base},review_status:'research_capture_only'};
+      const dossier={id:'sanhedrin-'+digest.slice(0,20),provider:'sanhedrin',language:q.language||'he',reference_en:q.title_en||q.title,reference_he:q.title_he||'סנהדרין · '+q.id,url:base+'qa.html?id='+encodeURIComponent(q.id),original_url:q.url,version:m.release,license:q.license||'unrecorded',author:q.author,answers_attribution:q.answers.map(({html,...a})=>a),retrieved_at:new Date().toISOString(),text:parts.filter(Boolean).join('\n\n'),origin:{public_id:q.id,release:m.release,data_base:m.data_base}};
       await showDossier(dossier,epoch);
     } catch(error) {if(epoch===readerEpoch) feedback(error.message);}
   }
@@ -218,7 +212,7 @@
     const isHebrew=language==='Hebrew';const parts=flattenText(data[isHebrew?'he':'text']);
     if (!parts.length) throw Error(text('No text in the selected language.','אין טקסט בשפה שנבחרה.'));
     const version=data[isHebrew?'heVersionTitle':'versionTitle']||'unrecorded';
-    return {id:'sefaria-'+(await hash(data.ref+'|'+language+'|'+version)).slice(0,20),provider:'sefaria',language:isHebrew?'he':'en',reference_en:data.ref,reference_he:data.heRef||'ספריא',url:'https://www.sefaria.org/'+encodeURIComponent(data.ref.replaceAll(' ','_')),version,version_source:data[isHebrew?'heVersionSource':'versionSource'],license:data[isHebrew?'heLicense':'license']||'unrecorded',retrieved_at:new Date().toISOString(),text:parts.join('\n'),origin:{resolved_ref:data.ref,retrieval:'exact-reference-api'},review_status:'research_capture_only'};
+    return {id:'sefaria-'+(await hash(data.ref+'|'+language+'|'+version)).slice(0,20),provider:'sefaria',language:isHebrew?'he':'en',reference_en:data.ref,reference_he:data.heRef||'ספריא',url:'https://www.sefaria.org/'+encodeURIComponent(data.ref.replaceAll(' ','_')),version,version_source:data[isHebrew?'heVersionSource':'versionSource'],license:data[isHebrew?'heLicense':'license']||'unrecorded',retrieved_at:new Date().toISOString(),text:parts.join('\n'),origin:{resolved_ref:data.ref,retrieval:'exact-reference-api'}};
   }
   let works = [], selectedBook = null, sectionList = [], selectedPassage = null, pickerEpoch = 0;
   const structures = new Map();

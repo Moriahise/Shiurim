@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "editions": [
+    {
+      "id": "5787-noach-responsibility",
+      "title": {
+        "en": "Beyond the ark",
+        "he": "מעבר לתיבה"
+      },
+      "parashah": {
+        "en": "Noach",
+        "he": "נח"
+      },
+      "target_shabbat": "2026-10-17",
+      "category": "tanach"
+    }
+  ]
+}

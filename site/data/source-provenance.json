@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "sources": [
+    {
+      "id": "genesis-11-4",
+      "reference_en": "Genesis 11:4",
+      "reference_he": "בראשית י״א:ד׳",
+      "url": "https://www.sefaria.org/Genesis.11.4",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-16T18:44:42.175133+00:00",
+      "hebrew": "וַיֹּאמְר֞וּ הָ֣בָה ׀ נִבְנֶה־לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה־לָּ֖נוּ שֵׁ֑ם פֶּן־נָפ֖וּץ עַל־פְּנֵ֥י כׇל־הָאָֽרֶץ׃"
+    },
+    {
+      "id": "genesis-6-22",
+      "reference_en": "Genesis 6:22",
+      "reference_he": "בראשית ו׳:כ״ב",
+      "url": "https://www.sefaria.org/Genesis.6.22",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-16T18:44:42.085883+00:00",
+      "hebrew": "וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה׃"
+    },
+    {
+      "id": "genesis-6-9",
+      "reference_en": "Genesis 6:9",
+      "reference_he": "בראשית ו׳:ט׳",
+      "url": "https://www.sefaria.org/Genesis.6.9",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-16T18:44:41.914927+00:00",
+      "hebrew": "אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים הִֽתְהַלֶּךְ־נֹֽחַ׃"
+    },
+    {
+      "id": "genesis-8-16",
+      "reference_en": "Genesis 8:16",
+      "reference_he": "בראשית ח׳:ט״ז",
+      "url": "https://www.sefaria.org/Genesis.8.16",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-16T18:44:42.101717+00:00",
+      "hebrew": "צֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ׃"
+    },
+    {
+      "id": "genesis-8-20",
+      "reference_en": "Genesis 8:20",
+      "reference_he": "בראשית ח׳:כ׳",
+      "url": "https://www.sefaria.org/Genesis.8.20",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-16T18:44:42.100893+00:00",
+      "hebrew": "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל ׀ הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃"
+    },
+    {
+      "id": "genesis-9-9",
+      "reference_en": "Genesis 9:9",
+      "reference_he": "בראשית ט׳:ט׳",
+      "url": "https://www.sefaria.org/Genesis.9.9",
+      "version": "Miqra according to the Masorah",
+      "license": "CC-BY-SA",
+      "retrieved_at": "2026-10-16T18:44:42.003824+00:00",
+      "hebrew": "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃"
+    }
+  ]
+}
