@@ -26,6 +26,19 @@
       },
       "target_shabbat": "2026-10-17",
       "category": "tanach"
+    },
+    {
+      "id": "5787-2026-10-24",
+      "title": {
+        "en": "Lech Lecha: What Leaving Makes Possible",
+        "he": "לך לך: מה היציאה מאפשרת"
+      },
+      "parashah": {
+        "en": "Lech Lecha",
+        "he": "לך לך"
+      },
+      "target_shabbat": "2026-10-24",
+      "category": "tanach"
     }
   ]
 }
