@@ -13,3 +13,5 @@ Weitere Aktualisierungen verwalten ausschließlich `site/`. Deshalb bleibt diese
 Prüfen: `python3 -m unittest discover -s reader/tests -q`
 
 Erstellen: `python3 reader/portraits.py --source site --output _site`
+
+Die vollständige Auslieferung einschließlich Feiertagen, Haftarot und erhaltenen früheren Jahreszyklen ist auf 50.000.000 Bytes begrenzt. Die alte Pilotgrenze von 20 MB reichte für diese Sammlungen zusammen nicht aus. Die vorgeschaltete Prüfung der unveränderten Redaktionskopie und ihre Pfadfreigabeliste bleiben bestehen.

@@ -182,7 +182,7 @@ def apply(site,data_path,reader=ROOT/'reader'):
         row=ET.SubElement(tree.getroot(),'{'+ns+'}url');ET.SubElement(row,'{'+ns+'}loc').text=BASE+path
     tree.write(site/'sitemap.xml',encoding='utf-8',xml_declaration=True)
     total=sum(p.stat().st_size for p in site.rglob('*') if p.is_file())
-    if total>=20_000_000:raise ValueError('Reader size limit exceeded')
+    if total>=portrait.MAX_READER_BYTES:raise ValueError('Reader size limit exceeded')
     return {'cycle_year':year,'archive_studies':54,'total_studies':len(catalogue['editions']),'reader_bytes':total}
 
 

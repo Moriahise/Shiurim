@@ -16,6 +16,8 @@ import shutil
 
 ROOT = Path(__file__).resolve().parents[1]
 MARKER = 'data-rabbi-portrait'
+# Complete study collections and two preserved cycles exceed the former pilot budget.
+MAX_READER_BYTES = 50_000_000
 FESTIVALS = {
     'pesach': 54, 'passover': 54,
     'rosh hashana': 55, 'rosh hashanah': 55,
@@ -191,7 +193,7 @@ def build(source, output, reader=ROOT/'reader'):
         if raw[:4] != b'RIFF' or raw[8:12] != b'WEBP' or sha256(raw).hexdigest() != profile['image_sha256']:
             raise ValueError('Portrait checksum or format differs')
         shutil.copyfile(picture, output/profile['image'])
-    if sum(p.stat().st_size for p in output.rglob('*') if p.is_file()) >= 20_000_000: raise ValueError('Reader size limit exceeded')
+    if sum(p.stat().st_size for p in output.rglob('*') if p.is_file()) >= MAX_READER_BYTES: raise ValueError('Reader size limit exceeded')
     print(json.dumps({'reader_editions': len(assigned), 'available_portraits': len(profiles),
                       'assigned': {eid: p['id'] for eid, p in assigned.items()}}, ensure_ascii=False))
 
