@@ -1,0 +1,135 @@
+Haftarah · Toldot
+הפטרה · תולדות
+
+What responsibilities follow from being called beloved? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+אילו חובות נובעות מן ההכרזה על אהבה? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What responsibilities follow from being called beloved?
+אילו חובות נובעות מן ההכרזה על אהבה?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Malachi 1:1
+The people ask how divine love has been shown. Jacob and Esau appear within a dispute about the meaning of covenant. The opening is a contested conversation, not permission to turn election into a judgment about the worth of individual human beings.
+העם שואל במה ניכרת אהבת האל. יעקב ועשו מופיעים בתוך ויכוח על משמעות הברית. זו פתיחה של שיחה טעונה, ולא היתר להפוך בחירה להערכת ערכו של כל אדם יחיד.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Malachi 1:8
+Defective offerings expose a gap between professed honor and actual practice. The comparison with a governor makes the argument deliberately concrete. Ask whether worship gives God what is convenient to discard while preserving the language of reverence.
+הקרבנות הפגומים חושפים פער בין כבוד מוצהר לבין מעשה. ההשוואה לפחה הופכת את הטענה למוחשית. יש לשאול אם העבודה נותנת לאל את מה שנוח להשליך, אך משמרת את לשון היראה.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Malachi 2:7
+The ending locates priestly authority in preserving knowledge and making Torah available. Descent alone does not complete the vocation. Read the covenant with Levi as a standard against which inherited leadership is tested, rather than a shield from criticism.
+הסיום מעמיד את סמכות הכהן על שמירת דעת והנגשת תורה. הייחוס לבדו אינו משלים את השליחות. ברית לוי היא אמת מידה לבחינת הנהגה העוברת בירושה, ולא מחסה מפני ביקורת.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Malachi 1:1-2:7
+Malachi 1:1
+מַשָּׂ֥א דְבַר־יְהֹוָ֖ה אֶל־יִשְׂרָאֵ֑ל בְּיַ֖ד מַלְאָכִֽי׃
+The burden of the word of the LORD to Israel by Malachi.
+Malachi 1:2
+אָהַ֤בְתִּי אֶתְכֶם֙ אָמַ֣ר יְהֹוָ֔ה וַאֲמַרְתֶּ֖ם בַּמָּ֣ה אֲהַבְתָּ֑נוּ הֲלוֹא־אָ֨ח עֵשָׂ֤ו לְיַֽעֲקֹב֙ נְאֻם־יְהֹוָ֔ה וָאֹהַ֖ב אֶֽת־יַעֲקֹֽב׃
+I have loved you, saith the LORD. Yet ye say: ‘Wherein hast Thou loved us?’ Was not Esau Jacob’s brother? Saith the LORD; Yet I loved Jacob;
+Malachi 1:3
+וְאֶת־עֵשָׂ֖ו שָׂנֵ֑אתִי וָאָשִׂ֤ים אֶת־הָרָיו֙ שְׁמָמָ֔ה וְאֶת־נַחֲלָת֖וֹ לְתַנּ֥וֹת מִדְבָּֽר׃
+But Esau I hated, And made his mountains a desolation, And gave his heritage to the jackals of the wilderness.
+Malachi 1:4
+כִּי־תֹאמַ֨ר אֱד֜וֹם רֻשַּׁ֗שְׁנוּ וְנָשׁוּב֙ וְנִבְנֶ֣ה חֳרָב֔וֹת כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת הֵ֥מָּה יִבְנ֖וּ וַאֲנִ֣י אֶהֱר֑וֹס וְקָרְא֤וּ לָהֶם֙ גְּב֣וּל רִשְׁעָ֔ה וְהָעָ֛ם אֲשֶׁר־זָעַ֥ם יְהֹוָ֖ה עַד־עוֹלָֽם׃
+Whereas Edom saith: ‘We are beaten down, But we will return and build the waste places’; Thus saith the LORD of hosts: They shall build, but I will throw down; And they shall be called The border of wickedness, And The people whom the LORD execrateth for ever.
+Malachi 1:5
+וְעֵינֵיכֶ֖ם תִּרְאֶ֑ינָה וְאַתֶּ֤ם תֹּֽאמְרוּ֙ יִגְדַּ֣ל יְהֹוָ֔ה מֵעַ֖ל לִגְב֥וּל יִשְׂרָאֵֽל׃
+And your eyes shall see, And ye shall say: ‘The LORD is great beyond the border of Israel.’
+Malachi 1:6
+בֵּ֛ן יְכַבֵּ֥ד אָ֖ב וְעֶ֣בֶד אֲדֹנָ֑יו וְאִם־אָ֣ב אָ֣נִי אַיֵּ֣ה כְבוֹדִ֡י וְאִם־אֲדוֹנִ֣ים אָ֩נִי֩ אַיֵּ֨ה מוֹרָאִ֜י אָמַ֣ר  ׀  יְהֹוָ֣ה צְבָא֗וֹת לָכֶם֙ הַכֹּֽהֲנִים֙ בּוֹזֵ֣י שְׁמִ֔י וַאֲמַרְתֶּ֕ם בַּמֶּ֥ה בָזִ֖ינוּ אֶת־שְׁמֶֽךָ׃
+A son honoureth his father, And a servant his master; If then I be a father, Where is My honour? And if I be a master, Where is My fear? Saith the LORD of hosts Unto you, O priests, that despise My name. And ye say: ‘Wherein have we despised Thy name?’
+Malachi 1:7
+מַגִּישִׁ֤ים עַֽל־מִזְבְּחִי֙ לֶ֣חֶם מְגֹאָ֔ל וַאֲמַרְתֶּ֖ם בַּמֶּ֣ה גֵאַלְנ֑וּךָ בֶּאֱמׇרְכֶ֕ם שֻׁלְחַ֥ן יְהֹוָ֖ה נִבְזֶ֥ה הֽוּא׃
+Ye offer polluted bread upon Mine altar. And ye say: ‘Wherein have we polluted thee?’ In that ye say: ‘The table of the LORD is contemptible.’
+Malachi 1:8
+וְכִי־תַגִּישׁ֨וּן עִוֵּ֤ר לִזְבֹּ֙חַ֙ אֵ֣ין רָ֔ע וְכִ֥י תַגִּ֛ישׁוּ פִּסֵּ֥חַ וְחֹלֶ֖ה אֵ֣ין רָ֑ע הַקְרִיבֵ֨הוּ נָ֜א לְפֶחָתֶ֗ךָ הֲיִרְצְךָ֙ א֚וֹ הֲיִשָּׂ֣א פָנֶ֔יךָ אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃
+And when ye offer the blind for sacrifice, is it no evil! And when ye offer the lame and sick, is it no evil! Present it now unto thy governor; will he be pleased with thee? Or will he accept thy person? Saith the LORD of hosts.
+Malachi 1:9
+וְעַתָּ֛ה חַלּוּ־נָ֥א פְנֵי־אֵ֖ל וִֽיחׇנֵּ֑נוּ מִיֶּדְכֶם֙ הָ֣יְתָה זֹּ֔את הֲיִשָּׂ֤א מִכֶּם֙ פָּנִ֔ים אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃
+And now, I pray you, entreat the favour of God That He may be gracious unto us!— This hath been of your doing.— Will He accept any of your persons? Saith the LORD of hosts.
+Malachi 1:10
+מִ֤י גַם־בָּכֶם֙ וְיִסְגֹּ֣ר דְּלָתַ֔יִם וְלֹא־תָאִ֥ירוּ מִזְבְּחִ֖י חִנָּ֑ם אֵֽין־לִ֨י חֵ֜פֶץ בָּכֶ֗ם אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת וּמִנְחָ֖ה לֹא־אֶרְצֶ֥ה מִיֶּדְכֶֽם׃
+Oh that there were even one among you that would shut the doors, That ye might not kindle fire on Mine altar in vain! I have no pleasure in you, Saith the LORD of hosts, Neither will I accept an offering at your hand.
+Malachi 1:11
+כִּ֣י מִמִּזְרַח־שֶׁ֜מֶשׁ וְעַד־מְבוֹא֗וֹ גָּד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם וּבְכׇל־מָק֗וֹם מֻקְטָ֥ר מֻגָּ֛שׁ לִשְׁמִ֖י וּמִנְחָ֣ה טְהוֹרָ֑ה כִּֽי־גָד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃
+For from the rising of the sun even unto the going down of the same My name is great among the nations; And in every place offerings are presented unto My name, Even pure oblations; For My name is great among the nations, Saith the LORD of hosts.
+Malachi 1:12
+וְאַתֶּ֖ם מְחַלְּלִ֣ים אוֹת֑וֹ בֶּאֱמׇרְכֶ֗ם שֻׁלְחַ֤ן אֲדֹנָי֙ מְגֹאָ֣ל ה֔וּא וְנִיב֖וֹ נִבְזֶ֥ה אׇכְלֽוֹ׃
+But ye profane it, In that ye say: ‘The table of the LORD is polluted, And the fruit thereof, even the food thereof, is contemptible.’
+Malachi 1:13
+וַאֲמַרְתֶּם֩ הִנֵּ֨ה מַתְּלָאָ֜ה וְהִפַּחְתֶּ֣ם אוֹת֗וֹ אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת וַהֲבֵאתֶ֣ם גָּז֗וּל וְאֶת־הַפִּסֵּ֙חַ֙ וְאֶת־הַ֣חוֹלֶ֔ה וַהֲבֵאתֶ֖ם אֶת־הַמִּנְחָ֑ה הַאֶרְצֶ֥ה אוֹתָ֛הּ מִיֶּדְכֶ֖ם אָמַ֥ר יְהֹוָֽה׃  {ס}
+Ye say also: ‘Behold, what a weariness is it!’ And ye have snuffed at it, Saith the LORD of hosts; And ye have brought that which was taken by violence, And the lame, and the sick; Thus ye bring the offering; Should I accept this of your hand? Saith the LORD.
+Malachi 1:14
+וְאָר֣וּר נוֹכֵ֗ל וְיֵ֤שׁ בְּעֶדְרוֹ֙ זָכָ֔ר וְנֹדֵ֛ר וְזֹבֵ֥חַ מׇשְׁחָ֖ת לַאדֹנָ֑י כִּי֩ מֶ֨לֶךְ גָּד֜וֹל אָ֗נִי אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת וּשְׁמִ֖י נוֹרָ֥א בַגּוֹיִֽם׃
+But cursed be he that dealeth craftily, Whereas he hath in his flock a male, And voweth, and sacrificeth unto the Lord a blemished thing; For I am a great King, Saith the LORD of hosts, And My name is feared among the nations.
+Malachi 2:1
+וְעַתָּ֗ה אֲלֵיכֶ֛ם הַמִּצְוָ֥ה הַזֹּ֖את הַכֹּהֲנִֽים׃
+And now, this commandment Is for you, O ye priests.
+Malachi 2:2
+אִם־לֹ֣א תִשְׁמְע֡וּ וְאִם־לֹא֩ תָשִׂ֨ימוּ עַל־לֵ֜ב לָתֵ֧ת כָּב֣וֹד לִשְׁמִ֗י אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת וְשִׁלַּחְתִּ֤י בָכֶם֙ אֶת־הַמְּאֵרָ֔ה וְאָרוֹתִ֖י אֶת־בִּרְכוֹתֵיכֶ֑ם וְגַם֙ אָרוֹתִ֔יהָ כִּ֥י אֵינְכֶ֖ם שָׂמִ֥ים עַל־לֵֽב׃
+If ye will not hearken, and if ye will not lay it to heart, To give glory unto My name, Saith the LORD of hosts, Then will I send the curse upon you, And I will curse your blessings; Yea, I curse them, Because ye do not lay it to heart.
+Malachi 2:3
+הִנְנִ֨י גֹעֵ֤ר לָכֶם֙ אֶת־הַזֶּ֔רַע וְזֵרִ֤יתִֽי פֶ֙רֶשׁ֙ עַל־פְּנֵיכֶ֔ם פֶּ֖רֶשׁ חַגֵּיכֶ֑ם וְנָשָׂ֥א אֶתְכֶ֖ם אֵלָֽיו׃
+Behold, I will rebuke the seed for your hurt, And will spread dung upon your faces, Even the dung of your sacrifices; And ye shall be taken away unto it.
+Malachi 2:4
+וִידַעְתֶּ֕ם כִּ֚י שִׁלַּ֣חְתִּי אֲלֵיכֶ֔ם אֵ֖ת הַמִּצְוָ֣ה הַזֹּ֑את לִהְי֤וֹת בְּרִיתִי֙ אֶת־לֵוִ֔י אָמַ֖ר יְהֹוָ֥ה צְבָאֽוֹת׃
+Know then that I have sent This commandment unto you, That My covenant might be with Levi, Saith the LORD of hosts.
+Malachi 2:5
+בְּרִיתִ֣י  ׀  הָיְתָ֣ה אִתּ֗וֹ הַֽחַיִּים֙ וְהַשָּׁל֔וֹם וָאֶתְּנֵֽם־ל֥וֹ מוֹרָ֖א וַיִּֽירָאֵ֑נִי וּמִפְּנֵ֥י שְׁמִ֖י נִחַ֥ת הֽוּא׃
+My covenant was with him Of life and peace, and I gave them to him, And of fear, and he feared Me, And was afraid of My name.
+Malachi 2:6
+תּוֹרַ֤ת אֱמֶת֙ הָיְתָ֣ה בְּפִ֔יהוּ וְעַוְלָ֖ה לֹא־נִמְצָ֣א בִשְׂפָתָ֑יו בְּשָׁל֤וֹם וּבְמִישׁוֹר֙ הָלַ֣ךְ אִתִּ֔י וְרַבִּ֖ים הֵשִׁ֥יב מֵעָוֺֽן׃
+The law of truth was in his mouth, And unrighteousness was not found in his lips; He walked with Me in peace and uprightness, And did turn many away from iniquity.
+Malachi 2:7
+כִּֽי־שִׂפְתֵ֤י כֹהֵן֙ יִשְׁמְרוּ־דַ֔עַת וְתוֹרָ֖ה יְבַקְשׁ֣וּ מִפִּ֑יהוּ כִּ֛י מַלְאַ֥ךְ יְהֹוָֽה־צְבָא֖וֹת הֽוּא׃
+For the priest’s lips should keep knowledge, And they should seek the law at his mouth; For he is the messenger of the LORD of hosts.
+https://www.sefaria.org/Malachi%201
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Malachi%202
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

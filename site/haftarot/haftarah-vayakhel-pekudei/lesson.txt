@@ -1,0 +1,258 @@
+Haftarah · Vayakhel-Pekudei
+הפטרה · ויקהל־פקודי
+
+When is a completed building ready to become a place of presence? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מתי נעשה בניין שהושלם למקום של נוכחות? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+When is a completed building ready to become a place of presence?
+מתי נעשה בניין שהושלם למקום של נוכחות?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+I Kings 7:51
+Completion includes bringing David’s dedicated objects into the treasuries. Solomon’s achievement is placed within an inherited undertaking. The opening distinguishes finishing a task from claiming sole authorship of everything that made it possible.
+השלמת המלאכה כוללת הבאת הקדשות דוד לאוצרות. הישג שלמה ממוקם בתוך מפעל שהחל לפניו. הפתיחה מבחינה בין סיום המשימה לבין תביעה לבעלות יחידה על כל מה שאפשר אותה.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+I Kings 8:10
+The cloud filling the house interrupts the priests’ ordinary capacity to stand and serve. Presence is not another object placed within the inventory. The narrative moves from carefully managed construction to an encounter that exceeds the builders’ control.
+הענן הממלא את הבית מפסיק את יכולת הכהנים לעמוד ולשרת. הנוכחות אינה עוד חפץ במניין הכלים. הסיפור עובר מבנייה מנוהלת בקפדנות למפגש החורג משליטת הבונים.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+I Kings 8:21
+Solomon locates the ark and covenant at the center of the completed house. The conclusion ties the new institution to the Exodus. The shorter Sephardic reading, 7:40–50, remains with the vessels; its craft emphasis must be read on its own terms.
+שלמה מעמיד את הארון ואת הברית במרכז הבית שהושלם. הסיום קושר את המוסד החדש ליציאת מצרים. הקריאה הספרדית הקצרה, ז׳:מ׳–נ׳, נותרת בכלים; את דגש המלאכה שבה יש לקרוא בפני עצמו.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+I Kings 7:51-8:21
+I Kings 7:51
+וַתִּשְׁלַם֙ כׇּל־הַמְּלָאכָ֔ה אֲשֶׁ֥ר עָשָׂ֛ה הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֣ית יְהֹוָ֑ה וַיָּבֵ֨א שְׁלֹמֹ֜ה אֶת־קׇדְשֵׁ֣י  ׀  דָּוִ֣ד אָבִ֗יו אֶת־הַכֶּ֤סֶף וְאֶת־הַזָּהָב֙ וְאֶת־הַכֵּלִ֔ים נָתַ֕ן בְּאֹצְר֖וֹת בֵּ֥ית יְהֹוָֽה׃  {פ}
+Thus all the work that king Solomon wrought in the house of the LORD was finished. And Solomon brought in the things which David his father had dedicated, the silver, and the gold, and the vessels, and put them in the treasuries of the house of the LORD.
+I Kings 8:1
+אָ֣ז יַקְהֵ֣ל שְׁלֹמֹ֣ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֡ל אֶת־כׇּל־רָאשֵׁ֣י הַמַּטּוֹת֩ נְשִׂיאֵ֨י הָאָב֜וֹת לִבְנֵ֧י יִשְׂרָאֵ֛ל אֶל־הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה יְרוּשָׁלָ֑͏ִם לְֽהַעֲל֞וֹת אֶת־אֲר֧וֹן בְּרִית־יְהֹוָ֛ה מֵעִ֥יר דָּוִ֖ד הִ֥יא צִיּֽוֹן׃
+Then Solomon assembled the elders of Israel, and all the heads of the tribes, the princes of the fathers’houses of the children of Israel, unto king Solomon in Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion.
+I Kings 8:2
+וַיִּקָּ֨הֲל֜וּ אֶל־הַמֶּ֤לֶךְ שְׁלֹמֹה֙ כׇּל־אִ֣ישׁ יִשְׂרָאֵ֔ל בְּיֶ֥רַח הָאֵתָנִ֖ים בֶּחָ֑ג ה֖וּא הַחֹ֥דֶשׁ הַשְּׁבִיעִֽי׃
+And all the men of Israel assembled themselves unto king Solomon at the feast, in the month Ethanim, which is the seventh month.
+I Kings 8:3
+וַיָּבֹ֕אוּ כֹּ֖ל זִקְנֵ֣י יִשְׂרָאֵ֑ל וַיִּשְׂא֥וּ הַכֹּהֲנִ֖ים אֶת־הָאָרֽוֹן׃
+And all the elders of Israel came, and the priests took up the ark.
+I Kings 8:4
+וַֽיַּעֲל֞וּ אֶת־אֲר֤וֹן יְהֹוָה֙ וְאֶת־אֹ֣הֶל מוֹעֵ֔ד וְאֶת־כׇּל־כְּלֵ֥י הַקֹּ֖דֶשׁ אֲשֶׁ֣ר בָּאֹ֑הֶל וַיַּעֲל֣וּ אֹתָ֔ם הַכֹּהֲנִ֖ים וְהַלְוִיִּֽם׃
+And they brought up the ark of the LORD, and the tent of meeting, and all the holy vessels that were in the Tent; even these did the priests and the Levites bring up.
+I Kings 8:5
+וְהַמֶּ֣לֶךְ שְׁלֹמֹ֗ה וְכׇל־עֲדַ֤ת יִשְׂרָאֵל֙ הַנּוֹעָדִ֣ים עָלָ֔יו אִתּ֖וֹ לִפְנֵ֣י הָאָר֑וֹן מְזַבְּחִים֙ צֹ֣אן וּבָקָ֔ר אֲשֶׁ֧ר לֹֽא־יִסָּפְר֛וּ וְלֹ֥א יִמָּנ֖וּ מֵרֹֽב׃
+And king Solomon and all the congregation of Israel, that were assembled unto him, were with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude.
+I Kings 8:6
+וַיָּבִ֣אוּ הַ֠כֹּהֲנִ֠ים אֶת־אֲר֨וֹן בְּרִית־יְהֹוָ֧ה אֶל־מְקוֹמ֛וֹ אֶל־דְּבִ֥יר הַבַּ֖יִת אֶל־קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים אֶל־תַּ֖חַת כַּנְפֵ֥י הַכְּרוּבִֽים׃
+And the priests brought in the ark of the covenant of the LORD unto its place, into the Sanctuary of the house, to the most holy place, even under the wings of the cherubim.
+I Kings 8:7
+כִּ֤י הַכְּרוּבִים֙ פֹּרְשִׂ֣ים כְּנָפַ֔יִם אֶל־מְק֖וֹם הָאָר֑וֹן וַיָּסֹ֧כּוּ הַכְּרֻבִ֛ים עַל־הָאָר֥וֹן וְעַל־בַּדָּ֖יו מִלְמָֽעְלָה׃
+For the cherubim spread forth their wings over the place of the ark, and the cherubim covered the ark and the staves thereof above.
+I Kings 8:8
+וַֽיַּאֲרִ֘כוּ֮ הַבַּדִּים֒ וַיֵּרָאוּ֩ רָאשֵׁ֨י הַבַּדִּ֤ים מִן־הַקֹּ֙דֶשׁ֙ עַל־פְּנֵ֣י הַדְּבִ֔יר וְלֹ֥א יֵרָא֖וּ הַח֑וּצָה וַיִּ֣הְיוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃
+And the staves were so long that the ends of the staves were seen from the holy place, even before the Sanctuary; but they could not be seen without; and there they are unto this day.
+I Kings 8:9
+אֵ֚ין בָּֽאָר֔וֹן רַ֗ק שְׁנֵי֙ לֻח֣וֹת הָאֲבָנִ֔ים אֲשֶׁ֨ר הִנִּ֥חַ שָׁ֛ם מֹשֶׁ֖ה בְּחֹרֵ֑ב אֲשֶׁ֨ר כָּרַ֤ת יְהֹוָה֙ עִם־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃
+There was nothing in the ark save the two tables of stone which Moses put there at Horeb, when the LORD made a covenant with the children of Israel when they came out of the land of Egypt.
+I Kings 8:10
+וַיְהִ֕י בְּצֵ֥את הַכֹּהֲנִ֖ים מִן־הַקֹּ֑דֶשׁ וְהֶעָנָ֥ן מָלֵ֖א אֶת־בֵּ֥ית יְהֹוָֽה׃
+And it came to pass, when the priests were come out of the holy place, that the cloud filled the house of the LORD,
+I Kings 8:11
+וְלֹא־יָכְל֧וּ הַכֹּהֲנִ֛ים לַעֲמֹ֥ד לְשָׁרֵ֖ת מִפְּנֵ֣י הֶעָנָ֑ן כִּי־מָלֵ֥א כְבוֹד־יְהֹוָ֖ה אֶת־בֵּ֥ית יְהֹוָֽה׃  {פ}
+so that the priests could not stand to minister by reason of the cloud; for the glory of the LORD filled the house of the LORD.
+I Kings 8:12
+אָ֖ז אָמַ֣ר שְׁלֹמֹ֑ה יְהֹוָ֣ה אָמַ֔ר לִשְׁכֹּ֖ן בָּעֲרָפֶֽל׃
+Then spoke Solomon: The LORD hath said that He would dwell in the thick darkness.
+I Kings 8:13
+בָּנֹ֥ה בָנִ֛יתִי בֵּ֥ית זְבֻ֖ל לָ֑ךְ מָכ֥וֹן לְשִׁבְתְּךָ֖ עוֹלָמִֽים׃
+I have surely built Thee a house of habitation, A place for Thee to dwell in for ever.
+I Kings 8:14
+וַיַּסֵּ֤ב הַמֶּ֙לֶךְ֙ אֶת־פָּנָ֔יו וַיְבָ֕רֶךְ אֵ֖ת כׇּל־קְהַ֣ל יִשְׂרָאֵ֑ל וְכׇל־קְהַ֥ל יִשְׂרָאֵ֖ל עֹמֵֽד׃
+And the king turned his face about, and blessed all the congregation of Israel; and all the congregation of Israel stood.
+I Kings 8:15
+וַיֹּ֗אמֶר בָּר֤וּךְ יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר֙ דִּבֶּ֣ר בְּפִ֔יו אֵ֖ת דָּוִ֣ד אָבִ֑י וּבְיָד֥וֹ מִלֵּ֖א לֵאמֹֽר׃
+And he said: ‘Blessed be the LORD, the God of Israel, who spoke with His mouth unto David my father, and hath with His hand fulfilled it, saying:
+I Kings 8:16
+מִן־הַיּ֗וֹם אֲשֶׁ֨ר הוֹצֵ֜אתִי אֶת־עַמִּ֣י אֶת־יִשְׂרָאֵל֮ מִמִּצְרַ֒יִם֒ לֹֽא־בָחַ֣רְתִּֽי בְעִ֗יר מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל לִבְנ֣וֹת בַּ֔יִת לִהְי֥וֹת שְׁמִ֖י שָׁ֑ם וָאֶבְחַ֣ר בְּדָוִ֔ד לִהְי֖וֹת עַל־עַמִּ֥י יִשְׂרָאֵֽל׃
+Since the day that I brought forth My people Israel out of Egypt, I chose no city out of all the tribes of Israel to build a house, that My name might be there; but I chose David to be over My people Israel.
+I Kings 8:17
+וַיְהִ֕י עִם־לְבַ֖ב דָּוִ֣ד אָבִ֑י לִבְנ֣וֹת בַּ֔יִת לְשֵׁ֥ם יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+Now it was in the heart of David my father to build a house for the name of the LORD, the God of Israel.
+I Kings 8:18
+וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־דָּוִ֣ד אָבִ֔י יַ֗עַן אֲשֶׁ֤ר הָיָה֙ עִם־לְבָ֣בְךָ֔ לִבְנ֥וֹת בַּ֖יִת לִשְׁמִ֑י הֱֽטִיבֹ֔תָ כִּ֥י הָיָ֖ה עִם־לְבָבֶֽךָ׃
+But the LORD said unto David my father: Whereas it was in thy heart to build a house for My name, thou didst well that it was in thy heart;
+I Kings 8:19
+רַ֣ק אַתָּ֔ה לֹ֥א תִבְנֶ֖ה הַבָּ֑יִת כִּ֤י אִם־בִּנְךָ֙ הַיֹּצֵ֣א מֵחֲלָצֶ֔יךָ הֽוּא־יִבְנֶ֥ה הַבַּ֖יִת לִשְׁמִֽי׃
+nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house for My name.
+I Kings 8:20
+וַיָּ֣קֶם יְהֹוָ֔ה אֶת־דְּבָר֖וֹ אֲשֶׁ֣ר דִּבֵּ֑ר וָאָקֻ֡ם תַּ֩חַת֩ דָּוִ֨ד אָבִ֜י וָאֵשֵׁ֣ב  ׀  עַל־כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּֽאֲשֶׁר֙ דִּבֶּ֣ר יְהֹוָ֔ה וָאֶבְנֶ֣ה הַבַּ֔יִת לְשֵׁ֥ם יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+And the LORD hath established His word that He spoke; for I am risen up in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD, the God of Israel.
+I Kings 8:21
+וָאָשִׂ֨ם שָׁ֤ם מָקוֹם֙ לָאָר֔וֹן אֲשֶׁר־שָׁ֖ם בְּרִ֣ית יְהֹוָ֑ה אֲשֶׁ֤ר כָּרַת֙ עִם־אֲבֹתֵ֔ינוּ בְּהוֹצִיא֥וֹ אֹתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃  {ס}
+And there have I set a place for the ark, wherein is the covenant of the LORD, which He made with our fathers, when He brought them out of the land of Egypt.’
+https://www.sefaria.org/I%20Kings%207
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/I%20Kings%208
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Sephardic · ספרד
+I Kings 7:40-7:50
+I Kings 7:40
+וַיַּ֣עַשׂ חִיר֔וֹם אֶ֨ת־הַכִּיֹּר֔וֹת וְאֶת־הַיָּעִ֖ים וְאֶת־הַמִּזְרָק֑וֹת וַיְכַ֣ל חִירָ֗ם לַֽעֲשׂוֹת֙ אֶת־כׇּל־הַמְּלָאכָ֔ה אֲשֶׁ֥ר עָשָׂ֛ה לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֥ית יְהֹוָֽה׃
+And Hiram made the pots, and the shovels, and the basins. So Hiram made an end of doing all the work that he wrought for king Solomon in the house of the LORD:
+I Kings 7:41
+עַמֻּדִ֣ים שְׁנַ֔יִם וְגֻלֹּ֧ת הַכֹּתָרֹ֛ת אֲשֶׁר־עַל־רֹ֥אשׁ הָעַמּוּדִ֖ים שְׁתָּ֑יִם וְהַשְּׂבָכ֣וֹת שְׁתַּ֔יִם לְכַסּ֗וֹת אֶת־שְׁתֵּי֙ גֻּלּ֣וֹת הַכֹּתָרֹ֔ת אֲשֶׁ֖ר עַל־רֹ֥אשׁ הָעַמּוּדִֽים׃
+the two pillars, and the two bowls of the capitals that were on the top of the pillars; and the two networks to cover the two bowls of the capitals that were on the top of the pillars;
+I Kings 7:42
+וְאֶת־הָרִמֹּנִ֛ים אַרְבַּ֥ע מֵא֖וֹת לִשְׁתֵּ֣י הַשְּׂבָכ֑וֹת שְׁנֵֽי־טוּרִ֤ים רִמֹּנִים֙ לַשְּׂבָכָ֣ה הָאֶחָ֔ת לְכַסּ֗וֹת אֶת־שְׁתֵּי֙ גֻּלּ֣וֹת הַכֹּתָרֹ֔ת אֲשֶׁ֖ר עַל־פְּנֵ֥י הָעַמּוּדִֽים׃
+and the four hundred pomegranates for the two networks, two rows of pomegranates for each network, to cover the two bowls of the capitals that were upon the top of the pillars;
+I Kings 7:43
+וְאֶת־הַמְּכֹנ֖וֹת עָ֑שֶׂר וְאֶת־הַכִּיֹּרֹ֥ת עֲשָׂרָ֖ה עַל־הַמְּכֹנֽוֹת׃
+and the ten bases, and the ten lavers on the bases;
+I Kings 7:44
+וְאֶת־הַיָּ֖ם הָאֶחָ֑ד וְאֶת־הַבָּקָ֥ר שְׁנֵים־עָשָׂ֖ר תַּ֥חַת הַיָּֽם׃
+and the one sea, and the twelve oxen under the sea;
+I Kings 7:45
+וְאֶת־הַסִּיר֨וֹת וְאֶת־הַיָּעִ֜ים וְאֶת־הַמִּזְרָק֗וֹת וְאֵת֙ כׇּל־הַכֵּלִ֣ים   (האהל)   [הָאֵ֔לֶּה]   אֲשֶׁ֨ר עָשָׂ֥ה חִירָ֛ם לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֣ית יְהֹוָ֑ה נְחֹ֖שֶׁת מְמֹרָֽט׃
+and the pots, and the shovels, and the basins; even all these vessels, which Hiram made for king Solomon, in the house of the LORD, were of burnished brass.
+I Kings 7:46
+בְּכִכַּ֤ר הַיַּרְדֵּן֙ יְצָקָ֣ם הַמֶּ֔לֶךְ בְּמַעֲבֵ֖ה הָאֲדָמָ֑ה בֵּ֥ין סֻכּ֖וֹת וּבֵ֥ין צָרְתָֽן׃
+In the plain of the Jordan did the king cast them, in the clay ground between Succoth and Zarethan.
+I Kings 7:47
+וַיַּנַּ֤ח שְׁלֹמֹה֙ אֶת־כׇּל־הַכֵּלִ֔ים מֵרֹ֖ב מְאֹ֣ד מְאֹ֑ד לֹ֥א נֶחְקַ֖ר מִשְׁקַ֥ל הַנְּחֹֽשֶׁת׃
+And Solomon left all the vessels unweighed, because they were exceeding many; the weight of the brass could not be found out.
+I Kings 7:48
+וַיַּ֣עַשׂ שְׁלֹמֹ֔ה אֵ֚ת כׇּל־הַכֵּלִ֔ים אֲשֶׁ֖ר בֵּ֣ית יְהֹוָ֑ה אֵ֚ת מִזְבַּ֣ח הַזָּהָ֔ב וְאֶת־הַשֻּׁלְחָ֗ן אֲשֶׁ֥ר עָלָ֛יו לֶ֥חֶם הַפָּנִ֖ים זָהָֽב׃
+And Solomon made all the vessels that were in the house of the LORD: the golden altar, and the table whereupon the showbread was, of gold;
+I Kings 7:49
+וְאֶת־הַ֠מְּנֹר֠וֹת חָמֵ֨שׁ מִיָּמִ֜ין וְחָמֵ֧שׁ מִשְּׂמֹ֛אול לִפְנֵ֥י הַדְּבִ֖יר זָהָ֣ב סָג֑וּר וְהַפֶּ֧רַח וְהַנֵּרֹ֛ת וְהַמֶּלְקַחַ֖יִם זָהָֽב׃
+and the candlesticks, five on the right side, and five on the left, before the Sanctuary, of pure gold; and the flowers, and the lamps, and the tongs, of gold;
+I Kings 7:50
+וְ֠הַסִּפּ֠וֹת וְהַֽמְזַמְּר֧וֹת וְהַמִּזְרָק֛וֹת וְהַכַּפּ֥וֹת וְהַמַּחְתּ֖וֹת זָהָ֣ב סָג֑וּר וְהַפֹּת֡וֹת לְדַלְתוֹת֩ הַבַּ֨יִת הַפְּנִימִ֜י לְקֹ֣דֶשׁ הַקֳּדָשִׁ֗ים לְדַלְתֵ֥י הַבַּ֛יִת לַהֵיכָ֖ל זָהָֽב׃  {פ}
+and the cups, and the snuffers, and the basins, and the pans, and the fire-pans, of pure gold; and the hinges, both for the doors of the inner house, the most holy place, and for the doors of the house, that is, of the temple, of gold.
+https://www.sefaria.org/I%20Kings%207
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Chabad · חב״ד
+I Kings 7:51-8:21
+I Kings 7:51
+וַתִּשְׁלַם֙ כׇּל־הַמְּלָאכָ֔ה אֲשֶׁ֥ר עָשָׂ֛ה הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֣ית יְהֹוָ֑ה וַיָּבֵ֨א שְׁלֹמֹ֜ה אֶת־קׇדְשֵׁ֣י  ׀  דָּוִ֣ד אָבִ֗יו אֶת־הַכֶּ֤סֶף וְאֶת־הַזָּהָב֙ וְאֶת־הַכֵּלִ֔ים נָתַ֕ן בְּאֹצְר֖וֹת בֵּ֥ית יְהֹוָֽה׃  {פ}
+Thus all the work that king Solomon wrought in the house of the LORD was finished. And Solomon brought in the things which David his father had dedicated, the silver, and the gold, and the vessels, and put them in the treasuries of the house of the LORD.
+I Kings 8:1
+אָ֣ז יַקְהֵ֣ל שְׁלֹמֹ֣ה אֶת־זִקְנֵ֣י יִשְׂרָאֵ֡ל אֶת־כׇּל־רָאשֵׁ֣י הַמַּטּוֹת֩ נְשִׂיאֵ֨י הָאָב֜וֹת לִבְנֵ֧י יִשְׂרָאֵ֛ל אֶל־הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה יְרוּשָׁלָ֑͏ִם לְֽהַעֲל֞וֹת אֶת־אֲר֧וֹן בְּרִית־יְהֹוָ֛ה מֵעִ֥יר דָּוִ֖ד הִ֥יא צִיּֽוֹן׃
+Then Solomon assembled the elders of Israel, and all the heads of the tribes, the princes of the fathers’houses of the children of Israel, unto king Solomon in Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion.
+I Kings 8:2
+וַיִּקָּ֨הֲל֜וּ אֶל־הַמֶּ֤לֶךְ שְׁלֹמֹה֙ כׇּל־אִ֣ישׁ יִשְׂרָאֵ֔ל בְּיֶ֥רַח הָאֵתָנִ֖ים בֶּחָ֑ג ה֖וּא הַחֹ֥דֶשׁ הַשְּׁבִיעִֽי׃
+And all the men of Israel assembled themselves unto king Solomon at the feast, in the month Ethanim, which is the seventh month.
+I Kings 8:3
+וַיָּבֹ֕אוּ כֹּ֖ל זִקְנֵ֣י יִשְׂרָאֵ֑ל וַיִּשְׂא֥וּ הַכֹּהֲנִ֖ים אֶת־הָאָרֽוֹן׃
+And all the elders of Israel came, and the priests took up the ark.
+I Kings 8:4
+וַֽיַּעֲל֞וּ אֶת־אֲר֤וֹן יְהֹוָה֙ וְאֶת־אֹ֣הֶל מוֹעֵ֔ד וְאֶת־כׇּל־כְּלֵ֥י הַקֹּ֖דֶשׁ אֲשֶׁ֣ר בָּאֹ֑הֶל וַיַּעֲל֣וּ אֹתָ֔ם הַכֹּהֲנִ֖ים וְהַלְוִיִּֽם׃
+And they brought up the ark of the LORD, and the tent of meeting, and all the holy vessels that were in the Tent; even these did the priests and the Levites bring up.
+I Kings 8:5
+וְהַמֶּ֣לֶךְ שְׁלֹמֹ֗ה וְכׇל־עֲדַ֤ת יִשְׂרָאֵל֙ הַנּוֹעָדִ֣ים עָלָ֔יו אִתּ֖וֹ לִפְנֵ֣י הָאָר֑וֹן מְזַבְּחִים֙ צֹ֣אן וּבָקָ֔ר אֲשֶׁ֧ר לֹֽא־יִסָּפְר֛וּ וְלֹ֥א יִמָּנ֖וּ מֵרֹֽב׃
+And king Solomon and all the congregation of Israel, that were assembled unto him, were with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude.
+I Kings 8:6
+וַיָּבִ֣אוּ הַ֠כֹּהֲנִ֠ים אֶת־אֲר֨וֹן בְּרִית־יְהֹוָ֧ה אֶל־מְקוֹמ֛וֹ אֶל־דְּבִ֥יר הַבַּ֖יִת אֶל־קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים אֶל־תַּ֖חַת כַּנְפֵ֥י הַכְּרוּבִֽים׃
+And the priests brought in the ark of the covenant of the LORD unto its place, into the Sanctuary of the house, to the most holy place, even under the wings of the cherubim.
+I Kings 8:7
+כִּ֤י הַכְּרוּבִים֙ פֹּרְשִׂ֣ים כְּנָפַ֔יִם אֶל־מְק֖וֹם הָאָר֑וֹן וַיָּסֹ֧כּוּ הַכְּרֻבִ֛ים עַל־הָאָר֥וֹן וְעַל־בַּדָּ֖יו מִלְמָֽעְלָה׃
+For the cherubim spread forth their wings over the place of the ark, and the cherubim covered the ark and the staves thereof above.
+I Kings 8:8
+וַֽיַּאֲרִ֘כוּ֮ הַבַּדִּים֒ וַיֵּרָאוּ֩ רָאשֵׁ֨י הַבַּדִּ֤ים מִן־הַקֹּ֙דֶשׁ֙ עַל־פְּנֵ֣י הַדְּבִ֔יר וְלֹ֥א יֵרָא֖וּ הַח֑וּצָה וַיִּ֣הְיוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃
+And the staves were so long that the ends of the staves were seen from the holy place, even before the Sanctuary; but they could not be seen without; and there they are unto this day.
+I Kings 8:9
+אֵ֚ין בָּֽאָר֔וֹן רַ֗ק שְׁנֵי֙ לֻח֣וֹת הָאֲבָנִ֔ים אֲשֶׁ֨ר הִנִּ֥חַ שָׁ֛ם מֹשֶׁ֖ה בְּחֹרֵ֑ב אֲשֶׁ֨ר כָּרַ֤ת יְהֹוָה֙ עִם־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃
+There was nothing in the ark save the two tables of stone which Moses put there at Horeb, when the LORD made a covenant with the children of Israel when they came out of the land of Egypt.
+I Kings 8:10
+וַיְהִ֕י בְּצֵ֥את הַכֹּהֲנִ֖ים מִן־הַקֹּ֑דֶשׁ וְהֶעָנָ֥ן מָלֵ֖א אֶת־בֵּ֥ית יְהֹוָֽה׃
+And it came to pass, when the priests were come out of the holy place, that the cloud filled the house of the LORD,
+I Kings 8:11
+וְלֹא־יָכְל֧וּ הַכֹּהֲנִ֛ים לַעֲמֹ֥ד לְשָׁרֵ֖ת מִפְּנֵ֣י הֶעָנָ֑ן כִּי־מָלֵ֥א כְבוֹד־יְהֹוָ֖ה אֶת־בֵּ֥ית יְהֹוָֽה׃  {פ}
+so that the priests could not stand to minister by reason of the cloud; for the glory of the LORD filled the house of the LORD.
+I Kings 8:12
+אָ֖ז אָמַ֣ר שְׁלֹמֹ֑ה יְהֹוָ֣ה אָמַ֔ר לִשְׁכֹּ֖ן בָּעֲרָפֶֽל׃
+Then spoke Solomon: The LORD hath said that He would dwell in the thick darkness.
+I Kings 8:13
+בָּנֹ֥ה בָנִ֛יתִי בֵּ֥ית זְבֻ֖ל לָ֑ךְ מָכ֥וֹן לְשִׁבְתְּךָ֖ עוֹלָמִֽים׃
+I have surely built Thee a house of habitation, A place for Thee to dwell in for ever.
+I Kings 8:14
+וַיַּסֵּ֤ב הַמֶּ֙לֶךְ֙ אֶת־פָּנָ֔יו וַיְבָ֕רֶךְ אֵ֖ת כׇּל־קְהַ֣ל יִשְׂרָאֵ֑ל וְכׇל־קְהַ֥ל יִשְׂרָאֵ֖ל עֹמֵֽד׃
+And the king turned his face about, and blessed all the congregation of Israel; and all the congregation of Israel stood.
+I Kings 8:15
+וַיֹּ֗אמֶר בָּר֤וּךְ יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר֙ דִּבֶּ֣ר בְּפִ֔יו אֵ֖ת דָּוִ֣ד אָבִ֑י וּבְיָד֥וֹ מִלֵּ֖א לֵאמֹֽר׃
+And he said: ‘Blessed be the LORD, the God of Israel, who spoke with His mouth unto David my father, and hath with His hand fulfilled it, saying:
+I Kings 8:16
+מִן־הַיּ֗וֹם אֲשֶׁ֨ר הוֹצֵ֜אתִי אֶת־עַמִּ֣י אֶת־יִשְׂרָאֵל֮ מִמִּצְרַ֒יִם֒ לֹֽא־בָחַ֣רְתִּֽי בְעִ֗יר מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל לִבְנ֣וֹת בַּ֔יִת לִהְי֥וֹת שְׁמִ֖י שָׁ֑ם וָאֶבְחַ֣ר בְּדָוִ֔ד לִהְי֖וֹת עַל־עַמִּ֥י יִשְׂרָאֵֽל׃
+Since the day that I brought forth My people Israel out of Egypt, I chose no city out of all the tribes of Israel to build a house, that My name might be there; but I chose David to be over My people Israel.
+I Kings 8:17
+וַיְהִ֕י עִם־לְבַ֖ב דָּוִ֣ד אָבִ֑י לִבְנ֣וֹת בַּ֔יִת לְשֵׁ֥ם יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+Now it was in the heart of David my father to build a house for the name of the LORD, the God of Israel.
+I Kings 8:18
+וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־דָּוִ֣ד אָבִ֔י יַ֗עַן אֲשֶׁ֤ר הָיָה֙ עִם־לְבָ֣בְךָ֔ לִבְנ֥וֹת בַּ֖יִת לִשְׁמִ֑י הֱֽטִיבֹ֔תָ כִּ֥י הָיָ֖ה עִם־לְבָבֶֽךָ׃
+But the LORD said unto David my father: Whereas it was in thy heart to build a house for My name, thou didst well that it was in thy heart;
+I Kings 8:19
+רַ֣ק אַתָּ֔ה לֹ֥א תִבְנֶ֖ה הַבָּ֑יִת כִּ֤י אִם־בִּנְךָ֙ הַיֹּצֵ֣א מֵחֲלָצֶ֔יךָ הֽוּא־יִבְנֶ֥ה הַבַּ֖יִת לִשְׁמִֽי׃
+nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house for My name.
+I Kings 8:20
+וַיָּ֣קֶם יְהֹוָ֔ה אֶת־דְּבָר֖וֹ אֲשֶׁ֣ר דִּבֵּ֑ר וָאָקֻ֡ם תַּ֩חַת֩ דָּוִ֨ד אָבִ֜י וָאֵשֵׁ֣ב  ׀  עַל־כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּֽאֲשֶׁר֙ דִּבֶּ֣ר יְהֹוָ֔ה וָאֶבְנֶ֣ה הַבַּ֔יִת לְשֵׁ֥ם יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+And the LORD hath established His word that He spoke; for I am risen up in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD, the God of Israel.
+I Kings 8:21
+וָאָשִׂ֨ם שָׁ֤ם מָקוֹם֙ לָאָר֔וֹן אֲשֶׁר־שָׁ֖ם בְּרִ֣ית יְהֹוָ֑ה אֲשֶׁ֤ר כָּרַת֙ עִם־אֲבֹתֵ֔ינוּ בְּהוֹצִיא֥וֹ אֹתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃  {ס}
+And there have I set a place for the ark, wherein is the covenant of the LORD, which He made with our fathers, when He brought them out of the land of Egypt.’
+https://www.sefaria.org/I%20Kings%207
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/I%20Kings%208
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

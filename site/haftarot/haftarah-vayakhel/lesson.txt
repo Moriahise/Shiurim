@@ -1,0 +1,150 @@
+Haftarah · Vayakhel
+הפטרה · ויקהל
+
+What does the inventory of a sanctuary teach about human workmanship? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מה מלמד מניין כלי המקדש על מלאכת האדם? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What does the inventory of a sanctuary teach about human workmanship?
+מה מלמד מניין כלי המקדש על מלאכת האדם?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+I Kings 7:40
+The list of vessels draws attention to completed work and named craftsmanship. Worship depends on objects made with skill and care. Read the inventory as an account of coordinated service rather than dismissing its repeated materials as incidental detail.
+רשימת הכלים מפנה אל מלאכה שהושלמה ואל בעל מלאכה הנקרא בשמו. העבודה תלויה בחפצים שנעשו במיומנות ובדאגה. המניין מתאר שירות מתואם, ואין לפטור את חזרת החומרים כפרט שולי.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+I Kings 7:47
+The quantity of bronze exceeds the recorded weighing. Abundance can mark the scale of a shared undertaking, yet it also challenges the reader to follow distinctions among the vessels. What becomes visible through a careful list that a single statement of magnificence would conceal?
+כמות הנחושת חורגת מן השקילה הרשומה. השפע מעיד על היקף המפעל, אך דורש להבחין בין הכלים. מה מתגלה ברשימה מדויקת שהיה נעלם אילו הסתפק הכתוב בהצהרה אחת על פאר?
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+I Kings 7:50
+Gold vessels conclude the default reading. The Sephardic selection instead follows Hiram’s bronze work in 7:13–26, including the pillars and sea. Compare the craft traditions through the full alternative text; do not treat the two lists as the same passage.
+כלי הזהב חותמים את הקריאה העיקרית. הנוסח הספרדי עוקב אחר מלאכת הנחושת של חירם בז׳:י״ג–כ״ו, ובכללה העמודים והים. יש להשוות בין תיאורי האומנות מתוך הנוסחים המלאים ולא לזהות את שתי הרשימות.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+I Kings 7:40-7:50
+I Kings 7:40
+וַיַּ֣עַשׂ חִיר֔וֹם אֶ֨ת־הַכִּיֹּר֔וֹת וְאֶת־הַיָּעִ֖ים וְאֶת־הַמִּזְרָק֑וֹת וַיְכַ֣ל חִירָ֗ם לַֽעֲשׂוֹת֙ אֶת־כׇּל־הַמְּלָאכָ֔ה אֲשֶׁ֥ר עָשָׂ֛ה לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֥ית יְהֹוָֽה׃
+And Hiram made the pots, and the shovels, and the basins. So Hiram made an end of doing all the work that he wrought for king Solomon in the house of the LORD:
+I Kings 7:41
+עַמֻּדִ֣ים שְׁנַ֔יִם וְגֻלֹּ֧ת הַכֹּתָרֹ֛ת אֲשֶׁר־עַל־רֹ֥אשׁ הָעַמּוּדִ֖ים שְׁתָּ֑יִם וְהַשְּׂבָכ֣וֹת שְׁתַּ֔יִם לְכַסּ֗וֹת אֶת־שְׁתֵּי֙ גֻּלּ֣וֹת הַכֹּתָרֹ֔ת אֲשֶׁ֖ר עַל־רֹ֥אשׁ הָעַמּוּדִֽים׃
+the two pillars, and the two bowls of the capitals that were on the top of the pillars; and the two networks to cover the two bowls of the capitals that were on the top of the pillars;
+I Kings 7:42
+וְאֶת־הָרִמֹּנִ֛ים אַרְבַּ֥ע מֵא֖וֹת לִשְׁתֵּ֣י הַשְּׂבָכ֑וֹת שְׁנֵֽי־טוּרִ֤ים רִמֹּנִים֙ לַשְּׂבָכָ֣ה הָאֶחָ֔ת לְכַסּ֗וֹת אֶת־שְׁתֵּי֙ גֻּלּ֣וֹת הַכֹּתָרֹ֔ת אֲשֶׁ֖ר עַל־פְּנֵ֥י הָעַמּוּדִֽים׃
+and the four hundred pomegranates for the two networks, two rows of pomegranates for each network, to cover the two bowls of the capitals that were upon the top of the pillars;
+I Kings 7:43
+וְאֶת־הַמְּכֹנ֖וֹת עָ֑שֶׂר וְאֶת־הַכִּיֹּרֹ֥ת עֲשָׂרָ֖ה עַל־הַמְּכֹנֽוֹת׃
+and the ten bases, and the ten lavers on the bases;
+I Kings 7:44
+וְאֶת־הַיָּ֖ם הָאֶחָ֑ד וְאֶת־הַבָּקָ֥ר שְׁנֵים־עָשָׂ֖ר תַּ֥חַת הַיָּֽם׃
+and the one sea, and the twelve oxen under the sea;
+I Kings 7:45
+וְאֶת־הַסִּיר֨וֹת וְאֶת־הַיָּעִ֜ים וְאֶת־הַמִּזְרָק֗וֹת וְאֵת֙ כׇּל־הַכֵּלִ֣ים   (האהל)   [הָאֵ֔לֶּה]   אֲשֶׁ֨ר עָשָׂ֥ה חִירָ֛ם לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֣ית יְהֹוָ֑ה נְחֹ֖שֶׁת מְמֹרָֽט׃
+and the pots, and the shovels, and the basins; even all these vessels, which Hiram made for king Solomon, in the house of the LORD, were of burnished brass.
+I Kings 7:46
+בְּכִכַּ֤ר הַיַּרְדֵּן֙ יְצָקָ֣ם הַמֶּ֔לֶךְ בְּמַעֲבֵ֖ה הָאֲדָמָ֑ה בֵּ֥ין סֻכּ֖וֹת וּבֵ֥ין צָרְתָֽן׃
+In the plain of the Jordan did the king cast them, in the clay ground between Succoth and Zarethan.
+I Kings 7:47
+וַיַּנַּ֤ח שְׁלֹמֹה֙ אֶת־כׇּל־הַכֵּלִ֔ים מֵרֹ֖ב מְאֹ֣ד מְאֹ֑ד לֹ֥א נֶחְקַ֖ר מִשְׁקַ֥ל הַנְּחֹֽשֶׁת׃
+And Solomon left all the vessels unweighed, because they were exceeding many; the weight of the brass could not be found out.
+I Kings 7:48
+וַיַּ֣עַשׂ שְׁלֹמֹ֔ה אֵ֚ת כׇּל־הַכֵּלִ֔ים אֲשֶׁ֖ר בֵּ֣ית יְהֹוָ֑ה אֵ֚ת מִזְבַּ֣ח הַזָּהָ֔ב וְאֶת־הַשֻּׁלְחָ֗ן אֲשֶׁ֥ר עָלָ֛יו לֶ֥חֶם הַפָּנִ֖ים זָהָֽב׃
+And Solomon made all the vessels that were in the house of the LORD: the golden altar, and the table whereupon the showbread was, of gold;
+I Kings 7:49
+וְאֶת־הַ֠מְּנֹר֠וֹת חָמֵ֨שׁ מִיָּמִ֜ין וְחָמֵ֧שׁ מִשְּׂמֹ֛אול לִפְנֵ֥י הַדְּבִ֖יר זָהָ֣ב סָג֑וּר וְהַפֶּ֧רַח וְהַנֵּרֹ֛ת וְהַמֶּלְקַחַ֖יִם זָהָֽב׃
+and the candlesticks, five on the right side, and five on the left, before the Sanctuary, of pure gold; and the flowers, and the lamps, and the tongs, of gold;
+I Kings 7:50
+וְ֠הַסִּפּ֠וֹת וְהַֽמְזַמְּר֧וֹת וְהַמִּזְרָק֛וֹת וְהַכַּפּ֥וֹת וְהַמַּחְתּ֖וֹת זָהָ֣ב סָג֑וּר וְהַפֹּת֡וֹת לְדַלְתוֹת֩ הַבַּ֨יִת הַפְּנִימִ֜י לְקֹ֣דֶשׁ הַקֳּדָשִׁ֗ים לְדַלְתֵ֥י הַבַּ֛יִת לַהֵיכָ֖ל זָהָֽב׃  {פ}
+and the cups, and the snuffers, and the basins, and the pans, and the fire-pans, of pure gold; and the hinges, both for the doors of the inner house, the most holy place, and for the doors of the house, that is, of the temple, of gold.
+https://www.sefaria.org/I%20Kings%207
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Sephardic · ספרד
+I Kings 7:13-7:26
+I Kings 7:13
+וַיִּשְׁלַח֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה וַיִּקַּ֥ח אֶת־חִירָ֖ם מִצֹּֽר׃
+And king Solomon sent and fetched Hiram out of Tyre.
+I Kings 7:14
+בֶּן־אִשָּׁה֩ אַלְמָנָ֨ה ה֜וּא מִמַּטֵּ֣ה נַפְתָּלִ֗י וְאָבִ֣יו אִישׁ־צֹרִי֮ חֹרֵ֣שׁ נְחֹ֒שֶׁת֒ וַ֠יִּמָּלֵ֠א אֶת־הַחׇכְמָ֤ה וְאֶת־הַתְּבוּנָה֙ וְאֶת־הַדַּ֔עַת לַעֲשׂ֥וֹת כׇּל־מְלָאכָ֖ה בַּנְּחֹ֑שֶׁת וַיָּבוֹא֙ אֶל־הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה וַיַּ֖עַשׂ אֶת־כׇּל־מְלַאכְתּֽוֹ׃
+He was the son of a widow of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass; and he was filled with wisdom and understanding and skill, to work all works in brass. And he came to king Solomon, and wrought all his work.
+I Kings 7:15
+וַיָּ֛צַר אֶת־שְׁנֵ֥י הָעַמּוּדִ֖ים נְחֹ֑שֶׁת שְׁמֹנֶ֨ה עֶשְׂרֵ֜ה אַמָּ֗ה קוֹמַת֙ הָעַמּ֣וּד הָאֶחָ֔ד וְחוּט֙ שְׁתֵּים־עֶשְׂרֵ֣ה אַמָּ֔ה יָסֹ֖ב אֶת־הָעַמּ֥וּד הַשֵּׁנִֽי׃
+Thus he fashioned the two pillars of brass, of eighteen cubits high each; and a line of twelve cubits did compass it about; [and so] the other pillar.
+I Kings 7:16
+וּשְׁתֵּ֨י כֹתָרֹ֜ת עָשָׂ֗ה לָתֵ֛ת עַל־רָאשֵׁ֥י הָעַמּוּדִ֖ים מֻצַ֣ק נְחֹ֑שֶׁת חָמֵ֣שׁ אַמּ֗וֹת קוֹמַת֙ הַכֹּתֶ֣רֶת הָאֶחָ֔ת וְחָמֵ֣שׁ אַמּ֔וֹת קוֹמַ֖ת הַכֹּתֶ֥רֶת הַשֵּׁנִֽית׃
+And he made two capitals of molten brass, to set upon the tops of the pillars; the height of the one capital was five cubits, and the height of the other capital was five cubits.
+I Kings 7:17
+שְׂבָכִ֞ים מַעֲשֵׂ֣ה שְׂבָכָ֗ה גְּדִלִים֙ מַעֲשֵׂ֣ה שַׁרְשְׁר֔וֹת לַכֹּ֣תָרֹ֔ת אֲשֶׁ֖ר עַל־רֹ֣אשׁ הָעַמּוּדִ֑ים שִׁבְעָה֙ לַכֹּתֶ֣רֶת הָאֶחָ֔ת וְשִׁבְעָ֖ה לַכֹּתֶ֥רֶת הַשֵּׁנִֽית׃
+He also made nets of checker-work, and wreaths of chain-work, for the capitals which were upon the top of the pillars: seven for the one capital, and seven for the other capital.
+I Kings 7:18
+וַיַּ֖עַשׂ אֶת־הָעַמּוּדִ֑ים וּשְׁנֵי֩ טוּרִ֨ים סָבִ֜יב עַל־הַשְּׂבָכָ֣ה הָאֶחָ֗ת לְכַסּ֤וֹת אֶת־הַכֹּֽתָרֹת֙ אֲשֶׁר֙ עַל־רֹ֣אשׁ הָרִמֹּנִ֔ים וְכֵ֣ן עָשָׂ֔ה לַכֹּתֶ֖רֶת הַשֵּׁנִֽית׃
+And he made the pillars; and there were two rows round about upon the one network, to cover the capitals that were upon the top of the pomegranates; and so did he for the other capital.
+I Kings 7:19
+וְכֹתָרֹ֗ת אֲשֶׁר֙ עַל־רֹ֣אשׁ הָעַמּוּדִ֔ים מַעֲשֵׂ֖ה שׁוּשַׁ֣ן בָּאוּלָ֑ם אַרְבַּ֖ע אַמּֽוֹת׃
+And the capitals that were upon the top of the pillars in the porch were of lily-work, four cubits.
+I Kings 7:20
+וְכֹתָרֹ֗ת עַל־שְׁנֵי֙ הָעַמּוּדִ֔ים גַּם־מִמַּ֙עַל֙ מִלְּעֻמַּ֣ת הַבֶּ֔טֶן אֲשֶׁ֖ר לְעֵ֣בֶר   (שבכה)   [הַשְּׂבָכָ֑ה]   וְהָרִמּוֹנִ֤ים מָאתַ֙יִם֙ טֻרִ֣ים סָבִ֔יב עַ֖ל הַכֹּתֶ֥רֶת הַשֵּׁנִֽית׃
+And there were capitals above also upon the two pillars, close by the belly which was beside the network; and the pomegranates were two hundred, in rows round about upon each capital.
+I Kings 7:21
+וַיָּ֙קֶם֙ אֶת־הָֽעַמֻּדִ֔ים לְאֻלָ֖ם הַהֵיכָ֑ל וַיָּ֜קֶם אֶת־הָעַמּ֣וּד הַיְמָנִ֗י וַיִּקְרָ֤א אֶת־שְׁמוֹ֙ יָכִ֔ין וַיָּ֙קֶם֙ אֶת־הָעַמּ֣וּד הַשְּׂמָאלִ֔י וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ בֹּֽעַז׃
+And he set up the pillars at the porch of the temple; and he set up the right pillar, and called the name thereof Jachin; and he set up the left pillar, and called the name thereof Boaz.
+I Kings 7:22
+וְעַ֛ל רֹ֥אשׁ הָעַמּוּדִ֖ים מַעֲשֵׂ֣ה שׁוֹשָׁ֑ן וַתִּתֹּ֖ם מְלֶ֥אכֶת הָעַמּוּדִֽים׃
+And upon the top of the pillars was lily-work; so was the work of the pillars finished.
+I Kings 7:23
+וַיַּ֥עַשׂ אֶת־הַיָּ֖ם מוּצָ֑ק עֶ֣שֶׂר בָּ֠אַמָּ֠ה מִשְּׂפָת֨וֹ עַד־שְׂפָת֜וֹ עָגֹ֣ל  ׀  סָבִ֗יב וְחָמֵ֤שׁ בָּֽאַמָּה֙ קוֹמָת֔וֹ   (וקוה)   [וְקָו֙]   שְׁלֹשִׁ֣ים בָּאַמָּ֔ה יָסֹ֥ב אֹת֖וֹ סָבִֽיב׃
+And he made the molten sea of ten cubits from brim to brim, round in compass, and the height thereof was five cubits; and a line of thirty cubits did compass it round about.
+I Kings 7:24
+וּפְקָעִים֩ מִתַּ֨חַת לִשְׂפָת֤וֹ  ׀  סָבִיב֙ סֹבְבִ֣ים אֹת֔וֹ עֶ֚שֶׂר בָּאַמָּ֔ה מַקִּפִ֥ים אֶת־הַיָּ֖ם סָבִ֑יב שְׁנֵ֤י טוּרִים֙ הַפְּקָעִ֔ים יְצֻקִ֖ים בִּיצֻֽקָתֽוֹ׃
+And under the brim of it round about there were knops which did compass it, for ten cubits, compassing the sea round about; the knops were in two rows, cast when it was cast.
+I Kings 7:25
+עֹמֵ֞ד עַל־שְׁנֵ֧י עָשָׂ֣ר בָּקָ֗ר שְׁלֹשָׁ֣ה פֹנִ֣ים  ׀  צָפ֡וֹנָה וּשְׁלֹשָׁה֩ פֹנִ֨ים  ׀  יָ֜מָּה וּשְׁלֹשָׁ֣ה  ׀  פֹּנִ֣ים נֶ֗גְבָּה וּשְׁלֹשָׁה֙ פֹּנִ֣ים מִזְרָ֔חָה וְהַיָּ֥ם עֲלֵיהֶ֖ם מִלְמָ֑עְלָה וְכׇל־אֲחֹרֵיהֶ֖ם בָּֽיְתָה׃
+It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east; and the sea was set upon them above, and all their hinder parts were inward.
+I Kings 7:26
+וְעׇבְי֣וֹ טֶ֔פַח וּשְׂפָת֛וֹ כְּמַעֲשֵׂ֥ה שְׂפַת־כּ֖וֹס פֶּ֣רַח שׁוֹשָׁ֑ן אַלְפַּ֥יִם בַּ֖ת יָכִֽיל׃  {פ}
+And it was a hand-breadth thick; and the brim thereof was wrought like the brim of a cup, like the flower of a lily; it held two thousand baths.
+https://www.sefaria.org/I%20Kings%207
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

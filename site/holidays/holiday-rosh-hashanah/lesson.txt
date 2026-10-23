@@ -1,0 +1,750 @@
+Holiday readings · Rosh Hashanah
+קריאות למועד · ראש השנה
+
+How do remembered lives shape the prayer for a new year? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד מעצבים חיים הנזכרים את תפילת השנה החדשה? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How do remembered lives shape the prayer for a new year?
+כיצד מעצבים חיים הנזכרים את תפילת השנה החדשה?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Genesis 21:1
+The first day begins with Sarah being remembered and a child being born. The chapter also follows Hagar and Ishmael into danger and a new possibility of life. Read the whole chapter: the liturgical memory is wider than the joy of a single household.
+היום הראשון פותח בפקידת שרה ובלידת ילד. הפרק מלווה גם את הגר וישמעאל אל סכנה ואל אפשרות חיים חדשה. יש לקרוא את הפרק כולו: הזיכרון הליטורגי רחב משמחת בית אחד.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Genesis 22:12
+The second day moves into the binding of Isaac and the command that stops Abraham’s hand. The story’s tension must remain audible. Its place in prayer does not remove the difficulty of the demand or the significance of the child returning from danger.
+היום השני מוביל לעקדה ולציווי העוצר את יד אברהם. יש להשאיר את מתח הסיפור נשמע. מקומו בתפילה אינו מוחק את קושי הדרישה או את חשיבות שיבת הבן מן הסכנה.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Numbers 29:6
+The festival offering is explicitly additional to the regular and new-moon service. The special day is placed within recurring time. Hannah’s prayer and Jeremiah’s remembrance of Ephraim provide distinct prophetic companions, not a single Haftarah shared by both days.
+קרבן החג נוסף במפורש על עבודת התמיד וראש החודש. היום המיוחד ממוקם בתוך הזמן החוזר. תפילת חנה וזיכרון אפרים בירמיהו הם ליוויים נבואיים נפרדים, ולא הפטרה אחת לשני הימים.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Rosh Hashana I · Torah
+Genesis 21:1-21:34
+Genesis 21:1
+וַֽיהֹוָ֛ה פָּקַ֥ד אֶת־שָׂרָ֖ה כַּאֲשֶׁ֣ר אָמָ֑ר וַיַּ֧עַשׂ יְהֹוָ֛ה לְשָׂרָ֖ה כַּאֲשֶׁ֥ר דִּבֵּֽר׃
+And the LORD remembered Sarah as He had said, and the LORD did unto Sarah as He had spoken.
+Genesis 21:2
+וַתַּ֩הַר֩ וַתֵּ֨לֶד שָׂרָ֧ה לְאַבְרָהָ֛ם בֵּ֖ן לִזְקֻנָ֑יו לַמּוֹעֵ֕ד אֲשֶׁר־דִּבֶּ֥ר אֹת֖וֹ אֱלֹהִֽים׃
+And Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him.
+Genesis 21:3
+וַיִּקְרָ֨א אַבְרָהָ֜ם אֶֽת־שֶׁם־בְּנ֧וֹ הַנּֽוֹלַד־ל֛וֹ אֲשֶׁר־יָלְדָה־לּ֥וֹ שָׂרָ֖ה יִצְחָֽק׃
+And Abraham called the name of his son that was born unto him, whom Sarah bore to him, Isaac.
+Genesis 21:4
+וַיָּ֤מׇל אַבְרָהָם֙ אֶת־יִצְחָ֣ק בְּנ֔וֹ בֶּן־שְׁמֹנַ֖ת יָמִ֑ים כַּאֲשֶׁ֛ר צִוָּ֥ה אֹת֖וֹ אֱלֹהִֽים׃
+And Abraham circumcised his son Isaac when he was eight days old, as God had commanded him.
+Genesis 21:5
+וְאַבְרָהָ֖ם בֶּן־מְאַ֣ת שָׁנָ֑ה בְּהִוָּ֣לֶד ל֔וֹ אֵ֖ת יִצְחָ֥ק בְּנֽוֹ׃
+And Abraham was a hundred years old, when his son Isaac was born unto him.
+Genesis 21:6
+וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה לִ֖י אֱלֹהִ֑ים כׇּל־הַשֹּׁמֵ֖עַ יִֽצְחַק־לִֽי׃
+And Sarah said: ‘God hath made laughter for me; every one that heareth will laugh on account of me.’
+Genesis 21:7
+וַתֹּ֗אמֶר מִ֤י מִלֵּל֙ לְאַבְרָהָ֔ם הֵינִ֥יקָה בָנִ֖ים שָׂרָ֑ה כִּֽי־יָלַ֥דְתִּי בֵ֖ן לִזְקֻנָֽיו׃
+And she said: ‘Who would have said unto Abraham, that Sarah should give children suck? for I have borne him a son in his old age.’
+Genesis 21:8
+וַיִּגְדַּ֥ל הַיֶּ֖לֶד וַיִּגָּמַ֑ל וַיַּ֤עַשׂ אַבְרָהָם֙ מִשְׁתֶּ֣ה גָד֔וֹל בְּי֖וֹם הִגָּמֵ֥ל אֶת־יִצְחָֽק׃
+And the child grew, and was weaned. And Abraham made a great feast on the day that Isaac was weaned.
+Genesis 21:9
+וַתֵּ֨רֶא שָׂרָ֜ה אֶֽת־בֶּן־הָגָ֧ר הַמִּצְרִ֛ית אֲשֶׁר־יָלְדָ֥ה לְאַבְרָהָ֖ם מְצַחֵֽק׃
+And Sarah saw the son of Hagar the Egyptian, whom she had borne unto Abraham, making sport.
+Genesis 21:10
+וַתֹּ֙אמֶר֙ לְאַבְרָהָ֔ם גָּרֵ֛שׁ הָאָמָ֥ה הַזֹּ֖את וְאֶת־בְּנָ֑הּ כִּ֣י לֹ֤א יִירַשׁ֙ בֶּן־הָאָמָ֣ה הַזֹּ֔את עִם־בְּנִ֖י עִם־יִצְחָֽק׃
+Wherefore she said unto Abraham: ‘Cast out this bondwoman and her son; for the son of this bondwoman shall not be heir with my son, even with Isaac.’
+Genesis 21:11
+וַיֵּ֧רַע הַדָּבָ֛ר מְאֹ֖ד בְּעֵינֵ֣י אַבְרָהָ֑ם עַ֖ל אוֹדֹ֥ת בְּנֽוֹ׃
+And the thing was very grievous in Abraham’s sight on account of his son.
+Genesis 21:12
+וַיֹּ֨אמֶר אֱלֹהִ֜ים אֶל־אַבְרָהָ֗ם אַל־יֵרַ֤ע בְּעֵינֶ֙יךָ֙ עַל־הַנַּ֣עַר וְעַל־אֲמָתֶ֔ךָ כֹּל֩ אֲשֶׁ֨ר תֹּאמַ֥ר אֵלֶ֛יךָ שָׂרָ֖ה שְׁמַ֣ע בְּקֹלָ֑הּ כִּ֣י בְיִצְחָ֔ק יִקָּרֵ֥א לְךָ֖ זָֽרַע׃
+And God said unto Abraham: ‘Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah saith unto thee, hearken unto her voice; for in Isaac shall seed be called to thee.
+Genesis 21:13
+וְגַ֥ם אֶת־בֶּן־הָאָמָ֖ה לְג֣וֹי אֲשִׂימֶ֑נּוּ כִּ֥י זַרְעֲךָ֖ הֽוּא׃
+And also of the son of the bondwoman will I make a nation, because he is thy seed.’
+Genesis 21:14
+וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם  ׀  בַּבֹּ֡קֶר וַיִּֽקַּֽח־לֶ֩חֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל־הָ֠גָ֠ר שָׂ֧ם עַל־שִׁכְמָ֛הּ וְאֶת־הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר שָֽׁבַע׃
+And Abraham arose up early in the morning, and took bread and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away; and she departed, and strayed in the wilderness of Beer-sheba.
+Genesis 21:15
+וַיִּכְל֥וּ הַמַּ֖יִם מִן־הַחֵ֑מֶת וַתַּשְׁלֵ֣ךְ אֶת־הַיֶּ֔לֶד תַּ֖חַת אַחַ֥ד הַשִּׂיחִֽם׃
+And the water in the bottle was spent, and she cast the child under one of the shrubs.
+Genesis 21:16
+וַתֵּ֩לֶךְ֩ וַתֵּ֨שֶׁב לָ֜הּ מִנֶּ֗גֶד הַרְחֵק֙ כִּמְטַחֲוֵ֣י קֶ֔שֶׁת כִּ֣י אָֽמְרָ֔ה אַל־אֶרְאֶ֖ה בְּמ֣וֹת הַיָּ֑לֶד וַתֵּ֣שֶׁב מִנֶּ֔גֶד וַתִּשָּׂ֥א אֶת־קֹלָ֖הּ וַתֵּֽבְךְּ׃
+And she went, and sat her down over against him a good way off, as it were a bow-shot; for she said: ‘Let me not look upon the death of the child.’ And she sat over against him, and lifted up her voice, and wept.
+Genesis 21:17
+וַיִּשְׁמַ֣ע אֱלֹהִים֮ אֶת־ק֣וֹל הַנַּ֒עַר֒ וַיִּקְרָא֩ מַלְאַ֨ךְ אֱלֹהִ֤ים  ׀  אֶל־הָגָר֙ מִן־הַשָּׁמַ֔יִם וַיֹּ֥אמֶר לָ֖הּ מַה־לָּ֣ךְ הָגָ֑ר אַל־תִּ֣ירְאִ֔י כִּֽי־שָׁמַ֧ע אֱלֹהִ֛ים אֶל־ק֥וֹל הַנַּ֖עַר בַּאֲשֶׁ֥ר הוּא־שָֽׁם׃
+And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her: ‘What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is.
+Genesis 21:18
+ק֚וּמִי שְׂאִ֣י אֶת־הַנַּ֔עַר וְהַחֲזִ֥יקִי אֶת־יָדֵ֖ךְ בּ֑וֹ כִּֽי־לְג֥וֹי גָּד֖וֹל אֲשִׂימֶֽנּוּ׃
+Arise, lift up the lad, and hold him fast by thy hand; for I will make him a great nation.’
+Genesis 21:19
+וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת־עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת־הַחֵ֙מֶת֙ מַ֔יִם וַתַּ֖שְׁקְ אֶת־הַנָּֽעַר׃
+And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.
+Genesis 21:20
+וַיְהִ֧י אֱלֹהִ֛ים אֶת־הַנַּ֖עַר וַיִּגְדָּ֑ל וַיֵּ֙שֶׁב֙ בַּמִּדְבָּ֔ר וַיְהִ֖י רֹבֶ֥ה קַשָּֽׁת׃
+And God was with the lad, and he grew; and he dwelt in the wilderness, and became an archer.
+Genesis 21:21
+וַיֵּ֖שֶׁב בְּמִדְבַּ֣ר פָּארָ֑ן וַתִּֽקַּֽח־ל֥וֹ אִמּ֛וֹ אִשָּׁ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם׃  {פ}
+And he dwelt in the wilderness of Paran; and his mother took him a wife out of the land of Egypt.
+Genesis 21:22
+וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֹּ֣אמֶר אֲבִימֶ֗לֶךְ וּפִיכֹל֙ שַׂר־צְבָא֔וֹ אֶל־אַבְרָהָ֖ם לֵאמֹ֑ר אֱלֹהִ֣ים עִמְּךָ֔ בְּכֹ֥ל אֲשֶׁר־אַתָּ֖ה עֹשֶֽׂה׃
+And it came to pass at that time, that Abimelech and Phicol the captain of his host spoke unto Abraham, saying: ‘God is with thee in all that thou doest.
+Genesis 21:23
+וְעַתָּ֗ה הִשָּׁ֨בְעָה לִּ֤י בֵֽאלֹהִים֙ הֵ֔נָּה אִם־תִּשְׁקֹ֣ר לִ֔י וּלְנִינִ֖י וּלְנֶכְדִּ֑י כַּחֶ֜סֶד אֲשֶׁר־עָשִׂ֤יתִי עִמְּךָ֙ תַּעֲשֶׂ֣ה עִמָּדִ֔י וְעִם־הָאָ֖רֶץ אֲשֶׁר־גַּ֥רְתָּה בָּֽהּ׃
+Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son; but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.’
+Genesis 21:24
+וַיֹּ֙אמֶר֙ אַבְרָהָ֔ם אָנֹכִ֖י אִשָּׁבֵֽעַ׃
+And Abraham said: ‘I will swear.’
+Genesis 21:25
+וְהוֹכִ֥חַ אַבְרָהָ֖ם אֶת־אֲבִימֶ֑לֶךְ עַל־אֹדוֹת֙ בְּאֵ֣ר הַמַּ֔יִם אֲשֶׁ֥ר גָּזְל֖וּ עַבְדֵ֥י אֲבִימֶֽלֶךְ׃
+And Abraham reproved Abimelech because of the well of water, which Abimelech’s servants had violently taken away.
+Genesis 21:26
+וַיֹּ֣אמֶר אֲבִימֶ֔לֶךְ לֹ֣א יָדַ֔עְתִּי מִ֥י עָשָׂ֖ה אֶת־הַדָּבָ֣ר הַזֶּ֑ה וְגַם־אַתָּ֞ה לֹא־הִגַּ֣דְתָּ לִּ֗י וְגַ֧ם אָנֹכִ֛י לֹ֥א שָׁמַ֖עְתִּי בִּלְתִּ֥י הַיּֽוֹם׃
+And Abimelech said: ‘I know not who hath done this thing; neither didst thou tell me, neither yet heard I of it, but to-day.’
+Genesis 21:27
+וַיִּקַּ֤ח אַבְרָהָם֙ צֹ֣אן וּבָקָ֔ר וַיִּתֵּ֖ן לַאֲבִימֶ֑לֶךְ וַיִּכְרְת֥וּ שְׁנֵיהֶ֖ם בְּרִֽית׃
+And Abraham took sheep and oxen, and gave them unto Abimelech; and they two made a covenant.
+Genesis 21:28
+וַיַּצֵּ֣ב אַבְרָהָ֗ם אֶת־שֶׁ֛בַע כִּבְשֹׂ֥ת הַצֹּ֖אן לְבַדְּהֶֽן׃
+And Abraham set seven ewe-lambs of the flock by themselves.
+Genesis 21:29
+וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל־אַבְרָהָ֑ם מָ֣ה הֵ֗נָּה שֶׁ֤בַע כְּבָשֹׂת֙ הָאֵ֔לֶּה אֲשֶׁ֥ר הִצַּ֖בְתָּ לְבַדָּֽנָה׃
+And Abimelech said unto Abraham: ‘What mean these seven ewe-lambs which thou hast set by themselves?’
+Genesis 21:30
+וַיֹּ֕אמֶר כִּ֚י אֶת־שֶׁ֣בַע כְּבָשֹׂ֔ת תִּקַּ֖ח מִיָּדִ֑י בַּעֲבוּר֙ תִּֽהְיֶה־לִּ֣י לְעֵדָ֔ה כִּ֥י חָפַ֖רְתִּי אֶת־הַבְּאֵ֥ר הַזֹּֽאת׃
+And he said: ‘Verily, these seven ewe-lambs shalt thou take of my hand, that it may be a witness unto me, that I have digged this well.’
+Genesis 21:31
+עַל־כֵּ֗ן קָרָ֛א לַמָּק֥וֹם הַה֖וּא בְּאֵ֣ר שָׁ֑בַע כִּ֛י שָׁ֥ם נִשְׁבְּע֖וּ שְׁנֵיהֶֽם׃
+Wherefore that place was called Beer-sheba; because there they swore both of them.
+Genesis 21:32
+וַיִּכְרְת֥וּ בְרִ֖ית בִּבְאֵ֣ר שָׁ֑בַע וַיָּ֣קׇם אֲבִימֶ֗לֶךְ וּפִיכֹל֙ שַׂר־צְבָא֔וֹ וַיָּשֻׁ֖בוּ אֶל־אֶ֥רֶץ פְּלִשְׁתִּֽים׃
+So they made a covenant at Beer-sheba; and Abimelech rose up, and Phicol the captain of his host, and they returned into the land of the Philistines.
+Genesis 21:33
+וַיִּטַּ֥ע אֶ֖שֶׁל בִּבְאֵ֣ר שָׁ֑בַע וַיִּ֨קְרָא־שָׁ֔ם בְּשֵׁ֥ם יְהֹוָ֖ה אֵ֥ל עוֹלָֽם׃
+And Abraham planted a tamarisk-tree in Beer-sheba, and called there on the name of the LORD, the Everlasting God.
+Genesis 21:34
+וַיָּ֧גׇר אַבְרָהָ֛ם בְּאֶ֥רֶץ פְּלִשְׁתִּ֖ים יָמִ֥ים רַבִּֽים׃  {פ}
+And Abraham sojourned in the land of the Philistines many days.
+https://www.sefaria.org/Genesis.21
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Numbers 29:1-29:6
+Numbers 29:1
+וּבַחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ י֥וֹם תְּרוּעָ֖ה יִהְיֶ֥ה לָכֶֽם׃
+And in the seventh month, on the first day of the month, ye shall have a holy convocation: ye shall do no manner of servile work; it is a day of blowing the horn unto you.
+Numbers 29:2
+וַעֲשִׂיתֶ֨ם עֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה פַּ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד אַ֣יִל אֶחָ֑ד כְּבָשִׂ֧ים בְּנֵי־שָׁנָ֛ה שִׁבְעָ֖ה תְּמִימִֽם׃
+And ye shall prepare a burnt-offering for a sweet savour unto the LORD: one young bullock, one ram, seven he-lambs of the first year without blemish;
+Numbers 29:3
+וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֔ר שְׁנֵ֥י עֶשְׂרֹנִ֖ים לָאָֽיִל׃
+and their meal-offering, fine flour mingled with oil, three tenth parts for the bullock, two tenth part for the ram,
+Numbers 29:4
+וְעִשָּׂר֣וֹן אֶחָ֔ד לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃
+and one tenth part for every lamb of the seven lambs;
+Numbers 29:5
+וּשְׂעִיר־עִזִּ֥ים אֶחָ֖ד חַטָּ֑את לְכַפֵּ֖ר עֲלֵיכֶֽם׃
+and one he-goat for a sin-offering, to make atonement for you;
+Numbers 29:6
+מִלְּבַד֩ עֹלַ֨ת הַחֹ֜דֶשׁ וּמִנְחָתָ֗הּ וְעֹלַ֤ת הַתָּמִיד֙ וּמִנְחָתָ֔הּ וְנִסְכֵּיהֶ֖ם כְּמִשְׁפָּטָ֑ם לְרֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֖ה לַיהֹוָֽה׃  {ס}
+beside the burnt-offering of the new moon, and the meal-offering thereof, and the continual burnt-offering and the meal-offering thereof, and their drink-offerings, according unto their ordinance, for a sweet savour, an offering made by fire unto the LORD.
+https://www.sefaria.org/Numbers%2029
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Rosh Hashana I · haft
+I Samuel 1:1-2:10
+I Samuel 1:1
+וַיְהִי֩ אִ֨ישׁ אֶחָ֜ד מִן־הָרָמָתַ֛יִם צוֹפִ֖ים מֵהַ֣ר אֶפְרָ֑יִם וּשְׁמ֡וֹ אֶ֠לְקָנָ֠ה בֶּן־יְרֹחָ֧ם בֶּן־אֱלִיה֛וּא בֶּן־תֹּ֥חוּ בֶן־צ֖וּף אֶפְרָתִֽי׃
+Now there was a certain man of Ramathaim-zophim, of the hill-country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
+I Samuel 1:2
+וְלוֹ֙ שְׁתֵּ֣י נָשִׁ֔ים שֵׁ֤ם אַחַת֙ חַנָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית פְּנִנָּ֑ה וַיְהִ֤י לִפְנִנָּה֙ יְלָדִ֔ים וּלְחַנָּ֖ה אֵ֥ין יְלָדִֽים׃
+And he had two wives: the name of the one was Hannah, and the name of the other Peninnah; and Peninnah had children, but Hannah had no children.
+I Samuel 1:3
+וְעָלָה֩ הָאִ֨ישׁ הַה֤וּא מֵֽעִירוֹ֙ מִיָּמִ֣ים  ׀  יָמִ֔ימָה לְהִֽשְׁתַּחֲוֺ֧ת וְלִזְבֹּ֛חַ לַיהֹוָ֥ה צְבָא֖וֹת בְּשִׁלֹ֑ה וְשָׁ֞ם שְׁנֵ֣י בְנֵֽי־עֵלִ֗י חׇפְנִי֙ וּפִ֣נְחָ֔ס כֹּהֲנִ֖ים לַיהֹוָֽה׃
+And this man went up out of his city from year to year to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, were there priests unto the LORD.
+I Samuel 1:4
+וַיְהִ֣י הַיּ֔וֹם וַיִּזְבַּ֖ח אֶלְקָנָ֑ה וְנָתַ֞ן לִפְנִנָּ֣ה אִשְׁתּ֗וֹ וּֽלְכׇל־בָּנֶ֛יהָ וּבְנוֹתֶ֖יהָ מָנֽוֹת׃
+And it came to pass upon a day, when Elkanah sacrificed, that he gave to Peninnah his wife, and to all her sons and her daughters, portions;
+I Samuel 1:5
+וּלְחַנָּ֕ה יִתֵּ֛ן מָנָ֥ה אַחַ֖ת אַפָּ֑יִם כִּ֤י אֶת־חַנָּה֙ אָהֵ֔ב וַיהֹוָ֖ה סָגַ֥ר רַחְמָֽהּ׃
+but unto Hannah he gave a double portion; for he loved Hannah, but the LORD had shut up her womb.
+I Samuel 1:6
+וְכִעֲסַ֤תָּה צָרָתָהּ֙ גַּם־כַּ֔עַס בַּעֲב֖וּר הַרְּעִמָ֑הּ כִּֽי־סָגַ֥ר יְהֹוָ֖ה בְּעַ֥ד רַחְמָֽהּ׃
+And her rival vexed her sore, to make her fret, because the LORD had shut up her womb.
+I Samuel 1:7
+וְכֵ֨ן יַעֲשֶׂ֜ה שָׁנָ֣ה בְשָׁנָ֗ה מִדֵּ֤י עֲלֹתָהּ֙ בְּבֵ֣ית יְהֹוָ֔ה כֵּ֖ן תַּכְעִסֶ֑נָּה וַתִּבְכֶּ֖ה וְלֹ֥א תֹאכַֽל׃
+And as he did so year by year, when she went up to the house of the LORD, so she vexed her; therefore she wept, and would not eat.
+I Samuel 1:8
+וַיֹּ֨אמֶר לָ֜הּ אֶלְקָנָ֣ה אִישָׁ֗הּ חַנָּה֙ לָ֣מֶה תִבְכִּ֗י וְלָ֙מֶה֙ לֹ֣א תֹֽאכְלִ֔י וְלָ֖מֶה יֵרַ֣ע לְבָבֵ֑ךְ הֲל֤וֹא אָֽנֹכִי֙ ט֣וֹב לָ֔ךְ מֵעֲשָׂרָ֖ה בָּנִֽים׃
+And Elkanah her husband said unto her: ‘Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?’
+I Samuel 1:9
+וַתָּ֣קׇם חַנָּ֔ה אַחֲרֵ֛י אׇכְלָ֥הֿ בְשִׁלֹ֖ה וְאַחֲרֵ֣י שָׁתֹ֑ה וְעֵלִ֣י הַכֹּהֵ֗ן יֹשֵׁב֙ עַל־הַכִּסֵּ֔א עַל־מְזוּזַ֖ת הֵיכַ֥ל יְהֹוָֽה׃
+So Hannah rose up after they had eaten in Shiloh, and after they had drunk—now Eli the priest sat upon his seat by the door-post of the temple of the LORD;
+I Samuel 1:10
+וְהִ֖יא מָ֣רַת נָ֑פֶשׁ וַתִּתְפַּלֵּ֥ל עַל־יְהֹוָ֖ה וּבָכֹ֥ה תִבְכֶּֽה׃
+and she was in bitterness of soul—and prayed unto the LORD, and wept sore.
+I Samuel 1:11
+וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהֹוָ֨ה צְבָא֜וֹת אִם־רָאֹ֥ה תִרְאֶ֣ה  ׀  בׇּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֙נִי֙ וְלֹא־תִשְׁכַּ֣ח אֶת־אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהֹוָה֙ כׇּל־יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא־יַעֲלֶ֥ה עַל־רֹאשֽׁוֹ׃
+And she vowed a vow, and said: ‘O LORD of hosts, if Thou wilt indeed look on the affliction of Thy handmaid, and remember me, and not forget Thy handmaid, but wilt give unto Thy handmaid a man-child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head.’
+I Samuel 1:12
+וְהָיָה֙ כִּ֣י הִרְבְּתָ֔ה לְהִתְפַּלֵּ֖ל לִפְנֵ֣י יְהֹוָ֑ה וְעֵלִ֖י שֹׁמֵ֥ר אֶת־פִּֽיהָ׃
+And it came to pass, as she prayed long before the LORD, that Eli watched her mouth.
+I Samuel 1:13
+וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל־לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה׃
+Now Hannah, she spoke in her heart; only her lips moved, but her voice could not be heard; therefore, Eli thought she had been drunken.
+I Samuel 1:14
+וַיֹּ֤אמֶר אֵלֶ֙יהָ֙ עֵלִ֔י עַד־מָתַ֖י תִּשְׁתַּכָּרִ֑ין הָסִ֥ירִי אֶת־יֵינֵ֖ךְ מֵעָלָֽיִךְ׃
+And Eli said unto her: ‘How long wilt thou be drunken? put away thy wine from thee.’
+I Samuel 1:15
+וַתַּ֨עַן חַנָּ֤ה וַתֹּ֙אמֶר֙ לֹ֣א אֲדֹנִ֔י אִשָּׁ֤ה קְשַׁת־ר֙וּחַ֙ אָנֹ֔כִי וְיַ֥יִן וְשֵׁכָ֖ר לֹ֣א שָׁתִ֑יתִי וָאֶשְׁפֹּ֥ךְ אֶת־נַפְשִׁ֖י לִפְנֵ֥י יְהֹוָֽה׃
+And Hannah answered and said: ‘No, my lord, I am a woman of a sorrowful spirit; I have drunk neither wine nor strong drink, but I poured out my soul before the LORD.
+I Samuel 1:16
+אַל־תִּתֵּן֙ אֶת־אֲמָ֣תְךָ֔ לִפְנֵ֖י בַּת־בְּלִיָּ֑עַל כִּֽי־מֵרֹ֥ב שִׂיחִ֛י וְכַעְסִ֖י דִּבַּ֥רְתִּי עַד־הֵֽנָּה׃
+Count not thy handmaid for a wicked woman: for out of the abundance of my complaint and my vexation have I spoken hitherto.’
+I Samuel 1:17
+וַיַּ֧עַן עֵלִ֛י וַיֹּ֖אמֶר לְכִ֣י לְשָׁל֑וֹם וֵאלֹהֵ֣י יִשְׂרָאֵ֗ל יִתֵּן֙ אֶת־שֵׁ֣לָתֵ֔ךְ אֲשֶׁ֥ר שָׁאַ֖לְתְּ מֵעִמּֽוֹ׃
+Then Eli answered and said: ‘Go in peace, and the God of Israel grant thy petition that thou hast asked of Him.’
+I Samuel 1:18
+וַתֹּ֕אמֶר תִּמְצָ֧א שִׁפְחָתְךָ֛ חֵ֖ן בְּעֵינֶ֑יךָ וַתֵּ֨לֶךְ הָאִשָּׁ֤ה לְדַרְכָּהּ֙ וַתֹּאכַ֔ל וּפָנֶ֥יהָ לֹא־הָֽיוּ־לָ֖הּ עֽוֹד׃
+And she said: ‘Let thy servant find favour in thy sight.’ So the woman went her way, and did eat, and her countenance was no more sad.
+I Samuel 1:19
+וַיַּשְׁכִּ֣מוּ בַבֹּ֗קֶר וַיִּֽשְׁתַּחֲווּ֙ לִפְנֵ֣י יְהֹוָ֔ה וַיָּשֻׁ֛בוּ וַיָּבֹ֥אוּ אֶל־בֵּיתָ֖ם הָרָמָ֑תָה וַיֵּ֤דַע אֶלְקָנָה֙ אֶת־חַנָּ֣ה אִשְׁתּ֔וֹ וַֽיִּזְכְּרֶ֖הָ יְהֹוָֽה׃
+And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah; and Elkanah knew Hannah his wife; and the LORD remembered her.
+I Samuel 1:20
+וַֽיְהִי֙ לִתְקֻפ֣וֹת הַיָּמִ֔ים וַתַּ֥הַר חַנָּ֖ה וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֤א אֶת־שְׁמוֹ֙ שְׁמוּאֵ֔ל כִּ֥י מֵיְהֹוָ֖ה שְׁאִלְתִּֽיו׃
+And it came to pass, when the time was come about, that Hannah conceived, and bore a son; and she called his name Samuel: ‘because I have asked him of the LORD.’
+I Samuel 1:21
+וַיַּ֛עַל הָאִ֥ישׁ אֶלְקָנָ֖ה וְכׇל־בֵּית֑וֹ לִזְבֹּ֧חַ לַיהֹוָ֛ה אֶת־זֶ֥בַח הַיָּמִ֖ים וְאֶת־נִדְרֽוֹ׃
+And the man Elkanah, and all his house, went up to offer unto the LORD the yearly sacrifice, and his vow.
+I Samuel 1:22
+וְחַנָּ֖ה לֹ֣א עָלָ֑תָה כִּֽי־אָמְרָ֣ה לְאִישָׁ֗הּ עַ֣ד יִגָּמֵ֤ל הַנַּ֙עַר֙ וַהֲבִאֹתִ֗יו וְנִרְאָה֙ אֶת־פְּנֵ֣י יְהֹוָ֔ה וְיָ֥שַׁב שָׁ֖ם עַד־עוֹלָֽם׃
+But Hannah went not up; for she said unto her husband: ‘Until the child be weaned, when I will bring him, that he may appear before the LORD, and there abide for ever.’
+I Samuel 1:23
+וַיֹּ֣אמֶר לָהּ֩ אֶלְקָנָ֨ה אִישָׁ֜הּ עֲשִׂ֧י הַטּ֣וֹב בְּעֵינַ֗יִךְ שְׁבִי֙ עַד־גׇּמְלֵ֣ךְ אֹת֔וֹ אַ֛ךְ יָקֵ֥ם יְהֹוָ֖ה אֶת־דְּבָר֑וֹ וַתֵּ֤שֶׁב הָֽאִשָּׁה֙ וַתֵּ֣ינֶק אֶת־בְּנָ֔הּ עַד־גׇּמְלָ֖הּ אֹתֽוֹ׃
+And Elkanah her husband said unto her: ‘Do what seemeth thee good; tarry until thou have weaned him; only the LORD establish His word.’ So the woman tarried and gave her son suck, until she weaned him.
+I Samuel 1:24
+וַתַּעֲלֵ֨הוּ עִמָּ֜הּ כַּאֲשֶׁ֣ר גְּמָלַ֗תּוּ בְּפָרִ֤ים שְׁלֹשָׁה֙ וְאֵיפָ֨ה אַחַ֥ת קֶ֙מַח֙ וְנֵ֣בֶל יַ֔יִן וַתְּבִאֵ֥הוּ בֵית־יְהֹוָ֖ה שִׁל֑וֹ וְהַנַּ֖עַר נָֽעַר׃
+And when she had weaned him, she took him up with her, with three bullocks, and one ephah of meal, and a bottle of wine, and brought him unto the house of the LORD in Shiloh; and the child was young.
+I Samuel 1:25
+וַֽיִּשְׁחֲט֖וּ אֶת־הַפָּ֑ר וַיָּבִ֥אוּ אֶת־הַנַּ֖עַר אֶל־עֵלִֽי׃
+And when the bullock was slain, the child was brought to Eli.
+I Samuel 1:26
+וַתֹּ֙אמֶר֙ בִּ֣י אֲדֹנִ֔י חֵ֥י נַפְשְׁךָ֖ אֲדֹנִ֑י אֲנִ֣י הָאִשָּׁ֗ה הַנִּצֶּ֤בֶת עִמְּכָה֙ בָּזֶ֔ה לְהִתְפַּלֵּ֖ל אֶל־יְהֹוָֽה׃
+And she said: ‘Oh, my lord, as thy soul liveth, my lord, I am the woman that stood by thee here, praying unto the LORD.
+I Samuel 1:27
+אֶל־הַנַּ֥עַר הַזֶּ֖ה הִתְפַּלָּ֑לְתִּי וַיִּתֵּ֨ן יְהֹוָ֥ה לִי֙ אֶת־שְׁאֵ֣לָתִ֔י אֲשֶׁ֥ר שָׁאַ֖לְתִּי מֵעִמּֽוֹ׃
+For this child I prayed; and the LORD hath granted me my petition which I asked of Him;
+I Samuel 1:28
+וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֙הוּ֙ לַֽיהֹוָ֔ה כׇּל־הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַיהֹוָ֑ה וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַֽיהֹוָֽה׃  {ס}
+therefore I also have lent him to the LORD; as long as he liveth he is lent to the LORD.’ And he worshipped the LORD there.
+I Samuel 2:1
+וַתִּתְפַּלֵּ֤ל חַנָּה֙ וַתֹּאמַ֔ר עָלַ֤ץ לִבִּי֙ בַּֽיהֹוָ֔ה רָ֥מָה קַרְנִ֖י בַּֽיהֹוָ֑ה רָ֤חַב פִּי֙ עַל־א֣וֹיְבַ֔י כִּ֥י שָׂמַ֖חְתִּי בִּישׁוּעָתֶֽךָ׃
+And Hannah prayed, and said: My heart exulteth in the LORD, My horn is exalted in the LORD; My mouth is enlarged over mine enemies; Because I rejoice in Thy salvation.
+I Samuel 2:2
+אֵין־קָד֥וֹשׁ כַּיהֹוָ֖ה כִּ֣י אֵ֣ין בִּלְתֶּ֑ךָ וְאֵ֥ין צ֖וּר כֵּאלֹהֵֽינוּ׃
+There is none holy as the LORD, For there is none beside Thee; Neither is there any rock like our God.
+I Samuel 2:3
+אַל־תַּרְבּ֤וּ תְדַבְּרוּ֙ גְּבֹהָ֣ה גְבֹהָ֔ה יֵצֵ֥א עָתָ֖ק מִפִּיכֶ֑ם כִּ֣י אֵ֤ל דֵּעוֹת֙ יְהֹוָ֔ה   (ולא)   [וְל֥וֹ]   נִתְכְּנ֖וּ עֲלִלֽוֹת׃
+Multiply not exceeding proud talk; Let not arrogancy come out of your mouth; For the LORD is a God of knowledge, And by Him actions are weighed.
+I Samuel 2:4
+קֶ֥שֶׁת גִּבֹּרִ֖ים חַתִּ֑ים וְנִכְשָׁלִ֖ים אָ֥זְרוּ חָֽיִל׃
+The bows of the mighty men are broken, And they that stumbled are girded with strength.
+I Samuel 2:5
+שְׂבֵעִ֤ים בַּלֶּ֙חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד־עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה וְרַבַּ֥ת בָּנִ֖ים אֻמְלָֽלָה׃
+They that were full have hired out themselves for bread; And they that were hungry have ceased; While the barren hath borne seven, She that had many children hath languished.
+I Samuel 2:6
+יְהֹוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל׃
+The LORD killeth, and maketh alive; He bringeth down to the grave, and bringeth up.
+I Samuel 2:7
+יְהֹוָ֖ה מוֹרִ֣ישׁ וּמַעֲשִׁ֑יר מַשְׁפִּ֖יל אַף־מְרוֹמֵֽם׃
+The LORD maketh poor, and maketh rich; He bringeth low, He also lifteth up. .
+I Samuel 2:8
+מֵקִ֨ים מֵעָפָ֜ר דָּ֗ל מֵֽאַשְׁפֹּת֙ יָרִ֣ים אֶבְי֔וֹן לְהוֹשִׁיב֙ עִם־נְדִיבִ֔ים וְכִסֵּ֥א כָב֖וֹד יַנְחִלֵ֑ם כִּ֤י לַֽיהֹוָה֙ מְצֻ֣קֵי אֶ֔רֶץ וַיָּ֥שֶׁת עֲלֵיהֶ֖ם תֵּבֵֽל׃
+He raiseth up the poor out of the dust, He lifteth up the needy from the dung-hill, To make them sit with princes, And inherit the throne of glory; For the pillars of the earth are the LORD’S, And He hath set the world upon them.
+I Samuel 2:9
+רַגְלֵ֤י חֲסִידָו֙ יִשְׁמֹ֔ר וּרְשָׁעִ֖ים בַּחֹ֣שֶׁךְ יִדָּ֑מּוּ כִּי־לֹ֥א בְכֹ֖חַ יִגְבַּר־אִֽישׁ׃
+He will keep the feet of His holy ones, But the wicked shall be put to silence in darkness; For not by strength shall man prevail.
+I Samuel 2:10
+יְהֹוָ֞ה יֵחַ֣תּוּ  מְרִיבָ֗ו   עָלָו֙  בַּשָּׁמַ֣יִם יַרְעֵ֔ם יְהֹוָ֖ה יָדִ֣ין אַפְסֵי־אָ֑רֶץ וְיִתֶּן־עֹ֣ז לְמַלְכּ֔וֹ וְיָרֵ֖ם קֶ֥רֶן מְשִׁיחֽוֹ׃  {פ}
+They that strive with the LORD shall be broken to pieces; Against them will He thunder in heaven; The LORD will judge the ends of the earth; And He will give strength unto His king, And exalt the horn of His anointed.
+https://www.sefaria.org/I%20Samuel%201
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/I%20Samuel%202
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Rosh Hashana I (on Shabbat) · Torah
+Genesis 21:1-21:34
+Genesis 21:1
+וַֽיהֹוָ֛ה פָּקַ֥ד אֶת־שָׂרָ֖ה כַּאֲשֶׁ֣ר אָמָ֑ר וַיַּ֧עַשׂ יְהֹוָ֛ה לְשָׂרָ֖ה כַּאֲשֶׁ֥ר דִּבֵּֽר׃
+And the LORD remembered Sarah as He had said, and the LORD did unto Sarah as He had spoken.
+Genesis 21:2
+וַתַּ֩הַר֩ וַתֵּ֨לֶד שָׂרָ֧ה לְאַבְרָהָ֛ם בֵּ֖ן לִזְקֻנָ֑יו לַמּוֹעֵ֕ד אֲשֶׁר־דִּבֶּ֥ר אֹת֖וֹ אֱלֹהִֽים׃
+And Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him.
+Genesis 21:3
+וַיִּקְרָ֨א אַבְרָהָ֜ם אֶֽת־שֶׁם־בְּנ֧וֹ הַנּֽוֹלַד־ל֛וֹ אֲשֶׁר־יָלְדָה־לּ֥וֹ שָׂרָ֖ה יִצְחָֽק׃
+And Abraham called the name of his son that was born unto him, whom Sarah bore to him, Isaac.
+Genesis 21:4
+וַיָּ֤מׇל אַבְרָהָם֙ אֶת־יִצְחָ֣ק בְּנ֔וֹ בֶּן־שְׁמֹנַ֖ת יָמִ֑ים כַּאֲשֶׁ֛ר צִוָּ֥ה אֹת֖וֹ אֱלֹהִֽים׃
+And Abraham circumcised his son Isaac when he was eight days old, as God had commanded him.
+Genesis 21:5
+וְאַבְרָהָ֖ם בֶּן־מְאַ֣ת שָׁנָ֑ה בְּהִוָּ֣לֶד ל֔וֹ אֵ֖ת יִצְחָ֥ק בְּנֽוֹ׃
+And Abraham was a hundred years old, when his son Isaac was born unto him.
+Genesis 21:6
+וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה לִ֖י אֱלֹהִ֑ים כׇּל־הַשֹּׁמֵ֖עַ יִֽצְחַק־לִֽי׃
+And Sarah said: ‘God hath made laughter for me; every one that heareth will laugh on account of me.’
+Genesis 21:7
+וַתֹּ֗אמֶר מִ֤י מִלֵּל֙ לְאַבְרָהָ֔ם הֵינִ֥יקָה בָנִ֖ים שָׂרָ֑ה כִּֽי־יָלַ֥דְתִּי בֵ֖ן לִזְקֻנָֽיו׃
+And she said: ‘Who would have said unto Abraham, that Sarah should give children suck? for I have borne him a son in his old age.’
+Genesis 21:8
+וַיִּגְדַּ֥ל הַיֶּ֖לֶד וַיִּגָּמַ֑ל וַיַּ֤עַשׂ אַבְרָהָם֙ מִשְׁתֶּ֣ה גָד֔וֹל בְּי֖וֹם הִגָּמֵ֥ל אֶת־יִצְחָֽק׃
+And the child grew, and was weaned. And Abraham made a great feast on the day that Isaac was weaned.
+Genesis 21:9
+וַתֵּ֨רֶא שָׂרָ֜ה אֶֽת־בֶּן־הָגָ֧ר הַמִּצְרִ֛ית אֲשֶׁר־יָלְדָ֥ה לְאַבְרָהָ֖ם מְצַחֵֽק׃
+And Sarah saw the son of Hagar the Egyptian, whom she had borne unto Abraham, making sport.
+Genesis 21:10
+וַתֹּ֙אמֶר֙ לְאַבְרָהָ֔ם גָּרֵ֛שׁ הָאָמָ֥ה הַזֹּ֖את וְאֶת־בְּנָ֑הּ כִּ֣י לֹ֤א יִירַשׁ֙ בֶּן־הָאָמָ֣ה הַזֹּ֔את עִם־בְּנִ֖י עִם־יִצְחָֽק׃
+Wherefore she said unto Abraham: ‘Cast out this bondwoman and her son; for the son of this bondwoman shall not be heir with my son, even with Isaac.’
+Genesis 21:11
+וַיֵּ֧רַע הַדָּבָ֛ר מְאֹ֖ד בְּעֵינֵ֣י אַבְרָהָ֑ם עַ֖ל אוֹדֹ֥ת בְּנֽוֹ׃
+And the thing was very grievous in Abraham’s sight on account of his son.
+Genesis 21:12
+וַיֹּ֨אמֶר אֱלֹהִ֜ים אֶל־אַבְרָהָ֗ם אַל־יֵרַ֤ע בְּעֵינֶ֙יךָ֙ עַל־הַנַּ֣עַר וְעַל־אֲמָתֶ֔ךָ כֹּל֩ אֲשֶׁ֨ר תֹּאמַ֥ר אֵלֶ֛יךָ שָׂרָ֖ה שְׁמַ֣ע בְּקֹלָ֑הּ כִּ֣י בְיִצְחָ֔ק יִקָּרֵ֥א לְךָ֖ זָֽרַע׃
+And God said unto Abraham: ‘Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah saith unto thee, hearken unto her voice; for in Isaac shall seed be called to thee.
+Genesis 21:13
+וְגַ֥ם אֶת־בֶּן־הָאָמָ֖ה לְג֣וֹי אֲשִׂימֶ֑נּוּ כִּ֥י זַרְעֲךָ֖ הֽוּא׃
+And also of the son of the bondwoman will I make a nation, because he is thy seed.’
+Genesis 21:14
+וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם  ׀  בַּבֹּ֡קֶר וַיִּֽקַּֽח־לֶ֩חֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל־הָ֠גָ֠ר שָׂ֧ם עַל־שִׁכְמָ֛הּ וְאֶת־הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר שָֽׁבַע׃
+And Abraham arose up early in the morning, and took bread and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away; and she departed, and strayed in the wilderness of Beer-sheba.
+Genesis 21:15
+וַיִּכְל֥וּ הַמַּ֖יִם מִן־הַחֵ֑מֶת וַתַּשְׁלֵ֣ךְ אֶת־הַיֶּ֔לֶד תַּ֖חַת אַחַ֥ד הַשִּׂיחִֽם׃
+And the water in the bottle was spent, and she cast the child under one of the shrubs.
+Genesis 21:16
+וַתֵּ֩לֶךְ֩ וַתֵּ֨שֶׁב לָ֜הּ מִנֶּ֗גֶד הַרְחֵק֙ כִּמְטַחֲוֵ֣י קֶ֔שֶׁת כִּ֣י אָֽמְרָ֔ה אַל־אֶרְאֶ֖ה בְּמ֣וֹת הַיָּ֑לֶד וַתֵּ֣שֶׁב מִנֶּ֔גֶד וַתִּשָּׂ֥א אֶת־קֹלָ֖הּ וַתֵּֽבְךְּ׃
+And she went, and sat her down over against him a good way off, as it were a bow-shot; for she said: ‘Let me not look upon the death of the child.’ And she sat over against him, and lifted up her voice, and wept.
+Genesis 21:17
+וַיִּשְׁמַ֣ע אֱלֹהִים֮ אֶת־ק֣וֹל הַנַּ֒עַר֒ וַיִּקְרָא֩ מַלְאַ֨ךְ אֱלֹהִ֤ים  ׀  אֶל־הָגָר֙ מִן־הַשָּׁמַ֔יִם וַיֹּ֥אמֶר לָ֖הּ מַה־לָּ֣ךְ הָגָ֑ר אַל־תִּ֣ירְאִ֔י כִּֽי־שָׁמַ֧ע אֱלֹהִ֛ים אֶל־ק֥וֹל הַנַּ֖עַר בַּאֲשֶׁ֥ר הוּא־שָֽׁם׃
+And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her: ‘What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is.
+Genesis 21:18
+ק֚וּמִי שְׂאִ֣י אֶת־הַנַּ֔עַר וְהַחֲזִ֥יקִי אֶת־יָדֵ֖ךְ בּ֑וֹ כִּֽי־לְג֥וֹי גָּד֖וֹל אֲשִׂימֶֽנּוּ׃
+Arise, lift up the lad, and hold him fast by thy hand; for I will make him a great nation.’
+Genesis 21:19
+וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת־עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת־הַחֵ֙מֶת֙ מַ֔יִם וַתַּ֖שְׁקְ אֶת־הַנָּֽעַר׃
+And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.
+Genesis 21:20
+וַיְהִ֧י אֱלֹהִ֛ים אֶת־הַנַּ֖עַר וַיִּגְדָּ֑ל וַיֵּ֙שֶׁב֙ בַּמִּדְבָּ֔ר וַיְהִ֖י רֹבֶ֥ה קַשָּֽׁת׃
+And God was with the lad, and he grew; and he dwelt in the wilderness, and became an archer.
+Genesis 21:21
+וַיֵּ֖שֶׁב בְּמִדְבַּ֣ר פָּארָ֑ן וַתִּֽקַּֽח־ל֥וֹ אִמּ֛וֹ אִשָּׁ֖ה מֵאֶ֥רֶץ מִצְרָֽיִם׃  {פ}
+And he dwelt in the wilderness of Paran; and his mother took him a wife out of the land of Egypt.
+Genesis 21:22
+וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא וַיֹּ֣אמֶר אֲבִימֶ֗לֶךְ וּפִיכֹל֙ שַׂר־צְבָא֔וֹ אֶל־אַבְרָהָ֖ם לֵאמֹ֑ר אֱלֹהִ֣ים עִמְּךָ֔ בְּכֹ֥ל אֲשֶׁר־אַתָּ֖ה עֹשֶֽׂה׃
+And it came to pass at that time, that Abimelech and Phicol the captain of his host spoke unto Abraham, saying: ‘God is with thee in all that thou doest.
+Genesis 21:23
+וְעַתָּ֗ה הִשָּׁ֨בְעָה לִּ֤י בֵֽאלֹהִים֙ הֵ֔נָּה אִם־תִּשְׁקֹ֣ר לִ֔י וּלְנִינִ֖י וּלְנֶכְדִּ֑י כַּחֶ֜סֶד אֲשֶׁר־עָשִׂ֤יתִי עִמְּךָ֙ תַּעֲשֶׂ֣ה עִמָּדִ֔י וְעִם־הָאָ֖רֶץ אֲשֶׁר־גַּ֥רְתָּה בָּֽהּ׃
+Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son; but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.’
+Genesis 21:24
+וַיֹּ֙אמֶר֙ אַבְרָהָ֔ם אָנֹכִ֖י אִשָּׁבֵֽעַ׃
+And Abraham said: ‘I will swear.’
+Genesis 21:25
+וְהוֹכִ֥חַ אַבְרָהָ֖ם אֶת־אֲבִימֶ֑לֶךְ עַל־אֹדוֹת֙ בְּאֵ֣ר הַמַּ֔יִם אֲשֶׁ֥ר גָּזְל֖וּ עַבְדֵ֥י אֲבִימֶֽלֶךְ׃
+And Abraham reproved Abimelech because of the well of water, which Abimelech’s servants had violently taken away.
+Genesis 21:26
+וַיֹּ֣אמֶר אֲבִימֶ֔לֶךְ לֹ֣א יָדַ֔עְתִּי מִ֥י עָשָׂ֖ה אֶת־הַדָּבָ֣ר הַזֶּ֑ה וְגַם־אַתָּ֞ה לֹא־הִגַּ֣דְתָּ לִּ֗י וְגַ֧ם אָנֹכִ֛י לֹ֥א שָׁמַ֖עְתִּי בִּלְתִּ֥י הַיּֽוֹם׃
+And Abimelech said: ‘I know not who hath done this thing; neither didst thou tell me, neither yet heard I of it, but to-day.’
+Genesis 21:27
+וַיִּקַּ֤ח אַבְרָהָם֙ צֹ֣אן וּבָקָ֔ר וַיִּתֵּ֖ן לַאֲבִימֶ֑לֶךְ וַיִּכְרְת֥וּ שְׁנֵיהֶ֖ם בְּרִֽית׃
+And Abraham took sheep and oxen, and gave them unto Abimelech; and they two made a covenant.
+Genesis 21:28
+וַיַּצֵּ֣ב אַבְרָהָ֗ם אֶת־שֶׁ֛בַע כִּבְשֹׂ֥ת הַצֹּ֖אן לְבַדְּהֶֽן׃
+And Abraham set seven ewe-lambs of the flock by themselves.
+Genesis 21:29
+וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל־אַבְרָהָ֑ם מָ֣ה הֵ֗נָּה שֶׁ֤בַע כְּבָשֹׂת֙ הָאֵ֔לֶּה אֲשֶׁ֥ר הִצַּ֖בְתָּ לְבַדָּֽנָה׃
+And Abimelech said unto Abraham: ‘What mean these seven ewe-lambs which thou hast set by themselves?’
+Genesis 21:30
+וַיֹּ֕אמֶר כִּ֚י אֶת־שֶׁ֣בַע כְּבָשֹׂ֔ת תִּקַּ֖ח מִיָּדִ֑י בַּעֲבוּר֙ תִּֽהְיֶה־לִּ֣י לְעֵדָ֔ה כִּ֥י חָפַ֖רְתִּי אֶת־הַבְּאֵ֥ר הַזֹּֽאת׃
+And he said: ‘Verily, these seven ewe-lambs shalt thou take of my hand, that it may be a witness unto me, that I have digged this well.’
+Genesis 21:31
+עַל־כֵּ֗ן קָרָ֛א לַמָּק֥וֹם הַה֖וּא בְּאֵ֣ר שָׁ֑בַע כִּ֛י שָׁ֥ם נִשְׁבְּע֖וּ שְׁנֵיהֶֽם׃
+Wherefore that place was called Beer-sheba; because there they swore both of them.
+Genesis 21:32
+וַיִּכְרְת֥וּ בְרִ֖ית בִּבְאֵ֣ר שָׁ֑בַע וַיָּ֣קׇם אֲבִימֶ֗לֶךְ וּפִיכֹל֙ שַׂר־צְבָא֔וֹ וַיָּשֻׁ֖בוּ אֶל־אֶ֥רֶץ פְּלִשְׁתִּֽים׃
+So they made a covenant at Beer-sheba; and Abimelech rose up, and Phicol the captain of his host, and they returned into the land of the Philistines.
+Genesis 21:33
+וַיִּטַּ֥ע אֶ֖שֶׁל בִּבְאֵ֣ר שָׁ֑בַע וַיִּ֨קְרָא־שָׁ֔ם בְּשֵׁ֥ם יְהֹוָ֖ה אֵ֥ל עוֹלָֽם׃
+And Abraham planted a tamarisk-tree in Beer-sheba, and called there on the name of the LORD, the Everlasting God.
+Genesis 21:34
+וַיָּ֧גׇר אַבְרָהָ֛ם בְּאֶ֥רֶץ פְּלִשְׁתִּ֖ים יָמִ֥ים רַבִּֽים׃  {פ}
+And Abraham sojourned in the land of the Philistines many days.
+https://www.sefaria.org/Genesis.21
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Numbers 29:1-29:6
+Numbers 29:1
+וּבַחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ י֥וֹם תְּרוּעָ֖ה יִהְיֶ֥ה לָכֶֽם׃
+And in the seventh month, on the first day of the month, ye shall have a holy convocation: ye shall do no manner of servile work; it is a day of blowing the horn unto you.
+Numbers 29:2
+וַעֲשִׂיתֶ֨ם עֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה פַּ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד אַ֣יִל אֶחָ֑ד כְּבָשִׂ֧ים בְּנֵי־שָׁנָ֛ה שִׁבְעָ֖ה תְּמִימִֽם׃
+And ye shall prepare a burnt-offering for a sweet savour unto the LORD: one young bullock, one ram, seven he-lambs of the first year without blemish;
+Numbers 29:3
+וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֔ר שְׁנֵ֥י עֶשְׂרֹנִ֖ים לָאָֽיִל׃
+and their meal-offering, fine flour mingled with oil, three tenth parts for the bullock, two tenth part for the ram,
+Numbers 29:4
+וְעִשָּׂר֣וֹן אֶחָ֔ד לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃
+and one tenth part for every lamb of the seven lambs;
+Numbers 29:5
+וּשְׂעִיר־עִזִּ֥ים אֶחָ֖ד חַטָּ֑את לְכַפֵּ֖ר עֲלֵיכֶֽם׃
+and one he-goat for a sin-offering, to make atonement for you;
+Numbers 29:6
+מִלְּבַד֩ עֹלַ֨ת הַחֹ֜דֶשׁ וּמִנְחָתָ֗הּ וְעֹלַ֤ת הַתָּמִיד֙ וּמִנְחָתָ֔הּ וְנִסְכֵּיהֶ֖ם כְּמִשְׁפָּטָ֑ם לְרֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֖ה לַיהֹוָֽה׃  {ס}
+beside the burnt-offering of the new moon, and the meal-offering thereof, and the continual burnt-offering and the meal-offering thereof, and their drink-offerings, according unto their ordinance, for a sweet savour, an offering made by fire unto the LORD.
+https://www.sefaria.org/Numbers%2029
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Rosh Hashana I (on Shabbat) · haft
+I Samuel 1:1-2:10
+I Samuel 1:1
+וַיְהִי֩ אִ֨ישׁ אֶחָ֜ד מִן־הָרָמָתַ֛יִם צוֹפִ֖ים מֵהַ֣ר אֶפְרָ֑יִם וּשְׁמ֡וֹ אֶ֠לְקָנָ֠ה בֶּן־יְרֹחָ֧ם בֶּן־אֱלִיה֛וּא בֶּן־תֹּ֥חוּ בֶן־צ֖וּף אֶפְרָתִֽי׃
+Now there was a certain man of Ramathaim-zophim, of the hill-country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
+I Samuel 1:2
+וְלוֹ֙ שְׁתֵּ֣י נָשִׁ֔ים שֵׁ֤ם אַחַת֙ חַנָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית פְּנִנָּ֑ה וַיְהִ֤י לִפְנִנָּה֙ יְלָדִ֔ים וּלְחַנָּ֖ה אֵ֥ין יְלָדִֽים׃
+And he had two wives: the name of the one was Hannah, and the name of the other Peninnah; and Peninnah had children, but Hannah had no children.
+I Samuel 1:3
+וְעָלָה֩ הָאִ֨ישׁ הַה֤וּא מֵֽעִירוֹ֙ מִיָּמִ֣ים  ׀  יָמִ֔ימָה לְהִֽשְׁתַּחֲוֺ֧ת וְלִזְבֹּ֛חַ לַיהֹוָ֥ה צְבָא֖וֹת בְּשִׁלֹ֑ה וְשָׁ֞ם שְׁנֵ֣י בְנֵֽי־עֵלִ֗י חׇפְנִי֙ וּפִ֣נְחָ֔ס כֹּהֲנִ֖ים לַיהֹוָֽה׃
+And this man went up out of his city from year to year to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, were there priests unto the LORD.
+I Samuel 1:4
+וַיְהִ֣י הַיּ֔וֹם וַיִּזְבַּ֖ח אֶלְקָנָ֑ה וְנָתַ֞ן לִפְנִנָּ֣ה אִשְׁתּ֗וֹ וּֽלְכׇל־בָּנֶ֛יהָ וּבְנוֹתֶ֖יהָ מָנֽוֹת׃
+And it came to pass upon a day, when Elkanah sacrificed, that he gave to Peninnah his wife, and to all her sons and her daughters, portions;
+I Samuel 1:5
+וּלְחַנָּ֕ה יִתֵּ֛ן מָנָ֥ה אַחַ֖ת אַפָּ֑יִם כִּ֤י אֶת־חַנָּה֙ אָהֵ֔ב וַיהֹוָ֖ה סָגַ֥ר רַחְמָֽהּ׃
+but unto Hannah he gave a double portion; for he loved Hannah, but the LORD had shut up her womb.
+I Samuel 1:6
+וְכִעֲסַ֤תָּה צָרָתָהּ֙ גַּם־כַּ֔עַס בַּעֲב֖וּר הַרְּעִמָ֑הּ כִּֽי־סָגַ֥ר יְהֹוָ֖ה בְּעַ֥ד רַחְמָֽהּ׃
+And her rival vexed her sore, to make her fret, because the LORD had shut up her womb.
+I Samuel 1:7
+וְכֵ֨ן יַעֲשֶׂ֜ה שָׁנָ֣ה בְשָׁנָ֗ה מִדֵּ֤י עֲלֹתָהּ֙ בְּבֵ֣ית יְהֹוָ֔ה כֵּ֖ן תַּכְעִסֶ֑נָּה וַתִּבְכֶּ֖ה וְלֹ֥א תֹאכַֽל׃
+And as he did so year by year, when she went up to the house of the LORD, so she vexed her; therefore she wept, and would not eat.
+I Samuel 1:8
+וַיֹּ֨אמֶר לָ֜הּ אֶלְקָנָ֣ה אִישָׁ֗הּ חַנָּה֙ לָ֣מֶה תִבְכִּ֗י וְלָ֙מֶה֙ לֹ֣א תֹֽאכְלִ֔י וְלָ֖מֶה יֵרַ֣ע לְבָבֵ֑ךְ הֲל֤וֹא אָֽנֹכִי֙ ט֣וֹב לָ֔ךְ מֵעֲשָׂרָ֖ה בָּנִֽים׃
+And Elkanah her husband said unto her: ‘Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?’
+I Samuel 1:9
+וַתָּ֣קׇם חַנָּ֔ה אַחֲרֵ֛י אׇכְלָ֥הֿ בְשִׁלֹ֖ה וְאַחֲרֵ֣י שָׁתֹ֑ה וְעֵלִ֣י הַכֹּהֵ֗ן יֹשֵׁב֙ עַל־הַכִּסֵּ֔א עַל־מְזוּזַ֖ת הֵיכַ֥ל יְהֹוָֽה׃
+So Hannah rose up after they had eaten in Shiloh, and after they had drunk—now Eli the priest sat upon his seat by the door-post of the temple of the LORD;
+I Samuel 1:10
+וְהִ֖יא מָ֣רַת נָ֑פֶשׁ וַתִּתְפַּלֵּ֥ל עַל־יְהֹוָ֖ה וּבָכֹ֥ה תִבְכֶּֽה׃
+and she was in bitterness of soul—and prayed unto the LORD, and wept sore.
+I Samuel 1:11
+וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהֹוָ֨ה צְבָא֜וֹת אִם־רָאֹ֥ה תִרְאֶ֣ה  ׀  בׇּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֙נִי֙ וְלֹא־תִשְׁכַּ֣ח אֶת־אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהֹוָה֙ כׇּל־יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא־יַעֲלֶ֥ה עַל־רֹאשֽׁוֹ׃
+And she vowed a vow, and said: ‘O LORD of hosts, if Thou wilt indeed look on the affliction of Thy handmaid, and remember me, and not forget Thy handmaid, but wilt give unto Thy handmaid a man-child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head.’
+I Samuel 1:12
+וְהָיָה֙ כִּ֣י הִרְבְּתָ֔ה לְהִתְפַּלֵּ֖ל לִפְנֵ֣י יְהֹוָ֑ה וְעֵלִ֖י שֹׁמֵ֥ר אֶת־פִּֽיהָ׃
+And it came to pass, as she prayed long before the LORD, that Eli watched her mouth.
+I Samuel 1:13
+וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל־לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה׃
+Now Hannah, she spoke in her heart; only her lips moved, but her voice could not be heard; therefore, Eli thought she had been drunken.
+I Samuel 1:14
+וַיֹּ֤אמֶר אֵלֶ֙יהָ֙ עֵלִ֔י עַד־מָתַ֖י תִּשְׁתַּכָּרִ֑ין הָסִ֥ירִי אֶת־יֵינֵ֖ךְ מֵעָלָֽיִךְ׃
+And Eli said unto her: ‘How long wilt thou be drunken? put away thy wine from thee.’
+I Samuel 1:15
+וַתַּ֨עַן חַנָּ֤ה וַתֹּ֙אמֶר֙ לֹ֣א אֲדֹנִ֔י אִשָּׁ֤ה קְשַׁת־ר֙וּחַ֙ אָנֹ֔כִי וְיַ֥יִן וְשֵׁכָ֖ר לֹ֣א שָׁתִ֑יתִי וָאֶשְׁפֹּ֥ךְ אֶת־נַפְשִׁ֖י לִפְנֵ֥י יְהֹוָֽה׃
+And Hannah answered and said: ‘No, my lord, I am a woman of a sorrowful spirit; I have drunk neither wine nor strong drink, but I poured out my soul before the LORD.
+I Samuel 1:16
+אַל־תִּתֵּן֙ אֶת־אֲמָ֣תְךָ֔ לִפְנֵ֖י בַּת־בְּלִיָּ֑עַל כִּֽי־מֵרֹ֥ב שִׂיחִ֛י וְכַעְסִ֖י דִּבַּ֥רְתִּי עַד־הֵֽנָּה׃
+Count not thy handmaid for a wicked woman: for out of the abundance of my complaint and my vexation have I spoken hitherto.’
+I Samuel 1:17
+וַיַּ֧עַן עֵלִ֛י וַיֹּ֖אמֶר לְכִ֣י לְשָׁל֑וֹם וֵאלֹהֵ֣י יִשְׂרָאֵ֗ל יִתֵּן֙ אֶת־שֵׁ֣לָתֵ֔ךְ אֲשֶׁ֥ר שָׁאַ֖לְתְּ מֵעִמּֽוֹ׃
+Then Eli answered and said: ‘Go in peace, and the God of Israel grant thy petition that thou hast asked of Him.’
+I Samuel 1:18
+וַתֹּ֕אמֶר תִּמְצָ֧א שִׁפְחָתְךָ֛ חֵ֖ן בְּעֵינֶ֑יךָ וַתֵּ֨לֶךְ הָאִשָּׁ֤ה לְדַרְכָּהּ֙ וַתֹּאכַ֔ל וּפָנֶ֥יהָ לֹא־הָֽיוּ־לָ֖הּ עֽוֹד׃
+And she said: ‘Let thy servant find favour in thy sight.’ So the woman went her way, and did eat, and her countenance was no more sad.
+I Samuel 1:19
+וַיַּשְׁכִּ֣מוּ בַבֹּ֗קֶר וַיִּֽשְׁתַּחֲווּ֙ לִפְנֵ֣י יְהֹוָ֔ה וַיָּשֻׁ֛בוּ וַיָּבֹ֥אוּ אֶל־בֵּיתָ֖ם הָרָמָ֑תָה וַיֵּ֤דַע אֶלְקָנָה֙ אֶת־חַנָּ֣ה אִשְׁתּ֔וֹ וַֽיִּזְכְּרֶ֖הָ יְהֹוָֽה׃
+And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah; and Elkanah knew Hannah his wife; and the LORD remembered her.
+I Samuel 1:20
+וַֽיְהִי֙ לִתְקֻפ֣וֹת הַיָּמִ֔ים וַתַּ֥הַר חַנָּ֖ה וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֤א אֶת־שְׁמוֹ֙ שְׁמוּאֵ֔ל כִּ֥י מֵיְהֹוָ֖ה שְׁאִלְתִּֽיו׃
+And it came to pass, when the time was come about, that Hannah conceived, and bore a son; and she called his name Samuel: ‘because I have asked him of the LORD.’
+I Samuel 1:21
+וַיַּ֛עַל הָאִ֥ישׁ אֶלְקָנָ֖ה וְכׇל־בֵּית֑וֹ לִזְבֹּ֧חַ לַיהֹוָ֛ה אֶת־זֶ֥בַח הַיָּמִ֖ים וְאֶת־נִדְרֽוֹ׃
+And the man Elkanah, and all his house, went up to offer unto the LORD the yearly sacrifice, and his vow.
+I Samuel 1:22
+וְחַנָּ֖ה לֹ֣א עָלָ֑תָה כִּֽי־אָמְרָ֣ה לְאִישָׁ֗הּ עַ֣ד יִגָּמֵ֤ל הַנַּ֙עַר֙ וַהֲבִאֹתִ֗יו וְנִרְאָה֙ אֶת־פְּנֵ֣י יְהֹוָ֔ה וְיָ֥שַׁב שָׁ֖ם עַד־עוֹלָֽם׃
+But Hannah went not up; for she said unto her husband: ‘Until the child be weaned, when I will bring him, that he may appear before the LORD, and there abide for ever.’
+I Samuel 1:23
+וַיֹּ֣אמֶר לָהּ֩ אֶלְקָנָ֨ה אִישָׁ֜הּ עֲשִׂ֧י הַטּ֣וֹב בְּעֵינַ֗יִךְ שְׁבִי֙ עַד־גׇּמְלֵ֣ךְ אֹת֔וֹ אַ֛ךְ יָקֵ֥ם יְהֹוָ֖ה אֶת־דְּבָר֑וֹ וַתֵּ֤שֶׁב הָֽאִשָּׁה֙ וַתֵּ֣ינֶק אֶת־בְּנָ֔הּ עַד־גׇּמְלָ֖הּ אֹתֽוֹ׃
+And Elkanah her husband said unto her: ‘Do what seemeth thee good; tarry until thou have weaned him; only the LORD establish His word.’ So the woman tarried and gave her son suck, until she weaned him.
+I Samuel 1:24
+וַתַּעֲלֵ֨הוּ עִמָּ֜הּ כַּאֲשֶׁ֣ר גְּמָלַ֗תּוּ בְּפָרִ֤ים שְׁלֹשָׁה֙ וְאֵיפָ֨ה אַחַ֥ת קֶ֙מַח֙ וְנֵ֣בֶל יַ֔יִן וַתְּבִאֵ֥הוּ בֵית־יְהֹוָ֖ה שִׁל֑וֹ וְהַנַּ֖עַר נָֽעַר׃
+And when she had weaned him, she took him up with her, with three bullocks, and one ephah of meal, and a bottle of wine, and brought him unto the house of the LORD in Shiloh; and the child was young.
+I Samuel 1:25
+וַֽיִּשְׁחֲט֖וּ אֶת־הַפָּ֑ר וַיָּבִ֥אוּ אֶת־הַנַּ֖עַר אֶל־עֵלִֽי׃
+And when the bullock was slain, the child was brought to Eli.
+I Samuel 1:26
+וַתֹּ֙אמֶר֙ בִּ֣י אֲדֹנִ֔י חֵ֥י נַפְשְׁךָ֖ אֲדֹנִ֑י אֲנִ֣י הָאִשָּׁ֗ה הַנִּצֶּ֤בֶת עִמְּכָה֙ בָּזֶ֔ה לְהִתְפַּלֵּ֖ל אֶל־יְהֹוָֽה׃
+And she said: ‘Oh, my lord, as thy soul liveth, my lord, I am the woman that stood by thee here, praying unto the LORD.
+I Samuel 1:27
+אֶל־הַנַּ֥עַר הַזֶּ֖ה הִתְפַּלָּ֑לְתִּי וַיִּתֵּ֨ן יְהֹוָ֥ה לִי֙ אֶת־שְׁאֵ֣לָתִ֔י אֲשֶׁ֥ר שָׁאַ֖לְתִּי מֵעִמּֽוֹ׃
+For this child I prayed; and the LORD hath granted me my petition which I asked of Him;
+I Samuel 1:28
+וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֙הוּ֙ לַֽיהֹוָ֔ה כׇּל־הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַיהֹוָ֑ה וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַֽיהֹוָֽה׃  {ס}
+therefore I also have lent him to the LORD; as long as he liveth he is lent to the LORD.’ And he worshipped the LORD there.
+I Samuel 2:1
+וַתִּתְפַּלֵּ֤ל חַנָּה֙ וַתֹּאמַ֔ר עָלַ֤ץ לִבִּי֙ בַּֽיהֹוָ֔ה רָ֥מָה קַרְנִ֖י בַּֽיהֹוָ֑ה רָ֤חַב פִּי֙ עַל־א֣וֹיְבַ֔י כִּ֥י שָׂמַ֖חְתִּי בִּישׁוּעָתֶֽךָ׃
+And Hannah prayed, and said: My heart exulteth in the LORD, My horn is exalted in the LORD; My mouth is enlarged over mine enemies; Because I rejoice in Thy salvation.
+I Samuel 2:2
+אֵין־קָד֥וֹשׁ כַּיהֹוָ֖ה כִּ֣י אֵ֣ין בִּלְתֶּ֑ךָ וְאֵ֥ין צ֖וּר כֵּאלֹהֵֽינוּ׃
+There is none holy as the LORD, For there is none beside Thee; Neither is there any rock like our God.
+I Samuel 2:3
+אַל־תַּרְבּ֤וּ תְדַבְּרוּ֙ גְּבֹהָ֣ה גְבֹהָ֔ה יֵצֵ֥א עָתָ֖ק מִפִּיכֶ֑ם כִּ֣י אֵ֤ל דֵּעוֹת֙ יְהֹוָ֔ה   (ולא)   [וְל֥וֹ]   נִתְכְּנ֖וּ עֲלִלֽוֹת׃
+Multiply not exceeding proud talk; Let not arrogancy come out of your mouth; For the LORD is a God of knowledge, And by Him actions are weighed.
+I Samuel 2:4
+קֶ֥שֶׁת גִּבֹּרִ֖ים חַתִּ֑ים וְנִכְשָׁלִ֖ים אָ֥זְרוּ חָֽיִל׃
+The bows of the mighty men are broken, And they that stumbled are girded with strength.
+I Samuel 2:5
+שְׂבֵעִ֤ים בַּלֶּ֙חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד־עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה וְרַבַּ֥ת בָּנִ֖ים אֻמְלָֽלָה׃
+They that were full have hired out themselves for bread; And they that were hungry have ceased; While the barren hath borne seven, She that had many children hath languished.
+I Samuel 2:6
+יְהֹוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל׃
+The LORD killeth, and maketh alive; He bringeth down to the grave, and bringeth up.
+I Samuel 2:7
+יְהֹוָ֖ה מוֹרִ֣ישׁ וּמַעֲשִׁ֑יר מַשְׁפִּ֖יל אַף־מְרוֹמֵֽם׃
+The LORD maketh poor, and maketh rich; He bringeth low, He also lifteth up. .
+I Samuel 2:8
+מֵקִ֨ים מֵעָפָ֜ר דָּ֗ל מֵֽאַשְׁפֹּת֙ יָרִ֣ים אֶבְי֔וֹן לְהוֹשִׁיב֙ עִם־נְדִיבִ֔ים וְכִסֵּ֥א כָב֖וֹד יַנְחִלֵ֑ם כִּ֤י לַֽיהֹוָה֙ מְצֻ֣קֵי אֶ֔רֶץ וַיָּ֥שֶׁת עֲלֵיהֶ֖ם תֵּבֵֽל׃
+He raiseth up the poor out of the dust, He lifteth up the needy from the dung-hill, To make them sit with princes, And inherit the throne of glory; For the pillars of the earth are the LORD’S, And He hath set the world upon them.
+I Samuel 2:9
+רַגְלֵ֤י חֲסִידָו֙ יִשְׁמֹ֔ר וּרְשָׁעִ֖ים בַּחֹ֣שֶׁךְ יִדָּ֑מּוּ כִּי־לֹ֥א בְכֹ֖חַ יִגְבַּר־אִֽישׁ׃
+He will keep the feet of His holy ones, But the wicked shall be put to silence in darkness; For not by strength shall man prevail.
+I Samuel 2:10
+יְהֹוָ֞ה יֵחַ֣תּוּ  מְרִיבָ֗ו   עָלָו֙  בַּשָּׁמַ֣יִם יַרְעֵ֔ם יְהֹוָ֖ה יָדִ֣ין אַפְסֵי־אָ֑רֶץ וְיִתֶּן־עֹ֣ז לְמַלְכּ֔וֹ וְיָרֵ֖ם קֶ֥רֶן מְשִׁיחֽוֹ׃  {פ}
+They that strive with the LORD shall be broken to pieces; Against them will He thunder in heaven; The LORD will judge the ends of the earth; And He will give strength unto His king, And exalt the horn of His anointed.
+https://www.sefaria.org/I%20Samuel%201
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/I%20Samuel%202
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Rosh Hashana II · Torah
+Genesis 22:1-22:24
+Genesis 22:1
+וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְהָ֣אֱלֹהִ֔ים נִסָּ֖ה אֶת־אַבְרָהָ֑ם וַיֹּ֣אמֶר אֵלָ֔יו אַבְרָהָ֖ם וַיֹּ֥אמֶר הִנֵּֽנִי׃
+And it came to pass after these things, that God did prove Abraham, and said unto him: ‘Abraham’; and he said: ‘Here am I.’
+Genesis 22:2
+וַיֹּ֡אמֶר קַח־נָ֠א אֶת־בִּנְךָ֨ אֶת־יְחִֽידְךָ֤ אֲשֶׁר־אָהַ֙בְתָּ֙ אֶת־יִצְחָ֔ק וְלֶ֨ךְ־לְךָ֔ אֶל־אֶ֖רֶץ הַמֹּרִיָּ֑ה וְהַעֲלֵ֤הוּ שָׁם֙ לְעֹלָ֔ה עַ֚ל אַחַ֣ד הֶֽהָרִ֔ים אֲשֶׁ֖ר אֹמַ֥ר אֵלֶֽיךָ׃
+And He said: ‘Take now thy son, thine only son, whom thou lovest, even Isaac, and get thee into the land of Moriah; and offer him there for a burnt-offering upon one of the mountains which I will tell thee of.’
+Genesis 22:3
+וַיַּשְׁכֵּ֨ם אַבְרָהָ֜ם בַּבֹּ֗קֶר וַֽיַּחֲבֹשׁ֙ אֶת־חֲמֹר֔וֹ וַיִּקַּ֞ח אֶת־שְׁנֵ֤י נְעָרָיו֙ אִתּ֔וֹ וְאֵ֖ת יִצְחָ֣ק בְּנ֑וֹ וַיְבַקַּע֙ עֲצֵ֣י עֹלָ֔ה וַיָּ֣קׇם וַיֵּ֔לֶךְ אֶל־הַמָּק֖וֹם אֲשֶׁר־אָֽמַר־ל֥וֹ הָאֱלֹהִֽים׃
+And Abraham rose early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son; and he cleaved the wood for the burnt-offering, and rose up, and went unto the place of which God had told him.
+Genesis 22:4
+בַּיּ֣וֹם הַשְּׁלִישִׁ֗י וַיִּשָּׂ֨א אַבְרָהָ֧ם אֶת־עֵינָ֛יו וַיַּ֥רְא אֶת־הַמָּק֖וֹם מֵרָחֹֽק׃
+On the third day Abraham lifted up his eyes, and saw the place afar off.
+Genesis 22:5
+וַיֹּ֨אמֶר אַבְרָהָ֜ם אֶל־נְעָרָ֗יו שְׁבוּ־לָכֶ֥ם פֹּה֙ עִֽם־הַחֲמ֔וֹר וַאֲנִ֣י וְהַנַּ֔עַר נֵלְכָ֖ה עַד־כֹּ֑ה וְנִֽשְׁתַּחֲוֶ֖ה וְנָשׁ֥וּבָה אֲלֵיכֶֽם׃
+And Abraham said unto his young men: ‘Abide ye here with the ass, and I and the lad will go yonder; and we will worship, and come back to you.’
+Genesis 22:6
+וַיִּקַּ֨ח אַבְרָהָ֜ם אֶת־עֲצֵ֣י הָעֹלָ֗ה וַיָּ֙שֶׂם֙ עַל־יִצְחָ֣ק בְּנ֔וֹ וַיִּקַּ֣ח בְּיָד֔וֹ אֶת־הָאֵ֖שׁ וְאֶת־הַֽמַּאֲכֶ֑לֶת וַיֵּלְכ֥וּ שְׁנֵיהֶ֖ם יַחְדָּֽו׃
+And Abraham took the wood of the burnt-offering, and laid it upon Isaac his son; and he took in his hand the fire and the knife; and they went both of them together.
+Genesis 22:7
+וַיֹּ֨אמֶר יִצְחָ֜ק אֶל־אַבְרָהָ֤ם אָבִיו֙ וַיֹּ֣אמֶר אָבִ֔י וַיֹּ֖אמֶר הִנֶּ֣נִּֽי בְנִ֑י וַיֹּ֗אמֶר הִנֵּ֤ה הָאֵשׁ֙ וְהָ֣עֵצִ֔ים וְאַיֵּ֥ה הַשֶּׂ֖ה לְעֹלָֽה׃
+And Isaac spoke unto Abraham his father, and said: ‘My father.’ And he said: ‘Here am I, my son.’ And he said: ‘Behold the fire and the wood; but where is the lamb for a burnt-offering?’
+Genesis 22:8
+וַיֹּ֙אמֶר֙ אַבְרָהָ֔ם אֱלֹהִ֞ים יִרְאֶה־לּ֥וֹ הַשֶּׂ֛ה לְעֹלָ֖ה בְּנִ֑י וַיֵּלְכ֥וּ שְׁנֵיהֶ֖ם יַחְדָּֽו׃
+And Abraham said: ‘God will aprovide Himself the lamb for a burnt-offering, my son.’ So they went both of them together.
+Genesis 22:9
+וַיָּבֹ֗אוּ אֶֽל־הַמָּקוֹם֮ אֲשֶׁ֣ר אָֽמַר־ל֣וֹ הָאֱלֹהִים֒ וַיִּ֨בֶן שָׁ֤ם אַבְרָהָם֙ אֶת־הַמִּזְבֵּ֔חַ וַֽיַּעֲרֹ֖ךְ אֶת־הָעֵצִ֑ים וַֽיַּעֲקֹד֙ אֶת־יִצְחָ֣ק בְּנ֔וֹ וַיָּ֤שֶׂם אֹתוֹ֙ עַל־הַמִּזְבֵּ֔חַ מִמַּ֖עַל לָעֵצִֽים׃
+And they came to the place which God had told him of; and Abraham built the altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar, upon the wood.
+Genesis 22:10
+וַיִּשְׁלַ֤ח אַבְרָהָם֙ אֶת־יָד֔וֹ וַיִּקַּ֖ח אֶת־הַֽמַּאֲכֶ֑לֶת לִשְׁחֹ֖ט אֶת־בְּנֽוֹ׃
+And Abraham stretched forth his hand, and took the knife to slay his son.
+Genesis 22:11
+וַיִּקְרָ֨א אֵלָ֜יו מַלְאַ֤ךְ יְהֹוָה֙ מִן־הַשָּׁמַ֔יִם וַיֹּ֖אמֶר אַבְרָהָ֣ם  ׀  אַבְרָהָ֑ם וַיֹּ֖אמֶר הִנֵּֽנִי׃
+And the angel of the LORD called unto him out of heaven, and said: ‘Abraham, Abraham.’ And he said: ‘Here am I.’
+Genesis 22:12
+וַיֹּ֗אמֶר אַל־תִּשְׁלַ֤ח יָֽדְךָ֙ אֶל־הַנַּ֔עַר וְאַל־תַּ֥עַשׂ ל֖וֹ מְא֑וּמָה כִּ֣י  ׀  עַתָּ֣ה יָדַ֗עְתִּי כִּֽי־יְרֵ֤א אֱלֹהִים֙ אַ֔תָּה וְלֹ֥א חָשַׂ֛כְתָּ אֶת־בִּנְךָ֥ אֶת־יְחִידְךָ֖ מִמֶּֽנִּי׃
+And he said: ‘Lay not thy hand upon the lad, neither do thou any thing unto him; for now I know that thou art a God-fearing man, seeing thou hast not withheld thy son, thine only son, from Me.’
+Genesis 22:13
+וַיִּשָּׂ֨א אַבְרָהָ֜ם אֶת־עֵינָ֗יו וַיַּרְא֙ וְהִנֵּה־אַ֔יִל אַחַ֕ר נֶאֱחַ֥ז בַּסְּבַ֖ךְ בְּקַרְנָ֑יו וַיֵּ֤לֶךְ אַבְרָהָם֙ וַיִּקַּ֣ח אֶת־הָאַ֔יִל וַיַּעֲלֵ֥הוּ לְעֹלָ֖ה תַּ֥חַת בְּנֽוֹ׃
+And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in the thicket by his horns. And Abraham went and took the ram, and offered him up for a burnt-offering in the stead of his son.
+Genesis 22:14
+וַיִּקְרָ֧א אַבְרָהָ֛ם שֵֽׁם־הַמָּק֥וֹם הַה֖וּא יְהֹוָ֣ה  ׀  יִרְאֶ֑ה אֲשֶׁר֙ יֵאָמֵ֣ר הַיּ֔וֹם בְּהַ֥ר יְהֹוָ֖ה יֵרָאֶֽה׃
+And Abraham called the name of that place Adonai-jireh; as it is said to this day: ‘In the mount where the LORD is seen.’
+Genesis 22:15
+וַיִּקְרָ֛א מַלְאַ֥ךְ יְהֹוָ֖ה אֶל־אַבְרָהָ֑ם שֵׁנִ֖ית מִן־הַשָּׁמָֽיִם׃
+And the angel of the LORD called unto Abraham a second time out of heaven,
+Genesis 22:16
+וַיֹּ֕אמֶר בִּ֥י נִשְׁבַּ֖עְתִּי נְאֻם־יְהֹוָ֑ה כִּ֗י יַ֚עַן אֲשֶׁ֤ר עָשִׂ֙יתָ֙ אֶת־הַדָּבָ֣ר הַזֶּ֔ה וְלֹ֥א חָשַׂ֖כְתָּ אֶת־בִּנְךָ֥ אֶת־יְחִידֶֽךָ׃
+and said: ‘By Myself have I sworn, saith the LORD, because thou hast done this thing, and hast not withheld thy son, thine only son,
+Genesis 22:17
+כִּֽי־בָרֵ֣ךְ אֲבָרֶכְךָ֗ וְהַרְבָּ֨ה אַרְבֶּ֤ה אֶֽת־זַרְעֲךָ֙ כְּכוֹכְבֵ֣י הַשָּׁמַ֔יִם וְכַח֕וֹל אֲשֶׁ֖ר עַל־שְׂפַ֣ת הַיָּ֑ם וְיִרַ֣שׁ זַרְעֲךָ֔ אֵ֖ת שַׁ֥עַר אֹיְבָֽיו׃
+that in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the seashore; and thy seed shall possess the gate of his enemies;
+Genesis 22:18
+וְהִתְבָּרְכ֣וּ בְזַרְעֲךָ֔ כֹּ֖ל גּוֹיֵ֣י הָאָ֑רֶץ עֵ֕קֶב אֲשֶׁ֥ר שָׁמַ֖עְתָּ בְּקֹלִֽי׃
+and in thy seed shall all the nations of the earth be blessed; because thou hast hearkened to My voice.’
+Genesis 22:19
+וַיָּ֤שׇׁב אַבְרָהָם֙ אֶל־נְעָרָ֔יו וַיָּקֻ֛מוּ וַיֵּלְכ֥וּ יַחְדָּ֖ו אֶל־בְּאֵ֣ר שָׁ֑בַע וַיֵּ֥שֶׁב אַבְרָהָ֖ם בִּבְאֵ֥ר שָֽׁבַע׃  {פ}
+So Abraham returned unto his young men, and they rose up and went together to Beer- sheba; and Abraham dwelt at Beer-sheba.
+Genesis 22:20
+וַיְהִ֗י אַחֲרֵי֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַיֻּגַּ֥ד לְאַבְרָהָ֖ם לֵאמֹ֑ר הִ֠נֵּ֠ה יָלְדָ֨ה מִלְכָּ֥ה גַם־הִ֛וא בָּנִ֖ים לְנָח֥וֹר אָחִֽיךָ׃
+And it came to pass after these things, that it was told Abraham, saying: ‘Behold, Milcah, she also hath borne children unto thy brother Nahor:
+Genesis 22:21
+אֶת־ע֥וּץ בְּכֹר֖וֹ וְאֶת־בּ֣וּז אָחִ֑יו וְאֶת־קְמוּאֵ֖ל אֲבִ֥י אֲרָֽם׃
+Uz his first-born, and Buz his brother, and Kemuel the father of Aram;
+Genesis 22:22
+וְאֶת־כֶּ֣שֶׂד וְאֶת־חֲז֔וֹ וְאֶת־פִּלְדָּ֖שׁ וְאֶת־יִדְלָ֑ף וְאֵ֖ת בְּתוּאֵֽל׃
+and Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.’
+Genesis 22:23
+וּבְתוּאֵ֖ל יָלַ֣ד אֶת־רִבְקָ֑ה שְׁמֹנָ֥ה אֵ֙לֶּה֙ יָלְדָ֣ה מִלְכָּ֔ה לְנָח֖וֹר אֲחִ֥י אַבְרָהָֽם׃
+And Bethuel begot Rebekah; these eight did Milcah bear to Nahor, Abraham’s brother.
+Genesis 22:24
+וּפִֽילַגְשׁ֖וֹ וּשְׁמָ֣הּ רְאוּמָ֑ה וַתֵּ֤לֶד גַּם־הִוא֙ אֶת־טֶ֣בַח וְאֶת־גַּ֔חַם וְאֶת־תַּ֖חַשׁ וְאֶֽת־מַעֲכָֽה׃  {פ}
+And his concubine, whose name was Reumah, she also bore Tebah, and Gaham, and Tahash, and Maacah.
+https://www.sefaria.org/Genesis.22
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Numbers 29:1-29:6
+Numbers 29:1
+וּבַחֹ֨דֶשׁ הַשְּׁבִיעִ֜י בְּאֶחָ֣ד לַחֹ֗דֶשׁ מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ י֥וֹם תְּרוּעָ֖ה יִהְיֶ֥ה לָכֶֽם׃
+And in the seventh month, on the first day of the month, ye shall have a holy convocation: ye shall do no manner of servile work; it is a day of blowing the horn unto you.
+Numbers 29:2
+וַעֲשִׂיתֶ֨ם עֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה פַּ֧ר בֶּן־בָּקָ֛ר אֶחָ֖ד אַ֣יִל אֶחָ֑ד כְּבָשִׂ֧ים בְּנֵי־שָׁנָ֛ה שִׁבְעָ֖ה תְּמִימִֽם׃
+And ye shall prepare a burnt-offering for a sweet savour unto the LORD: one young bullock, one ram, seven he-lambs of the first year without blemish;
+Numbers 29:3
+וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֔ר שְׁנֵ֥י עֶשְׂרֹנִ֖ים לָאָֽיִל׃
+and their meal-offering, fine flour mingled with oil, three tenth parts for the bullock, two tenth part for the ram,
+Numbers 29:4
+וְעִשָּׂר֣וֹן אֶחָ֔ד לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃
+and one tenth part for every lamb of the seven lambs;
+Numbers 29:5
+וּשְׂעִיר־עִזִּ֥ים אֶחָ֖ד חַטָּ֑את לְכַפֵּ֖ר עֲלֵיכֶֽם׃
+and one he-goat for a sin-offering, to make atonement for you;
+Numbers 29:6
+מִלְּבַד֩ עֹלַ֨ת הַחֹ֜דֶשׁ וּמִנְחָתָ֗הּ וְעֹלַ֤ת הַתָּמִיד֙ וּמִנְחָתָ֔הּ וְנִסְכֵּיהֶ֖ם כְּמִשְׁפָּטָ֑ם לְרֵ֣יחַ נִיחֹ֔חַ אִשֶּׁ֖ה לַיהֹוָֽה׃  {ס}
+beside the burnt-offering of the new moon, and the meal-offering thereof, and the continual burnt-offering and the meal-offering thereof, and their drink-offerings, according unto their ordinance, for a sweet savour, an offering made by fire unto the LORD.
+https://www.sefaria.org/Numbers%2029
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Rosh Hashana II · haft
+Jeremiah 31:2-31:20
+Jeremiah 31:2
+כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה מָצָ֥א חֵן֙ בַּמִּדְבָּ֔ר עַ֖ם שְׂרִ֣ידֵי חָ֑רֶב הָל֥וֹךְ לְהַרְגִּיע֖וֹ יִשְׂרָאֵֽל׃
+Thus saith the LORD: The people that were left of the sword Have found grace in the wilderness, Even Israel, when I go to cause him to rest.
+Jeremiah 31:3
+מֵרָח֕וֹק יְהֹוָ֖ה נִרְאָ֣ה לִ֑י וְאַהֲבַ֤ת עוֹלָם֙ אֲהַבְתִּ֔יךְ עַל־כֵּ֖ן מְשַׁכְתִּ֥יךְ חָֽסֶד׃
+’From afar the LORD appeared unto me.’ ’Yea, I have loved thee with an everlasting love; Therefore with affection have I drawn thee.
+Jeremiah 31:4
+ע֤וֹד אֶבְנֵךְ֙ וְֽנִבְנֵ֔ית בְּתוּלַ֖ת יִשְׂרָאֵ֑ל ע֚וֹד תַּעְדִּ֣י תֻפַּ֔יִךְ וְיָצָ֖את בִּמְח֥וֹל מְשַׂחֲקִֽים׃
+Again will I build thee, and thou shalt be built, O virgin of Israel; Again shalt thou be adorned with thy tabrets, And shalt go forth in the dances of them that make merry.
+Jeremiah 31:5
+ע֚וֹד תִּטְּעִ֣י כְרָמִ֔ים בְּהָרֵ֖י שֹֽׁמְר֑וֹן נָטְע֥וּ נֹטְעִ֖ים וְחִלֵּֽלוּ׃
+Again shalt thou plant vineyards upon the mountains of Samaria; The planters shall plant, and shall have the use thereof.
+Jeremiah 31:6
+כִּ֣י יֶשׁ־י֔וֹם קָרְא֥וּ נֹצְרִ֖ים בְּהַ֣ר אֶפְרָ֑יִם ק֚וּמוּ וְנַעֲלֶ֣ה צִיּ֔וֹן אֶל־יְהֹוָ֖ה אֱלֹהֵֽינוּ׃  {פ}
+For there shall be a day, That the watchmen shall call upon the mount Ephraim: Arise ye, and let us go up to Zion, Unto the LORD our God.’
+Jeremiah 31:7
+כִּי־כֹ֣ה  ׀  אָמַ֣ר יְהֹוָ֗ה רׇנּ֤וּ לְיַֽעֲקֹב֙ שִׂמְחָ֔ה וְצַהֲל֖וּ בְּרֹ֣אשׁ הַגּוֹיִ֑ם הַשְׁמִ֤יעוּ הַֽלְלוּ֙ וְאִמְר֔וּ הוֹשַׁ֤ע יְהֹוָה֙ אֶֽת־עַמְּךָ֔ אֵ֖ת שְׁאֵרִ֥ית יִשְׂרָאֵֽל׃
+For thus saith the LORD: Sing with gladness for Jacob, And shout at the head of the nations; Announce ye, praise ye, and say: ‘O LORD, save Thy people, The remnant of Israel.’
+Jeremiah 31:8
+הִנְנִי֩ מֵבִ֨יא אוֹתָ֜ם מֵאֶ֣רֶץ צָפ֗וֹן וְקִבַּצְתִּים֮ מִיַּרְכְּתֵי־אָ֒רֶץ֒ בָּ֚ם עִוֵּ֣ר וּפִסֵּ֔חַ הָרָ֥ה וְיֹלֶ֖דֶת יַחְדָּ֑ו קָהָ֥ל גָּד֖וֹל יָשׁ֥וּבוּ הֵֽנָּה׃
+Behold, I will bring them from the north country, And gather them from the uttermost parts of the earth, And with them the blind and the lame, The woman with child and her that travaileth with child together; A great company shall they return hither.
+Jeremiah 31:9
+בִּבְכִ֣י יָבֹ֗אוּ וּֽבְתַחֲנוּנִים֮ אֽוֹבִילֵם֒ אֽוֹלִיכֵם֙ אֶל־נַ֣חֲלֵי מַ֔יִם בְּדֶ֣רֶךְ יָשָׁ֔ר לֹ֥א יִכָּשְׁל֖וּ בָּ֑הּ כִּֽי־הָיִ֤יתִי לְיִשְׂרָאֵל֙ לְאָ֔ב וְאֶפְרַ֖יִם בְּכֹ֥רִי הֽוּא׃  {פ}
+They shall come with weeping, And with supplications will I lead them; I will cause them to walk by rivers of waters, In a straight way wherein they shall not stumble; For I am become a father to Israel, And Ephraim is My first-born.
+Jeremiah 31:10
+שִׁמְע֤וּ דְבַר־יְהֹוָה֙ גּוֹיִ֔ם וְהַגִּ֥ידוּ בָאִיִּ֖ים מִמֶּרְחָ֑ק וְאִמְר֗וּ מְזָרֵ֤ה יִשְׂרָאֵל֙ יְקַבְּצֶ֔נּוּ וּשְׁמָר֖וֹ כְּרֹעֶ֥ה עֶדְרֽוֹ׃
+Hear the word of the LORD, O ye nations, And declare it in the isles afar off, and say: ‘He that scattered Israel doth gather him, And keep him, as a shepherd doth his flock.’
+Jeremiah 31:11
+כִּֽי־פָדָ֥ה יְהֹוָ֖ה אֶֽת־יַעֲקֹ֑ב וּגְאָל֕וֹ מִיַּ֖ד חָזָ֥ק מִמֶּֽנּוּ׃
+For the LORD hath ransomed Jacob, And He redeemeth him from the hand of him that is stronger than he.
+Jeremiah 31:12
+וּבָ֘אוּ֮ וְרִנְּנ֣וּ בִמְרוֹם־צִיּוֹן֒ וְנָהֲר֞וּ אֶל־ט֣וּב יְהֹוָ֗ה עַל־דָּגָן֙ וְעַל־תִּירֹ֣שׁ וְעַל־יִצְהָ֔ר וְעַל־בְּנֵי־צֹ֖אן וּבָקָ֑ר וְהָיְתָ֤ה נַפְשָׁם֙ כְּגַ֣ן רָוֶ֔ה וְלֹא־יוֹסִ֥יפוּ לְדַאֲבָ֖ה עֽוֹד׃
+And they shall come and sing in the height of Zion, And shall flow unto the goodness of the LORD, To the corn, and to the wine, and to the oil, And to the young of the flock and of the herd; And their soul shall be as a watered garden, And they shall not pine any more at all.
+Jeremiah 31:13
+אָ֣ז תִּשְׂמַ֤ח בְּתוּלָה֙ בְּמָח֔וֹל וּבַחֻרִ֥ים וּזְקֵנִ֖ים יַחְדָּ֑ו וְהָפַכְתִּ֨י אֶבְלָ֤ם לְשָׂשׂוֹן֙ וְנִ֣חַמְתִּ֔ים וְשִׂמַּחְתִּ֖ים מִיגוֹנָֽם׃
+Then shall the virgin rejoice in the dance, And the young men and the old together; For I will turn their mourning into joy, And will comfort them, and make them rejoice from their sorrow.
+Jeremiah 31:14
+וְרִוֵּיתִ֛י נֶ֥פֶשׁ הַכֹּהֲנִ֖ים דָּ֑שֶׁן וְעַמִּ֛י אֶת־טוּבִ֥י יִשְׂבָּ֖עוּ נְאֻם־יְהֹוָֽה׃  {פ}
+And I will satiate the soul of the priests with fatness, And My people shall be satisfied with My goodness, Saith the LORD.
+Jeremiah 31:15
+כֹּ֣ה  ׀  אָמַ֣ר יְהֹוָ֗ה ק֣וֹל בְּרָמָ֤ה נִשְׁמָע֙ נְהִי֙ בְּכִ֣י תַמְרוּרִ֔ים רָחֵ֖ל מְבַכָּ֣ה עַל־בָּנֶ֑יהָ מֵאֲנָ֛ה לְהִנָּחֵ֥ם עַל־בָּנֶ֖יהָ כִּ֥י אֵינֶֽנּוּ׃  {ס}
+Thus saith the LORD: A voice is heard in Ramah, Lamentation, and bitter weeping, Rachel weeping for her children; She refuseth to be comforted for her children, Because they are not.
+Jeremiah 31:16
+כֹּ֣ה  ׀  אָמַ֣ר יְהֹוָ֗ה מִנְעִ֤י קוֹלֵךְ֙ מִבֶּ֔כִי וְעֵינַ֖יִךְ מִדִּמְעָ֑ה כִּי֩ יֵ֨שׁ שָׂכָ֤ר לִפְעֻלָּתֵךְ֙ נְאֻם־יְהֹוָ֔ה וְשָׁ֖בוּ מֵאֶ֥רֶץ אוֹיֵֽב׃
+Thus saith the LORD: Refrain thy voice from weeping, And thine eyes from tears; For thy work shall be rewarded, saith the LORD; And they shall come back from the land of the enemy.
+Jeremiah 31:17
+וְיֵשׁ־תִּקְוָ֥ה לְאַחֲרִיתֵ֖ךְ נְאֻם־יְהֹוָ֑ה וְשָׁ֥בוּ בָנִ֖ים לִגְבוּלָֽם׃
+And there is hope for thy future, saith the LORD; And thy children shall return to their own border.
+Jeremiah 31:18
+שָׁמ֣וֹעַ שָׁמַ֗עְתִּי אֶפְרַ֙יִם֙ מִתְנוֹדֵ֔ד יִסַּרְתַּ֙נִי֙ וָֽאִוָּסֵ֔ר כְּעֵ֖גֶל לֹ֣א לֻמָּ֑ד הֲשִׁבֵ֣נִי וְאָשׁ֔וּבָה כִּ֥י אַתָּ֖ה יְהֹוָ֥ה אֱלֹהָֽי׃
+I have surely heard Ephraim bemoaning himself: ‘Thou hast chastised me, and I was chastised, As a calf untrained; Turn thou me, and I shall be turned, For Thou art the LORD my God.
+Jeremiah 31:19
+כִּֽי־אַחֲרֵ֤י שׁוּבִי֙ נִחַ֔מְתִּי וְאַֽחֲרֵי֙ הִוָּ֣דְעִ֔י סָפַ֖קְתִּי עַל־יָרֵ֑ךְ בֹּ֚שְׁתִּי וְגַם־נִכְלַ֔מְתִּי כִּ֥י נָשָׂ֖אתִי חֶרְפַּ֥ת נְעוּרָֽי׃
+Surely after that I was turned, I repented, And after that I was instructed, I smote upon my thigh; I was ashamed, yea, even confounded, Because I did bear the reproach of my youth.’
+Jeremiah 31:20
+הֲבֵן֩ יַקִּ֨יר לִ֜י אֶפְרַ֗יִם אִ֚ם יֶ֣לֶד שַׁעֲשֻׁעִ֔ים כִּֽי־מִדֵּ֤י דַבְּרִי֙ בּ֔וֹ זָכֹ֥ר אֶזְכְּרֶ֖נּוּ ע֑וֹד עַל־כֵּ֗ן הָמ֤וּ מֵעַי֙ ל֔וֹ רַחֵ֥ם אֲֽרַחֲמֶ֖נּוּ נְאֻם־יְהֹוָֽה׃  {ס}
+Is Ephraim a darling son unto Me? Is he a child that is dandled? For as often as I speak of him, I do earnestly remember him still; Therefore My heart yearneth for him, I will surely have compassion upon him, saith the LORD.
+https://www.sefaria.org/Jeremiah%2031
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

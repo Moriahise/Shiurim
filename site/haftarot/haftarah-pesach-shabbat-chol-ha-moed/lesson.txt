@@ -1,0 +1,109 @@
+Haftarah · Pesach Shabbat Chol ha-Moed
+הפטרה · שבת חול המועד פסח
+
+What does hope require when a people describes itself as already finished? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מה דורשת התקווה כאשר העם מתאר את עצמו כאילו תם? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What does hope require when a people describes itself as already finished?
+מה דורשת התקווה כאשר העם מתאר את עצמו כאילו תם?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Ezekiel 37:1
+The prophet is led around bones described as very dry. He must look before he is asked to speak. The vision begins with the extremity of loss rather than demanding premature confidence from those whose condition it represents.
+הנביא מועבר סביב עצמות יבשות מאוד. עליו לראות לפני שיצווה לדבר. החזון מתחיל בקיצוניות האובדן ואינו דורש ביטחון מוקדם ממי שהעצמות מייצגות את מצבם.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Ezekiel 37:8
+The bodies acquire structure and covering before breath enters them. The staged restoration distinguishes organization from life. A community can be assembled in outward form and still need the animating hope that allows its members to rise.
+הגופים מקבלים מבנה וכיסוי לפני כניסת הרוח. שלבי השיקום מבחינים בין ארגון לבין חיים. קהילה יכולה להתאסף בצורה חיצונית ועדיין להזדקק לתקווה המחיה המאפשרת לה לקום.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Ezekiel 37:14
+The interpretation explicitly identifies the bones with Israel’s despair and promises spirit and settlement. Read the vision through that stated explanation before extending it to other theological questions. Its immediate movement is from collective hopelessness to renewed national life.
+הפירוש מזהה במפורש את העצמות עם ייאוש ישראל ומבטיח רוח והנחה בארץ. יש לקרוא דרך הסבר זה לפני הרחבה לשאלות תיאולוגיות אחרות. התנועה המיידית היא מייאוש ציבורי לחיים לאומיים מחודשים.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Ezekiel 37:1-37:14
+Ezekiel 37:1
+הָיְתָ֣ה עָלַי֮ יַד־יְהֹוָה֒ וַיּוֹצִאֵ֤נִֽי בְר֙וּחַ֙ יְהֹוָ֔ה וַיְנִיחֵ֖נִי בְּת֣וֹךְ הַבִּקְעָ֑ה וְהִ֖יא מְלֵאָ֥ה עֲצָמֽוֹת׃
+The hand of the LORD was upon me, and the LORD carried me out in a spirit, and set me down in the midst of the valley, and it was full of bones;
+Ezekiel 37:2
+וְהֶעֱבִירַ֥נִי עֲלֵיהֶ֖ם סָבִ֣יב  ׀  סָבִ֑יב וְהִנֵּ֨ה רַבּ֤וֹת מְאֹד֙ עַל־פְּנֵ֣י הַבִּקְעָ֔ה וְהִנֵּ֖ה יְבֵשׁ֥וֹת מְאֹֽד׃
+and He caused me to pass by them round about, and, behold, there were very many in the open valley; and, lo, they were very dry.
+Ezekiel 37:3
+וַיֹּ֣אמֶר אֵלַ֔י בֶּן־אָדָ֕ם הֲתִֽחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יֱהֹוִ֖ה אַתָּ֥ה יָדָֽעְתָּ׃
+And He said unto me: ‘Son of man, can these bones live?’ And I answered: ‘O Lord GOD, Thou knowest.’
+Ezekiel 37:4
+וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א עַל־הָעֲצָמ֣וֹת הָאֵ֑לֶּה וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם הָֽעֲצָמוֹת֙ הַיְבֵשׁ֔וֹת שִׁמְע֖וּ דְּבַר־יְהֹוָֽה׃
+Then He said unto me: ‘Prophesy over these bones, and say unto them: O ye dry bones, hear the word of the LORD:
+Ezekiel 37:5
+כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה לָעֲצָמ֖וֹת הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם׃
+Thus saith the Lord GOD unto these bones: Behold, I will cause breath to enter into you, and ye shall live.
+Ezekiel 37:6
+וְנָתַתִּי֩ עֲלֵיכֶ֨ם גִּידִ֜ים וְֽהַעֲלֵתִ֧י עֲלֵיכֶ֣ם בָּשָׂ֗ר וְקָרַמְתִּ֤י עֲלֵיכֶם֙ ע֔וֹר וְנָתַתִּ֥י בָכֶ֛ם ר֖וּחַ וִחְיִיתֶ֑ם וִידַעְתֶּ֖ם כִּֽי־אֲנִ֥י יְהֹוָֽה׃
+And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the LORD.’
+Ezekiel 37:7
+וְנִבֵּ֖אתִי כַּאֲשֶׁ֣ר צֻוֵּ֑יתִי וַֽיְהִי־ק֤וֹל כְּהִנָּֽבְאִי֙ וְהִנֵּה־רַ֔עַשׁ וַתִּקְרְב֣וּ עֲצָמ֔וֹת עֶ֖צֶם אֶל־עַצְמֽוֹ׃
+So I prophesied as I was commanded; and as I prophesied, there was a noise, and behold a commotion, and the bones came together, bone to its bone.
+Ezekiel 37:8
+וְרָאִ֜יתִי וְהִנֵּֽה־עֲלֵיהֶ֤ם גִּדִים֙ וּבָשָׂ֣ר עָלָ֔ה וַיִּקְרַ֧ם עֲלֵיהֶ֛ם ע֖וֹר מִלְמָ֑עְלָה וְר֖וּחַ אֵ֥ין בָּהֶֽם׃
+And I beheld, and, lo, there were sinews upon them, and flesh came up, and skin covered them above; but there was no breath in them.
+Ezekiel 37:9
+וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א אֶל־הָר֑וּחַ הִנָּבֵ֣א בֶן־אָ֠דָ֠ם וְאָמַרְתָּ֨ אֶל־הָר֜וּחַ  {ס}         כֹּה־אָמַ֣ר  ׀  אֲדֹנָ֣י יֱהֹוִ֗ה מֵאַרְבַּ֤ע רוּחוֹת֙ בֹּ֣אִי הָר֔וּחַ וּפְחִ֛י בַּהֲרוּגִ֥ים הָאֵ֖לֶּה וְיִֽחְיֽוּ׃
+Then said He unto me: ‘Prophesy unto the breath, prophesy, son of man, and say to the breath: Thus saith the Lord GOD: Come from the four winds, O breath, and breathe upon these slain, that they may live.’
+Ezekiel 37:10
+וְהִנַּבֵּ֖אתִי כַּאֲשֶׁ֣ר צִוָּ֑נִי וַתָּבוֹא֩ בָהֶ֨ם הָר֜וּחַ וַיִּֽחְי֗וּ וַיַּֽעַמְדוּ֙ עַל־רַגְלֵיהֶ֔ם חַ֖יִל גָּד֥וֹל מְאֹד־מְאֹֽד׃
+So I prophesied as He commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great host.
+Ezekiel 37:11
+וַיֹּ֘אמֶר֮ אֵלַי֒ בֶּן־אָדָ֕ם הָעֲצָמ֣וֹת הָאֵ֔לֶּה כׇּל־בֵּ֥ית יִשְׂרָאֵ֖ל הֵ֑מָּה הִנֵּ֣ה אֹמְרִ֗ים יָבְשׁ֧וּ עַצְמוֹתֵ֛ינוּ וְאָבְדָ֥ה תִקְוָתֵ֖נוּ נִגְזַ֥רְנוּ לָֽנוּ׃
+Then He said unto me: ‘Son of man, these bones are the whole house of Israel; behold, they say: Our bones are dried up, and our hope is lost; we are clean cut off.
+Ezekiel 37:12
+לָכֵן֩ הִנָּבֵ֨א וְאָמַרְתָּ֜ אֲלֵיהֶ֗ם כֹּה־אָמַר֮ אֲדֹנָ֣י יֱהֹוִה֒ הִנֵּה֩ אֲנִ֨י פֹתֵ֜חַ אֶת־קִבְרֽוֹתֵיכֶ֗ם וְהַעֲלֵיתִ֥י אֶתְכֶ֛ם מִקִּבְרוֹתֵיכֶ֖ם עַמִּ֑י וְהֵבֵאתִ֥י אֶתְכֶ֖ם אֶל־אַדְמַ֥ת יִשְׂרָאֵֽל׃
+Therefore prophesy, and say unto them: Thus saith the Lord GOD: Behold, I will open your graves, and cause you to come up out of your graves, O My people; and I will bring you into the land of Israel.
+Ezekiel 37:13
+וִידַעְתֶּ֖ם כִּֽי־אֲנִ֣י יְהֹוָ֑ה בְּפִתְחִ֣י אֶת־קִבְרֽוֹתֵיכֶ֗ם וּבְהַעֲלוֹתִ֥י אֶתְכֶ֛ם מִקִּבְרוֹתֵיכֶ֖ם עַמִּֽי׃
+And ye shall know that I am the LORD, when I have opened your graves, and caused you to come up out of your graves, O My people.
+Ezekiel 37:14
+וְנָתַתִּ֨י רוּחִ֤י בָכֶם֙ וִחְיִיתֶ֔ם וְהִנַּחְתִּ֥י אֶתְכֶ֖ם עַל־אַדְמַתְכֶ֑ם וִידַעְתֶּ֞ם כִּֽי־אֲנִ֧י יְהֹוָ֛ה דִּבַּ֥רְתִּי וְעָשִׂ֖יתִי נְאֻם־יְהֹוָֽה׃  {פ}
+And I will put My spirit in you, and ye shall live, and I will place you in your own land; and ye shall know that I the LORD have spoken, and performed it, saith the LORD.’
+https://www.sefaria.org/Ezekiel.37
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

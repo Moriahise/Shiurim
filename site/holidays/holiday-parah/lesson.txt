@@ -1,0 +1,281 @@
+Holiday readings · Parah
+קריאות למועד · פרה
+
+Why does returning to purity require a process rather than a label? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מדוע דורשת השיבה לטהרה תהליך ולא תווית? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+Why does returning to purity require a process rather than a label?
+מדוע דורשת השיבה לטהרה תהליך ולא תווית?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Numbers 19:1
+The statute begins with a carefully specified ritual and distribution of roles. Its details resist reduction to a general metaphor. First distinguish the Torah’s rules of corpse-impurity from moral accusations, which are not identical categories.
+החוקה מתחילה בטקס מפורט ובחלוקת תפקידים. פרטיה מתנגדים לצמצום למטפורה כללית. יש להבחין תחילה בין דיני טומאת מת לבין אשמה מוסרית; אלה אינן קטגוריות זהות.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Numbers 19:12
+Purification is ordered through the third and seventh days. The timeline makes return a sustained process. It also places dependence on other people’s preparation and action within the individual’s change of ritual condition.
+הטהרה מסודרת ביום השלישי וביום השביעי. הזמן הופך את השיבה לתהליך נמשך. הוא מציב גם תלות בהכנתם ובפעולתם של אחרים בתוך שינוי מעמדו של היחיד.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Numbers 19:22
+The final transmission rule keeps attention on the practical consequences of contact. Ezekiel’s companion reading then uses water and a new heart within national restoration. Compare the texts carefully without identifying ritual impurity with personal wickedness.
+דין ההעברה האחרון משאיר תשומת לב לתוצאות המגע. הפטרת יחזקאל משתמשת אחר כך במים ובלב חדש במסגרת שיקום העם. יש להשוות בזהירות בלי לזהות טומאה הלכתית עם רשעות אישית.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Shabbat Parah · Torah
+Numbers 19:1-19:22
+Numbers 19:1
+וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃
+And the LORD spoke unto Moses and unto Aaron, saying:
+Numbers 19:2
+זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לֵאמֹ֑ר דַּבֵּ֣ר  ׀  אֶל־בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֣וּ אֵלֶ֩יךָ֩ פָרָ֨ה אֲדֻמָּ֜ה תְּמִימָ֗ה אֲשֶׁ֤ר אֵֽין־בָּהּ֙ מ֔וּם אֲשֶׁ֛ר לֹא־עָלָ֥ה עָלֶ֖יהָ עֹֽל׃
+This is the statute of the law which the LORD hath commanded, saying: Speak unto the children of Israel, that they bring thee a red heifer, faultless, wherein is no blemish, and upon which never came yoke.
+Numbers 19:3
+וּנְתַתֶּ֣ם אֹתָ֔הּ אֶל־אֶלְעָזָ֖ר הַכֹּהֵ֑ן וְהוֹצִ֤יא אֹתָהּ֙ אֶל־מִח֣וּץ לַֽמַּחֲנֶ֔ה וְשָׁחַ֥ט אֹתָ֖הּ לְפָנָֽיו׃
+And ye shall give her unto Eleazar the priest, and she shall be brought forth without the camp, and she shall be slain before his face.
+Numbers 19:4
+וְלָקַ֞ח אֶלְעָזָ֧ר הַכֹּהֵ֛ן מִדָּמָ֖הּ בְּאֶצְבָּע֑וֹ וְהִזָּ֞ה אֶל־נֹ֨כַח פְּנֵ֧י אֹֽהֶל־מוֹעֵ֛ד מִדָּמָ֖הּ שֶׁ֥בַע פְּעָמִֽים׃
+And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood toward the front of the tent of meeting seven times.
+Numbers 19:5
+וְשָׂרַ֥ף אֶת־הַפָּרָ֖ה לְעֵינָ֑יו אֶת־עֹרָ֤הּ וְאֶת־בְּשָׂרָהּ֙ וְאֶת־דָּמָ֔הּ עַל־פִּרְשָׁ֖הּ יִשְׂרֹֽף׃
+And the heifer shall be burnt in his sight; her skin, and her flesh, and her blood, with her dung, shall be burnt.
+Numbers 19:6
+וְלָקַ֣ח הַכֹּהֵ֗ן עֵ֥ץ אֶ֛רֶז וְאֵז֖וֹב וּשְׁנִ֣י תוֹלָ֑עַת וְהִשְׁלִ֕יךְ אֶל־תּ֖וֹךְ שְׂרֵפַ֥ת הַפָּרָֽה׃
+And the priest shall take cedar-wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer.
+Numbers 19:7
+וְכִבֶּ֨ס בְּגָדָ֜יו הַכֹּהֵ֗ן וְרָחַ֤ץ בְּשָׂרוֹ֙ בַּמַּ֔יִם וְאַחַ֖ר יָבֹ֣א אֶל־הַֽמַּחֲנֶ֑ה וְטָמֵ֥א הַכֹּהֵ֖ן עַד־הָעָֽרֶב׃
+Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he may come into the camp, and the priest shall be unclean until the even.
+Numbers 19:8
+וְהַשֹּׂרֵ֣ף אֹתָ֔הּ יְכַבֵּ֤ס בְּגָדָיו֙ בַּמַּ֔יִם וְרָחַ֥ץ בְּשָׂר֖וֹ בַּמָּ֑יִם וְטָמֵ֖א עַד־הָעָֽרֶב׃
+And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.
+Numbers 19:9
+וְאָסַ֣ף  ׀  אִ֣ישׁ טָה֗וֹר אֵ֚ת אֵ֣פֶר הַפָּרָ֔ה וְהִנִּ֛יחַ מִח֥וּץ לַֽמַּחֲנֶ֖ה בְּמָק֣וֹם טָה֑וֹר וְ֠הָיְתָ֠ה לַעֲדַ֨ת בְּנֵֽי־יִשְׂרָאֵ֧ל לְמִשְׁמֶ֛רֶת לְמֵ֥י נִדָּ֖ה חַטָּ֥את הִֽוא׃
+And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of sprinkling; it is a purification from sin.
+Numbers 19:10
+וְ֠כִבֶּ֠ס הָאֹסֵ֨ף אֶת־אֵ֤פֶר הַפָּרָה֙ אֶת־בְּגָדָ֔יו וְטָמֵ֖א עַד־הָעָ֑רֶב וְֽהָיְתָ֞ה לִבְנֵ֣י יִשְׂרָאֵ֗ל וְלַגֵּ֛ר הַגָּ֥ר בְּתוֹכָ֖ם לְחֻקַּ֥ת עוֹלָֽם׃
+And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even; and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.
+Numbers 19:11
+הַנֹּגֵ֥עַ בְּמֵ֖ת לְכׇל־נֶ֣פֶשׁ אָדָ֑ם וְטָמֵ֖א שִׁבְעַ֥ת יָמִֽים׃
+He that toucheth the dead, even any man’s dead body, shall be unclean seven days;
+Numbers 19:12
+ה֣וּא יִתְחַטָּא־ב֞וֹ בַּיּ֧וֹם הַשְּׁלִישִׁ֛י וּבַיּ֥וֹם הַשְּׁבִיעִ֖י יִטְהָ֑ר וְאִם־לֹ֨א יִתְחַטָּ֜א בַּיּ֧וֹם הַשְּׁלִישִׁ֛י וּבַיּ֥וֹם הַשְּׁבִיעִ֖י לֹ֥א יִטְהָֽר׃
+the same shall purify himself therewith on the third day and on the seventh day, and he shall be clean; but if he purify not himself the third day and the seventh day, he shall not be clean.
+Numbers 19:13
+כׇּֽל־הַנֹּגֵ֡עַ בְּמֵ֣ת בְּנֶ֩פֶשׁ֩ הָאָדָ֨ם אֲשֶׁר־יָמ֜וּת וְלֹ֣א יִתְחַטָּ֗א אֶת־מִשְׁכַּ֤ן יְהֹוָה֙ טִמֵּ֔א וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִיִּשְׂרָאֵ֑ל כִּי֩ מֵ֨י נִדָּ֜ה לֹא־זֹרַ֤ק עָלָיו֙ טָמֵ֣א יִהְיֶ֔ה ע֖וֹד טֻמְאָת֥וֹ בֽוֹ׃
+Whosoever toucheth the dead, even the body of any man that is dead, and purifieth not himself—he hath defiled the tabernacle of the LORD—that soul shall be cut off from Israel; because the water of sprinkling was not dashed against him, he shall be unclean; his uncleanness is yet upon him.
+Numbers 19:14
+זֹ֚את הַתּוֹרָ֔ה אָדָ֖ם כִּֽי־יָמ֣וּת בְּאֹ֑הֶל כׇּל־הַבָּ֤א אֶל־הָאֹ֙הֶל֙ וְכׇל־אֲשֶׁ֣ר בָּאֹ֔הֶל יִטְמָ֖א שִׁבְעַ֥ת יָמִֽים׃
+This is the law: when a man dieth in a tent, every one that cometh into the tent, and every thing that is in the tent, shall be unclean seven days.
+Numbers 19:15
+וְכֹל֙ כְּלִ֣י פָת֔וּחַ אֲשֶׁ֛ר אֵין־צָמִ֥יד פָּתִ֖יל עָלָ֑יו טָמֵ֖א הֽוּא׃
+And every open vessel, which hath no covering close-bound upon it, is unclean.
+Numbers 19:16
+וְכֹ֨ל אֲשֶׁר־יִגַּ֜ע עַל־פְּנֵ֣י הַשָּׂדֶ֗ה בַּֽחֲלַל־חֶ֙רֶב֙ א֣וֹ בְמֵ֔ת אֽוֹ־בְעֶ֥צֶם אָדָ֖ם א֣וֹ בְקָ֑בֶר יִטְמָ֖א שִׁבְעַ֥ת יָמִֽים׃
+And whosoever in the open field toucheth one that is slain with a sword, or one that dieth of himself, or a bone of a man, or a grave, shall be unclean seven days.
+Numbers 19:17
+וְלָֽקְחוּ֙ לַטָּמֵ֔א מֵעֲפַ֖ר שְׂרֵפַ֣ת הַֽחַטָּ֑את וְנָתַ֥ן עָלָ֛יו מַ֥יִם חַיִּ֖ים אֶל־כֶּֽלִי׃
+And for the unclean they shall take of the ashes of the burning of the purification from sin, and running water shall be put thereto in a vessel.
+Numbers 19:18
+וְלָקַ֨ח אֵז֜וֹב וְטָבַ֣ל בַּמַּ֘יִם֮ אִ֣ישׁ טָהוֹר֒ וְהִזָּ֤ה עַל־הָאֹ֙הֶל֙ וְעַל־כׇּל־הַכֵּלִ֔ים וְעַל־הַנְּפָשׁ֖וֹת אֲשֶׁ֣ר הָֽיוּ־שָׁ֑ם וְעַל־הַנֹּגֵ֗עַ בַּעֶ֙צֶם֙ א֣וֹ בֶֽחָלָ֔ל א֥וֹ בַמֵּ֖ת א֥וֹ בַקָּֽבֶר׃
+And a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched the bone, or the slain, or the dead, or the grave.
+Numbers 19:19
+וְהִזָּ֤ה הַטָּהֹר֙ עַל־הַטָּמֵ֔א בַּיּ֥וֹם הַשְּׁלִישִׁ֖י וּבַיּ֣וֹם הַשְּׁבִיעִ֑י וְחִטְּאוֹ֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י וְכִבֶּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָהֵ֥ר בָּעָֽרֶב׃
+And the clean person shall sprinkle upon the unclean on the third day, and on the seventh day; and on the seventh day he shall purify him; and he shall wash his clothes, and bathe himself in water, and shall be clean at even.
+Numbers 19:20
+וְאִ֤ישׁ אֲשֶׁר־יִטְמָא֙ וְלֹ֣א יִתְחַטָּ֔א וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִתּ֣וֹךְ הַקָּהָ֑ל כִּי֩ אֶת־מִקְדַּ֨שׁ יְהֹוָ֜ה טִמֵּ֗א מֵ֥י נִדָּ֛ה לֹא־זֹרַ֥ק עָלָ֖יו טָמֵ֥א הֽוּא׃
+But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from the midst of the assembly, because he hath defiled the sanctuary of the LORD; the water of sprinkling hath not been dashed against him: he is unclean.
+Numbers 19:21
+וְהָיְתָ֥ה לָהֶ֖ם לְחֻקַּ֣ת עוֹלָ֑ם וּמַזֵּ֤ה מֵֽי־הַנִּדָּה֙ יְכַבֵּ֣ס בְּגָדָ֔יו וְהַנֹּגֵ֙עַ֙ בְּמֵ֣י הַנִּדָּ֔ה יִטְמָ֖א עַד־הָעָֽרֶב׃
+And it shall be a perpetual statute unto them; and he that sprinkleth the water of sprinkling shall wash his clothes; and he that toucheth the water of sprinkling shall be unclean until even.
+Numbers 19:22
+וְכֹ֛ל אֲשֶׁר־יִגַּע־בּ֥וֹ הַטָּמֵ֖א יִטְמָ֑א וְהַנֶּ֥פֶשׁ הַנֹּגַ֖עַת תִּטְמָ֥א עַד־הָעָֽרֶב׃  {פ}
+And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth him shall be unclean until even.
+https://www.sefaria.org/Numbers%2019
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shabbat Parah · haft
+Ezekiel 36:16-36:38
+Ezekiel 36:16
+וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃
+Moreover the word of the LORD came unto me, saying:
+Ezekiel 36:17
+בֶּן־אָדָ֗ם בֵּ֤ית יִשְׂרָאֵל֙ יֹשְׁבִ֣ים עַל־אַדְמָתָ֔ם וַיְטַמְּא֣וּ אוֹתָ֔הּ בְּדַרְכָּ֖ם וּבַעֲלִֽילוֹתָ֑ם כְּטֻמְאַת֙ הַנִּדָּ֔ה הָיְתָ֥ה דַרְכָּ֖ם לְפָנָֽי׃
+’Son of man, when the house of Israel dwelt in their own land, they defiled it by their way and by their doings; their way before Me was as the uncleanness of a woman in her impurity.
+Ezekiel 36:18
+וָאֶשְׁפֹּ֤ךְ חֲמָתִי֙ עֲלֵיהֶ֔ם עַל־הַדָּ֖ם אֲשֶׁר־שָׁפְכ֣וּ עַל־הָאָ֑רֶץ וּבְגִלּוּלֵיהֶ֖ם טִמְּאֽוּהָ׃
+Wherefore I poured out My fury upon them for the blood which they had shed upon the land, and because they had defiled it with their idols;
+Ezekiel 36:19
+וָאָפִ֤יץ אֹתָם֙ בַּגּוֹיִ֔ם וַיִּזָּר֖וּ בָּאֲרָצ֑וֹת כְּדַרְכָּ֥ם וְכַעֲלִילוֹתָ֖ם שְׁפַטְתִּֽים׃
+and I scattered them among the nations, and they were dispersed through the countries; according to their way and according to their doings I judged them.
+Ezekiel 36:20
+וַיָּב֗וֹא אֶל־הַגּוֹיִם֙ אֲשֶׁר־בָּ֣אוּ שָׁ֔ם וַֽיְחַלְּל֖וּ אֶת־שֵׁ֣ם קׇדְשִׁ֑י בֶּאֱמֹ֤ר לָהֶם֙ עַם־יְהֹוָ֣ה אֵ֔לֶּה וּמֵאַרְצ֖וֹ יָצָֽאוּ׃
+And when they came unto the nations, whither they came, they profaned My holy name; in that men said of them: These are the people of the LORD, and are gone forth out of His land.
+Ezekiel 36:21
+וָאֶחְמֹ֖ל עַל־שֵׁ֣ם קׇדְשִׁ֑י אֲשֶׁ֤ר חִלְּלֻ֙הוּ֙ בֵּ֣ית יִשְׂרָאֵ֔ל בַּגּוֹיִ֖ם אֲשֶׁר־בָּ֥אוּ שָֽׁמָּה׃  {פ}
+But I had pity for My holy name, which the house of Israel had profaned among the nations, whither they came.
+Ezekiel 36:22
+לָכֵ֞ן אֱמֹ֣ר לְבֵֽית־יִשְׂרָאֵ֗ל כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה לֹ֧א לְמַעַנְכֶ֛ם אֲנִ֥י עֹשֶׂ֖ה בֵּ֣ית יִשְׂרָאֵ֑ל כִּ֤י אִם־לְשֵׁם־קׇדְשִׁי֙ אֲשֶׁ֣ר חִלַּלְתֶּ֔ם בַּגּוֹיִ֖ם אֲשֶׁר־בָּ֥אתֶם שָֽׁם׃
+Therefore say unto the house of Israel: Thus saith the Lord GOD: I do not this for your sake, O house of Israel, but for My holy name, which ye have profaned among the nations, whither ye came.
+Ezekiel 36:23
+וְקִדַּשְׁתִּ֞י אֶת־שְׁמִ֣י הַגָּד֗וֹל הַֽמְחֻלָּל֙ בַּגּוֹיִ֔ם אֲשֶׁ֥ר חִלַּלְתֶּ֖ם בְּתוֹכָ֑ם וְיָדְע֨וּ הַגּוֹיִ֜ם כִּֽי־אֲנִ֣י יְהֹוָ֗ה נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה בְּהִקָּדְשִׁ֥י בָכֶ֖ם לְעֵינֵיהֶֽם׃
+And I will sanctify My great name, which hath been profaned among the nations, which ye have profaned in the midst of them; and the nations shall know that I am the LORD, saith the Lord GOD, when I shall be sanctified in you before their eyes.
+Ezekiel 36:24
+וְלָקַחְתִּ֤י אֶתְכֶם֙ מִן־הַגּוֹיִ֔ם וְקִבַּצְתִּ֥י אֶתְכֶ֖ם מִכׇּל־הָאֲרָצ֑וֹת וְהֵבֵאתִ֥י אֶתְכֶ֖ם אֶל־אַדְמַתְכֶֽם׃
+For I will take you from among the nations, and gather you out of all the countries, and will bring you into your own land.
+Ezekiel 36:25
+וְזָרַקְתִּ֧י עֲלֵיכֶ֛ם מַ֥יִם טְהוֹרִ֖ים וּטְהַרְתֶּ֑ם מִכֹּ֧ל טֻמְאוֹתֵיכֶ֛ם וּמִכׇּל־גִּלּ֥וּלֵיכֶ֖ם אֲטַהֵ֥ר אֶתְכֶֽם׃
+And I will sprinkle clean water upon you, and ye shall be clean; from all your uncleannesses, and from all your idols, will I cleanse you.
+Ezekiel 36:26
+וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת־לֵ֤ב הָאֶ֙בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר׃
+A new heart also will I give you, and a new spirit will I put within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh.
+Ezekiel 36:27
+וְאֶת־רוּחִ֖י אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וְעָשִׂ֗יתִי אֵ֤ת אֲשֶׁר־בְּחֻקַּי֙ תֵּלֵ֔כוּ וּמִשְׁפָּטַ֥י תִּשְׁמְר֖וּ וַעֲשִׂיתֶֽם׃
+And I will put My spirit within you, and cause you to walk in My statutes, and ye shall keep Mine ordinances, and do them.
+Ezekiel 36:28
+וִישַׁבְתֶּ֣ם בָּאָ֔רֶץ אֲשֶׁ֥ר נָתַ֖תִּי לַאֲבֹֽתֵיכֶ֑ם וִהְיִ֤יתֶם לִי֙ לְעָ֔ם וְאָ֣נֹכִ֔י אֶהְיֶ֥ה לָכֶ֖ם לֵאלֹהִֽים׃
+And ye shall dwell in the land that I gave to your fathers; and ye shall be My people, and I will be your God.
+Ezekiel 36:29
+וְהוֹשַׁעְתִּ֣י אֶתְכֶ֔ם מִכֹּ֖ל טֻמְאֽוֹתֵיכֶ֑ם וְקָרָ֤אתִי אֶל־הַדָּגָן֙ וְהִרְבֵּיתִ֣י אֹת֔וֹ וְלֹא־אֶתֵּ֥ן עֲלֵיכֶ֖ם רָעָֽב׃
+And I will save you from all your uncleannesses; and I will call for the corn, and will increase it, and lay no famine upon you.
+Ezekiel 36:30
+וְהִרְבֵּיתִי֙ אֶת־פְּרִ֣י הָעֵ֔ץ וּתְנוּבַ֖ת הַשָּׂדֶ֑ה לְמַ֗עַן אֲ֠שֶׁ֠ר לֹ֣א תִקְח֥וּ ע֛וֹד חֶרְפַּ֥ת רָעָ֖ב בַּגּוֹיִֽם׃
+And I will multiply the fruit of the tree, and the increase of the field, that ye may receive no more the reproach of famine among the nations.
+Ezekiel 36:31
+וּזְכַרְתֶּם֙ אֶת־דַּרְכֵיכֶ֣ם הָרָעִ֔ים וּמַעַלְלֵיכֶ֖ם אֲשֶׁ֣ר לֹֽא־טוֹבִ֑ים וּנְקֹֽטֹתֶם֙ בִּפְנֵיכֶ֔ם עַ֚ל עֲוֺנֹ֣תֵיכֶ֔ם וְעַ֖ל תּוֹעֲבוֹתֵיכֶֽם׃
+Then shall ye remember your evil ways, and your doings that were not good; and ye shall loathe yourselves in your own sight for your iniquities and for your abominations.
+Ezekiel 36:32
+לֹ֧א לְמַעַנְכֶ֣ם אֲנִֽי־עֹשֶׂ֗ה נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה יִוָּדַ֖ע לָכֶ֑ם בּ֧וֹשׁוּ וְהִכָּֽלְמ֛וּ מִדַּרְכֵיכֶ֖ם בֵּ֥ית יִשְׂרָאֵֽל׃  {ס}
+Not for your sake do I this, saith the Lord GOD, be it known unto you; be ashamed and confounded for your ways, O house of Israel.
+Ezekiel 36:33
+כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה בְּיוֹם֙ טַהֲרִ֣י אֶתְכֶ֔ם מִכֹּ֖ל עֲוֺנֽוֹתֵיכֶ֑ם וְהֽוֹשַׁבְתִּי֙ אֶת־הֶ֣עָרִ֔ים וְנִבְנ֖וּ הֶחֳרָבֽוֹת׃
+Thus saith the Lord GOD: In the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited, and the waste places shall be builded.
+Ezekiel 36:34
+וְהָאָ֥רֶץ הַנְּשַׁמָּ֖ה תֵּעָבֵ֑ד תַּ֚חַת אֲשֶׁ֣ר הָיְתָ֣ה שְׁמָמָ֔ה לְעֵינֵ֖י כׇּל־עוֹבֵֽר׃
+And the land that was desolate shall be tilled, whereas it was a desolation in the sight of all that passed by.
+Ezekiel 36:35
+וְאָמְר֗וּ הָאָ֤רֶץ הַלֵּ֙זוּ֙ הַנְּשַׁמָּ֔ה הָיְתָ֖ה כְּגַן־עֵ֑דֶן וְהֶעָרִ֧ים הֶחֳרֵב֛וֹת וְהַֽנְשַׁמּ֥וֹת וְהַנֶּהֱרָס֖וֹת בְּצוּר֥וֹת יָשָֽׁבוּ׃
+And they shall say: This land that was desolate is become like the garden of Eden; and the waste and desolate and ruined cities are fortified and inhabited.
+Ezekiel 36:36
+וְיָדְע֣וּ הַגּוֹיִ֗ם אֲשֶׁ֣ר יִֽשָּׁאֲרוּ֮ סְבִיבֽוֹתֵיכֶם֒ כִּ֣י  ׀  אֲנִ֣י יְהֹוָ֗ה בָּנִ֙יתִי֙ הַנֶּ֣הֱרָס֔וֹת נָטַ֖עְתִּי הַנְּשַׁמָּ֑ה אֲנִ֥י יְהֹוָ֖ה דִּבַּ֥רְתִּי וְעָשִֽׂיתִי׃  {ס}
+Then the nations that are left round about you shall know that I the LORD have builded the ruined places, and planted that which was desolate; I the LORD have spoken it, and I will do it.
+Ezekiel 36:37
+כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה ע֗וֹד זֹ֛את אִדָּרֵ֥שׁ לְבֵֽית־יִשְׂרָאֵ֖ל לַעֲשׂ֣וֹת לָהֶ֑ם אַרְבֶּ֥ה אֹתָ֛ם כַּצֹּ֖אן אָדָֽם׃
+Thus saith the Lord GOD: I will yet for this be inquired of by the house of Israel, to do it for them; I will increase them with men like a flock.
+Ezekiel 36:38
+כְּצֹ֣אן קׇדָשִׁ֗ים כְּצֹ֤אן יְרוּשָׁלַ֙͏ִם֙ בְּמ֣וֹעֲדֶ֔יהָ כֵּ֤ן תִּֽהְיֶ֙ינָה֙ הֶעָרִ֣ים הֶחֳרֵב֔וֹת מְלֵא֖וֹת צֹ֣אן אָדָ֑ם וְיָדְע֖וּ כִּֽי־אֲנִ֥י יְהֹוָֽה׃  {פ}
+As the flock for sacrifice, as the flock of Jerusalem in her appointed seasons, so shall the waste cities be filled with flocks of men; and they shall know that I am the LORD.’
+https://www.sefaria.org/Ezekiel.36
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shabbat Parah · seph
+Ezekiel 36:16-36:36
+Ezekiel 36:16
+וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃
+Moreover the word of the LORD came unto me, saying:
+Ezekiel 36:17
+בֶּן־אָדָ֗ם בֵּ֤ית יִשְׂרָאֵל֙ יֹשְׁבִ֣ים עַל־אַדְמָתָ֔ם וַיְטַמְּא֣וּ אוֹתָ֔הּ בְּדַרְכָּ֖ם וּבַעֲלִֽילוֹתָ֑ם כְּטֻמְאַת֙ הַנִּדָּ֔ה הָיְתָ֥ה דַרְכָּ֖ם לְפָנָֽי׃
+’Son of man, when the house of Israel dwelt in their own land, they defiled it by their way and by their doings; their way before Me was as the uncleanness of a woman in her impurity.
+Ezekiel 36:18
+וָאֶשְׁפֹּ֤ךְ חֲמָתִי֙ עֲלֵיהֶ֔ם עַל־הַדָּ֖ם אֲשֶׁר־שָׁפְכ֣וּ עַל־הָאָ֑רֶץ וּבְגִלּוּלֵיהֶ֖ם טִמְּאֽוּהָ׃
+Wherefore I poured out My fury upon them for the blood which they had shed upon the land, and because they had defiled it with their idols;
+Ezekiel 36:19
+וָאָפִ֤יץ אֹתָם֙ בַּגּוֹיִ֔ם וַיִּזָּר֖וּ בָּאֲרָצ֑וֹת כְּדַרְכָּ֥ם וְכַעֲלִילוֹתָ֖ם שְׁפַטְתִּֽים׃
+and I scattered them among the nations, and they were dispersed through the countries; according to their way and according to their doings I judged them.
+Ezekiel 36:20
+וַיָּב֗וֹא אֶל־הַגּוֹיִם֙ אֲשֶׁר־בָּ֣אוּ שָׁ֔ם וַֽיְחַלְּל֖וּ אֶת־שֵׁ֣ם קׇדְשִׁ֑י בֶּאֱמֹ֤ר לָהֶם֙ עַם־יְהֹוָ֣ה אֵ֔לֶּה וּמֵאַרְצ֖וֹ יָצָֽאוּ׃
+And when they came unto the nations, whither they came, they profaned My holy name; in that men said of them: These are the people of the LORD, and are gone forth out of His land.
+Ezekiel 36:21
+וָאֶחְמֹ֖ל עַל־שֵׁ֣ם קׇדְשִׁ֑י אֲשֶׁ֤ר חִלְּלֻ֙הוּ֙ בֵּ֣ית יִשְׂרָאֵ֔ל בַּגּוֹיִ֖ם אֲשֶׁר־בָּ֥אוּ שָֽׁמָּה׃  {פ}
+But I had pity for My holy name, which the house of Israel had profaned among the nations, whither they came.
+Ezekiel 36:22
+לָכֵ֞ן אֱמֹ֣ר לְבֵֽית־יִשְׂרָאֵ֗ל כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה לֹ֧א לְמַעַנְכֶ֛ם אֲנִ֥י עֹשֶׂ֖ה בֵּ֣ית יִשְׂרָאֵ֑ל כִּ֤י אִם־לְשֵׁם־קׇדְשִׁי֙ אֲשֶׁ֣ר חִלַּלְתֶּ֔ם בַּגּוֹיִ֖ם אֲשֶׁר־בָּ֥אתֶם שָֽׁם׃
+Therefore say unto the house of Israel: Thus saith the Lord GOD: I do not this for your sake, O house of Israel, but for My holy name, which ye have profaned among the nations, whither ye came.
+Ezekiel 36:23
+וְקִדַּשְׁתִּ֞י אֶת־שְׁמִ֣י הַגָּד֗וֹל הַֽמְחֻלָּל֙ בַּגּוֹיִ֔ם אֲשֶׁ֥ר חִלַּלְתֶּ֖ם בְּתוֹכָ֑ם וְיָדְע֨וּ הַגּוֹיִ֜ם כִּֽי־אֲנִ֣י יְהֹוָ֗ה נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה בְּהִקָּדְשִׁ֥י בָכֶ֖ם לְעֵינֵיהֶֽם׃
+And I will sanctify My great name, which hath been profaned among the nations, which ye have profaned in the midst of them; and the nations shall know that I am the LORD, saith the Lord GOD, when I shall be sanctified in you before their eyes.
+Ezekiel 36:24
+וְלָקַחְתִּ֤י אֶתְכֶם֙ מִן־הַגּוֹיִ֔ם וְקִבַּצְתִּ֥י אֶתְכֶ֖ם מִכׇּל־הָאֲרָצ֑וֹת וְהֵבֵאתִ֥י אֶתְכֶ֖ם אֶל־אַדְמַתְכֶֽם׃
+For I will take you from among the nations, and gather you out of all the countries, and will bring you into your own land.
+Ezekiel 36:25
+וְזָרַקְתִּ֧י עֲלֵיכֶ֛ם מַ֥יִם טְהוֹרִ֖ים וּטְהַרְתֶּ֑ם מִכֹּ֧ל טֻמְאוֹתֵיכֶ֛ם וּמִכׇּל־גִּלּ֥וּלֵיכֶ֖ם אֲטַהֵ֥ר אֶתְכֶֽם׃
+And I will sprinkle clean water upon you, and ye shall be clean; from all your uncleannesses, and from all your idols, will I cleanse you.
+Ezekiel 36:26
+וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת־לֵ֤ב הָאֶ֙בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר׃
+A new heart also will I give you, and a new spirit will I put within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh.
+Ezekiel 36:27
+וְאֶת־רוּחִ֖י אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וְעָשִׂ֗יתִי אֵ֤ת אֲשֶׁר־בְּחֻקַּי֙ תֵּלֵ֔כוּ וּמִשְׁפָּטַ֥י תִּשְׁמְר֖וּ וַעֲשִׂיתֶֽם׃
+And I will put My spirit within you, and cause you to walk in My statutes, and ye shall keep Mine ordinances, and do them.
+Ezekiel 36:28
+וִישַׁבְתֶּ֣ם בָּאָ֔רֶץ אֲשֶׁ֥ר נָתַ֖תִּי לַאֲבֹֽתֵיכֶ֑ם וִהְיִ֤יתֶם לִי֙ לְעָ֔ם וְאָ֣נֹכִ֔י אֶהְיֶ֥ה לָכֶ֖ם לֵאלֹהִֽים׃
+And ye shall dwell in the land that I gave to your fathers; and ye shall be My people, and I will be your God.
+Ezekiel 36:29
+וְהוֹשַׁעְתִּ֣י אֶתְכֶ֔ם מִכֹּ֖ל טֻמְאֽוֹתֵיכֶ֑ם וְקָרָ֤אתִי אֶל־הַדָּגָן֙ וְהִרְבֵּיתִ֣י אֹת֔וֹ וְלֹא־אֶתֵּ֥ן עֲלֵיכֶ֖ם רָעָֽב׃
+And I will save you from all your uncleannesses; and I will call for the corn, and will increase it, and lay no famine upon you.
+Ezekiel 36:30
+וְהִרְבֵּיתִי֙ אֶת־פְּרִ֣י הָעֵ֔ץ וּתְנוּבַ֖ת הַשָּׂדֶ֑ה לְמַ֗עַן אֲ֠שֶׁ֠ר לֹ֣א תִקְח֥וּ ע֛וֹד חֶרְפַּ֥ת רָעָ֖ב בַּגּוֹיִֽם׃
+And I will multiply the fruit of the tree, and the increase of the field, that ye may receive no more the reproach of famine among the nations.
+Ezekiel 36:31
+וּזְכַרְתֶּם֙ אֶת־דַּרְכֵיכֶ֣ם הָרָעִ֔ים וּמַעַלְלֵיכֶ֖ם אֲשֶׁ֣ר לֹֽא־טוֹבִ֑ים וּנְקֹֽטֹתֶם֙ בִּפְנֵיכֶ֔ם עַ֚ל עֲוֺנֹ֣תֵיכֶ֔ם וְעַ֖ל תּוֹעֲבוֹתֵיכֶֽם׃
+Then shall ye remember your evil ways, and your doings that were not good; and ye shall loathe yourselves in your own sight for your iniquities and for your abominations.
+Ezekiel 36:32
+לֹ֧א לְמַעַנְכֶ֣ם אֲנִֽי־עֹשֶׂ֗ה נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה יִוָּדַ֖ע לָכֶ֑ם בּ֧וֹשׁוּ וְהִכָּֽלְמ֛וּ מִדַּרְכֵיכֶ֖ם בֵּ֥ית יִשְׂרָאֵֽל׃  {ס}
+Not for your sake do I this, saith the Lord GOD, be it known unto you; be ashamed and confounded for your ways, O house of Israel.
+Ezekiel 36:33
+כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה בְּיוֹם֙ טַהֲרִ֣י אֶתְכֶ֔ם מִכֹּ֖ל עֲוֺנֽוֹתֵיכֶ֑ם וְהֽוֹשַׁבְתִּי֙ אֶת־הֶ֣עָרִ֔ים וְנִבְנ֖וּ הֶחֳרָבֽוֹת׃
+Thus saith the Lord GOD: In the day that I cleanse you from all your iniquities, I will cause the cities to be inhabited, and the waste places shall be builded.
+Ezekiel 36:34
+וְהָאָ֥רֶץ הַנְּשַׁמָּ֖ה תֵּעָבֵ֑ד תַּ֚חַת אֲשֶׁ֣ר הָיְתָ֣ה שְׁמָמָ֔ה לְעֵינֵ֖י כׇּל־עוֹבֵֽר׃
+And the land that was desolate shall be tilled, whereas it was a desolation in the sight of all that passed by.
+Ezekiel 36:35
+וְאָמְר֗וּ הָאָ֤רֶץ הַלֵּ֙זוּ֙ הַנְּשַׁמָּ֔ה הָיְתָ֖ה כְּגַן־עֵ֑דֶן וְהֶעָרִ֧ים הֶחֳרֵב֛וֹת וְהַֽנְשַׁמּ֥וֹת וְהַנֶּהֱרָס֖וֹת בְּצוּר֥וֹת יָשָֽׁבוּ׃
+And they shall say: This land that was desolate is become like the garden of Eden; and the waste and desolate and ruined cities are fortified and inhabited.
+Ezekiel 36:36
+וְיָדְע֣וּ הַגּוֹיִ֗ם אֲשֶׁ֣ר יִֽשָּׁאֲרוּ֮ סְבִיבֽוֹתֵיכֶם֒ כִּ֣י  ׀  אֲנִ֣י יְהֹוָ֗ה בָּנִ֙יתִי֙ הַנֶּ֣הֱרָס֔וֹת נָטַ֖עְתִּי הַנְּשַׁמָּ֑ה אֲנִ֥י יְהֹוָ֖ה דִּבַּ֥רְתִּי וְעָשִֽׂיתִי׃  {ס}
+Then the nations that are left round about you shall know that I the LORD have builded the ruined places, and planted that which was desolate; I the LORD have spoken it, and I will do it.
+https://www.sefaria.org/Ezekiel.36
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

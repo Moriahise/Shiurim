@@ -1,0 +1,176 @@
+Haftarah · Noach
+הפטרה · נח
+
+How can a covenant outlast the experience of abandonment? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד עשויה ברית לעמוד לאחר חוויית הנטישה? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How can a covenant outlast the experience of abandonment?
+כיצד עשויה ברית לעמוד לאחר חוויית הנטישה?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Isaiah 54:1
+The barren woman is told to make room before the promised children appear. Hope takes a spatial form: enlarge the tent. The command does not deny loss; it asks how a wounded community can prepare for a future it cannot yet count.
+העקרה נקראת להרחיב מקום עוד לפני שהילדים המובטחים נראים. התקווה מקבלת צורה ממשית של הרחבת האוהל. אין כאן מחיקת האובדן, אלא הכנת קהילה פגועה לעתיד שעדיין אי אפשר למנות.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Isaiah 54:9
+The explicit comparison with the waters of Noah moves the argument from passing anger to enduring commitment. The flood is a remembered limit on destruction. Read the covenant of peace as a promise addressed to a frightened community, not as a denial that judgment occurred.
+ההשוואה המפורשת למי נח מעבירה את הדיון מכעס חולף למחויבות מתמשכת. המבול נזכר כגבול להשחתה. ברית השלום פונה לקהילה מפוחדת ואינה מכחישה את הדין שכבר אירע.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Isaiah 55:5
+The longer reading moves from rebuilding a city to nations responding to a divine summons. Restoration opens outward. In the shorter Sephardic reading, 54:10 closes on immovable compassion; compare inward reassurance with the longer reading’s public horizon.
+הקריאה הארוכה עוברת מבניין העיר לעמים הנענים לקריאה אלוהית: השיקום פותח אופק החוצה. בנוסח הספרדי הקצר נ״ד:י׳ חותם בחסד שאינו מש. השוו בין הבטחת הביטחון לבין האופק הציבורי.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Isaiah 54:1-55:5
+Isaiah 54:1
+רׇנִּ֥י עֲקָרָ֖ה לֹ֣א יָלָ֑דָה פִּצְחִ֨י רִנָּ֤ה וְצַֽהֲלִי֙ לֹא־חָ֔לָה כִּֽי־רַבִּ֧ים בְּֽנֵי־שׁוֹמֵמָ֛ה מִבְּנֵ֥י בְעוּלָ֖ה אָמַ֥ר יְהֹוָֽה׃
+Sing, O barren, thou that didst not bear, Break forth into singing, and cry aloud, thou that didst not travail; For more are the children of the desolate Than the children of the married wife, saith the LORD.
+Isaiah 54:2
+הַרְחִ֣יבִי  ׀  מְק֣וֹם אׇהֳלֵ֗ךְ וִירִיע֧וֹת מִשְׁכְּנוֹתַ֛יִךְ יַטּ֖וּ אַל־תַּחְשֹׂ֑כִי הַאֲרִ֙יכִי֙ מֵיתָרַ֔יִךְ וִיתֵדֹתַ֖יִךְ חַזֵּֽקִי׃
+Enlarge the place of thy tent, And let them stretch forth the curtains of thy habitations, spare not; Lengthen thy cords, and strengthen thy stakes.
+Isaiah 54:3
+כִּֽי־יָמִ֥ין וּשְׂמֹ֖אול תִּפְרֹ֑צִי וְזַרְעֵךְ֙ גּוֹיִ֣ם יִירָ֔שׁ וְעָרִ֥ים נְשַׁמּ֖וֹת יוֹשִֽׁיבוּ׃
+For thou shalt spread abroad on the right hand and on the left; And thy seed shall possess the nations, And make the desolate cities to be inhabited.
+Isaiah 54:4
+אַל־תִּֽירְאִי֙ כִּֽי־לֹ֣א תֵב֔וֹשִׁי וְאַל־תִּכָּלְמִ֖י כִּ֣י לֹ֣א תַחְפִּ֑ירִי כִּ֣י בֹ֤שֶׁת עֲלוּמַ֙יִךְ֙ תִּשְׁכָּ֔חִי וְחֶרְפַּ֥ת אַלְמְנוּתַ֖יִךְ לֹ֥א תִזְכְּרִי־עֽוֹד׃
+Fear not, for thou shalt not be ashamed. Neither be thou confounded, for thou shalt not be put to shame; For thou shalt forget the shame of thy youth, And the reproach of thy widowhood shalt thou remember no more.
+Isaiah 54:5
+כִּ֤י בֹעֲלַ֙יִךְ֙ עֹשַׂ֔יִךְ יְהֹוָ֥ה צְבָא֖וֹת שְׁמ֑וֹ וְגֹֽאֲלֵךְ֙ קְד֣וֹשׁ יִשְׂרָאֵ֔ל אֱלֹהֵ֥י כׇל־הָאָ֖רֶץ יִקָּרֵֽא׃
+For thy Maker is thy husband, The LORD of hosts is His name; And the Holy One of Israel is thy Redeemer, The God of the whole earth shall He be called.
+Isaiah 54:6
+כִּֽי־כְאִשָּׁ֧ה עֲזוּבָ֛ה וַעֲצ֥וּבַת ר֖וּחַ קְרָאָ֣ךְ יְהֹוָ֑ה וְאֵ֧שֶׁת נְעוּרִ֛ים כִּ֥י תִמָּאֵ֖ס אָמַ֥ר אֱלֹהָֽיִךְ׃
+For the LORD hath called thee As a wife forsaken and grieved in spirit; And a wife of youth, can she be rejected? Saith thy God.
+Isaiah 54:7
+בְּרֶ֥גַע קָטֹ֖ן עֲזַבְתִּ֑יךְ וּבְרַחֲמִ֥ים גְּדֹלִ֖ים אֲקַבְּצֵֽךְ׃
+For a small moment have I forsaken thee; But with great compassion will I gather thee.
+Isaiah 54:8
+בְּשֶׁ֣צֶף קֶ֗צֶף הִסְתַּ֨רְתִּי פָנַ֥י רֶ֙גַע֙ מִמֵּ֔ךְ וּבְחֶ֥סֶד עוֹלָ֖ם רִחַמְתִּ֑יךְ אָמַ֥ר גֹּאֲלֵ֖ךְ יְהֹוָֽה׃  {ס}
+In a little wrath I hid My face from thee for a moment; But with everlasting kindness will I have compassion on thee, Saith the LORD thy Redeemer.
+Isaiah 54:9
+כִּֽי־מֵ֥י נֹ֙חַ֙ זֹ֣את לִ֔י אֲשֶׁ֣ר נִשְׁבַּ֗עְתִּי מֵעֲבֹ֥ר מֵי־נֹ֛חַ ע֖וֹד עַל־הָאָ֑רֶץ כֵּ֥ן נִשְׁבַּ֛עְתִּי מִקְּצֹ֥ף עָלַ֖יִךְ וּמִגְּעׇר־בָּֽךְ׃
+For this is as the waters of Noah unto Me; for as I have sworn that the waters of Noah should no more go over the earth, so have I sworn that I would not be wroth with thee, nor rebuke thee.
+Isaiah 54:10
+כִּ֤י הֶהָרִים֙ יָמ֔וּשׁוּ וְהַגְּבָע֖וֹת תְּמוּטֶ֑ינָה וְחַסְדִּ֞י מֵאִתֵּ֣ךְ לֹא־יָמ֗וּשׁ וּבְרִ֤ית שְׁלוֹמִי֙ לֹ֣א תָמ֔וּט אָמַ֥ר מְרַחֲמֵ֖ךְ יְהֹוָֽה׃  {ס}
+For the mountains may depart, and the hills be removed; but My kindness shall not depart from thee, neither shall My covenant of peace be removed, saith the LORD that hath compassion on thee.
+Isaiah 54:11
+עֲנִיָּ֥ה סֹעֲרָ֖ה לֹ֣א נֻחָ֑מָה הִנֵּ֨ה אָנֹכִ֜י מַרְבִּ֤יץ בַּפּוּךְ֙ אֲבָנַ֔יִךְ וִֽיסַדְתִּ֖יךְ בַּסַּפִּירִֽים׃
+O thou afflicted, tossed with tempest, and not comforted, behold, I will set thy stones in fair colours, And lay thy foundations with sapphires.
+Isaiah 54:12
+וְשַׂמְתִּ֤י כַּֽדְכֹד֙ שִׁמְשֹׁתַ֔יִךְ וּשְׁעָרַ֖יִךְ לְאַבְנֵ֣י אֶקְדָּ֑ח וְכׇל־גְּבוּלֵ֖ךְ לְאַבְנֵי־חֵֽפֶץ׃
+And I will make thy pinnacles of rubies, and thy gates of carbuncles, and all thy border of precious stones.
+Isaiah 54:13
+וְכׇל־בָּנַ֖יִךְ לִמּוּדֵ֣י יְהֹוָ֑ה וְרַ֖ב שְׁל֥וֹם בָּנָֽיִךְ׃
+And all thy children shall be taught of the LORD; and great shall be the peace of thy children.
+Isaiah 54:14
+בִּצְדָקָ֖ה תִּכּוֹנָ֑נִי רַחֲקִ֤י מֵעֹ֙שֶׁק֙ כִּי־לֹ֣א תִירָ֔אִי וּמִ֨מְּחִתָּ֔ה כִּ֥י לֹֽא־תִקְרַ֖ב אֵלָֽיִךְ׃
+In righteousness shalt thou be established; be thou far from oppression, for thou shalt not fear, And from ruin, for it shall not come near thee.
+Isaiah 54:15
+הֵ֣ן גּ֥וֹר יָג֛וּר אֶ֖פֶס מֵאוֹתִ֑י מִי־גָ֥ר אִתָּ֖ךְ עָלַ֥יִךְ יִפּֽוֹל׃
+Behold, they may gather together, but not by Me; Whosoever shall gather together against thee shall fall because of thee.
+Isaiah 54:16
+(הן)   [הִנֵּ֤ה]   אָנֹכִי֙ בָּרָ֣אתִי חָרָ֔שׁ נֹפֵ֙חַ֙ בְּאֵ֣שׁ פֶּחָ֔ם וּמוֹצִ֥יא כְלִ֖י לְמַעֲשֵׂ֑הוּ וְאָנֹכִ֛י בָּרָ֥אתִי מַשְׁחִ֖ית לְחַבֵּֽל׃
+Behold, I have created the smith That bloweth the fire of coals, And bringeth forth a weapon for his work; And I have created the waster to destroy.
+Isaiah 54:17
+כׇּל־כְּלִ֞י יוּצַ֤ר עָלַ֙יִךְ֙ לֹ֣א יִצְלָ֔ח וְכׇל־לָשׁ֛וֹן תָּקוּם־אִתָּ֥ךְ לַמִּשְׁפָּ֖ט תַּרְשִׁ֑יעִי זֹ֡את נַחֲלַת֩ עַבְדֵ֨י יְהֹוָ֧ה וְצִדְקָתָ֛ם מֵאִתִּ֖י נְאֻם־יְהֹוָֽה׃  {ס}
+No weapon that is formed against thee shall prosper; And every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, And their due reward from Me, saith the LORD.
+Isaiah 55:1
+ה֤וֹי כׇּל־צָמֵא֙ לְכ֣וּ לַמַּ֔יִם וַאֲשֶׁ֥ר אֵֽין־ל֖וֹ כָּ֑סֶף לְכ֤וּ שִׁבְרוּ֙ וֶאֱכֹ֔לוּ וּלְכ֣וּ שִׁבְר֗וּ בְּלוֹא־כֶ֛סֶף וּבְל֥וֹא מְחִ֖יר יַ֥יִן וְחָלָֽב׃
+Ho, every one that thirsteth, come ye for water, And he that hath no money; Come ye, buy, and eat; Yea, come, buy wine and milk Without money and without price.
+Isaiah 55:2
+לָ֤מָּה תִשְׁקְלוּ־כֶ֙סֶף֙ בְּלוֹא־לֶ֔חֶם וִיגִיעֲכֶ֖ם בְּל֣וֹא לְשׇׂבְעָ֑ה שִׁמְע֨וּ שָׁמ֤וֹעַ אֵלַי֙ וְאִכְלוּ־ט֔וֹב וְתִתְעַנַּ֥ג בַּדֶּ֖שֶׁן נַפְשְׁכֶֽם׃
+Wherefore do ye spend money for that which is not bread? And your gain for that which satisfieth not? Hearken diligently unto Me, and eat ye that which is good, And let your soul delight itself in fatness.
+Isaiah 55:3
+הַטּ֤וּ אׇזְנְכֶם֙ וּלְכ֣וּ אֵלַ֔י שִׁמְע֖וּ וּתְחִ֣י נַפְשְׁכֶ֑ם וְאֶכְרְתָ֤ה לָכֶם֙ בְּרִ֣ית עוֹלָ֔ם חַֽסְדֵ֥י דָוִ֖ד הַנֶּאֱמָנִֽים׃
+Incline your ear, and come unto Me; Hear, and your soul shall live; And I will make an everlasting covenant with you, Even the sure mercies of David.
+Isaiah 55:4
+הֵ֛ן עֵ֥ד לְאוּמִּ֖ים נְתַתִּ֑יו נָגִ֥יד וּמְצַוֵּ֖ה לְאֻמִּֽים׃
+Behold, I have given him for a witness to the peoples, A prince and commander to the peoples.
+Isaiah 55:5
+הֵ֣ן גּ֤וֹי לֹֽא־תֵדַע֙ תִּקְרָ֔א וְג֥וֹי לֹֽא־יְדָע֖וּךָ אֵלֶ֣יךָ יָר֑וּצוּ לְמַ֙עַן֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְלִקְד֥וֹשׁ יִשְׂרָאֵ֖ל כִּ֥י פֵאֲרָֽךְ׃  {ס}
+Behold, thou shalt call a nation that thou knowest not, And a nation that knew not thee shall run unto thee; Because of the LORD thy God, And for the Holy One of Israel, for He hath glorified thee.
+https://www.sefaria.org/Isaiah%2054
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Isaiah%2055
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Sephardic · ספרד
+Isaiah 54:1-54:10
+Isaiah 54:1
+רׇנִּ֥י עֲקָרָ֖ה לֹ֣א יָלָ֑דָה פִּצְחִ֨י רִנָּ֤ה וְצַֽהֲלִי֙ לֹא־חָ֔לָה כִּֽי־רַבִּ֧ים בְּֽנֵי־שׁוֹמֵמָ֛ה מִבְּנֵ֥י בְעוּלָ֖ה אָמַ֥ר יְהֹוָֽה׃
+Sing, O barren, thou that didst not bear, Break forth into singing, and cry aloud, thou that didst not travail; For more are the children of the desolate Than the children of the married wife, saith the LORD.
+Isaiah 54:2
+הַרְחִ֣יבִי  ׀  מְק֣וֹם אׇהֳלֵ֗ךְ וִירִיע֧וֹת מִשְׁכְּנוֹתַ֛יִךְ יַטּ֖וּ אַל־תַּחְשֹׂ֑כִי הַאֲרִ֙יכִי֙ מֵיתָרַ֔יִךְ וִיתֵדֹתַ֖יִךְ חַזֵּֽקִי׃
+Enlarge the place of thy tent, And let them stretch forth the curtains of thy habitations, spare not; Lengthen thy cords, and strengthen thy stakes.
+Isaiah 54:3
+כִּֽי־יָמִ֥ין וּשְׂמֹ֖אול תִּפְרֹ֑צִי וְזַרְעֵךְ֙ גּוֹיִ֣ם יִירָ֔שׁ וְעָרִ֥ים נְשַׁמּ֖וֹת יוֹשִֽׁיבוּ׃
+For thou shalt spread abroad on the right hand and on the left; And thy seed shall possess the nations, And make the desolate cities to be inhabited.
+Isaiah 54:4
+אַל־תִּֽירְאִי֙ כִּֽי־לֹ֣א תֵב֔וֹשִׁי וְאַל־תִּכָּלְמִ֖י כִּ֣י לֹ֣א תַחְפִּ֑ירִי כִּ֣י בֹ֤שֶׁת עֲלוּמַ֙יִךְ֙ תִּשְׁכָּ֔חִי וְחֶרְפַּ֥ת אַלְמְנוּתַ֖יִךְ לֹ֥א תִזְכְּרִי־עֽוֹד׃
+Fear not, for thou shalt not be ashamed. Neither be thou confounded, for thou shalt not be put to shame; For thou shalt forget the shame of thy youth, And the reproach of thy widowhood shalt thou remember no more.
+Isaiah 54:5
+כִּ֤י בֹעֲלַ֙יִךְ֙ עֹשַׂ֔יִךְ יְהֹוָ֥ה צְבָא֖וֹת שְׁמ֑וֹ וְגֹֽאֲלֵךְ֙ קְד֣וֹשׁ יִשְׂרָאֵ֔ל אֱלֹהֵ֥י כׇל־הָאָ֖רֶץ יִקָּרֵֽא׃
+For thy Maker is thy husband, The LORD of hosts is His name; And the Holy One of Israel is thy Redeemer, The God of the whole earth shall He be called.
+Isaiah 54:6
+כִּֽי־כְאִשָּׁ֧ה עֲזוּבָ֛ה וַעֲצ֥וּבַת ר֖וּחַ קְרָאָ֣ךְ יְהֹוָ֑ה וְאֵ֧שֶׁת נְעוּרִ֛ים כִּ֥י תִמָּאֵ֖ס אָמַ֥ר אֱלֹהָֽיִךְ׃
+For the LORD hath called thee As a wife forsaken and grieved in spirit; And a wife of youth, can she be rejected? Saith thy God.
+Isaiah 54:7
+בְּרֶ֥גַע קָטֹ֖ן עֲזַבְתִּ֑יךְ וּבְרַחֲמִ֥ים גְּדֹלִ֖ים אֲקַבְּצֵֽךְ׃
+For a small moment have I forsaken thee; But with great compassion will I gather thee.
+Isaiah 54:8
+בְּשֶׁ֣צֶף קֶ֗צֶף הִסְתַּ֨רְתִּי פָנַ֥י רֶ֙גַע֙ מִמֵּ֔ךְ וּבְחֶ֥סֶד עוֹלָ֖ם רִחַמְתִּ֑יךְ אָמַ֥ר גֹּאֲלֵ֖ךְ יְהֹוָֽה׃  {ס}
+In a little wrath I hid My face from thee for a moment; But with everlasting kindness will I have compassion on thee, Saith the LORD thy Redeemer.
+Isaiah 54:9
+כִּֽי־מֵ֥י נֹ֙חַ֙ זֹ֣את לִ֔י אֲשֶׁ֣ר נִשְׁבַּ֗עְתִּי מֵעֲבֹ֥ר מֵי־נֹ֛חַ ע֖וֹד עַל־הָאָ֑רֶץ כֵּ֥ן נִשְׁבַּ֛עְתִּי מִקְּצֹ֥ף עָלַ֖יִךְ וּמִגְּעׇר־בָּֽךְ׃
+For this is as the waters of Noah unto Me; for as I have sworn that the waters of Noah should no more go over the earth, so have I sworn that I would not be wroth with thee, nor rebuke thee.
+Isaiah 54:10
+כִּ֤י הֶהָרִים֙ יָמ֔וּשׁוּ וְהַגְּבָע֖וֹת תְּמוּטֶ֑ינָה וְחַסְדִּ֞י מֵאִתֵּ֣ךְ לֹא־יָמ֗וּשׁ וּבְרִ֤ית שְׁלוֹמִי֙ לֹ֣א תָמ֔וּט אָמַ֥ר מְרַחֲמֵ֖ךְ יְהֹוָֽה׃  {ס}
+For the mountains may depart, and the hills be removed; but My kindness shall not depart from thee, neither shall My covenant of peace be removed, saith the LORD that hath compassion on thee.
+https://www.sefaria.org/Isaiah%2054
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

@@ -1,0 +1,144 @@
+Haftarah · Shoftim
+הפטרה · שופטים
+
+What must change when fear has become a people’s habitual posture? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מה צריך להשתנות כאשר הפחד נעשה תנוחת חייו של עם? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What must change when fear has become a people’s habitual posture?
+מה צריך להשתנות כאשר הפחד נעשה תנוחת חייו של עם?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Isaiah 51:12
+The consoling voice asks why mortal oppressors command such fear. The question reorders perception rather than denying the reality of suffering. Its target is the conversion of a human threat into the final horizon of existence.
+הקול המנחם שואל מדוע המדכא בן התמותה מעורר פחד כזה. השאלה מסדרת מחדש את הראייה ואינה מכחישה סבל. היא מכוונת להפיכת איום אנושי לאופק האחרון של החיים.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Isaiah 52:7
+The messenger’s feet are beautiful because they bring peace, good news, and salvation. The watchmen then raise their voices together. Restoration is mediated through public communication; it becomes recognizable as people learn to hear one another’s announcement.
+רגלי המבשר נאות בשל השלום, הטוב והישועה שהן מביאות. הצופים מרימים אחר כך קול יחד. השיקום עובר דרך הודעה ציבורית ונעשה ניכר כאשר אנשים לומדים לשמוע את הבשורה.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Isaiah 52:12
+Departure without panic reverses the posture of flight. God is described as both leading and gathering behind. The ending asks what a protected transition looks like when people no longer have to carry the whole burden of securing every direction themselves.
+יציאה שלא בחיפזון הופכת את תנוחת המנוסה. האל מתואר כמוליך וכמאסף. הסיום מציג מעבר מוגן שבו אין הציבור נושא לבדו את כל משא האבטחה מכל צד.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Isaiah 51:12-52:12
+Isaiah 51:12
+אָנֹכִ֧י אָנֹכִ֛י ה֖וּא מְנַחֶמְכֶ֑ם מִי־אַ֤תְּ וַתִּֽירְאִי֙ מֵאֱנ֣וֹשׁ יָמ֔וּת וּמִבֶּן־אָדָ֖ם חָצִ֥יר יִנָּתֵֽן׃
+I, even I, am He that comforteth you: Who art thou, that thou art afraid of man that shall die, And of the son of man that shall be made as grass;
+Isaiah 51:13
+וַתִּשְׁכַּ֞ח יְהֹוָ֣ה עֹשֶׂ֗ךָ נוֹטֶ֣ה שָׁמַ֘יִם֮ וְיֹסֵ֣ד אָ֒רֶץ֒ וַתְּפַחֵ֨ד תָּמִ֜יד כׇּל־הַיּ֗וֹם מִפְּנֵי֙ חֲמַ֣ת הַמֵּצִ֔יק כַּאֲשֶׁ֥ר כּוֹנֵ֖ן לְהַשְׁחִ֑ית וְאַיֵּ֖ה חֲמַ֥ת הַמֵּצִֽיק׃
+And hast forgotten the LORD thy Maker, That stretched forth the heavens, And laid the foundations of the earth; And fearest continually all the day Because of the fury of the oppressor, As he maketh ready to destroy? And where is the fury of the oppressor?
+Isaiah 51:14
+מִהַ֥ר צֹעֶ֖ה לְהִפָּתֵ֑חַ וְלֹא־יָמ֣וּת לַשַּׁ֔חַת וְלֹ֥א יֶחְסַ֖ר לַחְמֽוֹ׃
+He that is bent down shall speedily be loosed; And he shall not go down dying into the pit, Neither shall his bread fail.
+Isaiah 51:15
+וְאָֽנֹכִי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ רֹגַ֣ע הַיָּ֔ם וַיֶּהֱמ֖וּ גַּלָּ֑יו יְהֹוָ֥ה צְבָא֖וֹת שְׁמֽוֹ׃
+For I am the LORD thy God, Who stirreth up the sea, that the waves thereof roar; The LORD of hosts is His name.
+Isaiah 51:16
+וָאָשִׂ֤ם דְּבָרַי֙ בְּפִ֔יךָ וּבְצֵ֥ל יָדִ֖י כִּסִּיתִ֑יךָ לִנְטֹ֤עַ שָׁמַ֙יִם֙ וְלִיסֹ֣ד אָ֔רֶץ וְלֵאמֹ֥ר לְצִיּ֖וֹן עַמִּי־אָֽתָּה׃  {ס}
+And I have put My words in thy mouth, And have covered thee in the shadow of My hand, That I may plant the heavens, And lay the foundations of the earth, And say unto Zion: ‘Thou art My people.’
+Isaiah 51:17
+הִתְעוֹרְרִ֣י הִֽתְעוֹרְרִ֗י ק֚וּמִי יְר֣וּשָׁלַ֔͏ִם אֲשֶׁ֥ר שָׁתִ֛ית מִיַּ֥ד יְהֹוָ֖ה אֶת־כּ֣וֹס חֲמָת֑וֹ אֶת־קֻבַּ֜עַת כּ֧וֹס הַתַּרְעֵלָ֛ה שָׁתִ֖ית מָצִֽית׃
+Awake, awake, Stand up, O Jerusalem, That hast drunk at the hand of the LORD The cup of His fury; Thou hast drunken the beaker, even the cup of staggering, And drained it.
+Isaiah 51:18
+אֵין־מְנַהֵ֣ל לָ֔הּ מִכׇּל־בָּנִ֖ים יָלָ֑דָה וְאֵ֤ין מַחֲזִיק֙ בְּיָדָ֔הּ מִכׇּל־בָּנִ֖ים גִּדֵּֽלָה׃
+There is none to guide her Among all the sons whom she hath brought forth; Neither is there any that taketh her by the hand Of all the sons that she hath brought up.
+Isaiah 51:19
+שְׁתַּ֤יִם הֵ֙נָּה֙ קֹרְאֹתַ֔יִךְ מִ֖י יָנ֣וּד לָ֑ךְ הַשֹּׁ֧ד וְהַשֶּׁ֛בֶר וְהָרָעָ֥ב וְהַחֶ֖רֶב מִ֥י אֲנַחֲמֵֽךְ׃
+These two things are befallen thee; Who shall bemoan thee? Desolation and destruction, And the famine and the sword; How shall I comfort thee?
+Isaiah 51:20
+בָּנַ֜יִךְ עֻלְּפ֥וּ שָׁכְב֛וּ בְּרֹ֥אשׁ כׇּל־חוּצ֖וֹת כְּת֣וֹא מִכְמָ֑ר הַֽמְלֵאִ֥ים חֲמַת־יְהֹוָ֖ה גַּעֲרַ֥ת אֱלֹהָֽיִךְ׃
+Thy sons have fainted, they lie at the head of all the streets, As an antelope in a net; They are full of the fury of the LORD, The rebuke of thy God.
+Isaiah 51:21
+לָכֵ֛ן שִׁמְעִי־נָ֥א זֹ֖את עֲנִיָּ֑ה וּשְׁכֻרַ֖ת וְלֹ֥א מִיָּֽיִן׃  {פ}
+Therefore hear now this, thou afflicted, And drunken, but not with wine;
+Isaiah 51:22
+כֹּה־אָמַ֞ר אֲדֹנַ֣יִךְ יְהֹוָ֗ה וֵאלֹהַ֙יִךְ֙ יָרִ֣יב עַמּ֔וֹ הִנֵּ֥ה לָקַ֛חְתִּי מִיָּדֵ֖ךְ אֶת־כּ֣וֹס הַתַּרְעֵלָ֑ה אֶת־קֻבַּ֙עַת֙ כּ֣וֹס חֲמָתִ֔י לֹא־תוֹסִ֥יפִי לִשְׁתּוֹתָ֖הּ עֽוֹד׃
+Thus saith thy Lord the LORD, And thy God that pleadeth the cause of His people: Behold, I have taken out of thy hand The cup of staggering; The beaker, even the cup of My fury, Thou shalt no more drink it again;
+Isaiah 51:23
+וְשַׂמְתִּ֙יהָ֙ בְּיַד־מוֹגַ֔יִךְ אֲשֶׁר־אָמְר֥וּ לְנַפְשֵׁ֖ךְ שְׁחִ֣י וְנַעֲבֹ֑רָה וַתָּשִׂ֤ימִי כָאָ֙רֶץ֙ גֵּוֵ֔ךְ וְכַח֖וּץ לַעֹבְרִֽים׃  {פ}
+And I will put it into the hand of them that afflict thee; That have said to thy soul: ‘Bow down, that we may go over’; And thou hast laid thy back as the ground, And as the street, to them that go over.
+Isaiah 52:1
+עוּרִ֥י עוּרִ֛י לִבְשִׁ֥י עֻזֵּ֖ךְ צִיּ֑וֹן לִבְשִׁ֣י  ׀  בִּגְדֵ֣י תִפְאַרְתֵּ֗ךְ יְרוּשָׁלַ֙͏ִם֙ עִ֣יר הַקֹּ֔דֶשׁ כִּ֣י לֹ֥א יוֹסִ֛יף יָבֹא־בָ֥ךְ ע֖וֹד עָרֵ֥ל וְטָמֵֽא׃
+Awake, awake, Put on thy strength, O Zion; Put on thy beautiful garments, O Jerusalem, the holy city; For henceforth there shall no more come into thee The uncircumcised and the unclean.
+Isaiah 52:2
+הִתְנַעֲרִ֧י מֵעָפָ֛ר ק֥וּמִי שְּׁבִ֖י יְרוּשָׁלָ֑͏ִם   (התפתחו)   [הִֽתְפַּתְּחִי֙]   מוֹסְרֵ֣י צַוָּארֵ֔ךְ שְׁבִיָּ֖ה בַּת־צִיּֽוֹן׃  {ס}
+Shake thyself from the dust; Arise, and sit down, O Jerusalem; Loose thyself from the bands of thy neck, O captive daughter of Zion.
+Isaiah 52:3
+כִּי־כֹה֙ אָמַ֣ר יְהֹוָ֔ה חִנָּ֖ם נִמְכַּרְתֶּ֑ם וְלֹ֥א בְכֶ֖סֶף תִּגָּאֵֽלוּ׃  {ס}
+For thus saith the LORD: Ye were sold for nought; And ye shall be redeemed without money.
+Isaiah 52:4
+כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣י יֱהֹוִ֔ה מִצְרַ֛יִם יָֽרַד־עַמִּ֥י בָרִֽאשֹׁנָ֖ה לָג֣וּר שָׁ֑ם וְאַשּׁ֖וּר בְּאֶ֥פֶס עֲשָׁקֽוֹ׃
+For thus saith the Lord GOD: My people went down aforetime into Egypt to sojourn there; And the Assyrian oppressed them without cause.
+Isaiah 52:5
+וְעַתָּ֤ה מַה־לִּי־פֹה֙ נְאֻם־יְהֹוָ֔ה כִּֽי־לֻקַּ֥ח עַמִּ֖י חִנָּ֑ם מֹשְׁלָ֤ו יְהֵילִ֙ילוּ֙ נְאֻם־יְהֹוָ֔ה וְתָמִ֥יד כׇּל־הַיּ֖וֹם שְׁמִ֥י מִנֹּאָֽץ׃
+Now therefore, what do I here, saith the LORD, Seeing that My people is taken away for nought? They that rule over them do howl, saith the LORD, And My name continually all the day is blasphemed.
+Isaiah 52:6
+לָכֵ֛ן יֵדַ֥ע עַמִּ֖י שְׁמִ֑י לָכֵן֙ בַּיּ֣וֹם הַה֔וּא כִּֽי־אֲנִי־ה֥וּא הַֽמְדַבֵּ֖ר הִנֵּֽנִי׃  {ס}
+Therefore My people shall know My name; Therefore they shall know in that day That I, even He that spoke, behold, here I am.
+Isaiah 52:7
+מַה־נָּאו֨וּ עַל־הֶהָרִ֜ים רַגְלֵ֣י מְבַשֵּׂ֗ר מַשְׁמִ֧יעַ שָׁל֛וֹם מְבַשֵּׂ֥ר ט֖וֹב מַשְׁמִ֣יעַ יְשׁוּעָ֑ה אֹמֵ֥ר לְצִיּ֖וֹן מָלַ֥ךְ אֱלֹהָֽיִךְ׃
+How beautiful upon the mountains Are the feet of the messenger of good tidings, That announceth peace, the harbinger of good tidings, That announceth salvation; That saith unto Zion: ‘Thy God reigneth! ’
+Isaiah 52:8
+ק֥וֹל צֹפַ֛יִךְ נָ֥שְׂאוּ ק֖וֹל יַחְדָּ֣ו יְרַנֵּ֑נוּ כִּ֣י עַ֤יִן בְּעַ֙יִן֙ יִרְא֔וּ בְּשׁ֥וּב יְהֹוָ֖ה צִיּֽוֹן׃
+Hark, thy watchmen! they lift up the voice, Together do they sing; For they shall see, eye to eye, The LORD returning to Zion.
+Isaiah 52:9
+פִּצְח֤וּ רַנְּנוּ֙ יַחְדָּ֔ו חׇרְב֖וֹת יְרוּשָׁלָ֑͏ִם כִּֽי־נִחַ֤ם יְהֹוָה֙ עַמּ֔וֹ גָּאַ֖ל יְרוּשָׁלָֽ͏ִם׃
+Break forth into joy, sing together, Ye waste places of Jerusalem; For the LORD hath comforted His people, He hath redeemed Jerusalem.
+Isaiah 52:10
+חָשַׂ֤ף יְהֹוָה֙ אֶת־זְר֣וֹעַ קׇדְשׁ֔וֹ לְעֵינֵ֖י כׇּל־הַגּוֹיִ֑ם וְרָאוּ֙ כׇּל־אַפְסֵי־אָ֔רֶץ אֵ֖ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃  {ס}
+The LORD hath made bare His holy arm In the eyes of all the nations; And all the ends of the earth shall see The salvation of our God.
+Isaiah 52:11
+ס֤וּרוּ ס֙וּרוּ֙ צְא֣וּ מִשָּׁ֔ם טָמֵ֖א אַל־תִּגָּ֑עוּ צְא֣וּ מִתּוֹכָ֔הּ הִבָּ֕רוּ נֹשְׂאֵ֖י כְּלֵ֥י יְהֹוָֽה׃
+Depart ye, depart ye, go ye out from thence, Touch no unclean thing; Go ye out of the midst of her; be ye clean, Ye that bear the vessels of the LORD.
+Isaiah 52:12
+כִּ֣י לֹ֤א בְחִפָּזוֹן֙ תֵּצֵ֔אוּ וּבִמְנוּסָ֖ה לֹ֣א תֵלֵכ֑וּן כִּֽי־הֹלֵ֤ךְ לִפְנֵיכֶם֙ יְהֹוָ֔ה וּמְאַסִּפְכֶ֖ם אֱלֹהֵ֥י יִשְׂרָאֵֽל׃  {ס}
+For ye shall not go out in haste, Neither shall ye go by flight; For the LORD will go before you, And the God of Israel will be your rearward.
+https://www.sefaria.org/Isaiah%2051
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Isaiah%2052
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

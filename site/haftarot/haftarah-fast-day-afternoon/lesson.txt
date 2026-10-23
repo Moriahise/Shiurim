@@ -1,0 +1,120 @@
+Haftarah · Fast Day (Afternoon)
+הפטרה · מנחת תענית
+
+How does return open a house to those who fear exclusion? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד פותחת השיבה בית למי שחושש מהדרה? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does return open a house to those who fear exclusion?
+כיצד פותחת השיבה בית למי שחושש מהדרה?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Isaiah 55:6
+Seeking God is paired with abandoning a harmful way. The invitation joins nearness to change, rather than treating them as separate alternatives. Repentance includes a changed direction and the possibility of receiving mercy.
+דרישת האל מוצמדת לעזיבת הדרך המזיקה. ההזמנה מחברת קרבה לשינוי ולא מציבה אותם כחלופות. התשובה כוללת כיוון אחר ואפשרות לקבל רחמים.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Isaiah 56:3
+The foreigner and the eunuch voice fears of separation and fruitlessness. Their concerns receive direct attention within the promise. Read inclusion through the specific commitments named in the passage rather than reducing it to an undefined welcoming sentiment.
+הנכרי והסריס משמיעים פחד מפרידה ומחוסר המשכיות. הדאגות מקבלות תשובה ישירה בהבטחה. יש לקרוא את ההכללה דרך המחויבויות שבכתוב ולא לצמצמה לתחושת קבלת פנים בלתי מוגדרת.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Isaiah 56:8
+The gathering of others extends the promise beyond those already assembled. This nominal Vayeilech reading is not always used: Shabbat Shuva can replace it. The calendar-specific Shuva entries prevent the catalogue assignment from being mistaken for every year’s actual reading.
+קיבוץ הנוספים מרחיב את ההבטחה מעבר לנאספים. קריאת וילך הרגילה אינה נקראת בכל שנה: שבת שובה עשויה להחליפה. רשומות שובה מונעות בלבול בין הקטלוג לבין הקריאה בפועל בשנה מסוימת.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Isaiah 55:6-56:8
+Isaiah 55:6
+דִּרְשׁ֥וּ יְהֹוָ֖ה בְּהִמָּֽצְא֑וֹ קְרָאֻ֖הוּ בִּֽהְיוֹת֥וֹ קָרֽוֹב׃
+Seek ye the LORD while He may be found, Call ye upon Him while He is near;
+Isaiah 55:7
+יַעֲזֹ֤ב רָשָׁע֙ דַּרְכּ֔וֹ וְאִ֥ישׁ אָ֖וֶן מַחְשְׁבֹתָ֑יו וְיָשֹׁ֤ב אֶל־יְהֹוָה֙ וִֽירַחֲמֵ֔הוּ וְאֶל־אֱלֹהֵ֖ינוּ כִּֽי־יַרְבֶּ֥ה לִסְלֽוֹחַ׃
+Let the wicked forsake his way, And the man of iniquity his thoughts; And let him return unto the LORD, and He will have compassion upon him, And to our God, for He will abundantly pardon
+Isaiah 55:8
+כִּ֣י לֹ֤א מַחְשְׁבוֹתַי֙ מַחְשְׁב֣וֹתֵיכֶ֔ם וְלֹ֥א דַרְכֵיכֶ֖ם דְּרָכָ֑י נְאֻ֖ם יְהֹוָֽה׃
+For My thoughts are not your thoughts, Neither are your ways My ways, saith the LORD.
+Isaiah 55:9
+כִּֽי־גָבְה֥וּ שָׁמַ֖יִם מֵאָ֑רֶץ כֵּ֣ן גָּבְה֤וּ דְרָכַי֙ מִדַּרְכֵיכֶ֔ם וּמַחְשְׁבֹתַ֖י מִמַּחְשְׁבֹֽתֵיכֶֽם׃
+For as the heavens are higher than the earth, So are My ways higher than your ways, And My thoughts than your thoughts.
+Isaiah 55:10
+כִּ֡י כַּאֲשֶׁ֣ר יֵרֵד֩ הַגֶּ֨שֶׁם וְהַשֶּׁ֜לֶג מִן־הַשָּׁמַ֗יִם וְשָׁ֙מָּה֙ לֹ֣א יָשׁ֔וּב כִּ֚י אִם־הִרְוָ֣ה אֶת־הָאָ֔רֶץ וְהוֹלִידָ֖הּ וְהִצְמִיחָ֑הּ וְנָ֤תַן זֶ֙רַע֙ לַזֹּרֵ֔עַ וְלֶ֖חֶם לָאֹכֵֽל׃
+For as the rain cometh down and the snow from heaven, And returneth not thither, Except it water the earth, And make it bring forth and bud, And give seed to the sower and bread to the eater;
+Isaiah 55:11
+כֵּ֣ן יִהְיֶ֤ה דְבָרִי֙ אֲשֶׁ֣ר יֵצֵ֣א מִפִּ֔י לֹא־יָשׁ֥וּב אֵלַ֖י רֵיקָ֑ם כִּ֤י אִם־עָשָׂה֙ אֶת־אֲשֶׁ֣ר חָפַ֔צְתִּי וְהִצְלִ֖יחַ אֲשֶׁ֥ר שְׁלַחְתִּֽיו׃
+So shall My word be that goeth forth out of My mouth: It shall not return unto Me void, Except it accomplish that which I please, And make the thing whereto I sent it prosper.
+Isaiah 55:12
+כִּֽי־בְשִׂמְחָ֣ה תֵצֵ֔אוּ וּבְשָׁל֖וֹם תּוּבָל֑וּן הֶהָרִ֣ים וְהַגְּבָע֗וֹת יִפְצְח֤וּ לִפְנֵיכֶם֙ רִנָּ֔ה וְכׇל־עֲצֵ֥י הַשָּׂדֶ֖ה יִמְחֲאוּ־כָֽף׃
+For ye shall go out with joy, And be led forth with peace; The mountains and the hills shall break forth before you into singing, And all the trees of the field shall clap their hands.
+Isaiah 55:13
+תַּ֤חַת הַֽנַּעֲצוּץ֙ יַעֲלֶ֣ה בְר֔וֹשׁ   (תחת)   [וְתַ֥חַת]   הַסִּרְפַּ֖ד יַעֲלֶ֣ה הֲדַ֑ס וְהָיָ֤ה לַֽיהֹוָה֙ לְשֵׁ֔ם לְא֥וֹת עוֹלָ֖ם לֹ֥א יִכָּרֵֽת׃  {פ}
+Instead of the thorn shall come up the cypress, And instead of the brier shall come up the myrtle; And it shall be to the LORD for a memorial, For an everlasting sign that shall not be cut off.
+Isaiah 56:1
+כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה שִׁמְר֥וּ מִשְׁפָּ֖ט וַעֲשׂ֣וּ צְדָקָ֑ה כִּֽי־קְרוֹבָ֤ה יְשׁוּעָתִי֙ לָב֔וֹא וְצִדְקָתִ֖י לְהִגָּלֽוֹת׃
+Thus saith the LORD: Keep ye justice, and do righteousness; For My salvation is near to come, And My favour to be revealed.
+Isaiah 56:2
+אַשְׁרֵ֤י אֱנוֹשׁ֙ יַֽעֲשֶׂה־זֹּ֔את וּבֶן־אָדָ֖ם יַחֲזִ֣יק בָּ֑הּ שֹׁמֵ֤ר שַׁבָּת֙ מֵֽחַלְּל֔וֹ וְשֹׁמֵ֥ר יָד֖וֹ מֵעֲשׂ֥וֹת כׇּל־רָֽע׃  {ס}
+Happy is the man that doeth this, And the son of man that holdeth fast by it: That keepeth the sabbath from profaning it, And keepeth his hand from doing any evil.
+Isaiah 56:3
+וְאַל־יֹאמַ֣ר בֶּן־הַנֵּכָ֗ר הַנִּלְוָ֤ה אֶל־יְהֹוָה֙ לֵאמֹ֔ר הַבְדֵּ֧ל יַבְדִּילַ֛נִי יְהֹוָ֖ה מֵעַ֣ל עַמּ֑וֹ וְאַל־יֹאמַר֙ הַסָּרִ֔יס הֵ֥ן אֲנִ֖י עֵ֥ץ יָבֵֽשׁ׃  {פ}
+Neither let the alien, That hath joined himself to the LORD, speak, saying: ‘The LORD will surely separate me from His people’; Neither let the eunuch say: ‘Behold, I am a dry tree.’
+Isaiah 56:4
+כִּי־כֹ֣ה  ׀  אָמַ֣ר יְהֹוָ֗ה לַסָּֽרִיסִים֙ אֲשֶׁ֤ר יִשְׁמְרוּ֙ אֶת־שַׁבְּתוֹתַ֔י וּבָחֲר֖וּ בַּאֲשֶׁ֣ר חָפָ֑צְתִּי וּמַחֲזִיקִ֖ים בִּבְרִיתִֽי׃
+For thus saith the LORD Concerning the eunuchs that keep My sabbaths, And choose the things that please Me, And hold fast by My covenant:
+Isaiah 56:5
+וְנָתַתִּ֨י לָהֶ֜ם בְּבֵיתִ֤י וּבְחֽוֹמֹתַי֙ יָ֣ד וָשֵׁ֔ם ט֖וֹב מִבָּנִ֣ים וּמִבָּנ֑וֹת שֵׁ֤ם עוֹלָם֙ אֶתֶּן־ל֔וֹ אֲשֶׁ֖ר לֹ֥א יִכָּרֵֽת׃  {ס}
+Even unto them will I give in My house And within My walls a monument and a memorial Better than sons and daughters; I will give them an everlasting memorial, That shall not be cut off.
+Isaiah 56:6
+וּבְנֵ֣י הַנֵּכָ֗ר הַנִּלְוִ֤ים עַל־יְהֹוָה֙ לְשָׁ֣רְת֔וֹ וּֽלְאַהֲבָה֙ אֶת־שֵׁ֣ם יְהֹוָ֔ה לִֽהְי֥וֹת ל֖וֹ לַעֲבָדִ֑ים כׇּל־שֹׁמֵ֤ר שַׁבָּת֙ מֵֽחַלְּל֔וֹ וּמַחֲזִיקִ֖ים בִּבְרִיתִֽי׃
+Also the aliens, that join themselves to the LORD, to minister unto Him, And to love the name of the LORD, To be His servants, Every one that keepeth the sabbath from profaning it, And holdeth fast by My covenant:
+Isaiah 56:7
+וַהֲבִיאוֹתִ֞ים אֶל־הַ֣ר קׇדְשִׁ֗י וְשִׂמַּחְתִּים֙ בְּבֵ֣ית תְּפִלָּתִ֔י עוֹלֹתֵיהֶ֧ם וְזִבְחֵיהֶ֛ם לְרָצ֖וֹן עַֽל־מִזְבְּחִ֑י כִּ֣י בֵיתִ֔י בֵּית־תְּפִלָּ֥ה יִקָּרֵ֖א לְכׇל־הָעַמִּֽים׃
+Even them will I bring to My holy mountain, And make them joyful in My house of prayer; Their burnt-offerings and their sacrifices Shall be acceptable upon Mine altar; For My house shall be called A house of prayer for all peoples.
+Isaiah 56:8
+נְאֻם֙ אֲדֹנָ֣י יֱהֹוִ֔ה מְקַבֵּ֖ץ נִדְחֵ֣י יִשְׂרָאֵ֑ל ע֛וֹד אֲקַבֵּ֥ץ עָלָ֖יו לְנִקְבָּצָֽיו׃
+Saith the Lord GOD who gathereth the dispersed of Israel: Yet I will gather others to him, beside those of him that are gathered.
+https://www.sefaria.org/Isaiah%2055
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Isaiah%2056
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

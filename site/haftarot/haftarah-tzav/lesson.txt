@@ -1,0 +1,179 @@
+Haftarah · Tzav
+הפטרה · צו
+
+Why can correct ritual coexist with a failure to listen? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מדוע יכול טקס תקין לדור בצד כישלון ההקשבה? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+Why can correct ritual coexist with a failure to listen?
+מדוע יכול טקס תקין לדור בצד כישלון ההקשבה?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Jeremiah 7:21
+The startling command to add offerings to sacrifices challenges worship emptied of obedience. The argument is directed at a people using ritual to avoid the covenant’s demands. Read the provocation within the speech rather than treating it as an isolated abolition of sacrificial law.
+הקריאה המפתיעה להוסיף עולות על זבחים מערערת עבודה שהתרוקנה מציות. היא פונה לעם המשתמש בטקס כדי להתחמק מדרישות הברית. יש לקרוא את ההתרסה בתוך הנאום ולא כביטול מבודד של דיני הקרבנות.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Jeremiah 7:28
+The people are described as failing to hear and accept correction. The issue is not lack of religious speech but the loss of truth within it. Ask how repeated public worship might either strengthen receptiveness or become a shield against uncomfortable instruction.
+העם מתואר כמי שאינו שומע ואינו מקבל מוסר. הבעיה אינה היעדר דיבור דתי אלא אובדן האמת בתוכו. עבודה ציבורית חוזרת יכולה לטפח הקשבה, אך גם לשמש מגן מפני הוראה שאינה נוחה.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Jeremiah 9:23
+The appended conclusion relocates boasting from wisdom, power, and wealth to knowing God through kindness, justice, and righteousness. The liturgical jump from chapter 8 to chapter 9 is preserved. Chabad’s shorter middle section is identified separately in the source sheet.
+החתימה המצורפת מעבירה את ההתפארות מחכמה, גבורה ועושר לידיעת האל דרך חסד, משפט וצדקה. הדילוג הליטורגי מפרק ח׳ לפרק ט׳ נשמר. הקטע האמצעי הקצר של חב״ד מסומן בנפרד בדף המקורות.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Jeremiah 7:21-8:3
+Jeremiah 7:21
+כֹּ֥ה אָמַ֛ר יְהֹוָ֥ה צְבָא֖וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל עֹלוֹתֵיכֶ֛ם סְפ֥וּ עַל־זִבְחֵיכֶ֖ם וְאִכְל֥וּ בָשָֽׂר׃
+Thus saith the LORD of hosts, the God of Israel: Add your burnt-offerings unto your sacrifices, and eat ye flesh.
+Jeremiah 7:22
+כִּ֠י לֹֽא־דִבַּ֤רְתִּי אֶת־אֲבֽוֹתֵיכֶם֙ וְלֹ֣א צִוִּיתִ֔ים בְּי֛וֹם   (הוציא)   [הוֹצִיאִ֥י]   אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם עַל־דִּבְרֵ֥י עוֹלָ֖ה וָזָֽבַח׃
+For I spoke not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt-offerings or sacrifices;
+Jeremiah 7:23
+כִּ֣י אִֽם־אֶת־הַדָּבָ֣ר הַ֠זֶּ֠ה צִוִּ֨יתִי אוֹתָ֤ם לֵאמֹר֙ שִׁמְע֣וּ בְקוֹלִ֔י וְהָיִ֤יתִי לָכֶם֙ לֵֽאלֹהִ֔ים וְאַתֶּ֖ם תִּֽהְיוּ־לִ֣י לְעָ֑ם וַהֲלַכְתֶּ֗ם בְּכׇל־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אֲצַוֶּ֣ה אֶתְכֶ֔ם לְמַ֖עַן יִיטַ֥ב לָכֶֽם׃
+but this thing I commanded them, saying: ‘Hearken unto My voice, and I will be your God, and ye shall be My people; and walk ye in all the way that I command you, that it may be well with you.’
+Jeremiah 7:24
+וְלֹ֤א שָֽׁמְעוּ֙ וְלֹא־הִטּ֣וּ אֶת־אׇזְנָ֔ם וַיֵּֽלְכוּ֙ בְּמֹ֣עֵצ֔וֹת בִּשְׁרִר֖וּת לִבָּ֣ם הָרָ֑ע וַיִּהְי֥וּ לְאָח֖וֹר וְלֹ֥א לְפָנִֽים׃
+But they hearkened not, nor inclined their ear, but walked in their own counsels, even in the stubbornness of their evil heart, and went backward and not forward,
+Jeremiah 7:25
+לְמִן־הַיּ֗וֹם אֲשֶׁ֨ר יָצְא֤וּ אֲבֽוֹתֵיכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וָאֶשְׁלַ֤ח אֲלֵיכֶם֙ אֶת־כׇּל־עֲבָדַ֣י הַנְּבִיאִ֔ים י֖וֹם הַשְׁכֵּ֥ם וְשָׁלֹֽחַ׃
+even since the day that your fathers came forth out of the land of Egypt unto this day; and though I have sent unto you all My servants the prophets, sending them daily betimes and often,
+Jeremiah 7:26
+וְל֤וֹא שָֽׁמְעוּ֙ אֵלַ֔י וְלֹ֥א הִטּ֖וּ אֶת־אׇזְנָ֑ם וַיַּקְשׁוּ֙ אֶת־עׇרְפָּ֔ם הֵרֵ֖עוּ מֵאֲבוֹתָֽם׃
+yet they hearkened not unto Me, nor inclined their ear, but made their neck stiff; they did worse than their fathers.
+Jeremiah 7:27
+וְדִבַּרְתָּ֤ אֲלֵיהֶם֙ אֶת־כׇּל־הַדְּבָרִ֣ים הָאֵ֔לֶּה וְלֹ֥א יִשְׁמְע֖וּ אֵלֶ֑יךָ וְקָרָ֥אתָ אֲלֵיהֶ֖ם וְלֹ֥א יַעֲנֽוּכָה׃
+And thou shalt speak all these words unto them, but they will not hearken to thee; thou shalt also call unto them, but they will not answer thee.
+Jeremiah 7:28
+וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם זֶ֤ה הַגּוֹי֙ אֲשֶׁ֣ר לֽוֹא־שָׁמְע֗וּ בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהָ֔יו וְלֹ֥א לָקְח֖וּ מוּסָ֑ר אָֽבְדָה֙ הָאֱמוּנָ֔ה וְנִכְרְתָ֖ה מִפִּיהֶֽם׃  {ס}
+Therefore thou shalt say unto them: This is the nation that hath not hearkened To the voice of the LORD their God, Nor received correction; Faithfulness is perished, And is cut off from their mouth.
+Jeremiah 7:29
+גׇּזִּ֤י נִזְרֵךְ֙ וְֽהַשְׁלִ֔יכִי וּשְׂאִ֥י עַל־שְׁפָיִ֖ם קִינָ֑ה כִּ֚י מָאַ֣ס יְהֹוָ֔ה וַיִּטֹּ֖שׁ אֶת־דּ֥וֹר עֶבְרָתֽוֹ׃
+Cut off thy hair, and cast it away, And take up a lamentation on the high hills; For the LORD hath rejected and forsaken the generation of His wrath.
+Jeremiah 7:30
+כִּי־עָשׂ֨וּ בְנֵי־יְהוּדָ֥ה הָרַ֛ע בְּעֵינַ֖י נְאֻם־יְהֹוָ֑ה שָׂ֣מוּ שִׁקּוּצֵיהֶ֗ם בַּבַּ֛יִת אֲשֶׁר־נִקְרָֽא־שְׁמִ֥י עָלָ֖יו לְטַמְּאֽוֹ׃
+For the children of Judah have done that which is evil in My sight, saith the LORD; they have set their detestable things in the house whereon My name is called, to defile it.
+Jeremiah 7:31
+וּבָנ֞וּ בָּמ֣וֹת הַתֹּ֗פֶת אֲשֶׁר֙ בְּגֵ֣יא בֶן־הִנֹּ֔ם לִשְׂרֹ֛ף אֶת־בְּנֵיהֶ֥ם וְאֶת־בְּנֹתֵיהֶ֖ם בָּאֵ֑שׁ אֲשֶׁר֙ לֹ֣א צִוִּ֔יתִי וְלֹ֥א עָלְתָ֖ה עַל־לִבִּֽי׃  {פ}
+And they have built the high places of Topheth, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded not, neither came it into My mind.
+Jeremiah 7:32
+לָכֵ֞ן הִנֵּֽה־יָמִ֤ים בָּאִים֙ נְאֻם־יְהֹוָ֔ה וְלֹא־יֵאָמֵ֨ר ע֤וֹד הַתֹּ֙פֶת֙ וְגֵ֣יא בֶן־הִנֹּ֔ם כִּ֖י אִם־גֵּ֣יא הַהֲרֵגָ֑ה וְקָבְר֥וּ בְתֹ֖פֶת מֵאֵ֥ין מָקֽוֹם׃
+Therefore, behold, the days come, saith the LORD, that it shall no more be called Topheth, nor The valley of the son of Hinnom, but The valley of slaughter; for they shall bury in Topheth, for lack of room.
+Jeremiah 7:33
+וְֽהָ֨יְתָ֜ה נִבְלַ֨ת הָעָ֤ם הַזֶּה֙ לְמַֽאֲכָ֔ל לְע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֣ת הָאָ֑רֶץ וְאֵ֖ין מַחֲרִֽיד׃
+And the carcasses of this people shall be food for the fowls of the heaven, and for the beasts of the earth; and none shall frighten them away.
+Jeremiah 7:34
+וְהִשְׁבַּתִּ֣י  ׀  מֵעָרֵ֣י יְהוּדָ֗ה וּמֵֽחֻצוֹת֙ יְר֣וּשָׁלַ֔͏ִם ק֤וֹל שָׂשׂוֹן֙ וְק֣וֹל שִׂמְחָ֔ה ק֥וֹל חָתָ֖ן וְק֣וֹל כַּלָּ֑ה כִּ֥י לְחׇרְבָּ֖ה תִּהְיֶ֥ה הָאָֽרֶץ׃
+Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride; for the land shall be desolate.
+Jeremiah 8:1
+בָּעֵ֣ת הַהִ֣יא נְאֻם־יְהֹוָ֡ה   (ויציאו)   [יוֹצִ֣יאוּ]   אֶת־עַצְמ֣וֹת מַלְכֵי־יְהוּדָ֣ה וְאֶת־עַצְמוֹת־שָׂרָיו֩ וְאֶת־עַצְמ֨וֹת הַכֹּהֲנִ֜ים וְאֵ֣ת  ׀  עַצְמ֣וֹת הַנְּבִיאִ֗ים וְאֵ֛ת עַצְמ֥וֹת יוֹשְׁבֵֽי־יְרוּשָׁלָ֖͏ִם מִקִּבְרֵיהֶֽם׃
+At that time, saith the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves;
+Jeremiah 8:2
+וּשְׁטָחוּם֩ לַשֶּׁ֨מֶשׁ וְלַיָּרֵ֜חַ וּלְכֹ֣ל  ׀  צְבָ֣א הַשָּׁמַ֗יִם אֲשֶׁ֨ר אֲהֵב֜וּם וַאֲשֶׁ֤ר עֲבָדוּם֙ וַֽאֲשֶׁר֙ הָלְכ֣וּ אַחֲרֵיהֶ֔ם וַאֲשֶׁ֣ר דְּרָשׁ֔וּם וַאֲשֶׁ֥ר הִֽשְׁתַּחֲו֖וּ לָהֶ֑ם לֹ֤א יֵאָֽסְפוּ֙ וְלֹ֣א יִקָּבֵ֔רוּ לְדֹ֛מֶן עַל־פְּנֵ֥י הָאֲדָמָ֖ה יִהְיֽוּ׃
+and they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped; they shall not be gathered, nor be buried, they shall be for dung upon the face of the earth.
+Jeremiah 8:3
+וְנִבְחַ֥ר מָ֙וֶת֙ מֵחַיִּ֔ים לְכֹ֗ל הַשְּׁאֵרִית֙ הַנִּשְׁאָרִ֔ים מִן־הַמִּשְׁפָּחָ֥ה הָרָעָ֖ה הַזֹּ֑את בְּכׇל־הַמְּקֹמ֤וֹת הַנִּשְׁאָרִים֙ אֲשֶׁ֣ר הִדַּחְתִּ֣ים שָׁ֔ם נְאֻ֖ם יְהֹוָ֥ה צְבָאֽוֹת׃  {ס}
+And death shall be chosen rather than life by all the residue that remain of this evil family, that remain in all the places whither I have driven them, saith the LORD of hosts.
+https://www.sefaria.org/Jeremiah%207
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Jeremiah%208
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Jeremiah 9:22-9:23
+Jeremiah 9:22
+כֹּ֣ה  ׀  אָמַ֣ר יְהֹוָ֗ה אַל־יִתְהַלֵּ֤ל חָכָם֙ בְּחׇכְמָת֔וֹ וְאַל־יִתְהַלֵּ֥ל הַגִּבּ֖וֹר בִּגְבוּרָת֑וֹ אַל־יִתְהַלֵּ֥ל עָשִׁ֖יר בְּעׇשְׁרֽוֹ׃
+Thus saith the LORD: Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, Let not the rich man glory in his riches;
+Jeremiah 9:23
+כִּ֣י אִם־בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אוֹתִי֒ כִּ֚י אֲנִ֣י יְהֹוָ֔ה עֹ֥שֶׂה חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־יְהֹוָֽה׃  {ס}
+But let him that glorieth glory in this, that he understandeth, and knoweth Me, That I am the LORD who exercise mercy, justice, and righteousness, in the earth; for in these things I delight, Saith the LORD.
+https://www.sefaria.org/Jeremiah%209
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Chabad · חב״ד
+Jeremiah 7:21-7:28
+Jeremiah 7:21
+כֹּ֥ה אָמַ֛ר יְהֹוָ֥ה צְבָא֖וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל עֹלוֹתֵיכֶ֛ם סְפ֥וּ עַל־זִבְחֵיכֶ֖ם וְאִכְל֥וּ בָשָֽׂר׃
+Thus saith the LORD of hosts, the God of Israel: Add your burnt-offerings unto your sacrifices, and eat ye flesh.
+Jeremiah 7:22
+כִּ֠י לֹֽא־דִבַּ֤רְתִּי אֶת־אֲבֽוֹתֵיכֶם֙ וְלֹ֣א צִוִּיתִ֔ים בְּי֛וֹם   (הוציא)   [הוֹצִיאִ֥י]   אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם עַל־דִּבְרֵ֥י עוֹלָ֖ה וָזָֽבַח׃
+For I spoke not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt-offerings or sacrifices;
+Jeremiah 7:23
+כִּ֣י אִֽם־אֶת־הַדָּבָ֣ר הַ֠זֶּ֠ה צִוִּ֨יתִי אוֹתָ֤ם לֵאמֹר֙ שִׁמְע֣וּ בְקוֹלִ֔י וְהָיִ֤יתִי לָכֶם֙ לֵֽאלֹהִ֔ים וְאַתֶּ֖ם תִּֽהְיוּ־לִ֣י לְעָ֑ם וַהֲלַכְתֶּ֗ם בְּכׇל־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אֲצַוֶּ֣ה אֶתְכֶ֔ם לְמַ֖עַן יִיטַ֥ב לָכֶֽם׃
+but this thing I commanded them, saying: ‘Hearken unto My voice, and I will be your God, and ye shall be My people; and walk ye in all the way that I command you, that it may be well with you.’
+Jeremiah 7:24
+וְלֹ֤א שָֽׁמְעוּ֙ וְלֹא־הִטּ֣וּ אֶת־אׇזְנָ֔ם וַיֵּֽלְכוּ֙ בְּמֹ֣עֵצ֔וֹת בִּשְׁרִר֖וּת לִבָּ֣ם הָרָ֑ע וַיִּהְי֥וּ לְאָח֖וֹר וְלֹ֥א לְפָנִֽים׃
+But they hearkened not, nor inclined their ear, but walked in their own counsels, even in the stubbornness of their evil heart, and went backward and not forward,
+Jeremiah 7:25
+לְמִן־הַיּ֗וֹם אֲשֶׁ֨ר יָצְא֤וּ אֲבֽוֹתֵיכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וָאֶשְׁלַ֤ח אֲלֵיכֶם֙ אֶת־כׇּל־עֲבָדַ֣י הַנְּבִיאִ֔ים י֖וֹם הַשְׁכֵּ֥ם וְשָׁלֹֽחַ׃
+even since the day that your fathers came forth out of the land of Egypt unto this day; and though I have sent unto you all My servants the prophets, sending them daily betimes and often,
+Jeremiah 7:26
+וְל֤וֹא שָֽׁמְעוּ֙ אֵלַ֔י וְלֹ֥א הִטּ֖וּ אֶת־אׇזְנָ֑ם וַיַּקְשׁוּ֙ אֶת־עׇרְפָּ֔ם הֵרֵ֖עוּ מֵאֲבוֹתָֽם׃
+yet they hearkened not unto Me, nor inclined their ear, but made their neck stiff; they did worse than their fathers.
+Jeremiah 7:27
+וְדִבַּרְתָּ֤ אֲלֵיהֶם֙ אֶת־כׇּל־הַדְּבָרִ֣ים הָאֵ֔לֶּה וְלֹ֥א יִשְׁמְע֖וּ אֵלֶ֑יךָ וְקָרָ֥אתָ אֲלֵיהֶ֖ם וְלֹ֥א יַעֲנֽוּכָה׃
+And thou shalt speak all these words unto them, but they will not hearken to thee; thou shalt also call unto them, but they will not answer thee.
+Jeremiah 7:28
+וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם זֶ֤ה הַגּוֹי֙ אֲשֶׁ֣ר לֽוֹא־שָׁמְע֗וּ בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהָ֔יו וְלֹ֥א לָקְח֖וּ מוּסָ֑ר אָֽבְדָה֙ הָאֱמוּנָ֔ה וְנִכְרְתָ֖ה מִפִּיהֶֽם׃  {ס}
+Therefore thou shalt say unto them: This is the nation that hath not hearkened To the voice of the LORD their God, Nor received correction; Faithfulness is perished, And is cut off from their mouth.
+https://www.sefaria.org/Jeremiah%207
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Jeremiah 9:22-9:23
+Jeremiah 9:22
+כֹּ֣ה  ׀  אָמַ֣ר יְהֹוָ֗ה אַל־יִתְהַלֵּ֤ל חָכָם֙ בְּחׇכְמָת֔וֹ וְאַל־יִתְהַלֵּ֥ל הַגִּבּ֖וֹר בִּגְבוּרָת֑וֹ אַל־יִתְהַלֵּ֥ל עָשִׁ֖יר בְּעׇשְׁרֽוֹ׃
+Thus saith the LORD: Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, Let not the rich man glory in his riches;
+Jeremiah 9:23
+כִּ֣י אִם־בְּזֹ֞את יִתְהַלֵּ֣ל הַמִּתְהַלֵּ֗ל הַשְׂכֵּל֮ וְיָדֹ֣עַ אוֹתִי֒ כִּ֚י אֲנִ֣י יְהֹוָ֔ה עֹ֥שֶׂה חֶ֛סֶד מִשְׁפָּ֥ט וּצְדָקָ֖ה בָּאָ֑רֶץ כִּֽי־בְאֵ֥לֶּה חָפַ֖צְתִּי נְאֻם־יְהֹוָֽה׃  {ס}
+But let him that glorieth glory in this, that he understandeth, and knoweth Me, That I am the LORD who exercise mercy, justice, and righteousness, in the earth; for in these things I delight, Saith the LORD.
+https://www.sefaria.org/Jeremiah%209
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

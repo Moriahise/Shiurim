@@ -1,0 +1,225 @@
+Haftarah · Vayetzei
+הפטרה · ויצא
+
+How does remembering Jacob change the demand to return? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד משנה זיכרון יעקב את התביעה לשוב? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does remembering Jacob change the demand to return?
+כיצד משנה זיכרון יעקב את התביעה לשוב?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Hosea 12:13
+Jacob’s flight and service recall a national beginning in dependence and labor. Hosea places that memory beside prophetic leadership out of Egypt. The people’s story cannot honestly be told as an uninterrupted history of self-made success.
+בריחת יעקב ועבודתו מזכירות ראשית לאומית של תלות ומאמץ. הושע מציב לצדן הנהגה נבואית ביציאת מצרים. אי אפשר לספר ביושר את תולדות העם כרצף של הצלחה שהשיג בכוחות עצמו בלבד.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Hosea 14:3
+Return becomes speech: take words and relinquish misplaced reliance on political force and human manufacture. The text gives repentance a vocabulary and an object. Ask which forms of dependence must be named before a declaration of change becomes credible.
+השיבה נעשית לדיבור: לקחת דברים ולוותר על הישענות מוטעית על כוח מדיני ועל מעשה ידיים. לתשובה יש לשון ויש תוכן. יש לזהות על איזו תלות מוותרים לפני שהצהרת שינוי נעשית אמינה.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Hosea 14:10
+The final appeal to wisdom asks the reader to discern a path rather than merely admire restoration. The Sephardic reading, 11:7–12:12, has a different arc of divine compassion and Jacob’s struggle; its complete text is supplied separately rather than silently conflated.
+החתימה לחכם ולנבון דורשת להבחין בדרך, ולא רק להתפעל מן השיקום. הקריאה הספרדית, י״א:ז׳–י״ב:י״ב, נעה במסלול אחר של חמלה ומאבק יעקב. נוסחה המלא מובא בנפרד ואינו נטמע בנוסח האשכנזי.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Hosea 12:13-14:10
+Hosea 12:13
+וַיִּבְרַ֥ח יַעֲקֹ֖ב שְׂדֵ֣ה אֲרָ֑ם וַיַּעֲבֹ֤ד יִשְׂרָאֵל֙ בְּאִשָּׁ֔ה וּבְאִשָּׁ֖ה שָׁמָֽר׃
+And Jacob fled into the field of Aram, And Israel served for a wife, And for a wife he kept sheep.
+Hosea 12:14
+וּבְנָבִ֕יא הֶעֱלָ֧ה יְהֹוָ֛ה אֶת־יִשְׂרָאֵ֖ל מִמִּצְרָ֑יִם וּבְנָבִ֖יא נִשְׁמָֽר׃
+And by a prophet the LORD brought Israel up out of Egypt, And by a prophet was he kept.
+Hosea 12:15
+הִכְעִ֥יס אֶפְרַ֖יִם תַּמְרוּרִ֑ים וְדָמָיו֙ עָלָ֣יו יִטּ֔וֹשׁ וְחֶ֨רְפָּת֔וֹ יָשִׁ֥יב ל֖וֹ אֲדֹנָֽיו׃
+Ephraim hath provoked most bitterly; Therefore shall his blood be cast upon him, And his reproach shall his Lord return unto him.
+Hosea 13:1
+כְּדַבֵּ֤ר אֶפְרַ֙יִם֙ רְתֵ֔ת נָשָׂ֥א ה֖וּא בְּיִשְׂרָאֵ֑ל וַיֶּאְשַׁ֥ם בַּבַּ֖עַל וַיָּמֹֽת׃
+When Ephraim spoke, there was trembling, He exalted himself in Israel; But when he became guilty through Baal, he died.
+Hosea 13:2
+וְעַתָּ֣ה  ׀  יוֹסִ֣פוּ לַחֲטֹ֗א וַיַּעֲשׂ֣וּ לָהֶם֩ מַסֵּכָ֨ה מִכַּסְפָּ֤ם כִּתְבוּנָם֙ עֲצַבִּ֔ים מַעֲשֵׂ֥ה חָרָשִׁ֖ים כֻּלֹּ֑ה לָהֶם֙ הֵ֣ם אֹמְרִ֔ים זֹבְחֵ֣י אָדָ֔ם עֲגָלִ֖ים יִשָּׁקֽוּן׃
+And now they sin more and more, And have made them molten images of their silver, According to their own understanding, even idols, All of them the work of the craftsmen; Of them they say: ‘They that sacrifice men kiss calves.’
+Hosea 13:3
+לָכֵ֗ן יִֽהְיוּ֙ כַּעֲנַן־בֹּ֔קֶר וְכַטַּ֖ל מַשְׁכִּ֣ים הֹלֵ֑ךְ כְּמֹץ֙ יְסֹעֵ֣ר מִגֹּ֔רֶן וּכְעָשָׁ֖ן מֵאֲרֻבָּֽה׃
+Therefore they shall be as the morning cloud, And as the dew that early passeth away, As the chaff that is driven with the wind out of the threshing-floor, And as the smoke out of the window.
+Hosea 13:4
+וְאָנֹכִ֛י יְהֹוָ֥ה אֱלֹהֶ֖יךָ מֵאֶ֣רֶץ מִצְרָ֑יִם וֵאלֹהִ֤ים זוּלָתִי֙ לֹ֣א תֵדָ֔ע וּמוֹשִׁ֥יעַ אַ֖יִן בִּלְתִּֽי׃
+Yet I am the LORD thy God From the land of Egypt; And thou knowest no God but Me, And beside Me there is no saviour.
+Hosea 13:5
+אֲנִ֥י יְדַעְתִּ֖יךָ בַּמִּדְבָּ֑ר בְּאֶ֖רֶץ תַּלְאֻבֽוֹת׃
+I did know thee in the wilderness, In the land of great drought.
+Hosea 13:6
+כְּמַרְעִיתָם֙ וַיִּשְׂבָּ֔עוּ שָׂבְע֖וּ וַיָּ֣רׇם לִבָּ֑ם עַל־כֵּ֖ן שְׁכֵחֽוּנִי׃
+When they were fed, they became full, They were filled, and their heart was exalted; Therefore have they forgotten Me.
+Hosea 13:7
+וָאֱהִ֥י לָהֶ֖ם כְּמוֹ־שָׁ֑חַל כְּנָמֵ֖ר עַל־דֶּ֥רֶךְ אָשֽׁוּר׃
+Therefore am I become unto them as a lion; As a leopard will I watch by the way;
+Hosea 13:8
+אֶפְגְּשֵׁם֙ כְּדֹ֣ב שַׁכּ֔וּל וְאֶקְרַ֖ע סְג֣וֹר לִבָּ֑ם וְאֹכְלֵ֥ם שָׁם֙ כְּלָבִ֔יא חַיַּ֥ת הַשָּׂדֶ֖ה תְּבַקְּעֵֽם׃
+I will meet them as a bear that is bereaved of her whelps, And will rend the enclosure of their heart; And there will I devour them like a lioness; The wild beast shall tear them.
+Hosea 13:9
+שִׁחֶתְךָ֥ יִשְׂרָאֵ֖ל כִּי־בִ֥י בְעֶזְרֶֽךָ׃
+It is thy destruction, O Israel, That thou art against Me, against thy help.
+Hosea 13:10
+אֱהִ֤י מַלְכְּךָ֙ אֵפ֔וֹא וְיוֹשִׁיעֲךָ֖ בְּכׇל־עָרֶ֑יךָ וְשֹׁ֣פְטֶ֔יךָ אֲשֶׁ֣ר אָמַ֔רְתָּ תְּנָה־לִּ֖י מֶ֥לֶךְ וְשָׂרִֽים׃
+Ho, now, thy king, That he may save thee in all thy cities! And thy judges, of whom thou saidst: ‘Give me a king and princes! ’
+Hosea 13:11
+אֶֽתֶּן־לְךָ֥ מֶ֙לֶךְ֙ בְּאַפִּ֔י וְאֶקַּ֖ח בְּעֶבְרָתִֽי׃  {פ}
+I give thee a king in Mine anger, And take him away in My wrath.
+Hosea 13:12
+צָרוּר֙ עֲוֺ֣ן אֶפְרָ֔יִם צְפוּנָ֖ה חַטָּאתֽוֹ׃
+The iniquity of Ephraim is bound up; His sin is laid up in store.
+Hosea 13:13
+חֶבְלֵ֥י יוֹלֵדָ֖ה יָבֹ֣אוּ ל֑וֹ הוּא־בֵן֙ לֹ֣א חָכָ֔ם כִּי־עֵ֥ת לֹֽא־יַעֲמֹ֖ד בְּמִשְׁבַּ֥ר בָּנִֽים׃
+The throes of a travailing woman shall come upon him; He is an unwise son; For it is time he should not tarry In the place of the breaking forth of children.
+Hosea 13:14
+מִיַּ֤ד שְׁאוֹל֙ אֶפְדֵּ֔ם מִמָּ֖וֶת אֶגְאָלֵ֑ם אֱהִ֨י דְבָרֶ֜יךָ מָ֗וֶת אֱהִ֤י קׇֽטׇבְךָ֙ שְׁא֔וֹל נֹ֖חַם יִסָּתֵ֥ר מֵעֵינָֽי׃
+Shall I ransom them from the power of the nether-world? Shall I redeem them from death? Ho, thy plagues, O death! Ho, thy destruction, O netherworld! Repentance be hid from Mine eyes!
+Hosea 13:15
+כִּ֣י ה֔וּא בֵּ֥ין אַחִ֖ים יַפְרִ֑יא יָב֣וֹא קָדִים֩ ר֨וּחַ יְהֹוָ֜ה מִמִּדְבָּ֣ר עֹלֶ֗ה וְיֵב֤וֹשׁ מְקוֹרוֹ֙ וְיֶחֱרַ֣ב מַעְיָנ֔וֹ ה֣וּא יִשְׁסֶ֔ה אוֹצַ֖ר כׇּל־כְּלִ֥י חֶמְדָּֽה׃
+For though he be fruitful among the reed-plants, An east wind shall come, the wind of the LORD coming up from the wilderness, And his spring shall become dry, and his fountain shall be dried up; He shall spoil the treasure of all precious vessels.
+Hosea 14:1
+תֶּאְשַׁם֙ שֹׁמְר֔וֹן כִּ֥י מָרְתָ֖ה בֵּאלֹהֶ֑יהָ בַּחֶ֣רֶב יִפֹּ֔לוּ עֹלְלֵיהֶ֣ם יְרֻטָּ֔שׁוּ וְהָרִיּוֹתָ֖יו יְבֻקָּֽעוּ׃  {פ}
+Samaria shall bear her guilt, For she hath rebelled against her God; They shall fall by the sword; Their infants shall be dashed in pieces, And their women with child shall be ripped up.
+Hosea 14:2
+שׁ֚וּבָה יִשְׂרָאֵ֔ל עַ֖ד יְהֹוָ֣ה אֱלֹהֶ֑יךָ כִּ֥י כָשַׁ֖לְתָּ בַּעֲוֺנֶֽךָ׃
+Return, O Israel, unto the LORD thy God; For thou hast stumbled in thine iniquity.
+Hosea 14:3
+קְח֤וּ עִמָּכֶם֙ דְּבָרִ֔ים וְשׁ֖וּבוּ אֶל־יְהֹוָ֑ה אִמְר֣וּ אֵלָ֗יו כׇּל־תִּשָּׂ֤א עָוֺן֙ וְקַח־ט֔וֹב וּֽנְשַׁלְּמָ֥ה פָרִ֖ים שְׂפָתֵֽינוּ׃
+Take with you words, And return unto the LORD; Say unto Him: ‘Forgive all iniquity, And accept that which is good; So will we render for bullocks the offering of our lips.
+Hosea 14:4
+אַשּׁ֣וּר  ׀  לֹ֣א יוֹשִׁיעֵ֗נוּ עַל־סוּס֙ לֹ֣א נִרְכָּ֔ב וְלֹא־נֹ֥אמַר ע֛וֹד אֱלֹהֵ֖ינוּ לְמַעֲשֵׂ֣ה יָדֵ֑ינוּ אֲשֶׁר־בְּךָ֖ יְרֻחַ֥ם יָתֽוֹם׃
+Asshur shall not save us; We will not ride upon horses; Neither will we call any more the work of our hands our gods; For in Thee the fatherless findeth mercy.’
+Hosea 14:5
+אֶרְפָּא֙ מְשׁ֣וּבָתָ֔ם אֹהֲבֵ֖ם נְדָבָ֑ה כִּ֛י שָׁ֥ב אַפִּ֖י מִמֶּֽנּוּ׃
+I will heal their backsliding, I will love them freely; For Mine anger is turned away from him.
+Hosea 14:6
+אֶהְיֶ֤ה כַטַּל֙ לְיִשְׂרָאֵ֔ל יִפְרַ֖ח כַּשּׁוֹשַׁנָּ֑ה וְיַ֥ךְ שׇׁרָשָׁ֖יו כַּלְּבָנֽוֹן׃
+I will be as the dew unto Israel; He shall blossom as the lily, And cast forth his roots as Lebanon.
+Hosea 14:7
+יֵֽלְכוּ֙ יֹֽנְקוֹתָ֔יו וִיהִ֥י כַזַּ֖יִת הוֹד֑וֹ וְרֵ֥יחַֽ ל֖וֹ כַּלְּבָנֽוֹן׃
+His branches shall spread, And his beauty shall be as the olive-tree, And his fragrance as Lebanon.
+Hosea 14:8
+יָשֻׁ֙בוּ֙ יֹשְׁבֵ֣י בְצִלּ֔וֹ יְחַיּ֥וּ דָגָ֖ן וְיִפְרְח֣וּ כַגָּ֑פֶן זִכְר֖וֹ כְּיֵ֥ין לְבָנֽוֹן׃
+They that dwell under his shadow shall again Make corn to grow, And shall blossom as the vine; The scent thereof shall be as the wine of Lebanon.
+Hosea 14:9
+אֶפְרַ֕יִם מַה־לִּ֥י ע֖וֹד לָעֲצַבִּ֑ים אֲנִ֧י עָנִ֣יתִי וַאֲשׁוּרֶ֗נּוּ אֲנִי֙ כִּבְר֣וֹשׁ רַעֲנָ֔ן מִמֶּ֖נִּי פֶּרְיְךָ֥ נִמְצָֽא׃
+Ephraim [shall say]: ‘What have I to do any more with idols?’ As for Me, I respond and look on him; I am like a leafy cypress-tree; From Me is thy fruit found.
+Hosea 14:10
+מִ֤י חָכָם֙ וְיָ֣בֵֽן אֵ֔לֶּה נָב֖וֹן וְיֵדָעֵ֑ם כִּֽי־יְשָׁרִ֞ים דַּרְכֵ֣י יְהֹוָ֗ה וְצַדִּקִים֙ יֵ֣לְכוּ בָ֔ם וּפֹשְׁעִ֖ים יִכָּ֥שְׁלוּ בָֽם׃
+Whoso is wise, let him understand these things, Whoso is prudent, let him know them. For the ways of the LORD are right, And the just do walk in them; But transgressors do stumble therein.
+https://www.sefaria.org/Hosea.12
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Hosea.13
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Hosea.14
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Sephardic · ספרד
+Hosea 11:7-12:12
+Hosea 11:7
+וְעַמִּ֥י תְלוּאִ֖ים לִמְשׁוּבָתִ֑י וְאֶל־עַל֙ יִקְרָאֻ֔הוּ יַ֖חַד לֹ֥א יְרוֹמֵֽם׃
+And My people are in suspense about returning to Me; And though they call them upwards, None at all will lift himself up.
+Hosea 11:8
+אֵ֞יךְ אֶתֶּנְךָ֣ אֶפְרַ֗יִם אֲמַגֶּנְךָ֙ יִשְׂרָאֵ֔ל אֵ֚יךְ אֶתֶּנְךָ֣ כְאַדְמָ֔ה אֲשִֽׂימְךָ֖ כִּצְבֹאיִ֑ם נֶהְפַּ֤ךְ עָלַי֙ לִבִּ֔י יַ֖חַד נִכְמְר֥וּ נִחוּמָֽי׃
+How shall I give thee up, Ephraim? How shall I surrender thee, Israel? How shall I make thee as Admah? How shall I set thee as Zeboim? My heart is turned within Me, My compassions are kindled together.
+Hosea 11:9
+לֹ֤א אֶֽעֱשֶׂה֙ חֲר֣וֹן אַפִּ֔י לֹ֥א אָשׁ֖וּב לְשַׁחֵ֣ת אֶפְרָ֑יִם כִּ֣י אֵ֤ל אָנֹכִי֙ וְלֹא־אִ֔ישׁ בְּקִרְבְּךָ֣ קָד֔וֹשׁ וְלֹ֥א אָב֖וֹא בְּעִֽיר׃
+I will not execute the fierceness of Mine anger, I will not return to destroy Ephraim; For I am God, and not man, The Holy One in the midst of thee; And I will not come in fury.
+Hosea 11:10
+אַחֲרֵ֧י יְהֹוָ֛ה יֵלְכ֖וּ כְּאַרְיֵ֣ה יִשְׁאָ֑ג כִּֽי־ה֣וּא יִשְׁאַ֔ג וְיֶחֶרְד֥וּ בָנִ֖ים מִיָּֽם׃
+They shall walk after the LORD, Who shall roar like a lion; For He shall roar, And the children shall come trembling from the west.
+Hosea 11:11
+יֶחֶרְד֤וּ כְצִפּוֹר֙ מִמִּצְרַ֔יִם וּכְיוֹנָ֖ה מֵאֶ֣רֶץ אַשּׁ֑וּר וְהוֹשַׁבְתִּ֥ים עַל־בָּתֵּיהֶ֖ם נְאֻם־יְהֹוָֽה׃  {ס}
+They shall come trembling as a bird out of Egypt, And as a dove out of the land of Assyria; And I will make them to dwell in their houses, saith the LORD.
+Hosea 12:1
+סְבָבֻ֤נִֽי בְכַ֙חַשׁ֙ אֶפְרַ֔יִם וּבְמִרְמָ֖ה בֵּ֣ית יִשְׂרָאֵ֑ל וִיהוּדָ֗ה עֹ֥ד רָד֙ עִם־אֵ֔ל וְעִם־קְדוֹשִׁ֖ים נֶאֱמָֽן׃
+Ephraim compasseth Me about with lies, And the house of Israel with deceit; And Judah is yet wayward towards God, And towards the Holy One who is faithful.
+Hosea 12:2
+אֶפְרַ֜יִם רֹעֶ֥ה ר֙וּחַ֙ וְרֹדֵ֣ף קָדִ֔ים כׇּל־הַיּ֕וֹם כָּזָ֥ב וָשֹׁ֖ד יַרְבֶּ֑ה וּבְרִית֙ עִם־אַשּׁ֣וּר יִכְרֹ֔תוּ וְשֶׁ֖מֶן לְמִצְרַ֥יִם יוּבָֽל׃
+Ephraim striveth after wind, and followeth after the east wind; All the day he multiplieth lies and desolation; And they make a covenant with Assyria, And oil is carried into Egypt.
+Hosea 12:3
+וְרִ֥יב לַֽיהֹוָ֖ה עִם־יְהוּדָ֑ה וְלִפְקֹ֤ד עַֽל־יַעֲקֹב֙ כִּדְרָכָ֔יו כְּמַעֲלָלָ֖יו יָשִׁ֥יב לֽוֹ׃
+The LORD hath also a controversy with Judah, And will punish Jacob according to his ways, According to his doings will He recompense him.
+Hosea 12:4
+בַּבֶּ֖טֶן עָקַ֣ב אֶת־אָחִ֑יו וּבְאוֹנ֖וֹ שָׂרָ֥ה אֶת־אֱלֹהִֽים׃
+In the womb he took his brother by the heel, And by his strength he strove with a godlike being;
+Hosea 12:5
+וַיָּ֤שַׂר אֶל־מַלְאָךְ֙ וַיֻּכָ֔ל בָּכָ֖ה וַיִּתְחַנֶּן־ל֑וֹ בֵּֽית־אֵל֙ יִמְצָאֶ֔נּוּ וְשָׁ֖ם יְדַבֵּ֥ר עִמָּֽנוּ׃
+So he strove with an angel, and prevailed; He wept, and made supplication unto him; At Beth-el he would find him, And there he would speak with us;
+Hosea 12:6
+וַיהֹוָ֖ה אֱלֹהֵ֣י הַצְּבָא֑וֹת יְהֹוָ֖ה זִכְרֽוֹ׃
+But the LORD, the God of hosts, The LORD is His name.
+Hosea 12:7
+וְאַתָּ֖ה בֵּאלֹהֶ֣יךָ תָשׁ֑וּב חֶ֤סֶד וּמִשְׁפָּט֙ שְׁמֹ֔ר וְקַוֵּ֥ה אֶל־אֱלֹהֶ֖יךָ תָּמִֽיד׃
+Therefore turn thou to thy God; Keep mercy and justice, And wait for thy God continually.
+Hosea 12:8
+כְּנַ֗עַן בְּיָד֛וֹ מֹאזְנֵ֥י מִרְמָ֖ה לַעֲשֹׁ֥ק אָהֵֽב׃
+As for the trafficker, the balances of deceit are in his hand. He loveth to oppress.
+Hosea 12:9
+וַיֹּ֣אמֶר אֶפְרַ֔יִם אַ֣ךְ עָשַׁ֔רְתִּי מָצָ֥אתִי א֖וֹן לִ֑י כׇּל־יְגִיעַ֕י לֹ֥א יִמְצְאוּ־לִ֖י עָוֺ֥ן אֲשֶׁר־חֵֽטְא׃
+And Ephraim said: ‘Surely I am become rich, I have found me wealth; In all my labours they shall find in me No iniquity that were sin.’
+Hosea 12:10
+וְאָנֹכִ֛י יְהֹוָ֥ה אֱלֹהֶ֖יךָ מֵאֶ֣רֶץ מִצְרָ֑יִם עֹ֛ד אוֹשִֽׁיבְךָ֥ בׇאֳהָלִ֖ים כִּימֵ֥י מוֹעֵֽד׃
+But I am the LORD thy God From the land of Egypt; I will yet again make thee to dwell in tents, As in the days of the appointed season.
+Hosea 12:11
+וְדִבַּ֙רְתִּי֙ עַל־הַנְּבִיאִ֔ים וְאָנֹכִ֖י חָז֣וֹן הִרְבֵּ֑יתִי וּבְיַ֥ד הַנְּבִיאִ֖ים אֲדַמֶּֽה׃
+I have also spoken unto the prophets, And I have multiplied visions; And by the ministry of the prophets have I used similitudes.
+Hosea 12:12
+אִם־גִּלְעָ֥ד אָ֙וֶן֙ אַךְ־שָׁ֣וְא הָי֔וּ בַּגִּלְגָּ֖ל שְׁוָרִ֣ים זִבֵּ֑חוּ גַּ֤ם מִזְבְּחוֹתָם֙ כְּגַלִּ֔ים עַ֖ל תַּלְמֵ֥י שָׂדָֽי׃
+If Gilead be given to iniquity Becoming altogether vanity, In Gilgal they sacrifice unto bullocks; Yea, their altars shall be as heaps In the furrows of the field.
+https://www.sefaria.org/Hosea.11
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Hosea.12
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

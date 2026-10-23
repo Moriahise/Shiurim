@@ -1,0 +1,127 @@
+Haftarah · Sukkot II
+הפטרה · סוכות ב׳ בחו״ל
+
+How does gathering around the ark bind a people to memory? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד מחברת ההתקהלות סביב הארון את העם לזיכרון? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does gathering around the ark bind a people to memory?
+כיצד מחברת ההתקהלות סביב הארון את העם לזיכרון?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+I Kings 8:2
+The assembly is dated to the festival in the seventh month. The new Temple is introduced through the movement of people and ark, not as an empty architectural achievement. Sacred space is activated within a shared calendar.
+ההתקהלות מתוארכת לחג בחודש השביעי. המקדש החדש מוצג בתנועת העם והארון ולא כהישג אדריכלי ריק. המקום המקודש מקבל חיים בתוך לוח משותף.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+I Kings 8:10
+The cloud interrupts the priests’ service, distinguishing presence from an object they can manage. The gathered people encounter something exceeding their arrangements. The text places an experienced limit on human control at the center of dedication.
+הענן מפסיק את עבודת הכהנים ומבחין בין נוכחות לבין חפץ שניתן לנהל. הציבור פוגש דבר החורג מסידוריו. בלב החנוכה עומדת חוויה של גבול השליטה האנושית.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+I Kings 8:21
+The ark’s covenant returns attention to the Exodus. The festival’s gathering holds a new house within an older story. This is the Diaspora second-day Sukkot assignment; Israel’s weekday second day has a different Torah reading and no independent Haftarah.
+ברית הארון מחזירה את המבט ליציאת מצרים. התקהלות החג ממקמת בית חדש בתוך סיפור קדום. זו קריאת סוכות שני בחו״ל; בארץ זהו יום חול המועד בעל קריאת תורה אחרת וללא הפטרה עצמאית.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+I Kings 8:2-8:21
+I Kings 8:2
+וַיִּקָּ֨הֲל֜וּ אֶל־הַמֶּ֤לֶךְ שְׁלֹמֹה֙ כׇּל־אִ֣ישׁ יִשְׂרָאֵ֔ל בְּיֶ֥רַח הָאֵתָנִ֖ים בֶּחָ֑ג ה֖וּא הַחֹ֥דֶשׁ הַשְּׁבִיעִֽי׃
+And all the men of Israel assembled themselves unto king Solomon at the feast, in the month Ethanim, which is the seventh month.
+I Kings 8:3
+וַיָּבֹ֕אוּ כֹּ֖ל זִקְנֵ֣י יִשְׂרָאֵ֑ל וַיִּשְׂא֥וּ הַכֹּהֲנִ֖ים אֶת־הָאָרֽוֹן׃
+And all the elders of Israel came, and the priests took up the ark.
+I Kings 8:4
+וַֽיַּעֲל֞וּ אֶת־אֲר֤וֹן יְהֹוָה֙ וְאֶת־אֹ֣הֶל מוֹעֵ֔ד וְאֶת־כׇּל־כְּלֵ֥י הַקֹּ֖דֶשׁ אֲשֶׁ֣ר בָּאֹ֑הֶל וַיַּעֲל֣וּ אֹתָ֔ם הַכֹּהֲנִ֖ים וְהַלְוִיִּֽם׃
+And they brought up the ark of the LORD, and the tent of meeting, and all the holy vessels that were in the Tent; even these did the priests and the Levites bring up.
+I Kings 8:5
+וְהַמֶּ֣לֶךְ שְׁלֹמֹ֗ה וְכׇל־עֲדַ֤ת יִשְׂרָאֵל֙ הַנּוֹעָדִ֣ים עָלָ֔יו אִתּ֖וֹ לִפְנֵ֣י הָאָר֑וֹן מְזַבְּחִים֙ צֹ֣אן וּבָקָ֔ר אֲשֶׁ֧ר לֹֽא־יִסָּפְר֛וּ וְלֹ֥א יִמָּנ֖וּ מֵרֹֽב׃
+And king Solomon and all the congregation of Israel, that were assembled unto him, were with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude.
+I Kings 8:6
+וַיָּבִ֣אוּ הַ֠כֹּהֲנִ֠ים אֶת־אֲר֨וֹן בְּרִית־יְהֹוָ֧ה אֶל־מְקוֹמ֛וֹ אֶל־דְּבִ֥יר הַבַּ֖יִת אֶל־קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים אֶל־תַּ֖חַת כַּנְפֵ֥י הַכְּרוּבִֽים׃
+And the priests brought in the ark of the covenant of the LORD unto its place, into the Sanctuary of the house, to the most holy place, even under the wings of the cherubim.
+I Kings 8:7
+כִּ֤י הַכְּרוּבִים֙ פֹּרְשִׂ֣ים כְּנָפַ֔יִם אֶל־מְק֖וֹם הָאָר֑וֹן וַיָּסֹ֧כּוּ הַכְּרֻבִ֛ים עַל־הָאָר֥וֹן וְעַל־בַּדָּ֖יו מִלְמָֽעְלָה׃
+For the cherubim spread forth their wings over the place of the ark, and the cherubim covered the ark and the staves thereof above.
+I Kings 8:8
+וַֽיַּאֲרִ֘כוּ֮ הַבַּדִּים֒ וַיֵּרָאוּ֩ רָאשֵׁ֨י הַבַּדִּ֤ים מִן־הַקֹּ֙דֶשׁ֙ עַל־פְּנֵ֣י הַדְּבִ֔יר וְלֹ֥א יֵרָא֖וּ הַח֑וּצָה וַיִּ֣הְיוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃
+And the staves were so long that the ends of the staves were seen from the holy place, even before the Sanctuary; but they could not be seen without; and there they are unto this day.
+I Kings 8:9
+אֵ֚ין בָּֽאָר֔וֹן רַ֗ק שְׁנֵי֙ לֻח֣וֹת הָאֲבָנִ֔ים אֲשֶׁ֨ר הִנִּ֥חַ שָׁ֛ם מֹשֶׁ֖ה בְּחֹרֵ֑ב אֲשֶׁ֨ר כָּרַ֤ת יְהֹוָה֙ עִם־בְּנֵ֣י יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃
+There was nothing in the ark save the two tables of stone which Moses put there at Horeb, when the LORD made a covenant with the children of Israel when they came out of the land of Egypt.
+I Kings 8:10
+וַיְהִ֕י בְּצֵ֥את הַכֹּהֲנִ֖ים מִן־הַקֹּ֑דֶשׁ וְהֶעָנָ֥ן מָלֵ֖א אֶת־בֵּ֥ית יְהֹוָֽה׃
+And it came to pass, when the priests were come out of the holy place, that the cloud filled the house of the LORD,
+I Kings 8:11
+וְלֹא־יָכְל֧וּ הַכֹּהֲנִ֛ים לַעֲמֹ֥ד לְשָׁרֵ֖ת מִפְּנֵ֣י הֶעָנָ֑ן כִּי־מָלֵ֥א כְבוֹד־יְהֹוָ֖ה אֶת־בֵּ֥ית יְהֹוָֽה׃  {פ}
+so that the priests could not stand to minister by reason of the cloud; for the glory of the LORD filled the house of the LORD.
+I Kings 8:12
+אָ֖ז אָמַ֣ר שְׁלֹמֹ֑ה יְהֹוָ֣ה אָמַ֔ר לִשְׁכֹּ֖ן בָּעֲרָפֶֽל׃
+Then spoke Solomon: The LORD hath said that He would dwell in the thick darkness.
+I Kings 8:13
+בָּנֹ֥ה בָנִ֛יתִי בֵּ֥ית זְבֻ֖ל לָ֑ךְ מָכ֥וֹן לְשִׁבְתְּךָ֖ עוֹלָמִֽים׃
+I have surely built Thee a house of habitation, A place for Thee to dwell in for ever.
+I Kings 8:14
+וַיַּסֵּ֤ב הַמֶּ֙לֶךְ֙ אֶת־פָּנָ֔יו וַיְבָ֕רֶךְ אֵ֖ת כׇּל־קְהַ֣ל יִשְׂרָאֵ֑ל וְכׇל־קְהַ֥ל יִשְׂרָאֵ֖ל עֹמֵֽד׃
+And the king turned his face about, and blessed all the congregation of Israel; and all the congregation of Israel stood.
+I Kings 8:15
+וַיֹּ֗אמֶר בָּר֤וּךְ יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר֙ דִּבֶּ֣ר בְּפִ֔יו אֵ֖ת דָּוִ֣ד אָבִ֑י וּבְיָד֥וֹ מִלֵּ֖א לֵאמֹֽר׃
+And he said: ‘Blessed be the LORD, the God of Israel, who spoke with His mouth unto David my father, and hath with His hand fulfilled it, saying:
+I Kings 8:16
+מִן־הַיּ֗וֹם אֲשֶׁ֨ר הוֹצֵ֜אתִי אֶת־עַמִּ֣י אֶת־יִשְׂרָאֵל֮ מִמִּצְרַ֒יִם֒ לֹֽא־בָחַ֣רְתִּֽי בְעִ֗יר מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל לִבְנ֣וֹת בַּ֔יִת לִהְי֥וֹת שְׁמִ֖י שָׁ֑ם וָאֶבְחַ֣ר בְּדָוִ֔ד לִהְי֖וֹת עַל־עַמִּ֥י יִשְׂרָאֵֽל׃
+Since the day that I brought forth My people Israel out of Egypt, I chose no city out of all the tribes of Israel to build a house, that My name might be there; but I chose David to be over My people Israel.
+I Kings 8:17
+וַיְהִ֕י עִם־לְבַ֖ב דָּוִ֣ד אָבִ֑י לִבְנ֣וֹת בַּ֔יִת לְשֵׁ֥ם יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+Now it was in the heart of David my father to build a house for the name of the LORD, the God of Israel.
+I Kings 8:18
+וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־דָּוִ֣ד אָבִ֔י יַ֗עַן אֲשֶׁ֤ר הָיָה֙ עִם־לְבָ֣בְךָ֔ לִבְנ֥וֹת בַּ֖יִת לִשְׁמִ֑י הֱֽטִיבֹ֔תָ כִּ֥י הָיָ֖ה עִם־לְבָבֶֽךָ׃
+But the LORD said unto David my father: Whereas it was in thy heart to build a house for My name, thou didst well that it was in thy heart;
+I Kings 8:19
+רַ֣ק אַתָּ֔ה לֹ֥א תִבְנֶ֖ה הַבָּ֑יִת כִּ֤י אִם־בִּנְךָ֙ הַיֹּצֵ֣א מֵחֲלָצֶ֔יךָ הֽוּא־יִבְנֶ֥ה הַבַּ֖יִת לִשְׁמִֽי׃
+nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house for My name.
+I Kings 8:20
+וַיָּ֣קֶם יְהֹוָ֔ה אֶת־דְּבָר֖וֹ אֲשֶׁ֣ר דִּבֵּ֑ר וָאָקֻ֡ם תַּ֩חַת֩ דָּוִ֨ד אָבִ֜י וָאֵשֵׁ֣ב  ׀  עַל־כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּֽאֲשֶׁר֙ דִּבֶּ֣ר יְהֹוָ֔ה וָאֶבְנֶ֣ה הַבַּ֔יִת לְשֵׁ֥ם יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+And the LORD hath established His word that He spoke; for I am risen up in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD, the God of Israel.
+I Kings 8:21
+וָאָשִׂ֨ם שָׁ֤ם מָקוֹם֙ לָאָר֔וֹן אֲשֶׁר־שָׁ֖ם בְּרִ֣ית יְהֹוָ֑ה אֲשֶׁ֤ר כָּרַת֙ עִם־אֲבֹתֵ֔ינוּ בְּהוֹצִיא֥וֹ אֹתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃  {ס}
+And there have I set a place for the ark, wherein is the covenant of the LORD, which He made with our fathers, when He brought them out of the land of Egypt.’
+https://www.sefaria.org/I%20Kings%208
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

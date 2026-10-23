@@ -1,0 +1,115 @@
+Haftarah · Pesach II
+הפטרה · פסח ב׳ בחו״ל
+
+What makes a rediscovered book change public practice? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מה גורם לספר שנמצא מחדש לשנות מנהג ציבורי? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What makes a rediscovered book change public practice?
+מה גורם לספר שנמצא מחדש לשנות מנהג ציבורי?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+II Kings 23:1
+Josiah gathers elders and people to hear the covenant publicly. A text discovered in the Temple becomes a communal obligation through reading and commitment. The assembly includes more than the officials responsible for preserving the book.
+יאשיהו מכנס זקנים ועם לשמיעת הברית בציבור. הספר שנמצא במקדש נעשה לחובה משותפת באמצעות קריאה וקבלה. הקהל רחב מן הפקידים המופקדים על שמירת הספר.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+II Kings 23:8
+The reforms remove competing cultic practices from concrete places. Restoration is not confined to a declaration of loyalty. Ask what the narrative’s list of actions reveals about the distance between possessing a sacred text and ordering institutions by it.
+התיקונים מסירים עבודות מתחרות ממקומות מוגדרים. השיקום אינו מוגבל להצהרת נאמנות. רשימת הפעולות חושפת את המרחק בין החזקת ספר מקודש לבין עיצוב המוסדות על פיו.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+II Kings 23:25
+The description of Josiah’s return closes the selected account of covenant and Passover. This is the Diaspora second-day assignment, not Israel’s weekday Chol haMoed reading. The source preserves the liturgical jump from 23:9 to 23:21.
+תיאור שיבת יאשיהו חותם את מבחר הברית והפסח. זו קריאת יום טוב שני בחו״ל ולא קריאת חול המועד בארץ. הדילוג מכ״ג:ט׳ לכ״ג:כ״א נשמר במקור.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+II Kings 23:1-23:9
+II Kings 23:1
+וַיִּשְׁלַ֖ח הַמֶּ֑לֶךְ וַיַּאַסְפ֣וּ אֵלָ֔יו כׇּל־זִקְנֵ֥י יְהוּדָ֖ה וִירוּשָׁלָֽ͏ִם׃
+And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.
+II Kings 23:2
+וַיַּ֣עַל הַמֶּ֣לֶךְ בֵּית־יְהֹוָ֡ה וְכׇל־אִ֣ישׁ יְהוּדָה֩ וְכׇל־יֹשְׁבֵ֨י יְרוּשָׁלַ֜͏ִם אִתּ֗וֹ וְהַכֹּֽהֲנִים֙ וְהַנְּבִיאִ֔ים וְכׇל־הָעָ֖ם לְמִקָּטֹ֣ן וְעַד־גָּד֑וֹל וַיִּקְרָ֣א בְאׇזְנֵיהֶ֗ם אֶת־כׇּל־דִּבְרֵי֙ סֵ֣פֶר הַבְּרִ֔ית הַנִּמְצָ֖א בְּבֵ֥ית יְהֹוָֽה׃
+And the king went up to the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great; and he read in their ears all the words of the book of the covenant which was found in the house of the LORD.
+II Kings 23:3
+וַיַּעֲמֹ֣ד הַ֠מֶּ֠לֶךְ עַֽל־הָ֨עַמּ֜וּד וַיִּכְרֹ֥ת אֶֽת־הַבְּרִ֣ית  ׀  לִפְנֵ֣י יְהֹוָ֗ה לָלֶ֜כֶת אַחַ֤ר יְהֹוָה֙ וְלִשְׁמֹ֨ר מִצְוֺתָ֜יו וְאֶת־עֵדְוֺתָ֤יו וְאֶת־חֻקֹּתָיו֙ בְּכׇל־לֵ֣ב וּבְכׇל־נֶ֔פֶשׁ לְהָקִ֗ים אֶת־דִּבְרֵי֙ הַבְּרִ֣ית הַזֹּ֔את הַכְּתֻבִ֖ים עַל־הַסֵּ֣פֶר הַזֶּ֑ה וַיַּעֲמֹ֥ד כׇּל־הָעָ֖ם בַּבְּרִֽית׃
+And the king stood on the platform, and made a covenant before the LORD, to walk after the LORD, and to keep His commandments, and His testimonies, and His statutes, with all his heart, and all his soul, to confirm the words of this covenant that were written in this book; and all the people stood to the covenant.
+II Kings 23:4
+וַיְצַ֣ו הַמֶּ֡לֶךְ אֶת־חִלְקִיָּ֩הוּ֩ הַכֹּהֵ֨ן הַגָּד֜וֹל וְאֶת־כֹּהֲנֵ֣י הַמִּשְׁנֶה֮ וְאֶת־שֹׁמְרֵ֣י הַסַּף֒ לְהוֹצִיא֙ מֵהֵיכַ֣ל יְהֹוָ֔ה אֵ֣ת כׇּל־הַכֵּלִ֗ים הָֽעֲשׂוּיִם֙ לַבַּ֣עַל וְלָאֲשֵׁרָ֔ה וּלְכֹ֖ל צְבָ֣א הַשָּׁמָ֑יִם וַֽיִּשְׂרְפֵ֞ם מִח֤וּץ לִירוּשָׁלַ֙͏ִם֙ בְּשַׁדְמ֣וֹת קִדְר֔וֹן וְנָשָׂ֥א אֶת־עֲפָרָ֖ם בֵּֽית־אֵֽל׃
+And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the Asherah, and for all the host of heaven; and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Beth-el.
+II Kings 23:5
+וְהִשְׁבִּ֣ית אֶת־הַכְּמָרִ֗ים אֲשֶׁ֤ר נָֽתְנוּ֙ מַלְכֵ֣י יְהוּדָ֔ה וַיְקַטֵּ֤ר בַּבָּמוֹת֙ בְּעָרֵ֣י יְהוּדָ֔ה וּמְסִבֵּ֖י יְרוּשָׁלָ֑͏ִם וְאֶת־הַֽמְקַטְּרִ֣ים לַבַּ֗עַל לַשֶּׁ֤מֶשׁ וְלַיָּרֵ֙חַ֙ וְלַמַּזָּל֔וֹת וּלְכֹ֖ל צְבָ֥א הַשָּׁמָֽיִם׃
+And he put down the idolatrous priests, whom the kings of Judah had ordained to offer in the high places in the cities of Judah, and in the places round about Jerusalem; them also that offered unto Baal, to the sun, and to the moon, and to the constellations, and to all the host of heaven.
+II Kings 23:6
+וַיֹּצֵ֣א אֶת־הָאֲשֵׁרָה֩ מִבֵּ֨ית יְהֹוָ֜ה מִח֤וּץ לִירוּשָׁלַ֙͏ִם֙ אֶל־נַ֣חַל קִדְר֔וֹן וַיִּשְׂרֹ֥ף אֹתָ֛הּ בְּנַ֥חַל קִדְר֖וֹן וַיָּ֣דֶק לְעָפָ֑ר וַיַּשְׁלֵךְ֙ אֶת־עֲפָרָ֔הּ עַל־קֶ֖בֶר בְּנֵ֥י הָעָֽם׃
+And he brought out the Asherah from the house of the LORD, without Jerusalem, unto the brook Kidron, and burned it at the brook Kidron, and stamped it small to powder, and cast the powder thereof upon the graves of the common people.
+II Kings 23:7
+וַיִּתֹּץ֙ אֶת־בָּתֵּ֣י הַקְּדֵשִׁ֔ים אֲשֶׁ֖ר בְּבֵ֣ית יְהֹוָ֑ה אֲשֶׁ֣ר הַנָּשִׁ֗ים אֹרְג֥וֹת שָׁ֛ם בָּתִּ֖ים לָאֲשֵׁרָֽה׃
+And he broke down the houses of the sodomites, that were in the house of the LORD, where the women wove coverings for the Asherah.
+II Kings 23:8
+וַיָּבֵ֤א אֶת־כׇּל־הַכֹּֽהֲנִים֙ מֵעָרֵ֣י יְהוּדָ֔ה וַיְטַמֵּ֣א אֶת־הַבָּמ֗וֹת אֲשֶׁ֤ר קִטְּרֽוּ־שָׁ֙מָּה֙ הַכֹּ֣הֲנִ֔ים מִגֶּ֖בַע עַד־בְּאֵ֣ר שָׁ֑בַע וְנָתַ֞ץ אֶת־בָּמ֣וֹת הַשְּׁעָרִ֗ים אֲשֶׁר־פֶּ֜תַח שַׁ֤עַר יְהוֹשֻׁ֙עַ֙ שַׂר־הָעִ֔יר אֲשֶֽׁר־עַל־שְׂמֹ֥אול אִ֖ישׁ בְּשַׁ֥עַר הָעִֽיר׃
+And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had made offerings, from Geba to Beer-sheba; and he broke down the high places of the gates that were at the entrance of the gate of Joshua the governor of the city, which were on a man’s left hand as he entered the gate of the city.
+II Kings 23:9
+אַ֗ךְ לֹ֤א יַעֲלוּ֙ כֹּהֲנֵ֣י הַבָּמ֔וֹת אֶל־מִזְבַּ֥ח יְהֹוָ֖ה בִּירוּשָׁלָ֑͏ִם כִּ֛י אִם־אָכְל֥וּ מַצּ֖וֹת בְּת֥וֹךְ אֲחֵיהֶֽם׃
+Nevertheless the priests of the high places came not up to the altar of the LORD in Jerusalem, but they did eat unleavened bread among their brethren.
+https://www.sefaria.org/II%20Kings%2023
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+II Kings 23:21-23:25
+II Kings 23:21
+וַיְצַ֤ו הַמֶּ֙לֶךְ֙ אֶת־כׇּל־הָעָ֣ם לֵאמֹ֔ר עֲשׂ֣וּ פֶ֔סַח לַיהֹוָ֖ה אֱלֹהֵיכֶ֑ם כַּכָּת֕וּב עַ֛ל סֵ֥פֶר הַבְּרִ֖ית הַזֶּֽה׃
+And the king commanded all the people, saying: ‘Keep the passover unto the LORD your God, as it is written in this book of the covenant.’
+II Kings 23:22
+כִּ֣י לֹ֤א נַֽעֲשָׂה֙ כַּפֶּ֣סַח הַזֶּ֔ה מִימֵי֙ הַשֹּׁ֣פְטִ֔ים אֲשֶׁ֥ר שָׁפְט֖וּ אֶת־יִשְׂרָאֵ֑ל וְכֹ֗ל יְמֵ֛י מַלְכֵ֥י יִשְׂרָאֵ֖ל וּמַלְכֵ֥י יְהוּדָֽה׃
+For there was not kept such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;
+II Kings 23:23
+כִּ֗י אִם־בִּשְׁמֹנֶ֤ה עֶשְׂרֵה֙ שָׁנָ֔ה לַמֶּ֖לֶךְ יֹאשִׁיָּ֑הוּ נַעֲשָׂ֞ה הַפֶּ֧סַח הַזֶּ֛ה לַיהֹוָ֖ה בִּירוּשָׁלָֽ͏ִם׃
+but in the eighteenth year of king Josiah was this passover kept to the LORD in Jerusalem.
+II Kings 23:24
+וְגַ֣ם אֶת־הָאֹב֣וֹת וְאֶת־הַ֠יִּדְּעֹנִ֠ים וְאֶת־הַתְּרָפִ֨ים וְאֶת־הַגִּלֻּלִ֜ים וְאֵ֣ת כׇּל־הַשִּׁקֻּצִ֗ים אֲשֶׁ֤ר נִרְאוּ֙ בְּאֶ֤רֶץ יְהוּדָה֙ וּבִיר֣וּשָׁלַ֔͏ִם בִּעֵ֖ר יֹאשִׁיָּ֑הוּ לְ֠מַ֠עַן הָקִ֞ים אֶת־דִּבְרֵ֤י הַתּוֹרָה֙ הַכְּתֻבִ֣ים עַל־הַסֵּ֔פֶר אֲשֶׁ֥ר מָצָ֛א חִלְקִיָּ֥הוּ הַכֹּהֵ֖ן בֵּ֥ית יְהֹוָֽה׃
+Moreover them that divined by a ghost or a familiar spirit, and the teraphim, and the idols, and all the detestable things that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might confirm the words of the law which were written in the book that Hilkiah the priest found in the house of the LORD.
+II Kings 23:25
+וְכָמֹ֩הוּ֩ לֹא־הָיָ֨ה לְפָנָ֜יו מֶ֗לֶךְ אֲשֶׁר־שָׁ֤ב אֶל־יְהֹוָה֙ בְּכׇל־לְבָב֤וֹ וּבְכׇל־נַפְשׁוֹ֙ וּבְכׇל־מְאֹד֔וֹ כְּכֹ֖ל תּוֹרַ֣ת מֹשֶׁ֑ה וְאַחֲרָ֖יו לֹא־קָ֥ם כָּמֹֽהוּ׃
+And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
+https://www.sefaria.org/II%20Kings%2023
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

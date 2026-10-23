@@ -1,0 +1,186 @@
+Haftarah · Rosh Hashana I
+הפטרה · ראש השנה א׳
+
+How does a private petition become a public account of reversal? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד נעשית בקשה פרטית לסיפור ציבורי של היפוך? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does a private petition become a public account of reversal?
+כיצד נעשית בקשה פרטית לסיפור ציבורי של היפוך?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+I Samuel 1:1
+The household’s repeated pilgrimage exposes Hannah’s distress within a familiar religious routine. Worship does not initially make that distress legible to others. The narrative requires the reader to hear a person whom even a priest will first misunderstand.
+העלייה החוזרת של המשפחה חושפת את מצוקת חנה בתוך שגרה דתית מוכרת. העבודה אינה הופכת מיד את כאבה למובן. הקורא נדרש לשמוע מי שאפילו הכהן יבין תחילה שלא כראוי.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+I Samuel 1:27
+Hannah identifies the child as the answer to her petition and then fulfills her commitment. Receiving does not erase the promise made in vulnerability. Her action links gratitude with a costly responsibility rather than with possession alone.
+חנה מזהה את הילד כמענה לבקשתה ומקיימת את התחייבותה. הקבלה אינה מוחקת את ההבטחה שניתנה במצוקה. פעולתה מחברת הודיה לאחריות שיש לה מחיר ולא לבעלות בלבד.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+I Samuel 2:10
+The song moves through reversals of strength, hunger, fertility, and standing before ending with divine judgment and kingship. Hannah’s experience opens onto a larger account of power. The final horizon is wider than her own household’s relief.
+השירה עוברת בהיפוכי כוח, רעב, פריון ומעמד וחותמת בדין ובמלוכה. חוויית חנה פותחת תיאור רחב של כוח. אופק החתימה גדול מהקלה בבית אחד.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+I Samuel 1:1-2:10
+I Samuel 1:1
+וַיְהִי֩ אִ֨ישׁ אֶחָ֜ד מִן־הָרָמָתַ֛יִם צוֹפִ֖ים מֵהַ֣ר אֶפְרָ֑יִם וּשְׁמ֡וֹ אֶ֠לְקָנָ֠ה בֶּן־יְרֹחָ֧ם בֶּן־אֱלִיה֛וּא בֶּן־תֹּ֥חוּ בֶן־צ֖וּף אֶפְרָתִֽי׃
+Now there was a certain man of Ramathaim-zophim, of the hill-country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
+I Samuel 1:2
+וְלוֹ֙ שְׁתֵּ֣י נָשִׁ֔ים שֵׁ֤ם אַחַת֙ חַנָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית פְּנִנָּ֑ה וַיְהִ֤י לִפְנִנָּה֙ יְלָדִ֔ים וּלְחַנָּ֖ה אֵ֥ין יְלָדִֽים׃
+And he had two wives: the name of the one was Hannah, and the name of the other Peninnah; and Peninnah had children, but Hannah had no children.
+I Samuel 1:3
+וְעָלָה֩ הָאִ֨ישׁ הַה֤וּא מֵֽעִירוֹ֙ מִיָּמִ֣ים  ׀  יָמִ֔ימָה לְהִֽשְׁתַּחֲוֺ֧ת וְלִזְבֹּ֛חַ לַיהֹוָ֥ה צְבָא֖וֹת בְּשִׁלֹ֑ה וְשָׁ֞ם שְׁנֵ֣י בְנֵֽי־עֵלִ֗י חׇפְנִי֙ וּפִ֣נְחָ֔ס כֹּהֲנִ֖ים לַיהֹוָֽה׃
+And this man went up out of his city from year to year to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, were there priests unto the LORD.
+I Samuel 1:4
+וַיְהִ֣י הַיּ֔וֹם וַיִּזְבַּ֖ח אֶלְקָנָ֑ה וְנָתַ֞ן לִפְנִנָּ֣ה אִשְׁתּ֗וֹ וּֽלְכׇל־בָּנֶ֛יהָ וּבְנוֹתֶ֖יהָ מָנֽוֹת׃
+And it came to pass upon a day, when Elkanah sacrificed, that he gave to Peninnah his wife, and to all her sons and her daughters, portions;
+I Samuel 1:5
+וּלְחַנָּ֕ה יִתֵּ֛ן מָנָ֥ה אַחַ֖ת אַפָּ֑יִם כִּ֤י אֶת־חַנָּה֙ אָהֵ֔ב וַיהֹוָ֖ה סָגַ֥ר רַחְמָֽהּ׃
+but unto Hannah he gave a double portion; for he loved Hannah, but the LORD had shut up her womb.
+I Samuel 1:6
+וְכִעֲסַ֤תָּה צָרָתָהּ֙ גַּם־כַּ֔עַס בַּעֲב֖וּר הַרְּעִמָ֑הּ כִּֽי־סָגַ֥ר יְהֹוָ֖ה בְּעַ֥ד רַחְמָֽהּ׃
+And her rival vexed her sore, to make her fret, because the LORD had shut up her womb.
+I Samuel 1:7
+וְכֵ֨ן יַעֲשֶׂ֜ה שָׁנָ֣ה בְשָׁנָ֗ה מִדֵּ֤י עֲלֹתָהּ֙ בְּבֵ֣ית יְהֹוָ֔ה כֵּ֖ן תַּכְעִסֶ֑נָּה וַתִּבְכֶּ֖ה וְלֹ֥א תֹאכַֽל׃
+And as he did so year by year, when she went up to the house of the LORD, so she vexed her; therefore she wept, and would not eat.
+I Samuel 1:8
+וַיֹּ֨אמֶר לָ֜הּ אֶלְקָנָ֣ה אִישָׁ֗הּ חַנָּה֙ לָ֣מֶה תִבְכִּ֗י וְלָ֙מֶה֙ לֹ֣א תֹֽאכְלִ֔י וְלָ֖מֶה יֵרַ֣ע לְבָבֵ֑ךְ הֲל֤וֹא אָֽנֹכִי֙ ט֣וֹב לָ֔ךְ מֵעֲשָׂרָ֖ה בָּנִֽים׃
+And Elkanah her husband said unto her: ‘Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?’
+I Samuel 1:9
+וַתָּ֣קׇם חַנָּ֔ה אַחֲרֵ֛י אׇכְלָ֥הֿ בְשִׁלֹ֖ה וְאַחֲרֵ֣י שָׁתֹ֑ה וְעֵלִ֣י הַכֹּהֵ֗ן יֹשֵׁב֙ עַל־הַכִּסֵּ֔א עַל־מְזוּזַ֖ת הֵיכַ֥ל יְהֹוָֽה׃
+So Hannah rose up after they had eaten in Shiloh, and after they had drunk—now Eli the priest sat upon his seat by the door-post of the temple of the LORD;
+I Samuel 1:10
+וְהִ֖יא מָ֣רַת נָ֑פֶשׁ וַתִּתְפַּלֵּ֥ל עַל־יְהֹוָ֖ה וּבָכֹ֥ה תִבְכֶּֽה׃
+and she was in bitterness of soul—and prayed unto the LORD, and wept sore.
+I Samuel 1:11
+וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהֹוָ֨ה צְבָא֜וֹת אִם־רָאֹ֥ה תִרְאֶ֣ה  ׀  בׇּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֙נִי֙ וְלֹא־תִשְׁכַּ֣ח אֶת־אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהֹוָה֙ כׇּל־יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא־יַעֲלֶ֥ה עַל־רֹאשֽׁוֹ׃
+And she vowed a vow, and said: ‘O LORD of hosts, if Thou wilt indeed look on the affliction of Thy handmaid, and remember me, and not forget Thy handmaid, but wilt give unto Thy handmaid a man-child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head.’
+I Samuel 1:12
+וְהָיָה֙ כִּ֣י הִרְבְּתָ֔ה לְהִתְפַּלֵּ֖ל לִפְנֵ֣י יְהֹוָ֑ה וְעֵלִ֖י שֹׁמֵ֥ר אֶת־פִּֽיהָ׃
+And it came to pass, as she prayed long before the LORD, that Eli watched her mouth.
+I Samuel 1:13
+וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל־לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה׃
+Now Hannah, she spoke in her heart; only her lips moved, but her voice could not be heard; therefore, Eli thought she had been drunken.
+I Samuel 1:14
+וַיֹּ֤אמֶר אֵלֶ֙יהָ֙ עֵלִ֔י עַד־מָתַ֖י תִּשְׁתַּכָּרִ֑ין הָסִ֥ירִי אֶת־יֵינֵ֖ךְ מֵעָלָֽיִךְ׃
+And Eli said unto her: ‘How long wilt thou be drunken? put away thy wine from thee.’
+I Samuel 1:15
+וַתַּ֨עַן חַנָּ֤ה וַתֹּ֙אמֶר֙ לֹ֣א אֲדֹנִ֔י אִשָּׁ֤ה קְשַׁת־ר֙וּחַ֙ אָנֹ֔כִי וְיַ֥יִן וְשֵׁכָ֖ר לֹ֣א שָׁתִ֑יתִי וָאֶשְׁפֹּ֥ךְ אֶת־נַפְשִׁ֖י לִפְנֵ֥י יְהֹוָֽה׃
+And Hannah answered and said: ‘No, my lord, I am a woman of a sorrowful spirit; I have drunk neither wine nor strong drink, but I poured out my soul before the LORD.
+I Samuel 1:16
+אַל־תִּתֵּן֙ אֶת־אֲמָ֣תְךָ֔ לִפְנֵ֖י בַּת־בְּלִיָּ֑עַל כִּֽי־מֵרֹ֥ב שִׂיחִ֛י וְכַעְסִ֖י דִּבַּ֥רְתִּי עַד־הֵֽנָּה׃
+Count not thy handmaid for a wicked woman: for out of the abundance of my complaint and my vexation have I spoken hitherto.’
+I Samuel 1:17
+וַיַּ֧עַן עֵלִ֛י וַיֹּ֖אמֶר לְכִ֣י לְשָׁל֑וֹם וֵאלֹהֵ֣י יִשְׂרָאֵ֗ל יִתֵּן֙ אֶת־שֵׁ֣לָתֵ֔ךְ אֲשֶׁ֥ר שָׁאַ֖לְתְּ מֵעִמּֽוֹ׃
+Then Eli answered and said: ‘Go in peace, and the God of Israel grant thy petition that thou hast asked of Him.’
+I Samuel 1:18
+וַתֹּ֕אמֶר תִּמְצָ֧א שִׁפְחָתְךָ֛ חֵ֖ן בְּעֵינֶ֑יךָ וַתֵּ֨לֶךְ הָאִשָּׁ֤ה לְדַרְכָּהּ֙ וַתֹּאכַ֔ל וּפָנֶ֥יהָ לֹא־הָֽיוּ־לָ֖הּ עֽוֹד׃
+And she said: ‘Let thy servant find favour in thy sight.’ So the woman went her way, and did eat, and her countenance was no more sad.
+I Samuel 1:19
+וַיַּשְׁכִּ֣מוּ בַבֹּ֗קֶר וַיִּֽשְׁתַּחֲווּ֙ לִפְנֵ֣י יְהֹוָ֔ה וַיָּשֻׁ֛בוּ וַיָּבֹ֥אוּ אֶל־בֵּיתָ֖ם הָרָמָ֑תָה וַיֵּ֤דַע אֶלְקָנָה֙ אֶת־חַנָּ֣ה אִשְׁתּ֔וֹ וַֽיִּזְכְּרֶ֖הָ יְהֹוָֽה׃
+And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah; and Elkanah knew Hannah his wife; and the LORD remembered her.
+I Samuel 1:20
+וַֽיְהִי֙ לִתְקֻפ֣וֹת הַיָּמִ֔ים וַתַּ֥הַר חַנָּ֖ה וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֤א אֶת־שְׁמוֹ֙ שְׁמוּאֵ֔ל כִּ֥י מֵיְהֹוָ֖ה שְׁאִלְתִּֽיו׃
+And it came to pass, when the time was come about, that Hannah conceived, and bore a son; and she called his name Samuel: ‘because I have asked him of the LORD.’
+I Samuel 1:21
+וַיַּ֛עַל הָאִ֥ישׁ אֶלְקָנָ֖ה וְכׇל־בֵּית֑וֹ לִזְבֹּ֧חַ לַיהֹוָ֛ה אֶת־זֶ֥בַח הַיָּמִ֖ים וְאֶת־נִדְרֽוֹ׃
+And the man Elkanah, and all his house, went up to offer unto the LORD the yearly sacrifice, and his vow.
+I Samuel 1:22
+וְחַנָּ֖ה לֹ֣א עָלָ֑תָה כִּֽי־אָמְרָ֣ה לְאִישָׁ֗הּ עַ֣ד יִגָּמֵ֤ל הַנַּ֙עַר֙ וַהֲבִאֹתִ֗יו וְנִרְאָה֙ אֶת־פְּנֵ֣י יְהֹוָ֔ה וְיָ֥שַׁב שָׁ֖ם עַד־עוֹלָֽם׃
+But Hannah went not up; for she said unto her husband: ‘Until the child be weaned, when I will bring him, that he may appear before the LORD, and there abide for ever.’
+I Samuel 1:23
+וַיֹּ֣אמֶר לָהּ֩ אֶלְקָנָ֨ה אִישָׁ֜הּ עֲשִׂ֧י הַטּ֣וֹב בְּעֵינַ֗יִךְ שְׁבִי֙ עַד־גׇּמְלֵ֣ךְ אֹת֔וֹ אַ֛ךְ יָקֵ֥ם יְהֹוָ֖ה אֶת־דְּבָר֑וֹ וַתֵּ֤שֶׁב הָֽאִשָּׁה֙ וַתֵּ֣ינֶק אֶת־בְּנָ֔הּ עַד־גׇּמְלָ֖הּ אֹתֽוֹ׃
+And Elkanah her husband said unto her: ‘Do what seemeth thee good; tarry until thou have weaned him; only the LORD establish His word.’ So the woman tarried and gave her son suck, until she weaned him.
+I Samuel 1:24
+וַתַּעֲלֵ֨הוּ עִמָּ֜הּ כַּאֲשֶׁ֣ר גְּמָלַ֗תּוּ בְּפָרִ֤ים שְׁלֹשָׁה֙ וְאֵיפָ֨ה אַחַ֥ת קֶ֙מַח֙ וְנֵ֣בֶל יַ֔יִן וַתְּבִאֵ֥הוּ בֵית־יְהֹוָ֖ה שִׁל֑וֹ וְהַנַּ֖עַר נָֽעַר׃
+And when she had weaned him, she took him up with her, with three bullocks, and one ephah of meal, and a bottle of wine, and brought him unto the house of the LORD in Shiloh; and the child was young.
+I Samuel 1:25
+וַֽיִּשְׁחֲט֖וּ אֶת־הַפָּ֑ר וַיָּבִ֥אוּ אֶת־הַנַּ֖עַר אֶל־עֵלִֽי׃
+And when the bullock was slain, the child was brought to Eli.
+I Samuel 1:26
+וַתֹּ֙אמֶר֙ בִּ֣י אֲדֹנִ֔י חֵ֥י נַפְשְׁךָ֖ אֲדֹנִ֑י אֲנִ֣י הָאִשָּׁ֗ה הַנִּצֶּ֤בֶת עִמְּכָה֙ בָּזֶ֔ה לְהִתְפַּלֵּ֖ל אֶל־יְהֹוָֽה׃
+And she said: ‘Oh, my lord, as thy soul liveth, my lord, I am the woman that stood by thee here, praying unto the LORD.
+I Samuel 1:27
+אֶל־הַנַּ֥עַר הַזֶּ֖ה הִתְפַּלָּ֑לְתִּי וַיִּתֵּ֨ן יְהֹוָ֥ה לִי֙ אֶת־שְׁאֵ֣לָתִ֔י אֲשֶׁ֥ר שָׁאַ֖לְתִּי מֵעִמּֽוֹ׃
+For this child I prayed; and the LORD hath granted me my petition which I asked of Him;
+I Samuel 1:28
+וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֙הוּ֙ לַֽיהֹוָ֔ה כׇּל־הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַיהֹוָ֑ה וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַֽיהֹוָֽה׃  {ס}
+therefore I also have lent him to the LORD; as long as he liveth he is lent to the LORD.’ And he worshipped the LORD there.
+I Samuel 2:1
+וַתִּתְפַּלֵּ֤ל חַנָּה֙ וַתֹּאמַ֔ר עָלַ֤ץ לִבִּי֙ בַּֽיהֹוָ֔ה רָ֥מָה קַרְנִ֖י בַּֽיהֹוָ֑ה רָ֤חַב פִּי֙ עַל־א֣וֹיְבַ֔י כִּ֥י שָׂמַ֖חְתִּי בִּישׁוּעָתֶֽךָ׃
+And Hannah prayed, and said: My heart exulteth in the LORD, My horn is exalted in the LORD; My mouth is enlarged over mine enemies; Because I rejoice in Thy salvation.
+I Samuel 2:2
+אֵין־קָד֥וֹשׁ כַּיהֹוָ֖ה כִּ֣י אֵ֣ין בִּלְתֶּ֑ךָ וְאֵ֥ין צ֖וּר כֵּאלֹהֵֽינוּ׃
+There is none holy as the LORD, For there is none beside Thee; Neither is there any rock like our God.
+I Samuel 2:3
+אַל־תַּרְבּ֤וּ תְדַבְּרוּ֙ גְּבֹהָ֣ה גְבֹהָ֔ה יֵצֵ֥א עָתָ֖ק מִפִּיכֶ֑ם כִּ֣י אֵ֤ל דֵּעוֹת֙ יְהֹוָ֔ה   (ולא)   [וְל֥וֹ]   נִתְכְּנ֖וּ עֲלִלֽוֹת׃
+Multiply not exceeding proud talk; Let not arrogancy come out of your mouth; For the LORD is a God of knowledge, And by Him actions are weighed.
+I Samuel 2:4
+קֶ֥שֶׁת גִּבֹּרִ֖ים חַתִּ֑ים וְנִכְשָׁלִ֖ים אָ֥זְרוּ חָֽיִל׃
+The bows of the mighty men are broken, And they that stumbled are girded with strength.
+I Samuel 2:5
+שְׂבֵעִ֤ים בַּלֶּ֙חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד־עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה וְרַבַּ֥ת בָּנִ֖ים אֻמְלָֽלָה׃
+They that were full have hired out themselves for bread; And they that were hungry have ceased; While the barren hath borne seven, She that had many children hath languished.
+I Samuel 2:6
+יְהֹוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל׃
+The LORD killeth, and maketh alive; He bringeth down to the grave, and bringeth up.
+I Samuel 2:7
+יְהֹוָ֖ה מוֹרִ֣ישׁ וּמַעֲשִׁ֑יר מַשְׁפִּ֖יל אַף־מְרוֹמֵֽם׃
+The LORD maketh poor, and maketh rich; He bringeth low, He also lifteth up. .
+I Samuel 2:8
+מֵקִ֨ים מֵעָפָ֜ר דָּ֗ל מֵֽאַשְׁפֹּת֙ יָרִ֣ים אֶבְי֔וֹן לְהוֹשִׁיב֙ עִם־נְדִיבִ֔ים וְכִסֵּ֥א כָב֖וֹד יַנְחִלֵ֑ם כִּ֤י לַֽיהֹוָה֙ מְצֻ֣קֵי אֶ֔רֶץ וַיָּ֥שֶׁת עֲלֵיהֶ֖ם תֵּבֵֽל׃
+He raiseth up the poor out of the dust, He lifteth up the needy from the dung-hill, To make them sit with princes, And inherit the throne of glory; For the pillars of the earth are the LORD’S, And He hath set the world upon them.
+I Samuel 2:9
+רַגְלֵ֤י חֲסִידָו֙ יִשְׁמֹ֔ר וּרְשָׁעִ֖ים בַּחֹ֣שֶׁךְ יִדָּ֑מּוּ כִּי־לֹ֥א בְכֹ֖חַ יִגְבַּר־אִֽישׁ׃
+He will keep the feet of His holy ones, But the wicked shall be put to silence in darkness; For not by strength shall man prevail.
+I Samuel 2:10
+יְהֹוָ֞ה יֵחַ֣תּוּ  מְרִיבָ֗ו   עָלָו֙  בַּשָּׁמַ֣יִם יַרְעֵ֔ם יְהֹוָ֖ה יָדִ֣ין אַפְסֵי־אָ֑רֶץ וְיִתֶּן־עֹ֣ז לְמַלְכּ֔וֹ וְיָרֵ֖ם קֶ֥רֶן מְשִׁיחֽוֹ׃  {פ}
+They that strive with the LORD shall be broken to pieces; Against them will He thunder in heaven; The LORD will judge the ends of the earth; And He will give strength unto His king, And exalt the horn of His anointed.
+https://www.sefaria.org/I%20Samuel%201
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/I%20Samuel%202
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

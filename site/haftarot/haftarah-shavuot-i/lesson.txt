@@ -1,0 +1,160 @@
+Haftarah · Shavuot I
+הפטרה · שבועות א׳ בחו״ל
+
+How does a vision of divine presence resist confinement to a single place? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד מתנגד חזון השכינה לכליאתה במקום יחיד? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does a vision of divine presence resist confinement to a single place?
+כיצד מתנגד חזון השכינה לכליאתה במקום יחיד?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Ezekiel 1:1
+The vision opens among the exiles beside the river Chebar. Its location matters: divine encounter is not confined to the place from which the community has been displaced. The prophet names his circumstances before describing what exceeds them.
+החזון נפתח בתוך הגולה על נהר כבר. למקום חשיבות: המפגש האלוהי אינו כלוא במקום שממנו נעקר הציבור. הנביא מציין את נסיבותיו לפני תיאור מה שחורג מהן.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Ezekiel 1:20
+The living beings and wheels move in coordination with the spirit. Repeated qualifications about likeness keep the imagery from becoming a simple manufactured picture of God. Read the language’s care and limits alongside the overwhelming visual detail.
+החיות והאופנים נעים בתיאום עם הרוח. לשון הדמות החוזרת מונעת מן המראה להיעשות לתמונה מיוצרת ופשוטה של האל. יש לקרוא את גבולות הלשון בצד ריבוי הפרטים.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Ezekiel 3:12
+The appended blessing moves from the extended vision to a heard acclamation. The liturgical leap from 1:28 is preserved. At Shavuot the encounter expands the language of revelation, while the full source makes clear that this is Ezekiel’s distinct exilic vision.
+הברכה המצורפת מעבירה מן המראה הממושך אל קול הנשמע. הדילוג מא׳:כ״ח נשמר. בשבועות המפגש מרחיב את שפת ההתגלות, אך המקור המלא מבהיר שזהו חזון הגלות המסוים של יחזקאל.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Ezekiel 1:1-1:28
+Ezekiel 1:1
+וַיְהִ֣י  ׀  בִּשְׁלֹשִׁ֣ים שָׁנָ֗ה בָּֽרְבִיעִי֙ בַּחֲמִשָּׁ֣ה לַחֹ֔דֶשׁ וַאֲנִ֥י בְתֽוֹךְ־הַגּוֹלָ֖ה עַל־נְהַר־כְּבָ֑ר נִפְתְּחוּ֙ הַשָּׁמַ֔יִם וָאֶרְאֶ֖ה מַרְא֥וֹת אֱלֹהִֽים׃
+Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar that the heavens were opened, and I saw visions of God.
+Ezekiel 1:2
+בַּחֲמִשָּׁ֖ה לַחֹ֑דֶשׁ הִ֚יא הַשָּׁנָ֣ה הַחֲמִישִׁ֔ית לְגָל֖וּת הַמֶּ֥לֶךְ יוֹיָכִֽין׃
+In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity,
+Ezekiel 1:3
+הָיֹ֣ה הָיָ֣ה דְבַר־יְ֠הֹוָ֠ה אֶל־יְחֶזְקֵ֨אל בֶּן־בּוּזִ֧י הַכֹּהֵ֛ן בְּאֶ֥רֶץ כַּשְׂדִּ֖ים עַל־נְהַר־כְּבָ֑ר וַתְּהִ֥י עָלָ֛יו שָׁ֖ם יַד־יְהֹוָֽה׃
+the word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
+Ezekiel 1:4
+וָאֵ֡רֶא וְהִנֵּה֩ ר֨וּחַ סְעָרָ֜ה בָּאָ֣ה מִן־הַצָּפ֗וֹן עָנָ֤ן גָּדוֹל֙ וְאֵ֣שׁ מִתְלַקַּ֔חַת וְנֹ֥גַֽהּ־ל֖וֹ סָבִ֑יב וּמִ֨תּוֹכָ֔הּ כְּעֵ֥ין הַחַשְׁמַ֖ל מִתּ֥וֹךְ הָאֵֽשׁ׃
+And I looked, and, behold, a stormy wind came out of the north, a great cloud, with a fire flashing up, so that a brightness was round about it; and out of the midst thereof as the colour of electrum, out of the midst of the fire.
+Ezekiel 1:5
+וּמִ֨תּוֹכָ֔הּ דְּמ֖וּת אַרְבַּ֣ע חַיּ֑וֹת וְזֶה֙ מַרְאֵיהֶ֔ן דְּמ֥וּת אָדָ֖ם לָהֵֽנָּה׃
+And out of the midst thereof came the likeness of four living creatures. And this was their appearance: they had the likeness of a man.
+Ezekiel 1:6
+וְאַרְבָּעָ֥ה פָנִ֖ים לְאֶחָ֑ת וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאַחַ֥ת לָהֶֽם׃
+And every one had four faces, and every one of them had four wings.
+Ezekiel 1:7
+וְרַגְלֵיהֶ֖ם רֶ֣גֶל יְשָׁרָ֑ה וְכַ֣ף רַגְלֵיהֶ֗ם כְּכַף֙ רֶ֣גֶל עֵ֔גֶל וְנֹ֣צְצִ֔ים כְּעֵ֖ין נְחֹ֥שֶׁת קָלָֽל׃
+And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot; and they sparkled like the colour of burnished brass.
+Ezekiel 1:8
+(וידו)   [וִידֵ֣י]   אָדָ֗ם מִתַּ֙חַת֙ כַּנְפֵיהֶ֔ם עַ֖ל אַרְבַּ֣עַת רִבְעֵיהֶ֑ם וּפְנֵיהֶ֥ם וְכַנְפֵיהֶ֖ם לְאַרְבַּעְתָּֽם׃
+And they had the hands of a man under their wings on their four sides; and as for the faces and wings of them four,
+Ezekiel 1:9
+חֹ֥בְרֹ֛ת אִשָּׁ֥ה אֶל־אֲחוֹתָ֖הּ כַּנְפֵיהֶ֑ם לֹא־יִסַּ֣בּוּ בְלֶכְתָּ֔ן אִ֛ישׁ אֶל־עֵ֥בֶר פָּנָ֖יו יֵלֵֽכוּ׃
+their wings were joined one to another; they turned not when they went; they went every one straight forward.
+Ezekiel 1:10
+וּדְמ֣וּת פְּנֵיהֶם֮ פְּנֵ֣י אָדָם֒ וּפְנֵ֨י אַרְיֵ֤ה אֶל־הַיָּמִין֙ לְאַרְבַּעְתָּ֔ם וּפְנֵי־שׁ֥וֹר מֵהַשְּׂמֹ֖אול לְאַרְבַּעְתָּ֑ן וּפְנֵי־נֶ֖שֶׁר לְאַרְבַּעְתָּֽן׃
+As for the likeness of their faces, they had the face of a man; and they four had the face of a lion on the right side; and they four had the face of an ox on the left side; they four had also the face of an eagle.
+Ezekiel 1:11
+וּפְנֵיהֶ֕ם וְכַנְפֵיהֶ֥ם פְּרֻד֖וֹת מִלְמָ֑עְלָה לְאִ֗ישׁ שְׁ֚תַּיִם חֹבְר֣וֹת אִ֔ישׁ וּשְׁתַּ֣יִם מְכַסּ֔וֹת אֵ֖ת גְּוִיֹּתֵיהֶֽנָה׃
+Thus were their faces; and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.
+Ezekiel 1:12
+וְאִ֛ישׁ אֶל־עֵ֥בֶר פָּנָ֖יו יֵלֵ֑כוּ אֶ֣ל אֲשֶׁר֩ יִֽהְיֶה־שָּׁ֨מָּה הָר֤וּחַ לָלֶ֙כֶת֙ יֵלֵ֔כוּ לֹ֥א יִסַּ֖בּוּ בְּלֶכְתָּֽן׃
+And they went every one straight forward; whither the spirit was to go, they went; they turned not when they went.
+Ezekiel 1:13
+וּדְמ֨וּת הַחַיּ֜וֹת מַרְאֵיהֶ֣ם כְּגַחֲלֵי־אֵ֗שׁ בֹּֽעֲרוֹת֙ כְּמַרְאֵ֣ה הַלַּפִּדִ֔ים הִ֕יא מִתְהַלֶּ֖כֶת בֵּ֣ין הַחַיּ֑וֹת וְנֹ֣גַהּ לָאֵ֔שׁ וּמִן־הָאֵ֖שׁ יוֹצֵ֥א בָרָֽק׃
+As for the likeness of the living creatures, their appearance was like coals of fire, burning like the appearance of torches; it flashed up and down among the living creatures; and there was brightness to the fire, and out of the fire went forth lightning.
+Ezekiel 1:14
+וְהַחַיּ֖וֹת רָצ֣וֹא וָשׁ֑וֹב כְּמַרְאֵ֖ה הַבָּזָֽק׃
+And the living creatures ran and returned as the appearance of a flash of lightning.
+Ezekiel 1:15
+וָאֵ֖רֶא הַחַיּ֑וֹת וְהִנֵּה֩ אוֹפַ֨ן אֶחָ֥ד בָּאָ֛רֶץ אֵ֥צֶל הַחַיּ֖וֹת לְאַרְבַּ֥עַת פָּנָֽיו׃
+Now as I beheld the living creatures, behold one wheel at the bottom hard by the living creatures, at the four faces thereof.
+Ezekiel 1:16
+מַרְאֵ֨ה הָאוֹפַנִּ֤ים וּמַֽעֲשֵׂיהֶם֙ כְּעֵ֣ין תַּרְשִׁ֔ישׁ וּדְמ֥וּת אֶחָ֖ד לְאַרְבַּעְתָּ֑ן וּמַרְאֵיהֶם֙ וּמַ֣עֲשֵׂיהֶ֔ם כַּאֲשֶׁ֛ר יִהְיֶ֥ה הָאוֹפַ֖ן בְּת֥וֹךְ הָאוֹפָֽן׃
+The appearance of the wheels and their work was like unto the colour of a beryl; and they four had one likeness; and their appearance and their work was as it were a wheel within a wheel.
+Ezekiel 1:17
+עַל־אַרְבַּ֥עַת רִבְעֵיהֶ֖ן בְּלֶכְתָּ֣ם יֵלֵ֑כוּ לֹ֥א יִסַּ֖בּוּ בְּלֶכְתָּֽן׃
+When they went, they went toward their four sides; they turned not when they went.
+Ezekiel 1:18
+וְגַ֨בֵּיהֶ֔ן וְגֹ֥בַהּ לָהֶ֖ם וְיִרְאָ֣ה לָהֶ֑ם וְגַבֹּתָ֗ם מְלֵאֹ֥ת עֵינַ֛יִם סָבִ֖יב לְאַרְבַּעְתָּֽן׃
+As for their rings, they were high and they were dreadful; and they four had their rings full of eyes round about.
+Ezekiel 1:19
+וּבְלֶ֙כֶת֙ הַחַיּ֔וֹת יֵלְכ֥וּ הָאוֹפַנִּ֖ים אֶצְלָ֑ם וּבְהִנָּשֵׂ֤א הַחַיּוֹת֙ מֵעַ֣ל הָאָ֔רֶץ יִנָּשְׂא֖וּ הָאוֹפַנִּֽים׃
+And when the living creatures went, the wheels went hard by them; and when the living creatures were lifted up from the bottom, the wheels were lifted up.
+Ezekiel 1:20
+עַ֣ל אֲשֶׁר֩ יִֽהְיֶה־שָּׁ֨ם הָר֤וּחַ לָלֶ֙כֶת֙ יֵלֵ֔כוּ שָׁ֥מָּה הָר֖וּחַ לָלֶ֑כֶת וְהָאוֹפַנִּ֗ים יִנָּֽשְׂאוּ֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃
+Whithersoever the spirit was to go, as the spirit was to go thither, so they went; and the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.
+Ezekiel 1:21
+בְּלֶכְתָּ֣ם יֵלֵ֔כוּ וּבְעׇמְדָ֖ם יַעֲמֹ֑דוּ וּֽבְהִנָּשְׂאָ֞ם מֵעַ֣ל הָאָ֗רֶץ יִנָּשְׂא֤וּ הָאֽוֹפַנִּים֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃
+When those went, these went, and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.
+Ezekiel 1:22
+וּדְמ֞וּת עַל־רָאשֵׁ֤י הַחַיָּה֙ רָקִ֔יעַ כְּעֵ֖ין הַקֶּ֣רַח הַנּוֹרָ֑א נָט֥וּי עַל־רָאשֵׁיהֶ֖ם מִלְמָֽעְלָה׃
+And over the heads of the living creatures there was the likeness of a firmament, like the colour of the terrible ice, stretched forth over their heads above.
+Ezekiel 1:23
+וְתַ֙חַת֙ הָרָקִ֔יעַ כַּנְפֵיהֶ֣ם יְשָׁר֔וֹת אִשָּׁ֖ה אֶל־אֲחוֹתָ֑הּ לְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה וּלְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה אֵ֖ת גְּוִיֹּתֵיהֶֽם׃
+And under the firmament were their wings conformable the one to the other; this one of them had two which covered, and that one of them had two which covered, their bodies.
+Ezekiel 1:24
+וָאֶשְׁמַ֣ע אֶת־ק֣וֹל כַּנְפֵיהֶ֡ם כְּקוֹל֩ מַ֨יִם רַבִּ֤ים כְּקוֹל־שַׁדַּי֙ בְּלֶכְתָּ֔ם ק֥וֹל הֲמֻלָּ֖ה כְּק֣וֹל מַחֲנֶ֑ה בְּעׇמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃
+And when they went, I heard the noise of their wings like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of a host; when they stood, they let down their wings.
+Ezekiel 1:25
+וַיְהִי־ק֕וֹל מֵעַ֕ל לָרָקִ֖יעַ אֲשֶׁ֣ר עַל־רֹאשָׁ֑ם בְּעׇמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃
+For, when there was a voice above the firmament that was over their heads, as they stood, they let down their wings.
+Ezekiel 1:26
+וּמִמַּ֗עַל לָרָקִ֙יעַ֙ אֲשֶׁ֣ר עַל־רֹאשָׁ֔ם כְּמַרְאֵ֥ה אֶבֶן־סַפִּ֖יר דְּמ֣וּת כִּסֵּ֑א וְעַל֙ דְּמ֣וּת הַכִּסֵּ֔א דְּמ֞וּת כְּמַרְאֵ֥ה אָדָ֛ם עָלָ֖יו מִלְמָֽעְלָה׃
+And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone; and upon the likeness of the throne was a likeness as the appearance of a man upon it above.
+Ezekiel 1:27
+וָאֵ֣רֶא  ׀  כְּעֵ֣ין חַשְׁמַ֗ל כְּמַרְאֵה־אֵ֤שׁ בֵּֽית־לָהּ֙ סָבִ֔יב מִמַּרְאֵ֥ה מׇתְנָ֖יו וּלְמָ֑עְלָה וּמִמַּרְאֵ֤ה מׇתְנָיו֙ וּלְמַ֔טָּה רָאִ֙יתִי֙ כְּמַרְאֵה־אֵ֔שׁ וְנֹ֥גַֽהּ ל֖וֹ סָבִֽיב׃
+And I saw as the colour of electrum, as the appearance of fire round about enclosing it, from the appearance of his loins and upward; and from the appearance of his loins and downward I saw as it were the appearance of fire, and there was brightness round about him.
+Ezekiel 1:28
+כְּמַרְאֵ֣ה הַקֶּ֡שֶׁת אֲשֶׁר֩ יִהְיֶ֨ה בֶעָנָ֜ן בְּי֣וֹם הַגֶּ֗שֶׁם כֵּ֣ן מַרְאֵ֤ה הַנֹּ֙גַהּ֙ סָבִ֔יב ה֕וּא מַרְאֵ֖ה דְּמ֣וּת כְּבוֹד־יְהֹוָ֑ה וָֽאֶרְאֶה֙ וָאֶפֹּ֣ל עַל־פָּנַ֔י וָאֶשְׁמַ֖ע ק֥וֹל מְדַבֵּֽר׃  {פ}
+As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spoke.
+https://www.sefaria.org/Ezekiel.1
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Ezekiel 3:12
+Ezekiel 3:12
+וַתִּשָּׂאֵ֣נִי ר֔וּחַ וָאֶשְׁמַ֣ע אַחֲרַ֔י ק֖וֹל רַ֣עַשׁ גָּד֑וֹל בָּר֥וּךְ כְּבוֹד־יְהֹוָ֖ה מִמְּקוֹמֽוֹ׃
+Then a spirit lifted me up, and I heard behind me the voice of a great rushing: ‘Blessed be the glory of the LORD from His place’;
+https://www.sefaria.org/Ezekiel.3
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

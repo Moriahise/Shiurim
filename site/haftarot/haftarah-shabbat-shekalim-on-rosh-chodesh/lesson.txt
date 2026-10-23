@@ -1,0 +1,194 @@
+Haftarah · Shabbat Shekalim (on Rosh Chodesh)
+הפטרה · שבת שקלים בראש חודש
+
+What turns a sacred contribution into accountable repair? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מה הופך תרומה מקודשת לתיקון שיש בו אחריות? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What turns a sacred contribution into accountable repair?
+מה הופך תרומה מקודשת לתיקון שיש בו אחריות?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+II Kings 12:1
+The account introduces a reign in which right conduct coexists with incomplete reform. The Temple repair will require more than a ruler’s favorable intention. The Sephardic reading begins earlier with the covenant in 11:17, supplying an additional institutional frame.
+המלכות נפתחת במעשה ישר בצד תיקון שאינו שלם. תיקון הבית ידרוש יותר מכוונה טובה של שליט. הנוסח הספרדי מתחיל בברית שבי״א:י״ז ומוסיף מסגרת מוסדית.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+II Kings 12:10
+The collection chest changes how money is gathered and counted. The narrative follows a failure of the earlier arrangement. Accountable provision depends on altering a procedure when its intended public benefit is not being achieved.
+ארון האיסוף משנה את דרך קבלת הכסף ומניינו. הסיפור בא אחרי כישלון ההסדר הקודם. אספקה אחראית דורשת לשנות הליך כאשר התועלת הציבורית שלשמה נקבע אינה מתממשת.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+II Kings 12:17
+The ending distinguishes money assigned to repairs from other priestly funds. Precise allocation matters to the sacred purpose. Read the account’s trust in the workers alongside its clear institutional boundaries, rather than turning trust into an excuse for undefined responsibility.
+הסיום מבחין בין כסף תיקון הבית לכספי כהנים אחרים. להקצאה המדויקת משמעות מקודשת. האמון בעובדים ניצב בצד גבולות מוסדיים ברורים, ואינו תירוץ לאחריות בלתי מוגדרת.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+II Kings 12:1-12:17
+II Kings 12:1
+בֶּן־שֶׁ֥בַע שָׁנִ֖ים יְהוֹאָ֥שׁ בְּמׇלְכֽוֹ׃  {פ}
+Jehoash was seven years old when he began to reign.
+II Kings 12:2
+בִּשְׁנַת־שֶׁ֤בַע לְיֵהוּא֙ מָלַ֣ךְ יְהוֹאָ֔שׁ וְאַרְבָּעִ֣ים שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלָ֑͏ִם וְשֵׁ֣ם אִמּ֔וֹ צִבְיָ֖ה מִבְּאֵ֥ר שָֽׁבַע׃
+In the seventh year of Jehu began Jehoash to reign; and he reigned forty years in Jerusalem; and his mother’s name was Zibiah of Beer-sheba.
+II Kings 12:3
+וַיַּ֨עַשׂ יְהוֹאָ֧שׁ הַיָּשָׁ֛ר בְּעֵינֵ֥י יְהֹוָ֖ה כׇּל־יָמָ֑יו אֲשֶׁ֣ר הוֹרָ֔הוּ יְהוֹיָדָ֖ע הַכֹּהֵֽן׃
+And Jehoash did that which was right in the eyes of the LORD all his days wherein Jehoiada the priest instructed him.
+II Kings 12:4
+רַ֥ק הַבָּמ֖וֹת לֹא־סָ֑רוּ ע֥וֹד הָעָ֛ם מְזַבְּחִ֥ים וּֽמְקַטְּרִ֖ים בַּבָּמֽוֹת׃
+Howbeit the high places were not taken away; the people still sacrificed and offered in the high places.
+II Kings 12:5
+וַיֹּ֨אמֶר יְהוֹאָ֜שׁ אֶל־הַכֹּהֲנִ֗ים כֹּל֩ כֶּ֨סֶף הַקֳּדָשִׁ֜ים אֲשֶׁר־יוּבָ֤א בֵית־יְהֹוָה֙ כֶּ֣סֶף עוֹבֵ֔ר אִ֕ישׁ כֶּ֥סֶף נַפְשׁ֖וֹת עֶרְכּ֑וֹ כׇּל־כֶּ֗סֶף אֲשֶׁ֤ר יַֽעֲלֶה֙ עַ֣ל לֶב־אִ֔ישׁ לְהָבִ֖יא בֵּ֥ית יְהֹוָֽה׃
+And Jehoash said to the priests: ‘All the money of the hallowed things that is brought into the house of the LORD, in current money, the money of the persons for whom each man is rated, all the money that cometh into any man’s heart to bring into the house of the LORD,
+II Kings 12:6
+יִקְח֤וּ לָהֶם֙ הַכֹּ֣הֲנִ֔ים אִ֖ישׁ מֵאֵ֣ת מַכָּר֑וֹ וְהֵ֗ם יְחַזְּקוּ֙ אֶת־בֶּ֣דֶק הַבַּ֔יִת לְכֹ֛ל אֲשֶׁר־יִמָּצֵ֥א שָׁ֖ם בָּֽדֶק׃  {פ}
+let the priests take it to them, every man from him that bestoweth it upon him; and they shall repair the breaches of the house, wheresoever any breach shall be found.’
+II Kings 12:7
+וַיְהִ֗י בִּשְׁנַ֨ת עֶשְׂרִ֧ים וְשָׁלֹ֛שׁ שָׁנָ֖ה לַמֶּ֣לֶךְ יְהוֹאָ֑שׁ לֹא־חִזְּק֥וּ הַכֹּהֲנִ֖ים אֶת־בֶּ֥דֶק הַבָּֽיִת׃
+But it was so, that in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house.
+II Kings 12:8
+וַיִּקְרָא֩ הַמֶּ֨לֶךְ יְהוֹאָ֜שׁ לִיהוֹיָדָ֤ע הַכֹּהֵן֙ וְלַכֹּ֣הֲנִ֔ים וַיֹּ֣אמֶר אֲלֵהֶ֔ם מַדּ֛וּעַ אֵינְכֶ֥ם מְחַזְּקִ֖ים אֶת־בֶּ֣דֶק הַבָּ֑יִת וְעַתָּ֗ה אַל־תִּקְחֽוּ־כֶ֙סֶף֙ מֵאֵ֣ת מַכָּרֵיכֶ֔ם כִּֽי־לְבֶ֥דֶק הַבַּ֖יִת תִּתְּנֻֽהוּ׃
+Then king Jehoash called for Jehoiada the priest, and for the other priests, and said unto them: ‘Why repair ye not the breaches of the house? now therefore take no longer money from them that bestow it upon you, but deliver it for the breaches of the house.’
+II Kings 12:9
+וַיֵּאֹ֖תוּ הַכֹּהֲנִ֑ים לְבִלְתִּ֤י קְחַת־כֶּ֙סֶף֙ מֵאֵ֣ת הָעָ֔ם וּלְבִלְתִּ֥י חַזֵּ֖ק אֶת־בֶּ֥דֶק הַבָּֽיִת׃
+And the priests consented that they should take no longer money from the people, neither repair the breaches of the house.
+II Kings 12:10
+וַיִּקַּ֞ח יְהוֹיָדָ֤ע הַכֹּהֵן֙ אֲר֣וֹן אֶחָ֔ד וַיִּקֹּ֥ב חֹ֖ר בְּדַלְתּ֑וֹ וַיִּתֵּ֣ן אֹתוֹ֩ אֵ֨צֶל הַמִּזְבֵּ֜חַ   (בימין)   [מִיָּמִ֗ין]   בְּבוֹא־אִישׁ֙ בֵּ֣ית יְהֹוָ֔ה וְנָֽתְנוּ־שָׁ֤מָּה הַכֹּֽהֲנִים֙ שֹׁמְרֵ֣י הַסַּ֔ף אֶת־כׇּל־הַכֶּ֖סֶף הַמּוּבָ֥א בֵית־יְהֹוָֽה׃
+And Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the LORD; and the priests that kept the threshold put therein all the money that was brought into the house of the LORD.
+II Kings 12:11
+וַֽיְהִי֙ כִּרְאוֹתָ֔ם כִּי־רַ֥ב הַכֶּ֖סֶף בָּאָר֑וֹן וַיַּ֨עַל סֹפֵ֤ר הַמֶּ֙לֶךְ֙ וְהַכֹּהֵ֣ן הַגָּד֔וֹל וַיָּצֻ֙רוּ֙ וַיִּמְנ֔וּ אֶת־הַכֶּ֖סֶף הַנִּמְצָ֥א בֵית־יְהֹוָֽה׃
+And it was so, when they saw that there was much money in the chest, that the king’s scribe and the high priest came up, and they put up in bags and counted the money that was found in the house of the LORD.
+II Kings 12:12
+וְנָֽתְנוּ֙ אֶת־הַכֶּ֣סֶף הַֽמְתֻכָּ֔ן עַל־  [יְדֵי֙]   (יד)   עֹשֵׂ֣י הַמְּלָאכָ֔ה   (הפקדים)   [הַמֻּפְקָדִ֖ים]   בֵּ֣ית יְהֹוָ֑ה וַיּוֹצִיאֻ֜הוּ לְחָרָשֵׁ֤י הָעֵץ֙ וְלַבֹּנִ֔ים הָעֹשִׂ֖ים בֵּ֥ית יְהֹוָֽה׃
+And they gave the money that was weighed out into the hands of them that did the work, that had the oversight of the house of the LORD; and they paid it out to the carpenters and the builders, that wrought upon the house of the LORD,
+II Kings 12:13
+וְלַגֹּֽדְרִים֙ וּלְחֹצְבֵ֣י הָאֶ֔בֶן וְלִקְנ֤וֹת עֵצִים֙ וְאַבְנֵ֣י מַחְצֵ֔ב לְחַזֵּ֖ק אֶת־בֶּ֣דֶק בֵּית־יְהֹוָ֑ה וּלְכֹ֛ל אֲשֶׁר־יֵצֵ֥א עַל־הַבַּ֖יִת לְחׇזְקָֽה׃
+and to the masons and the hewers of stone, and for buying timber and hewn stone to repair the breaches of the house of the LORD, and for all that was laid out for the house to repair it.
+II Kings 12:14
+אַךְ֩ לֹ֨א יֵעָשֶׂ֜ה בֵּ֣ית יְהֹוָ֗ה סִפּ֥וֹת כֶּ֙סֶף֙ מְזַמְּר֤וֹת מִזְרָקוֹת֙ חֲצֹ֣צְר֔וֹת כׇּל־כְּלִ֥י זָהָ֖ב וּכְלִי־כָ֑סֶף מִן־הַכֶּ֖סֶף הַמּוּבָ֥א בֵית־יְהֹוָֽה׃
+But there were not made for the house of the LORD cups of silver, snuffers, basins, trumpets, any vessels of gold, or vessels of silver, of the money that was brought into the house of the LORD;
+II Kings 12:15
+כִּֽי־לְעֹשֵׂ֥י הַמְּלָאכָ֖ה יִתְּנֻ֑הוּ וְחִזְּקוּ־ב֖וֹ אֶת־בֵּ֥ית יְהֹוָֽה׃
+for they gave that to them that did the work, and repaired therewith the house of the LORD.
+II Kings 12:16
+וְלֹ֧א יְחַשְּׁב֣וּ אֶת־הָאֲנָשִׁ֗ים אֲשֶׁ֨ר יִתְּנ֤וּ אֶת־הַכֶּ֙סֶף֙ עַל־יָדָ֔ם לָתֵ֖ת לְעֹשֵׂ֣י הַמְּלָאכָ֑ה כִּ֥י בֶאֱמֻנָ֖ה הֵ֥ם עֹשִֽׂים׃
+Moreover they reckoned not with the men, into whose hand they delivered the money to give to them that did the work; for they dealt faithfully.
+II Kings 12:17
+כֶּ֤סֶף אָשָׁם֙ וְכֶ֣סֶף חַטָּא֔וֹת לֹ֥א יוּבָ֖א בֵּ֣ית יְהֹוָ֑ה לַכֹּהֲנִ֖ים יִהְיֽוּ׃  {פ}
+The forfeit money, and the sin money, was not brought into the house of the LORD; it was the priests.
+https://www.sefaria.org/II%20Kings%2012
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Sephardic · ספרד
+II Kings 11:17-12:17
+II Kings 11:17
+וַיִּכְרֹ֨ת יְהוֹיָדָ֜ע אֶֽת־הַבְּרִ֗ית בֵּ֤ין יְהֹוָה֙ וּבֵ֤ין הַמֶּ֙לֶךְ֙ וּבֵ֣ין הָעָ֔ם לִהְי֥וֹת לְעָ֖ם לַיהֹוָ֑ה וּבֵ֥ין הַמֶּ֖לֶךְ וּבֵ֥ין הָעָֽם׃
+And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD’S people; between the king also and the people.
+II Kings 11:18
+וַיָּבֹ֣אוּ כׇל־עַם֩ הָאָ֨רֶץ בֵּית־הַבַּ֜עַל וַֽיִּתְּצֻ֗הוּ אֶת־ מִזְבְּחֹתָ֤ו  וְאֶת־צְלָמָיו֙ שִׁבְּר֣וּ הֵיטֵ֔ב וְאֵ֗ת מַתָּן֙ כֹּהֵ֣ן הַבַּ֔עַל הָרְג֖וּ לִפְנֵ֣י הַֽמִּזְבְּח֑וֹת וַיָּ֧שֶׂם הַכֹּהֵ֛ן פְּקֻדֹּ֖ת עַל־בֵּ֥ית יְהֹוָֽה׃
+And all the people of the land went to the house of Baal, and broke it down; his altars and his images broke they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the LORD.
+II Kings 11:19
+וַיִּקַּ֣ח אֶת־שָׂרֵ֣י הַ֠מֵּא֠וֹת וְאֶת־הַכָּרִ֨י וְאֶת־הָרָצִ֜ים וְאֵ֣ת  ׀  כׇּל־עַ֣ם הָאָ֗רֶץ וַיֹּרִ֤ידוּ אֶת־הַמֶּ֙לֶךְ֙ מִבֵּ֣ית יְהֹוָ֔ה וַיָּב֛וֹאוּ דֶּרֶךְ־שַׁ֥עַר הָרָצִ֖ים בֵּ֣ית הַמֶּ֑לֶךְ וַיֵּ֖שֶׁב עַל־כִּסֵּ֥א הַמְּלָכִֽים׃
+And he took the captains over hundreds, and the Carites, and the guard, and all the people of the land; and they brought down the king from the house of the LORD, and came by the way of the gate of the guard unto the king’s house. And he sat on the throne of the kings.
+II Kings 11:20
+וַיִּשְׂמַ֥ח כׇּל־עַם־הָאָ֖רֶץ וְהָעִ֣יר שָׁקָ֑טָה וְאֶת־עֲתַלְיָ֛הוּ הֵמִ֥יתוּ בַחֶ֖רֶב בֵּ֥ית   (מלך)   [הַמֶּֽלֶךְ]  ׃  {ס}
+So all the people of the land rejoiced, and the city was quiet; and they slew Athaliah with the sword at the king’s house.
+II Kings 12:1
+בֶּן־שֶׁ֥בַע שָׁנִ֖ים יְהוֹאָ֥שׁ בְּמׇלְכֽוֹ׃  {פ}
+Jehoash was seven years old when he began to reign.
+II Kings 12:2
+בִּשְׁנַת־שֶׁ֤בַע לְיֵהוּא֙ מָלַ֣ךְ יְהוֹאָ֔שׁ וְאַרְבָּעִ֣ים שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלָ֑͏ִם וְשֵׁ֣ם אִמּ֔וֹ צִבְיָ֖ה מִבְּאֵ֥ר שָֽׁבַע׃
+In the seventh year of Jehu began Jehoash to reign; and he reigned forty years in Jerusalem; and his mother’s name was Zibiah of Beer-sheba.
+II Kings 12:3
+וַיַּ֨עַשׂ יְהוֹאָ֧שׁ הַיָּשָׁ֛ר בְּעֵינֵ֥י יְהֹוָ֖ה כׇּל־יָמָ֑יו אֲשֶׁ֣ר הוֹרָ֔הוּ יְהוֹיָדָ֖ע הַכֹּהֵֽן׃
+And Jehoash did that which was right in the eyes of the LORD all his days wherein Jehoiada the priest instructed him.
+II Kings 12:4
+רַ֥ק הַבָּמ֖וֹת לֹא־סָ֑רוּ ע֥וֹד הָעָ֛ם מְזַבְּחִ֥ים וּֽמְקַטְּרִ֖ים בַּבָּמֽוֹת׃
+Howbeit the high places were not taken away; the people still sacrificed and offered in the high places.
+II Kings 12:5
+וַיֹּ֨אמֶר יְהוֹאָ֜שׁ אֶל־הַכֹּהֲנִ֗ים כֹּל֩ כֶּ֨סֶף הַקֳּדָשִׁ֜ים אֲשֶׁר־יוּבָ֤א בֵית־יְהֹוָה֙ כֶּ֣סֶף עוֹבֵ֔ר אִ֕ישׁ כֶּ֥סֶף נַפְשׁ֖וֹת עֶרְכּ֑וֹ כׇּל־כֶּ֗סֶף אֲשֶׁ֤ר יַֽעֲלֶה֙ עַ֣ל לֶב־אִ֔ישׁ לְהָבִ֖יא בֵּ֥ית יְהֹוָֽה׃
+And Jehoash said to the priests: ‘All the money of the hallowed things that is brought into the house of the LORD, in current money, the money of the persons for whom each man is rated, all the money that cometh into any man’s heart to bring into the house of the LORD,
+II Kings 12:6
+יִקְח֤וּ לָהֶם֙ הַכֹּ֣הֲנִ֔ים אִ֖ישׁ מֵאֵ֣ת מַכָּר֑וֹ וְהֵ֗ם יְחַזְּקוּ֙ אֶת־בֶּ֣דֶק הַבַּ֔יִת לְכֹ֛ל אֲשֶׁר־יִמָּצֵ֥א שָׁ֖ם בָּֽדֶק׃  {פ}
+let the priests take it to them, every man from him that bestoweth it upon him; and they shall repair the breaches of the house, wheresoever any breach shall be found.’
+II Kings 12:7
+וַיְהִ֗י בִּשְׁנַ֨ת עֶשְׂרִ֧ים וְשָׁלֹ֛שׁ שָׁנָ֖ה לַמֶּ֣לֶךְ יְהוֹאָ֑שׁ לֹא־חִזְּק֥וּ הַכֹּהֲנִ֖ים אֶת־בֶּ֥דֶק הַבָּֽיִת׃
+But it was so, that in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house.
+II Kings 12:8
+וַיִּקְרָא֩ הַמֶּ֨לֶךְ יְהוֹאָ֜שׁ לִיהוֹיָדָ֤ע הַכֹּהֵן֙ וְלַכֹּ֣הֲנִ֔ים וַיֹּ֣אמֶר אֲלֵהֶ֔ם מַדּ֛וּעַ אֵינְכֶ֥ם מְחַזְּקִ֖ים אֶת־בֶּ֣דֶק הַבָּ֑יִת וְעַתָּ֗ה אַל־תִּקְחֽוּ־כֶ֙סֶף֙ מֵאֵ֣ת מַכָּרֵיכֶ֔ם כִּֽי־לְבֶ֥דֶק הַבַּ֖יִת תִּתְּנֻֽהוּ׃
+Then king Jehoash called for Jehoiada the priest, and for the other priests, and said unto them: ‘Why repair ye not the breaches of the house? now therefore take no longer money from them that bestow it upon you, but deliver it for the breaches of the house.’
+II Kings 12:9
+וַיֵּאֹ֖תוּ הַכֹּהֲנִ֑ים לְבִלְתִּ֤י קְחַת־כֶּ֙סֶף֙ מֵאֵ֣ת הָעָ֔ם וּלְבִלְתִּ֥י חַזֵּ֖ק אֶת־בֶּ֥דֶק הַבָּֽיִת׃
+And the priests consented that they should take no longer money from the people, neither repair the breaches of the house.
+II Kings 12:10
+וַיִּקַּ֞ח יְהוֹיָדָ֤ע הַכֹּהֵן֙ אֲר֣וֹן אֶחָ֔ד וַיִּקֹּ֥ב חֹ֖ר בְּדַלְתּ֑וֹ וַיִּתֵּ֣ן אֹתוֹ֩ אֵ֨צֶל הַמִּזְבֵּ֜חַ   (בימין)   [מִיָּמִ֗ין]   בְּבוֹא־אִישׁ֙ בֵּ֣ית יְהֹוָ֔ה וְנָֽתְנוּ־שָׁ֤מָּה הַכֹּֽהֲנִים֙ שֹׁמְרֵ֣י הַסַּ֔ף אֶת־כׇּל־הַכֶּ֖סֶף הַמּוּבָ֥א בֵית־יְהֹוָֽה׃
+And Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the LORD; and the priests that kept the threshold put therein all the money that was brought into the house of the LORD.
+II Kings 12:11
+וַֽיְהִי֙ כִּרְאוֹתָ֔ם כִּי־רַ֥ב הַכֶּ֖סֶף בָּאָר֑וֹן וַיַּ֨עַל סֹפֵ֤ר הַמֶּ֙לֶךְ֙ וְהַכֹּהֵ֣ן הַגָּד֔וֹל וַיָּצֻ֙רוּ֙ וַיִּמְנ֔וּ אֶת־הַכֶּ֖סֶף הַנִּמְצָ֥א בֵית־יְהֹוָֽה׃
+And it was so, when they saw that there was much money in the chest, that the king’s scribe and the high priest came up, and they put up in bags and counted the money that was found in the house of the LORD.
+II Kings 12:12
+וְנָֽתְנוּ֙ אֶת־הַכֶּ֣סֶף הַֽמְתֻכָּ֔ן עַל־  [יְדֵי֙]   (יד)   עֹשֵׂ֣י הַמְּלָאכָ֔ה   (הפקדים)   [הַמֻּפְקָדִ֖ים]   בֵּ֣ית יְהֹוָ֑ה וַיּוֹצִיאֻ֜הוּ לְחָרָשֵׁ֤י הָעֵץ֙ וְלַבֹּנִ֔ים הָעֹשִׂ֖ים בֵּ֥ית יְהֹוָֽה׃
+And they gave the money that was weighed out into the hands of them that did the work, that had the oversight of the house of the LORD; and they paid it out to the carpenters and the builders, that wrought upon the house of the LORD,
+II Kings 12:13
+וְלַגֹּֽדְרִים֙ וּלְחֹצְבֵ֣י הָאֶ֔בֶן וְלִקְנ֤וֹת עֵצִים֙ וְאַבְנֵ֣י מַחְצֵ֔ב לְחַזֵּ֖ק אֶת־בֶּ֣דֶק בֵּית־יְהֹוָ֑ה וּלְכֹ֛ל אֲשֶׁר־יֵצֵ֥א עַל־הַבַּ֖יִת לְחׇזְקָֽה׃
+and to the masons and the hewers of stone, and for buying timber and hewn stone to repair the breaches of the house of the LORD, and for all that was laid out for the house to repair it.
+II Kings 12:14
+אַךְ֩ לֹ֨א יֵעָשֶׂ֜ה בֵּ֣ית יְהֹוָ֗ה סִפּ֥וֹת כֶּ֙סֶף֙ מְזַמְּר֤וֹת מִזְרָקוֹת֙ חֲצֹ֣צְר֔וֹת כׇּל־כְּלִ֥י זָהָ֖ב וּכְלִי־כָ֑סֶף מִן־הַכֶּ֖סֶף הַמּוּבָ֥א בֵית־יְהֹוָֽה׃
+But there were not made for the house of the LORD cups of silver, snuffers, basins, trumpets, any vessels of gold, or vessels of silver, of the money that was brought into the house of the LORD;
+II Kings 12:15
+כִּֽי־לְעֹשֵׂ֥י הַמְּלָאכָ֖ה יִתְּנֻ֑הוּ וְחִזְּקוּ־ב֖וֹ אֶת־בֵּ֥ית יְהֹוָֽה׃
+for they gave that to them that did the work, and repaired therewith the house of the LORD.
+II Kings 12:16
+וְלֹ֧א יְחַשְּׁב֣וּ אֶת־הָאֲנָשִׁ֗ים אֲשֶׁ֨ר יִתְּנ֤וּ אֶת־הַכֶּ֙סֶף֙ עַל־יָדָ֔ם לָתֵ֖ת לְעֹשֵׂ֣י הַמְּלָאכָ֑ה כִּ֥י בֶאֱמֻנָ֖ה הֵ֥ם עֹשִֽׂים׃
+Moreover they reckoned not with the men, into whose hand they delivered the money to give to them that did the work; for they dealt faithfully.
+II Kings 12:17
+כֶּ֤סֶף אָשָׁם֙ וְכֶ֣סֶף חַטָּא֔וֹת לֹ֥א יוּבָ֖א בֵּ֣ית יְהֹוָ֑ה לַכֹּהֲנִ֖ים יִהְיֽוּ׃  {פ}
+The forfeit money, and the sin money, was not brought into the house of the LORD; it was the priests.
+https://www.sefaria.org/II%20Kings%2011
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/II%20Kings%2012
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

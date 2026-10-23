@@ -1,0 +1,139 @@
+Haftarah · Sh'lach
+הפטרה · שלח
+
+What must a promise mean to those asked to trust it? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מה צריכה הבטחה לומר למי שמתבקש לבטוח בה? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What must a promise mean to those asked to trust it?
+מה צריכה הבטחה לומר למי שמתבקש לבטוח בה?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Joshua 2:1
+The reconnaissance begins in Rahab’s house, placing the mission’s outcome in relation to an unexpected local actor. The spies’ safety depends on someone the national narrative could easily leave at its margins.
+הריגול מתחיל בבית רחב ומעמיד את הצלחת המשימה מול דמות מקומית בלתי צפויה. ביטחון המרגלים תלוי במי שהסיפור הלאומי עלול להשאיר בשוליו.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Joshua 2:12
+Rahab asks for reciprocal kindness and the preservation of her family. Her recognition of Israel’s God leads to a negotiated obligation. The oath gives the military venture a concrete human claim that cannot be absorbed into general language about victory.
+רחב מבקשת חסד הדדי והצלת משפחתה. הכרתה באלוהי ישראל מובילה להתחייבות מוסכמת. השבועה מציבה בתוך המהלך הצבאי תביעה אנושית שאינה נבלעת בלשון כללית של ניצחון.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Joshua 2:24
+The spies’ confident report follows the encounter rather than replacing it. Their conclusion about the land’s inhabitants derives partly from Rahab’s testimony. Compare confidence built through listening with confidence that refuses to hear another person’s account.
+דיווח המרגלים הבטוח בא אחרי המפגש ואינו מחליף אותו. מסקנתם על יושבי הארץ נשענת גם על עדות רחב. השוו ביטחון שנבנה מהקשבה לביטחון המסרב לשמוע סיפור אחר.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Joshua 2:1-2:24
+Joshua 2:1
+וַיִּשְׁלַ֣ח יְהוֹשֻֽׁעַ־בִּן־נ֠וּן מִֽן־הַשִּׁטִּ֞ים שְׁנַֽיִם־אֲנָשִׁ֤ים מְרַגְּלִים֙ חֶ֣רֶשׁ לֵאמֹ֔ר לְכ֛וּ רְא֥וּ אֶת־הָאָ֖רֶץ וְאֶת־יְרִיח֑וֹ וַיֵּ֨לְכ֜וּ וַ֠יָּבֹ֠אוּ בֵּית־אִשָּׁ֥ה זוֹנָ֛ה וּשְׁמָ֥הּ רָחָ֖ב וַיִּשְׁכְּבוּ־שָֽׁמָּה׃
+And Joshua the son of Nun sent out of Shittim two spies secretly, saying: ‘Go view the land, and Jericho.’ And they went, and came into the house of a harlot whose name was Rahab, and lay there.
+Joshua 2:2
+וַיֵּ֣אָמַ֔ר לְמֶ֥לֶךְ יְרִיח֖וֹ לֵאמֹ֑ר הִנֵּ֣ה אֲ֠נָשִׁ֠ים בָּ֣אוּ הֵ֧נָּה הַלַּ֛יְלָה מִבְּנֵ֥י יִשְׂרָאֵ֖ל לַחְפֹּ֥ר אֶת־הָאָֽרֶץ׃
+And it was told the king of Jericho, saying: ‘Behold, there came men in hither to-night of the children of Israel to search out the land.’
+Joshua 2:3
+וַיִּשְׁלַח֙ מֶ֣לֶךְ יְרִיח֔וֹ אֶל־רָחָ֖ב לֵאמֹ֑ר ה֠וֹצִ֠יאִי הָאֲנָשִׁ֨ים הַבָּאִ֤ים אֵלַ֙יִךְ֙ אֲשֶׁר־בָּ֣אוּ לְבֵיתֵ֔ךְ כִּ֛י לַחְפֹּ֥ר אֶת־כׇּל־הָאָ֖רֶץ בָּֽאוּ׃
+And the king of Jericho sent unto Rahab, saying: ‘Bring forth the men that are come to thee, that are entered into thy house; for they are come to search out all the land.’
+Joshua 2:4
+וַתִּקַּ֧ח הָאִשָּׁ֛ה אֶת־שְׁנֵ֥י הָאֲנָשִׁ֖ים וַֽתִּצְפְּנ֑וֹ וַתֹּ֣אמֶר  ׀  כֵּ֗ן בָּ֤אוּ אֵלַי֙ הָאֲנָשִׁ֔ים וְלֹ֥א יָדַ֖עְתִּי מֵאַ֥יִן הֵֽמָּה׃
+And the woman took the two men, and hid them; and she said: ‘Yea, the men came unto me, but I knew not whence they were;
+Joshua 2:5
+וַיְהִ֨י הַשַּׁ֜עַר לִסְגּ֗וֹר בַּחֹ֙שֶׁךְ֙ וְהָאֲנָשִׁ֣ים יָצָ֔אוּ לֹ֣א יָדַ֔עְתִּי אָ֥נָה הָלְכ֖וּ הָאֲנָשִׁ֑ים רִדְפ֥וּ מַהֵ֛ר אַחֲרֵיהֶ֖ם כִּ֥י תַשִּׂיגֽוּם׃
+and it came to pass about the time of the shutting of the gate, when it was dark, that the men went out; whither the men went I know not; pursue after them quickly; for ye shall overtake them.’
+Joshua 2:6
+וְהִ֖יא הֶעֱלָ֣תַם הַגָּ֑גָה וַֽתִּטְמְנֵם֙ בְּפִשְׁתֵּ֣י הָעֵ֔ץ הָעֲרֻכ֥וֹת לָ֖הּ עַל־הַגָּֽג׃
+But she had brought them up to the roof, and hid them with the stalks of flax, which she had spread out upon the roof.
+Joshua 2:7
+וְהָאֲנָשִׁ֗ים רָדְפ֤וּ אַֽחֲרֵיהֶם֙ דֶּ֣רֶךְ הַיַּרְדֵּ֔ן עַ֖ל הַֽמַּעְבְּר֑וֹת וְהַשַּׁ֣עַר סָגָ֔רוּ אַחֲרֵ֕י כַּאֲשֶׁ֛ר יָצְא֥וּ הָרֹדְפִ֖ים אַחֲרֵיהֶֽם׃
+And the men pursued after them the way to the Jordan unto the fords; and as soon as they that pursued after them were gone out, the gate was shut.
+Joshua 2:8
+וְהֵ֖מָּה טֶ֣רֶם יִשְׁכָּב֑וּן וְהִ֛יא עָלְתָ֥ה עֲלֵיהֶ֖ם עַל־הַגָּֽג׃
+And before they were laid down, she came up unto them upon the roof;
+Joshua 2:9
+וַתֹּ֙אמֶר֙ אֶל־הָ֣אֲנָשִׁ֔ים יָדַ֕עְתִּי כִּֽי־נָתַ֧ן יְהֹוָ֛ה לָכֶ֖ם אֶת־הָאָ֑רֶץ וְכִֽי־נָפְלָ֤ה אֵֽימַתְכֶם֙ עָלֵ֔ינוּ וְכִ֥י נָמֹ֛גוּ כׇּל־יֹשְׁבֵ֥י הָאָ֖רֶץ מִפְּנֵיכֶֽם׃
+and she said unto the men: ‘I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land melt away before you.
+Joshua 2:10
+כִּ֣י שָׁמַ֗עְנוּ אֵ֠ת אֲשֶׁר־הוֹבִ֨ישׁ יְהֹוָ֜ה אֶת־מֵ֤י יַם־סוּף֙ מִפְּנֵיכֶ֔ם בְּצֵאתְכֶ֖ם מִמִּצְרָ֑יִם וַאֲשֶׁ֣ר עֲשִׂיתֶ֡ם לִשְׁנֵי֩ מַלְכֵ֨י הָאֱמֹרִ֜י אֲשֶׁ֨ר בְּעֵ֤בֶר הַיַּרְדֵּן֙ לְסִיחֹ֣ן וּלְע֔וֹג אֲשֶׁ֥ר הֶחֱרַמְתֶּ֖ם אוֹתָֽם׃
+For we have heard how the LORD dried up the water of the Red Sea before you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were beyond the Jordan, unto Sihon and to Og, whom ye utterly destroyed.
+Joshua 2:11
+וַנִּשְׁמַע֙ וַיִּמַּ֣ס לְבָבֵ֔נוּ וְלֹא־קָ֨מָה ע֥וֹד ר֛וּחַ בְּאִ֖ישׁ מִפְּנֵיכֶ֑ם כִּ֚י יְהֹוָ֣ה אֱלֹהֵיכֶ֔ם ה֤וּא אֱלֹהִים֙ בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־הָאָ֖רֶץ מִתָּֽחַת׃
+And as soon as we had heard it, our hearts did melt, neither did there remain any more spirit in any man, because of you; for the LORD your God, He is God in heaven above, and on earth beneath.
+Joshua 2:12
+וְעַתָּ֗ה הִשָּֽׁבְעוּ־נָ֥א לִי֙ בַּֽיהֹוָ֔ה כִּֽי־עָשִׂ֥יתִי עִמָּכֶ֖ם חָ֑סֶד וַעֲשִׂיתֶ֨ם גַּם־אַתֶּ֜ם עִם־בֵּ֤ית אָבִי֙ חֶ֔סֶד וּנְתַתֶּ֥ם לִ֖י א֥וֹת אֱמֶֽת׃
+Now therefore, I pray you, swear unto me by the LORD, since I have dealt kindly with you, that ye also will deal kindly with my father’s house—and give me a true token—
+Joshua 2:13
+וְהַחֲיִתֶ֞ם אֶת־אָבִ֣י וְאֶת־אִמִּ֗י וְאֶת־אַחַי֙ וְאֶת־  [אַחְיוֹתַ֔י]   (אחותי)   וְאֵ֖ת כׇּל־אֲשֶׁ֣ר לָהֶ֑ם וְהִצַּלְתֶּ֥ם אֶת־נַפְשֹׁתֵ֖ינוּ מִמָּֽוֶת׃
+and save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.’
+Joshua 2:14
+וַיֹּ֧אמְרוּ לָ֣הּ הָאֲנָשִׁ֗ים נַפְשֵׁ֤נוּ תַחְתֵּיכֶם֙ לָמ֔וּת אִ֚ם לֹ֣א תַגִּ֔ידוּ אֶת־דְּבָרֵ֖נוּ זֶ֑ה וְהָיָ֗ה בְּתֵת־יְהֹוָ֥ה לָ֙נוּ֙ אֶת־הָאָ֔רֶץ וְעָשִׂ֥ינוּ עִמָּ֖ךְ חֶ֥סֶד וֶאֱמֶֽת׃
+And the men said unto her: ‘Our life for yours, if ye tell not this our business; and it shall be, when the LORD giveth us the land, that we will deal kindly and truly with thee.’
+Joshua 2:15
+וַתּוֹרִדֵ֥ם בַּחֶ֖בֶל בְּעַ֣ד הַחַלּ֑וֹן כִּ֤י בֵיתָהּ֙ בְּקִ֣יר הַחוֹמָ֔ה וּבַחוֹמָ֖ה הִ֥יא יוֹשָֽׁבֶת׃
+Then she let them down by a cord through the window; for her house was upon the side of the wall, and she dwelt upon the wall.
+Joshua 2:16
+וַתֹּ֤אמֶר לָהֶם֙ הָהָ֣רָה לֵּ֔כוּ פֶּֽן־יִפְגְּע֥וּ בָכֶ֖ם הָרֹֽדְפִ֑ים וְנַחְבֵּתֶ֨ם שָׁ֜מָּה שְׁלֹ֣שֶׁת יָמִ֗ים עַ֚ד שׁ֣וֹב הָרֹֽדְפִ֔ים וְאַחַ֖ר תֵּלְכ֥וּ לְדַרְכְּכֶֽם׃
+And she said unto them: ‘Get you to the mountain, lest the pursuers light upon you; and hide yourselves there three days, until the pursuers be returned; and afterward may ye go your way.’
+Joshua 2:17
+וַיֹּאמְר֥וּ אֵלֶ֖יהָ הָאֲנָשִׁ֑ים נְקִיִּ֣ם אֲנַ֔חְנוּ מִשְּׁבֻעָתֵ֥ךְ הַזֶּ֖ה אֲשֶׁ֥ר הִשְׁבַּעְתָּֽנוּ׃
+And the men said unto her: ‘We will be guiltless of this thine oath which thou hast made us to swear.
+Joshua 2:18
+הִנֵּ֛ה אֲנַ֥חְנוּ בָאִ֖ים בָּאָ֑רֶץ אֶת־תִּקְוַ֡ת חוּט֩ הַשָּׁנִ֨י הַזֶּ֜ה תִּקְשְׁרִ֗י בַּֽחַלּוֹן֙ אֲשֶׁ֣ר הוֹרַדְתֵּ֣נוּ ב֔וֹ וְאֶת־אָבִ֨יךְ וְאֶת־אִמֵּ֜ךְ וְאֶת־אַחַ֗יִךְ וְאֵת֙ כׇּל־בֵּ֣ית אָבִ֔יךְ תַּאַסְפִ֥י אֵלַ֖יִךְ הַבָּֽיְתָה׃
+Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by; and thou shalt gather unto thee into the house thy father, and thy mother, and thy brethren, and all thy father’s household.
+Joshua 2:19
+וְהָיָ֡ה כֹּ֣ל אֲשֶׁר־יֵצֵא֩ מִדַּלְתֵ֨י בֵיתֵ֧ךְ  ׀  הַח֛וּצָה דָּמ֥וֹ בְרֹאשׁ֖וֹ וַאֲנַ֣חְנוּ נְקִיִּ֑ם וְ֠כֹ֠ל אֲשֶׁ֨ר יִֽהְיֶ֤ה אִתָּךְ֙ בַּבַּ֔יִת דָּמ֣וֹ בְרֹאשֵׁ֔נוּ אִם־יָ֖ד תִּֽהְיֶה־בּֽוֹ׃
+And it shall be, that whosoever shall go out of the doors of thy house into the street, his blood shall be upon his head, and we will be guiltless; and whosoever shall be with thee in the house, his blood shall be on our head, if any hand be upon him.
+Joshua 2:20
+וְאִם־תַּגִּ֖ידִי אֶת־דְּבָרֵ֣נוּ זֶ֑ה וְהָיִ֣ינוּ נְקִיִּ֔ם מִשְּׁבֻעָתֵ֖ךְ אֲשֶׁ֥ר הִשְׁבַּעְתָּֽנוּ׃
+But if thou utter this our business, then we will be guiltless of thine oath which thou hast made us to swear.’
+Joshua 2:21
+וַתֹּ֙אמֶר֙ כְּדִבְרֵיכֶ֣ם כֶּן־ה֔וּא וַֽתְּשַׁלְּחֵ֖ם וַיֵּלֵ֑כוּ וַתִּקְשֹׁ֛ר אֶת־תִּקְוַ֥ת הַשָּׁנִ֖י בַּחַלּֽוֹן׃
+And she said: ‘According unto your words, so be it.’ And she sent them away, and they departed; and she bound the scarlet line in the window.
+Joshua 2:22
+וַיֵּֽלְכוּ֙ וַיָּבֹ֣אוּ הָהָ֔רָה וַיֵּ֤שְׁבוּ שָׁם֙ שְׁלֹ֣שֶׁת יָמִ֔ים עַד־שָׁ֖בוּ הָרֹֽדְפִ֑ים וַיְבַקְשׁ֧וּ הָרֹדְפִ֛ים בְּכׇל־הַדֶּ֖רֶךְ וְלֹ֥א מָצָֽאוּ׃
+And they went, and came unto the mountain, and abode there three days, until the pursuers were returned; and the pursuers sought them throughout all the way, but found them not.
+Joshua 2:23
+וַיָּשֻׁ֜בוּ שְׁנֵ֤י הָֽאֲנָשִׁים֙ וַיֵּרְד֣וּ מֵֽהָהָ֔ר וַיַּֽעַבְרוּ֙ וַיָּבֹ֔אוּ אֶל־יְהוֹשֻׁ֖עַ בִּן־נ֑וּן וַ֨יְסַפְּרוּ־ל֔וֹ אֵ֥ת כׇּל־הַמֹּצְא֖וֹת אוֹתָֽם׃
+Then the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun; and they told him all that had befallen them.
+Joshua 2:24
+וַיֹּֽאמְרוּ֙ אֶל־יְהוֹשֻׁ֔עַ כִּֽי־נָתַ֧ן יְהֹוָ֛ה בְּיָדֵ֖נוּ אֶת־כׇּל־הָאָ֑רֶץ וְגַם־נָמֹ֛גוּ כׇּל־יֹשְׁבֵ֥י הָאָ֖רֶץ מִפָּנֵֽינוּ׃  {ס}
+And they said unto Joshua: ‘Truly the LORD hath delivered into our hands all the land; and moreover all the inhabitants of the land do melt away before us.’
+https://www.sefaria.org/Joshua%202
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

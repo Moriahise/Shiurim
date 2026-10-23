@@ -1,0 +1,498 @@
+Haftarah · Beshalach
+הפטרה · בשלח
+
+How does a victory become a shared song without erasing its cost? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד נעשה ניצחון לשירה משותפת בלי למחוק את מחירו? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does a victory become a shared song without erasing its cost?
+כיצד נעשה ניצחון לשירה משותפת בלי למחוק את מחירו?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Judges 4:4
+Deborah’s judging precedes the account of battle. Leadership begins with hearing and directing a people. The longer Ashkenazic reading gives the song a narrative setting; the Sephardic reading begins with the song itself, changing the listener’s first encounter with the event.
+משפט דבורה קודם לתיאור המלחמה. הנהגה מתחילה בשמיעה ובהכוונת העם. הקריאה האשכנזית הארוכה מספקת לשירה רקע סיפורי; הנוסח הספרדי מתחיל בשירה עצמה ומשנה את המפגש הראשון של השומע עם המאורע.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Judges 5:16
+The song distinguishes tribes that answered the call from those that remained apart. Praise includes a demanding memory of participation and absence. Ask how a community remembers shared danger without making every member’s contribution appear identical.
+השירה מבחינה בין שבטים שנענו לקריאה לבין הנותרים מרחוק. השבח כולל זיכרון תובע של השתתפות ושל היעדרות. כיצד זוכרת קהילה סכנה משותפת בלי להציג את תרומתם של כולם כאילו הייתה זהה?
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Judges 5:31
+The final wish and the report of forty years of quiet follow the unsettling scene of Sisera’s mother. Victory has been heard from more than one location. Read the ending as the song’s theological conclusion while retaining the human disquiet created immediately before it.
+המשאלה האחרונה ותיאור ארבעים שנות השקט באים לאחר תמונת אם סיסרא המטרידה. הניצחון נשמע מכמה מוקדים. יש לקרוא את הסיום התיאולוגי של השירה בלי למחוק את אי־הנחת האנושית שהתעוררה רגע לפניו.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Judges 4:4-5:31
+Judges 4:4
+וּדְבוֹרָה֙ אִשָּׁ֣ה נְבִיאָ֔ה אֵ֖שֶׁת לַפִּיד֑וֹת הִ֛יא שֹׁפְטָ֥ה אֶת־יִשְׂרָאֵ֖ל בָּעֵ֥ת הַהִֽיא׃
+Now Deborah, a prophetess, the wife of Lappidoth, she judged Israel at that time.
+Judges 4:5
+וְ֠הִ֠יא יוֹשֶׁ֨בֶת תַּחַת־תֹּ֜מֶר דְּבוֹרָ֗ה בֵּ֧ין הָרָמָ֛ה וּבֵ֥ין בֵּֽית־אֵ֖ל בְּהַ֣ר אֶפְרָ֑יִם וַיַּעֲל֥וּ אֵלֶ֛יהָ בְּנֵ֥י יִשְׂרָאֵ֖ל לַמִּשְׁפָּֽט׃
+And she sat under the palm-tree of Deborah between Ramah and Beth-el in the hill-country of Ephraim; and the children of Israel came up to her for judgment.
+Judges 4:6
+וַתִּשְׁלַ֗ח וַתִּקְרָא֙ לְבָרָ֣ק בֶּן־אֲבִינֹ֔עַם מִקֶּ֖דֶשׁ נַפְתָּלִ֑י וַתֹּ֨אמֶר אֵלָ֜יו הֲלֹ֥א צִוָּ֣ה  ׀  יְהֹוָ֣ה אֱלֹהֵֽי־יִשְׂרָאֵ֗ל לֵ֤ךְ וּמָֽשַׁכְתָּ֙ בְּהַ֣ר תָּב֔וֹר וְלָקַחְתָּ֣ עִמְּךָ֗ עֲשֶׂ֤רֶת אֲלָפִים֙ אִ֔ישׁ מִבְּנֵ֥י נַפְתָּלִ֖י וּמִבְּנֵ֥י זְבֻלֽוּן׃
+And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him: ‘Hath not the LORD, the God of Israel, commanded, saying: Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?
+Judges 4:7
+וּמָשַׁכְתִּ֨י אֵלֶ֜יךָ אֶל־נַ֣חַל קִישׁ֗וֹן אֶת־סִֽיסְרָא֙ שַׂר־צְבָ֣א יָבִ֔ין וְאֶת־רִכְבּ֖וֹ וְאֶת־הֲמוֹנ֑וֹ וּנְתַתִּ֖יהוּ בְּיָדֶֽךָ׃
+And I will draw unto thee to the brook Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thy hand.
+Judges 4:8
+וַיֹּ֤אמֶר אֵלֶ֙יהָ֙ בָּרָ֔ק אִם־תֵּלְכִ֥י עִמִּ֖י וְהָלָ֑כְתִּי וְאִם־לֹ֥א תֵֽלְכִ֛י עִמִּ֖י לֹ֥א אֵלֵֽךְ׃
+And Barak said unto her: ‘If thou wilt go with me, then I will go; but if thou wilt not go with me, I will not go.’
+Judges 4:9
+וַתֹּ֜אמֶר הָלֹ֧ךְ אֵלֵ֣ךְ עִמָּ֗ךְ אֶ֚פֶס כִּי֩ לֹ֨א תִֽהְיֶ֜ה תִּֽפְאַרְתְּךָ֗ עַל־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אַתָּ֣ה הוֹלֵ֔ךְ כִּ֣י בְֽיַד־אִשָּׁ֔ה יִמְכֹּ֥ר יְהֹוָ֖ה אֶת־סִֽיסְרָ֑א וַתָּ֧קׇם דְּבוֹרָ֛ה וַתֵּ֥לֶךְ עִם־בָּרָ֖ק קֶֽדְשָׁה׃
+And she said: ‘I will surely go with thee; notwithstanding the journey that thou takest shall not be for thy honour; for the LORD will give Sisera over into the hand of a woman.’ And Deborah arose, and went with Barak to Kedesh.
+Judges 4:10
+וַיַּזְעֵ֨ק בָּרָ֜ק אֶת־זְבוּלֻ֤ן וְאֶת־נַפְתָּלִי֙ קֶ֔דְשָׁה וַיַּ֣עַל בְּרַגְלָ֔יו עֲשֶׂ֥רֶת אַלְפֵ֖י אִ֑ישׁ וַתַּ֥עַל עִמּ֖וֹ דְּבוֹרָֽה׃
+And Barak called Zebulun and Naphtali together to Kedesh; and there went up ten thousand men at his feet; and Deborah went up with him.
+Judges 4:11
+וְחֶ֤בֶר הַקֵּינִי֙ נִפְרָ֣ד מִקַּ֔יִן מִבְּנֵ֥י חֹבָ֖ב חֹתֵ֣ן מֹשֶׁ֑ה וַיֵּ֣ט אׇֽהֳל֔וֹ עַד־אֵיל֥וֹן   (בצענים)   [בְּצַעֲנַנִּ֖ים]   אֲשֶׁ֥ר אֶת־קֶֽדֶשׁ׃
+Now Heber the Kenite had severed himself from the Kenites, even from the children of Hobab the father-in-law of Moses, and had pitched his tent as far as Elon-bezaanannim, which is by Kedesh.
+Judges 4:12
+וַיַּגִּ֖דוּ לְסִֽיסְרָ֑א כִּ֥י עָלָ֛ה בָּרָ֥ק בֶּן־אֲבִינֹ֖עַם הַר־תָּבֽוֹר׃
+And they told Sisera that Barak the son of Abinoam was gone up to mount Tabor.
+Judges 4:13
+וַיַּזְעֵ֨ק סִֽיסְרָ֜א אֶת־כׇּל־רִכְבּ֗וֹ תְּשַׁ֤ע מֵאוֹת֙ רֶ֣כֶב בַּרְזֶ֔ל וְאֶת־כׇּל־הָעָ֖ם אֲשֶׁ֣ר אִתּ֑וֹ מֵחֲרֹ֥שֶׁת הַגּוֹיִ֖ם אֶל־נַ֥חַל קִישֽׁוֹן׃
+And Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people that were with him, from Harosheth-goiim, unto the brook Kishon.
+Judges 4:14
+וַתֹּ֩אמֶר֩ דְּבֹרָ֨ה אֶל־בָּרָ֜ק ק֗וּם כִּ֣י זֶ֤ה הַיּוֹם֙ אֲשֶׁר֩ נָתַ֨ן יְהֹוָ֤ה אֶת־סִֽיסְרָא֙ בְּיָדֶ֔ךָ הֲלֹ֥א יְהֹוָ֖ה יָצָ֣א לְפָנֶ֑יךָ וַיֵּ֤רֶד בָּרָק֙ מֵהַ֣ר תָּב֔וֹר וַעֲשֶׂ֧רֶת אֲלָפִ֛ים אִ֖ישׁ אַחֲרָֽיו׃
+And Deborah said unto Barak: ‘Up; for this is the day in which the LORD hath delivered Sisera into thy hand; is not the LORD gone out before thee?’ So Barak went down from mount Tabor, and ten thousand men after him.
+Judges 4:15
+וַיָּ֣הׇם יְ֠הֹוָ֠ה אֶת־סִֽיסְרָ֨א וְאֶת־כׇּל־הָרֶ֧כֶב וְאֶת־כׇּל־הַֽמַּחֲנֶ֛ה לְפִי־חֶ֖רֶב לִפְנֵ֣י בָרָ֑ק וַיֵּ֧רֶד סִֽיסְרָ֛א מֵעַ֥ל הַמֶּרְכָּבָ֖ה וַיָּ֥נׇס בְּרַגְלָֽיו׃
+And the LORD discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; and Sisera alighted from his chariot, and fled away on his feet.
+Judges 4:16
+וּבָרָ֗ק רָדַ֞ף אַחֲרֵ֤י הָרֶ֙כֶב֙ וְאַחֲרֵ֣י הַֽמַּחֲנֶ֔ה עַ֖ד חֲרֹ֣שֶׁת הַגּוֹיִ֑ם וַיִּפֹּ֞ל כׇּל־מַחֲנֵ֤ה סִֽיסְרָא֙ לְפִי־חֶ֔רֶב לֹ֥א נִשְׁאַ֖ר עַד־אֶחָֽד׃
+But Barak pursued after the chariots, and after the host, unto Harosheth-goiim; and all the host of Sisera fell by the edge of the sword; there was not a man left.
+Judges 4:17
+וְסִֽיסְרָא֙ נָ֣ס בְּרַגְלָ֔יו אֶל־אֹ֣הֶל יָעֵ֔ל אֵ֖שֶׁת חֶ֣בֶר הַקֵּינִ֑י כִּ֣י שָׁל֗וֹם בֵּ֚ין יָבִ֣ין מֶלֶךְ־חָצ֔וֹר וּבֵ֕ין בֵּ֖ית חֶ֥בֶר הַקֵּינִֽי׃
+Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.
+Judges 4:18
+וַתֵּצֵ֣א יָעֵל֮ לִקְרַ֣את סִֽיסְרָא֒ וַתֹּ֣אמֶר אֵלָ֗יו סוּרָ֧ה אֲדֹנִ֛י סוּרָ֥ה אֵלַ֖י אַל־תִּירָ֑א וַיָּ֤סַר אֵלֶ֙יהָ֙ הָאֹ֔הֱלָה וַתְּכַסֵּ֖הוּ בַּשְּׂמִיכָֽה׃
+And Jael went out to meet Sisera, and said unto him: ‘Turn in, my lord, turn in to me; fear not.’ And he turned in unto her into the tent, and she covered him with a rug.
+Judges 4:19
+וַיֹּ֧אמֶר אֵלֶ֛יהָ הַשְׁקִינִי־נָ֥א מְעַט־מַ֖יִם כִּ֣י צָמֵ֑אתִי וַתִּפְתַּ֞ח אֶת־נֹ֧אוד הֶחָלָ֛ב וַתַּשְׁקֵ֖הוּ וַתְּכַסֵּֽהוּ׃
+And he said unto her: ‘Give me, I pray thee, a little water to drink; for I am thirsty.’ And she opened a bottle of milk, and gave him drink, and covered him.
+Judges 4:20
+וַיֹּ֣אמֶר אֵלֶ֔יהָ עֲמֹ֖ד פֶּ֣תַח הָאֹ֑הֶל וְהָיָה֩ אִם־אִ֨ישׁ יָבֹ֜א וּשְׁאֵלֵ֗ךְ וְאָמַ֛ר הֲיֵֽשׁ־פֹּ֥ה אִ֖ישׁ וְאָמַ֥רְתְּ אָֽיִן׃
+And he said unto her: ‘Stand in the door of the tent, and it shall be, when any man doth come and inquire of thee, and say: Is there any man here? that thou shalt say: No.’
+Judges 4:21
+וַתִּקַּ֣ח יָעֵ֣ל אֵֽשֶׁת־חֶ֠בֶר אֶת־יְתַ֨ד הָאֹ֜הֶל וַתָּ֧שֶׂם אֶת־הַמַּקֶּ֣בֶת בְּיָדָ֗הּ וַתָּב֤וֹא אֵלָיו֙ בַּלָּ֔אט וַתִּתְקַ֤ע אֶת־הַיָּתֵד֙ בְּרַקָּת֔וֹ וַתִּצְנַ֖ח בָּאָ֑רֶץ וְהֽוּא־נִרְדָּ֥ם וַיָּ֖עַף וַיָּמֹֽת׃
+Then Jael Heber’s wife took a tent-pin, and took a hammer in her hand, and went softly unto him, and smote the pin into his temples, and it pierced through into the ground; for he was in a deep sleep; so he swooned and died.
+Judges 4:22
+וְהִנֵּ֣ה בָרָק֮ רֹדֵ֣ף אֶת־סִֽיסְרָא֒ וַתֵּצֵ֤א יָעֵל֙ לִקְרָאת֔וֹ וַתֹּ֣אמֶר ל֔וֹ לֵ֣ךְ וְאַרְאֶ֔ךָּ אֶת־הָאִ֖ישׁ אֲשֶׁר־אַתָּ֣ה מְבַקֵּ֑שׁ וַיָּבֹ֣א אֵלֶ֔יהָ וְהִנֵּ֤ה סִֽיסְרָא֙ נֹפֵ֣ל מֵ֔ת וְהַיָּתֵ֖ד בְּרַקָּתֽוֹ׃
+And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him: ‘Come, and I will show thee the man whom thou seekest.’ And he came unto her; and, behold, Sisera lay dead, and the tent-pin was in his temples.
+Judges 4:23
+וַיַּכְנַ֤ע אֱלֹהִים֙ בַּיּ֣וֹם הַה֔וּא אֵ֖ת יָבִ֣ין מֶֽלֶךְ־כְּנָ֑עַן לִפְנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃
+So God subdued on that day Jabin the king of Canaan before the children of Israel.
+Judges 4:24
+וַתֵּ֜לֶךְ יַ֤ד בְּנֵֽי־יִשְׂרָאֵל֙ הָל֣וֹךְ וְקָשָׁ֔ה עַ֖ל יָבִ֣ין מֶלֶךְ־כְּנָ֑עַן עַ֚ד אֲשֶׁ֣ר הִכְרִ֔יתוּ אֵ֖ת יָבִ֥ין מֶלֶךְ־כְּנָֽעַן׃  {פ}
+And the hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.
+Judges 5:1
+וַתָּ֣שַׁר דְּבוֹרָ֔ה וּבָרָ֖ק בֶּן־אֲבִינֹ֑עַם        בַּיּ֥וֹם הַה֖וּא לֵאמֹֽר׃
+Then sang Deborah and Barak the son of Abinoam on that day, saying:
+Judges 5:2
+בִּפְרֹ֤עַ פְּרָעוֹת֙ בְּיִשְׂרָאֵ֔ל        בְּהִתְנַדֵּ֖ב עָ֑ם בָּֽרְכ֖וּ יְהֹוָֽה׃
+When men let grow their hair in Israel, When the people offer themselves willingly, Bless ye the LORD.
+Judges 5:3
+שִׁמְע֣וּ מְלָכִ֔ים הַאֲזִ֖ינוּ רֹֽזְנִ֑ים        אָנֹכִ֗י לַֽיהֹוָה֙ אָנֹכִ֣י אָשִׁ֔ירָה        אֲזַמֵּ֕ר לַֽיהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+Hear, O ye kings; give ear, O ye princes; I, unto the LORD will I sing; I will sing praise to the LORD, the God of Israel.
+Judges 5:4
+יְהֹוָ֗ה בְּצֵאתְךָ֤ מִשֵּׂעִיר֙        בְּצַעְדְּךָ֙ מִשְּׂדֵ֣ה אֱד֔וֹם        אֶ֣רֶץ רָעָ֔שָׁה גַּם־שָׁמַ֖יִם נָטָ֑פוּ        גַּם־עָבִ֖ים נָ֥טְפוּ מָֽיִם׃
+LORD, when Thou didst go forth out of Seir, When Thou didst march out of the field of Edom, The earth trembled, the heavens also dropped, Yea, the clouds dropped water.
+Judges 5:5
+הָרִ֥ים נָזְל֖וּ מִפְּנֵ֣י יְהֹוָ֑ה        זֶ֣ה סִינַ֔י מִפְּנֵ֕י יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+The mountains quaked at the presence of the LORD, Even yon Sinai at the presence of the LORD, the God of Israel.
+Judges 5:6
+בִּימֵ֞י שַׁמְגַּ֤ר בֶּן־עֲנָת֙        בִּימֵ֣י יָעֵ֔ל חָֽדְל֖וּ אֳרָח֑וֹת        וְהֹלְכֵ֣י נְתִיב֔וֹת יֵלְכ֕וּ אֳרָח֖וֹת עֲקַלְקַלּֽוֹת׃
+In the days of Shamgar the son of Anath, In the days of Jael, the highways ceased, And the travellers walked through byways.
+Judges 5:7
+חָדְל֧וּ פְרָז֛וֹן בְּיִשְׂרָאֵ֖ל חָדֵ֑לּוּ        עַ֤ד שַׁקַּ֙מְתִּי֙ דְּבוֹרָ֔ה שַׁקַּ֥מְתִּי אֵ֖ם בְּיִשְׂרָאֵֽל׃
+The rulers ceased in Israel, they ceased, Until that thou didst arise, Deborah, That thou didst arise a mother in Israel. .
+Judges 5:8
+יִבְחַר֙ אֱלֹהִ֣ים חֲדָשִׁ֔ים אָ֖ז לָחֶ֣ם שְׁעָרִ֑ים        מָגֵ֤ן אִם־יֵֽרָאֶה֙ וָרֹ֔מַח        בְּאַרְבָּעִ֥ים אֶ֖לֶף בְּיִשְׂרָאֵֽל׃
+They chose new gods; Then was war in the gates; Was there a shield or spear seen Among forty thousand in Israel?
+Judges 5:9
+לִבִּי֙ לְחוֹקְקֵ֣י יִשְׂרָאֵ֔ל        הַמִּֽתְנַדְּבִ֖ים בָּעָ֑ם בָּרְכ֖וּ יְהֹוָֽה׃
+My heart is toward the governors of Israel, That offered themselves willingly among the people. Bless ye the LORD.
+Judges 5:10
+רֹכְבֵי֩ אֲתֹנ֨וֹת צְחֹר֜וֹת        יֹשְׁבֵ֧י עַל־מִדִּ֛ין וְהֹלְכֵ֥י עַל־דֶּ֖רֶךְ שִֽׂיחוּ׃
+Ye that ride on white asses, Ye that sit on rich cloths, And ye that walk by the way, tell of it;
+Judges 5:11
+מִקּ֣וֹל מְחַֽצְצִ֗ים בֵּ֚ין מַשְׁאַבִּ֔ים        שָׁ֤ם יְתַנּוּ֙ צִדְק֣וֹת יְהֹוָ֔ה        צִדְקֹ֥ת פִּרְזוֹנ֖וֹ בְּיִשְׂרָאֵ֑ל        אָ֛ז יָֽרְד֥וּ לַשְּׁעָרִ֖ים עַם־יְהֹוָֽה׃
+Louder than the voice of archers, by the watering-troughs! There shall they rehearse the righteous acts of the LORD, Even the righteous acts of His rulers in Israel. Then the people of the LORD went down to the gates.
+Judges 5:12
+עוּרִ֤י עוּרִי֙ דְּבוֹרָ֔ה        ע֥וּרִי ע֖וּרִי דַּבְּרִי־שִׁ֑יר        ק֥וּם בָּרָ֛ק וּֽשְׁבֵ֥ה שֶׁבְיְךָ֖ בֶּן־אֲבִינֹֽעַם׃
+Awake, awake, Deborah; Awake, awake, utter a song; Arise, Barak, and lead thy captivity captive, thou son of Abinoam.
+Judges 5:13
+אָ֚ז יְרַ֣ד שָׂרִ֔יד לְאַדִּירִ֖ים עָ֑ם        יְהֹוָ֕ה יְרַד־לִ֖י בַּגִּבּוֹרִֽים׃
+Then made He a remnant to have dominion over the nobles and the people; The LORD made me have dominion over the mighty.
+Judges 5:14
+מִנִּ֣י אֶפְרַ֗יִם שׇׁרְשָׁם֙ בַּעֲמָלֵ֔ק        אַחֲרֶ֥יךָ בִנְיָמִ֖ין בַּעֲמָמֶ֑יךָ        מִנִּ֣י מָכִ֗יר יָֽרְדוּ֙ מְחֹ֣קְקִ֔ים        וּמִ֨זְּבוּלֻ֔ן מֹשְׁכִ֖ים בְּשֵׁ֥בֶט סֹפֵֽר׃
+Out of Ephraim came they whose root is in Amalek; After thee, Benjamin, among thy peoples; Out of Machir came down governors, And out of Zebulun they that handle the marshal’s staff.
+Judges 5:15
+וְשָׂרַ֤י בְּיִשָּׂשכָר֙ עִם־דְּבֹרָ֔ה        וְיִשָּׂשכָר֙ כֵּ֣ן בָּרָ֔ק בָּעֵ֖מֶק שֻׁלַּ֣ח בְּרַגְלָ֑יו        בִּפְלַגּ֣וֹת רְאוּבֵ֔ן גְּדֹלִ֖ים חִקְקֵי־לֵֽב׃
+And the princes of Issachar were with Deborah; As was Issachar, so was Barak; Into the valley they rushed forth at his feet. Among the divisions of Reuben There were great resolves of heart.
+Judges 5:16
+לָ֣מָּה יָשַׁ֗בְתָּ בֵּ֚ין הַֽמִּשְׁפְּתַ֔יִם        לִשְׁמֹ֖עַ שְׁרִק֣וֹת עֲדָרִ֑ים        לִפְלַגּ֣וֹת רְאוּבֵ֔ן גְּדוֹלִ֖ים חִקְרֵי־לֵֽב׃
+Why sattest thou among the sheep-folds, To hear the pipings for the flocks? At the divisions of Reuben There were great searchings of heart.
+Judges 5:17
+גִּלְעָ֗ד בְּעֵ֤בֶר הַיַּרְדֵּן֙ שָׁכֵ֔ן        וְדָ֕ן לָ֥מָּה יָג֖וּר אֳנִיּ֑וֹת        אָשֵׁ֗ר יָשַׁב֙ לְח֣וֹף יַמִּ֔ים        וְעַ֥ל מִפְרָצָ֖יו יִשְׁכּֽוֹן׃
+Gilead abode beyond the Jordan; And Dan, why doth he sojourn by the ships? Asher dwelt at the shore of the sea, And abideth by its bays.
+Judges 5:18
+זְבֻל֗וּן עַ֣ם חֵרֵ֥ף נַפְשׁ֛וֹ        לָמ֖וּת וְנַפְתָּלִ֑י עַ֖ל מְרוֹמֵ֥י שָׂדֶֽה׃
+Zebulun is a people that jeoparded their lives unto the death, And Naphtali, upon the high places of the field.
+Judges 5:19
+בָּ֤אוּ מְלָכִים֙ נִלְחָ֔מוּ        אָ֤ז נִלְחֲמוּ֙ מַלְכֵ֣י כְנַ֔עַן        בְּתַעְנַ֖ךְ עַל־מֵ֣י מְגִדּ֑וֹ        בֶּ֥צַע כֶּ֖סֶף לֹ֥א לָקָֽחוּ׃
+The kings came, they fought; Then fought the kings of Canaan, In Taanach by the waters of Megiddo; They took no gain of money.
+Judges 5:20
+מִן־שָׁמַ֖יִם נִלְחָ֑מוּ        הַכּֽוֹכָבִים֙ מִמְּסִלּוֹתָ֔ם נִלְחֲמ֖וּ עִם־סִֽיסְרָֽא׃
+They fought from heaven, The stars in their courses fought against Sisera.
+Judges 5:21
+נַ֤חַל קִישׁוֹן֙ גְּרָפָ֔ם        נַ֥חַל קְדוּמִ֖ים נַ֣חַל קִישׁ֑וֹן        תִּדְרְכִ֥י נַפְשִׁ֖י עֹֽז׃
+The brook Kishon swept them away, That ancient brook, the brook Kishon. O my soul, tread them down with strength.
+Judges 5:22
+אָ֥ז הָלְמ֖וּ עִקְּבֵי־ס֑וּס        מִֽדַּהֲר֖וֹת דַּהֲר֥וֹת אַבִּירָֽיו׃
+Then did the horsehoofs stamp By reason of the prancings, the prancings of their mighty ones.
+Judges 5:23
+א֣וֹרוּ מֵר֗וֹז אָמַר֙ מַלְאַ֣ךְ יְהֹוָ֔ה אֹ֥רוּ אָר֖וֹר יֹשְׁבֶ֑יהָ        כִּ֤י לֹֽא־בָ֙אוּ֙ לְעֶזְרַ֣ת יְהֹוָ֔ה        לְעֶזְרַ֥ת יְהֹוָ֖ה בַּגִּבּוֹרִֽים׃
+’Curse ye Meroz’, said the angel of the LORD, ‘Curse ye bitterly the inhabitants thereof, Because they came not to the help of the LORD, To the help of the LORD against the mighty.’
+Judges 5:24
+תְּבֹרַךְ֙ מִנָּשִׁ֔ים יָעֵ֕ל אֵ֖שֶׁת חֶ֣בֶר הַקֵּינִ֑י        מִנָּשִׁ֥ים בָּאֹ֖הֶל תְּבֹרָֽךְ׃
+Blessed above women shall Jael be, The wife of Heber the Kenite, Above women in the tent shall she be blessed.
+Judges 5:25
+מַ֥יִם שָׁאַ֖ל חָלָ֣ב נָתָ֑נָה        בְּסֵ֥פֶל אַדִּירִ֖ים הִקְרִ֥יבָה חֶמְאָֽה׃
+Water he asked, milk she gave him; In a lordly bowl she brought him curd.
+Judges 5:26
+יָדָהּ֙ לַיָּתֵ֣ד תִּשְׁלַ֔חְנָה        וִימִינָ֖הּ לְהַלְמ֣וּת עֲמֵלִ֑ים        וְהָלְמָ֤ה סִֽיסְרָא֙ מָחֲקָ֣ה רֹאשׁ֔וֹ        וּמָחֲצָ֥ה וְחָלְפָ֖ה רַקָּתֽוֹ׃
+Her hand she put to the tent-pin, And her right hand to the workmen’s hammer; And with the hammer she smote Sisera, she smote through his head, Yea, she pierced and struck through his temples.
+Judges 5:27
+בֵּ֣ין רַגְלֶ֔יהָ כָּרַ֥ע נָפַ֖ל שָׁכָ֑ב        בֵּ֤ין רַגְלֶ֙יהָ֙ כָּרַ֣ע נָפָ֔ל        בַּאֲשֶׁ֣ר כָּרַ֔ע שָׁ֖ם נָפַ֥ל שָׁדֽוּד׃
+At her feet he sunk, he fell, he lay; At her feet he sunk, he fell; Where he sunk, there he fell down dead.
+Judges 5:28
+בְּעַד֩ הַחַלּ֨וֹן נִשְׁקְפָ֧ה וַתְּיַבֵּ֛ב אֵ֥ם סִֽיסְרָ֖א בְּעַ֣ד הָאֶשְׁנָ֑ב        מַדּ֗וּעַ בֹּשֵׁ֤שׁ רִכְבּוֹ֙ לָב֔וֹא        מַדּ֣וּעַ אֶֽחֱר֔וּ פַּעֲמֵ֖י מַרְכְּבוֹתָֽיו׃
+Through the window she looked forth, and peered, The mother of Sisera, through the lattice: ‘Why is his chariot so long in coming? Why tarry the wheels of his chariots?
+Judges 5:29
+חַכְמ֥וֹת שָׂרוֹתֶ֖יהָ תַּעֲנֶ֑ינָּה        אַף־הִ֕יא תָּשִׁ֥יב אֲמָרֶ֖יהָ לָֽהּ׃
+The wisest of her princesses answer her, Yea, she returneth answer to herself:
+Judges 5:30
+הֲלֹ֨א יִמְצְא֜וּ יְחַלְּק֣וּ שָׁלָ֗ל        רַ֤חַם רַחֲמָתַ֙יִם֙ לְרֹ֣אשׁ גֶּ֔בֶר        שְׁלַ֤ל צְבָעִים֙ לְסִ֣יסְרָ֔א        שְׁלַ֥ל צְבָעִ֖ים רִקְמָ֑ה        צֶ֥בַע רִקְמָתַ֖יִם לְצַוְּארֵ֥י שָׁלָֽל׃
+’Are they not finding, are they not dividing the spoil? A damsel, two damsels to every man; To Sisera a spoil of dyed garments, A spoil of dyed garments of embroidery, Two dyed garments of broidery for the neck of every spoiler?’
+Judges 5:31
+כֵּ֠ן יֹאבְד֤וּ כׇל־אוֹיְבֶ֙יךָ֙ יְהֹוָ֔ה וְאֹ֣הֲבָ֔יו כְּצֵ֥את הַשֶּׁ֖מֶשׁ בִּגְבֻרָת֑וֹ        וַתִּשְׁקֹ֥ט הָאָ֖רֶץ אַרְבָּעִ֥ים שָׁנָֽה׃  {פ}
+So perish all Thine enemies, O LORD; But they that love Him be as the sun when he goeth forth in his might. And the land had rest forty years.
+https://www.sefaria.org/Judges%204
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Judges%205
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Sephardic · ספרד
+Judges 5:1-5:31
+Judges 5:1
+וַתָּ֣שַׁר דְּבוֹרָ֔ה וּבָרָ֖ק בֶּן־אֲבִינֹ֑עַם        בַּיּ֥וֹם הַה֖וּא לֵאמֹֽר׃
+Then sang Deborah and Barak the son of Abinoam on that day, saying:
+Judges 5:2
+בִּפְרֹ֤עַ פְּרָעוֹת֙ בְּיִשְׂרָאֵ֔ל        בְּהִתְנַדֵּ֖ב עָ֑ם בָּֽרְכ֖וּ יְהֹוָֽה׃
+When men let grow their hair in Israel, When the people offer themselves willingly, Bless ye the LORD.
+Judges 5:3
+שִׁמְע֣וּ מְלָכִ֔ים הַאֲזִ֖ינוּ רֹֽזְנִ֑ים        אָנֹכִ֗י לַֽיהֹוָה֙ אָנֹכִ֣י אָשִׁ֔ירָה        אֲזַמֵּ֕ר לַֽיהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+Hear, O ye kings; give ear, O ye princes; I, unto the LORD will I sing; I will sing praise to the LORD, the God of Israel.
+Judges 5:4
+יְהֹוָ֗ה בְּצֵאתְךָ֤ מִשֵּׂעִיר֙        בְּצַעְדְּךָ֙ מִשְּׂדֵ֣ה אֱד֔וֹם        אֶ֣רֶץ רָעָ֔שָׁה גַּם־שָׁמַ֖יִם נָטָ֑פוּ        גַּם־עָבִ֖ים נָ֥טְפוּ מָֽיִם׃
+LORD, when Thou didst go forth out of Seir, When Thou didst march out of the field of Edom, The earth trembled, the heavens also dropped, Yea, the clouds dropped water.
+Judges 5:5
+הָרִ֥ים נָזְל֖וּ מִפְּנֵ֣י יְהֹוָ֑ה        זֶ֣ה סִינַ֔י מִפְּנֵ֕י יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+The mountains quaked at the presence of the LORD, Even yon Sinai at the presence of the LORD, the God of Israel.
+Judges 5:6
+בִּימֵ֞י שַׁמְגַּ֤ר בֶּן־עֲנָת֙        בִּימֵ֣י יָעֵ֔ל חָֽדְל֖וּ אֳרָח֑וֹת        וְהֹלְכֵ֣י נְתִיב֔וֹת יֵלְכ֕וּ אֳרָח֖וֹת עֲקַלְקַלּֽוֹת׃
+In the days of Shamgar the son of Anath, In the days of Jael, the highways ceased, And the travellers walked through byways.
+Judges 5:7
+חָדְל֧וּ פְרָז֛וֹן בְּיִשְׂרָאֵ֖ל חָדֵ֑לּוּ        עַ֤ד שַׁקַּ֙מְתִּי֙ דְּבוֹרָ֔ה שַׁקַּ֥מְתִּי אֵ֖ם בְּיִשְׂרָאֵֽל׃
+The rulers ceased in Israel, they ceased, Until that thou didst arise, Deborah, That thou didst arise a mother in Israel. .
+Judges 5:8
+יִבְחַר֙ אֱלֹהִ֣ים חֲדָשִׁ֔ים אָ֖ז לָחֶ֣ם שְׁעָרִ֑ים        מָגֵ֤ן אִם־יֵֽרָאֶה֙ וָרֹ֔מַח        בְּאַרְבָּעִ֥ים אֶ֖לֶף בְּיִשְׂרָאֵֽל׃
+They chose new gods; Then was war in the gates; Was there a shield or spear seen Among forty thousand in Israel?
+Judges 5:9
+לִבִּי֙ לְחוֹקְקֵ֣י יִשְׂרָאֵ֔ל        הַמִּֽתְנַדְּבִ֖ים בָּעָ֑ם בָּרְכ֖וּ יְהֹוָֽה׃
+My heart is toward the governors of Israel, That offered themselves willingly among the people. Bless ye the LORD.
+Judges 5:10
+רֹכְבֵי֩ אֲתֹנ֨וֹת צְחֹר֜וֹת        יֹשְׁבֵ֧י עַל־מִדִּ֛ין וְהֹלְכֵ֥י עַל־דֶּ֖רֶךְ שִֽׂיחוּ׃
+Ye that ride on white asses, Ye that sit on rich cloths, And ye that walk by the way, tell of it;
+Judges 5:11
+מִקּ֣וֹל מְחַֽצְצִ֗ים בֵּ֚ין מַשְׁאַבִּ֔ים        שָׁ֤ם יְתַנּוּ֙ צִדְק֣וֹת יְהֹוָ֔ה        צִדְקֹ֥ת פִּרְזוֹנ֖וֹ בְּיִשְׂרָאֵ֑ל        אָ֛ז יָֽרְד֥וּ לַשְּׁעָרִ֖ים עַם־יְהֹוָֽה׃
+Louder than the voice of archers, by the watering-troughs! There shall they rehearse the righteous acts of the LORD, Even the righteous acts of His rulers in Israel. Then the people of the LORD went down to the gates.
+Judges 5:12
+עוּרִ֤י עוּרִי֙ דְּבוֹרָ֔ה        ע֥וּרִי ע֖וּרִי דַּבְּרִי־שִׁ֑יר        ק֥וּם בָּרָ֛ק וּֽשְׁבֵ֥ה שֶׁבְיְךָ֖ בֶּן־אֲבִינֹֽעַם׃
+Awake, awake, Deborah; Awake, awake, utter a song; Arise, Barak, and lead thy captivity captive, thou son of Abinoam.
+Judges 5:13
+אָ֚ז יְרַ֣ד שָׂרִ֔יד לְאַדִּירִ֖ים עָ֑ם        יְהֹוָ֕ה יְרַד־לִ֖י בַּגִּבּוֹרִֽים׃
+Then made He a remnant to have dominion over the nobles and the people; The LORD made me have dominion over the mighty.
+Judges 5:14
+מִנִּ֣י אֶפְרַ֗יִם שׇׁרְשָׁם֙ בַּעֲמָלֵ֔ק        אַחֲרֶ֥יךָ בִנְיָמִ֖ין בַּעֲמָמֶ֑יךָ        מִנִּ֣י מָכִ֗יר יָֽרְדוּ֙ מְחֹ֣קְקִ֔ים        וּמִ֨זְּבוּלֻ֔ן מֹשְׁכִ֖ים בְּשֵׁ֥בֶט סֹפֵֽר׃
+Out of Ephraim came they whose root is in Amalek; After thee, Benjamin, among thy peoples; Out of Machir came down governors, And out of Zebulun they that handle the marshal’s staff.
+Judges 5:15
+וְשָׂרַ֤י בְּיִשָּׂשכָר֙ עִם־דְּבֹרָ֔ה        וְיִשָּׂשכָר֙ כֵּ֣ן בָּרָ֔ק בָּעֵ֖מֶק שֻׁלַּ֣ח בְּרַגְלָ֑יו        בִּפְלַגּ֣וֹת רְאוּבֵ֔ן גְּדֹלִ֖ים חִקְקֵי־לֵֽב׃
+And the princes of Issachar were with Deborah; As was Issachar, so was Barak; Into the valley they rushed forth at his feet. Among the divisions of Reuben There were great resolves of heart.
+Judges 5:16
+לָ֣מָּה יָשַׁ֗בְתָּ בֵּ֚ין הַֽמִּשְׁפְּתַ֔יִם        לִשְׁמֹ֖עַ שְׁרִק֣וֹת עֲדָרִ֑ים        לִפְלַגּ֣וֹת רְאוּבֵ֔ן גְּדוֹלִ֖ים חִקְרֵי־לֵֽב׃
+Why sattest thou among the sheep-folds, To hear the pipings for the flocks? At the divisions of Reuben There were great searchings of heart.
+Judges 5:17
+גִּלְעָ֗ד בְּעֵ֤בֶר הַיַּרְדֵּן֙ שָׁכֵ֔ן        וְדָ֕ן לָ֥מָּה יָג֖וּר אֳנִיּ֑וֹת        אָשֵׁ֗ר יָשַׁב֙ לְח֣וֹף יַמִּ֔ים        וְעַ֥ל מִפְרָצָ֖יו יִשְׁכּֽוֹן׃
+Gilead abode beyond the Jordan; And Dan, why doth he sojourn by the ships? Asher dwelt at the shore of the sea, And abideth by its bays.
+Judges 5:18
+זְבֻל֗וּן עַ֣ם חֵרֵ֥ף נַפְשׁ֛וֹ        לָמ֖וּת וְנַפְתָּלִ֑י עַ֖ל מְרוֹמֵ֥י שָׂדֶֽה׃
+Zebulun is a people that jeoparded their lives unto the death, And Naphtali, upon the high places of the field.
+Judges 5:19
+בָּ֤אוּ מְלָכִים֙ נִלְחָ֔מוּ        אָ֤ז נִלְחֲמוּ֙ מַלְכֵ֣י כְנַ֔עַן        בְּתַעְנַ֖ךְ עַל־מֵ֣י מְגִדּ֑וֹ        בֶּ֥צַע כֶּ֖סֶף לֹ֥א לָקָֽחוּ׃
+The kings came, they fought; Then fought the kings of Canaan, In Taanach by the waters of Megiddo; They took no gain of money.
+Judges 5:20
+מִן־שָׁמַ֖יִם נִלְחָ֑מוּ        הַכּֽוֹכָבִים֙ מִמְּסִלּוֹתָ֔ם נִלְחֲמ֖וּ עִם־סִֽיסְרָֽא׃
+They fought from heaven, The stars in their courses fought against Sisera.
+Judges 5:21
+נַ֤חַל קִישׁוֹן֙ גְּרָפָ֔ם        נַ֥חַל קְדוּמִ֖ים נַ֣חַל קִישׁ֑וֹן        תִּדְרְכִ֥י נַפְשִׁ֖י עֹֽז׃
+The brook Kishon swept them away, That ancient brook, the brook Kishon. O my soul, tread them down with strength.
+Judges 5:22
+אָ֥ז הָלְמ֖וּ עִקְּבֵי־ס֑וּס        מִֽדַּהֲר֖וֹת דַּהֲר֥וֹת אַבִּירָֽיו׃
+Then did the horsehoofs stamp By reason of the prancings, the prancings of their mighty ones.
+Judges 5:23
+א֣וֹרוּ מֵר֗וֹז אָמַר֙ מַלְאַ֣ךְ יְהֹוָ֔ה אֹ֥רוּ אָר֖וֹר יֹשְׁבֶ֑יהָ        כִּ֤י לֹֽא־בָ֙אוּ֙ לְעֶזְרַ֣ת יְהֹוָ֔ה        לְעֶזְרַ֥ת יְהֹוָ֖ה בַּגִּבּוֹרִֽים׃
+’Curse ye Meroz’, said the angel of the LORD, ‘Curse ye bitterly the inhabitants thereof, Because they came not to the help of the LORD, To the help of the LORD against the mighty.’
+Judges 5:24
+תְּבֹרַךְ֙ מִנָּשִׁ֔ים יָעֵ֕ל אֵ֖שֶׁת חֶ֣בֶר הַקֵּינִ֑י        מִנָּשִׁ֥ים בָּאֹ֖הֶל תְּבֹרָֽךְ׃
+Blessed above women shall Jael be, The wife of Heber the Kenite, Above women in the tent shall she be blessed.
+Judges 5:25
+מַ֥יִם שָׁאַ֖ל חָלָ֣ב נָתָ֑נָה        בְּסֵ֥פֶל אַדִּירִ֖ים הִקְרִ֥יבָה חֶמְאָֽה׃
+Water he asked, milk she gave him; In a lordly bowl she brought him curd.
+Judges 5:26
+יָדָהּ֙ לַיָּתֵ֣ד תִּשְׁלַ֔חְנָה        וִימִינָ֖הּ לְהַלְמ֣וּת עֲמֵלִ֑ים        וְהָלְמָ֤ה סִֽיסְרָא֙ מָחֲקָ֣ה רֹאשׁ֔וֹ        וּמָחֲצָ֥ה וְחָלְפָ֖ה רַקָּתֽוֹ׃
+Her hand she put to the tent-pin, And her right hand to the workmen’s hammer; And with the hammer she smote Sisera, she smote through his head, Yea, she pierced and struck through his temples.
+Judges 5:27
+בֵּ֣ין רַגְלֶ֔יהָ כָּרַ֥ע נָפַ֖ל שָׁכָ֑ב        בֵּ֤ין רַגְלֶ֙יהָ֙ כָּרַ֣ע נָפָ֔ל        בַּאֲשֶׁ֣ר כָּרַ֔ע שָׁ֖ם נָפַ֥ל שָׁדֽוּד׃
+At her feet he sunk, he fell, he lay; At her feet he sunk, he fell; Where he sunk, there he fell down dead.
+Judges 5:28
+בְּעַד֩ הַחַלּ֨וֹן נִשְׁקְפָ֧ה וַתְּיַבֵּ֛ב אֵ֥ם סִֽיסְרָ֖א בְּעַ֣ד הָאֶשְׁנָ֑ב        מַדּ֗וּעַ בֹּשֵׁ֤שׁ רִכְבּוֹ֙ לָב֔וֹא        מַדּ֣וּעַ אֶֽחֱר֔וּ פַּעֲמֵ֖י מַרְכְּבוֹתָֽיו׃
+Through the window she looked forth, and peered, The mother of Sisera, through the lattice: ‘Why is his chariot so long in coming? Why tarry the wheels of his chariots?
+Judges 5:29
+חַכְמ֥וֹת שָׂרוֹתֶ֖יהָ תַּעֲנֶ֑ינָּה        אַף־הִ֕יא תָּשִׁ֥יב אֲמָרֶ֖יהָ לָֽהּ׃
+The wisest of her princesses answer her, Yea, she returneth answer to herself:
+Judges 5:30
+הֲלֹ֨א יִמְצְא֜וּ יְחַלְּק֣וּ שָׁלָ֗ל        רַ֤חַם רַחֲמָתַ֙יִם֙ לְרֹ֣אשׁ גֶּ֔בֶר        שְׁלַ֤ל צְבָעִים֙ לְסִ֣יסְרָ֔א        שְׁלַ֥ל צְבָעִ֖ים רִקְמָ֑ה        צֶ֥בַע רִקְמָתַ֖יִם לְצַוְּארֵ֥י שָׁלָֽל׃
+’Are they not finding, are they not dividing the spoil? A damsel, two damsels to every man; To Sisera a spoil of dyed garments, A spoil of dyed garments of embroidery, Two dyed garments of broidery for the neck of every spoiler?’
+Judges 5:31
+כֵּ֠ן יֹאבְד֤וּ כׇל־אוֹיְבֶ֙יךָ֙ יְהֹוָ֔ה וְאֹ֣הֲבָ֔יו כְּצֵ֥את הַשֶּׁ֖מֶשׁ בִּגְבֻרָת֑וֹ        וַתִּשְׁקֹ֥ט הָאָ֖רֶץ אַרְבָּעִ֥ים שָׁנָֽה׃  {פ}
+So perish all Thine enemies, O LORD; But they that love Him be as the sun when he goeth forth in his might. And the land had rest forty years.
+https://www.sefaria.org/Judges%205
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Chabad · חב״ד
+Judges 4:4-5:31
+Judges 4:4
+וּדְבוֹרָה֙ אִשָּׁ֣ה נְבִיאָ֔ה אֵ֖שֶׁת לַפִּיד֑וֹת הִ֛יא שֹׁפְטָ֥ה אֶת־יִשְׂרָאֵ֖ל בָּעֵ֥ת הַהִֽיא׃
+Now Deborah, a prophetess, the wife of Lappidoth, she judged Israel at that time.
+Judges 4:5
+וְ֠הִ֠יא יוֹשֶׁ֨בֶת תַּחַת־תֹּ֜מֶר דְּבוֹרָ֗ה בֵּ֧ין הָרָמָ֛ה וּבֵ֥ין בֵּֽית־אֵ֖ל בְּהַ֣ר אֶפְרָ֑יִם וַיַּעֲל֥וּ אֵלֶ֛יהָ בְּנֵ֥י יִשְׂרָאֵ֖ל לַמִּשְׁפָּֽט׃
+And she sat under the palm-tree of Deborah between Ramah and Beth-el in the hill-country of Ephraim; and the children of Israel came up to her for judgment.
+Judges 4:6
+וַתִּשְׁלַ֗ח וַתִּקְרָא֙ לְבָרָ֣ק בֶּן־אֲבִינֹ֔עַם מִקֶּ֖דֶשׁ נַפְתָּלִ֑י וַתֹּ֨אמֶר אֵלָ֜יו הֲלֹ֥א צִוָּ֣ה  ׀  יְהֹוָ֣ה אֱלֹהֵֽי־יִשְׂרָאֵ֗ל לֵ֤ךְ וּמָֽשַׁכְתָּ֙ בְּהַ֣ר תָּב֔וֹר וְלָקַחְתָּ֣ עִמְּךָ֗ עֲשֶׂ֤רֶת אֲלָפִים֙ אִ֔ישׁ מִבְּנֵ֥י נַפְתָּלִ֖י וּמִבְּנֵ֥י זְבֻלֽוּן׃
+And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him: ‘Hath not the LORD, the God of Israel, commanded, saying: Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?
+Judges 4:7
+וּמָשַׁכְתִּ֨י אֵלֶ֜יךָ אֶל־נַ֣חַל קִישׁ֗וֹן אֶת־סִֽיסְרָא֙ שַׂר־צְבָ֣א יָבִ֔ין וְאֶת־רִכְבּ֖וֹ וְאֶת־הֲמוֹנ֑וֹ וּנְתַתִּ֖יהוּ בְּיָדֶֽךָ׃
+And I will draw unto thee to the brook Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thy hand.
+Judges 4:8
+וַיֹּ֤אמֶר אֵלֶ֙יהָ֙ בָּרָ֔ק אִם־תֵּלְכִ֥י עִמִּ֖י וְהָלָ֑כְתִּי וְאִם־לֹ֥א תֵֽלְכִ֛י עִמִּ֖י לֹ֥א אֵלֵֽךְ׃
+And Barak said unto her: ‘If thou wilt go with me, then I will go; but if thou wilt not go with me, I will not go.’
+Judges 4:9
+וַתֹּ֜אמֶר הָלֹ֧ךְ אֵלֵ֣ךְ עִמָּ֗ךְ אֶ֚פֶס כִּי֩ לֹ֨א תִֽהְיֶ֜ה תִּֽפְאַרְתְּךָ֗ עַל־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אַתָּ֣ה הוֹלֵ֔ךְ כִּ֣י בְֽיַד־אִשָּׁ֔ה יִמְכֹּ֥ר יְהֹוָ֖ה אֶת־סִֽיסְרָ֑א וַתָּ֧קׇם דְּבוֹרָ֛ה וַתֵּ֥לֶךְ עִם־בָּרָ֖ק קֶֽדְשָׁה׃
+And she said: ‘I will surely go with thee; notwithstanding the journey that thou takest shall not be for thy honour; for the LORD will give Sisera over into the hand of a woman.’ And Deborah arose, and went with Barak to Kedesh.
+Judges 4:10
+וַיַּזְעֵ֨ק בָּרָ֜ק אֶת־זְבוּלֻ֤ן וְאֶת־נַפְתָּלִי֙ קֶ֔דְשָׁה וַיַּ֣עַל בְּרַגְלָ֔יו עֲשֶׂ֥רֶת אַלְפֵ֖י אִ֑ישׁ וַתַּ֥עַל עִמּ֖וֹ דְּבוֹרָֽה׃
+And Barak called Zebulun and Naphtali together to Kedesh; and there went up ten thousand men at his feet; and Deborah went up with him.
+Judges 4:11
+וְחֶ֤בֶר הַקֵּינִי֙ נִפְרָ֣ד מִקַּ֔יִן מִבְּנֵ֥י חֹבָ֖ב חֹתֵ֣ן מֹשֶׁ֑ה וַיֵּ֣ט אׇֽהֳל֔וֹ עַד־אֵיל֥וֹן   (בצענים)   [בְּצַעֲנַנִּ֖ים]   אֲשֶׁ֥ר אֶת־קֶֽדֶשׁ׃
+Now Heber the Kenite had severed himself from the Kenites, even from the children of Hobab the father-in-law of Moses, and had pitched his tent as far as Elon-bezaanannim, which is by Kedesh.
+Judges 4:12
+וַיַּגִּ֖דוּ לְסִֽיסְרָ֑א כִּ֥י עָלָ֛ה בָּרָ֥ק בֶּן־אֲבִינֹ֖עַם הַר־תָּבֽוֹר׃
+And they told Sisera that Barak the son of Abinoam was gone up to mount Tabor.
+Judges 4:13
+וַיַּזְעֵ֨ק סִֽיסְרָ֜א אֶת־כׇּל־רִכְבּ֗וֹ תְּשַׁ֤ע מֵאוֹת֙ רֶ֣כֶב בַּרְזֶ֔ל וְאֶת־כׇּל־הָעָ֖ם אֲשֶׁ֣ר אִתּ֑וֹ מֵחֲרֹ֥שֶׁת הַגּוֹיִ֖ם אֶל־נַ֥חַל קִישֽׁוֹן׃
+And Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people that were with him, from Harosheth-goiim, unto the brook Kishon.
+Judges 4:14
+וַתֹּ֩אמֶר֩ דְּבֹרָ֨ה אֶל־בָּרָ֜ק ק֗וּם כִּ֣י זֶ֤ה הַיּוֹם֙ אֲשֶׁר֩ נָתַ֨ן יְהֹוָ֤ה אֶת־סִֽיסְרָא֙ בְּיָדֶ֔ךָ הֲלֹ֥א יְהֹוָ֖ה יָצָ֣א לְפָנֶ֑יךָ וַיֵּ֤רֶד בָּרָק֙ מֵהַ֣ר תָּב֔וֹר וַעֲשֶׂ֧רֶת אֲלָפִ֛ים אִ֖ישׁ אַחֲרָֽיו׃
+And Deborah said unto Barak: ‘Up; for this is the day in which the LORD hath delivered Sisera into thy hand; is not the LORD gone out before thee?’ So Barak went down from mount Tabor, and ten thousand men after him.
+Judges 4:15
+וַיָּ֣הׇם יְ֠הֹוָ֠ה אֶת־סִֽיסְרָ֨א וְאֶת־כׇּל־הָרֶ֧כֶב וְאֶת־כׇּל־הַֽמַּחֲנֶ֛ה לְפִי־חֶ֖רֶב לִפְנֵ֣י בָרָ֑ק וַיֵּ֧רֶד סִֽיסְרָ֛א מֵעַ֥ל הַמֶּרְכָּבָ֖ה וַיָּ֥נׇס בְּרַגְלָֽיו׃
+And the LORD discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; and Sisera alighted from his chariot, and fled away on his feet.
+Judges 4:16
+וּבָרָ֗ק רָדַ֞ף אַחֲרֵ֤י הָרֶ֙כֶב֙ וְאַחֲרֵ֣י הַֽמַּחֲנֶ֔ה עַ֖ד חֲרֹ֣שֶׁת הַגּוֹיִ֑ם וַיִּפֹּ֞ל כׇּל־מַחֲנֵ֤ה סִֽיסְרָא֙ לְפִי־חֶ֔רֶב לֹ֥א נִשְׁאַ֖ר עַד־אֶחָֽד׃
+But Barak pursued after the chariots, and after the host, unto Harosheth-goiim; and all the host of Sisera fell by the edge of the sword; there was not a man left.
+Judges 4:17
+וְסִֽיסְרָא֙ נָ֣ס בְּרַגְלָ֔יו אֶל־אֹ֣הֶל יָעֵ֔ל אֵ֖שֶׁת חֶ֣בֶר הַקֵּינִ֑י כִּ֣י שָׁל֗וֹם בֵּ֚ין יָבִ֣ין מֶלֶךְ־חָצ֔וֹר וּבֵ֕ין בֵּ֖ית חֶ֥בֶר הַקֵּינִֽי׃
+Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.
+Judges 4:18
+וַתֵּצֵ֣א יָעֵל֮ לִקְרַ֣את סִֽיסְרָא֒ וַתֹּ֣אמֶר אֵלָ֗יו סוּרָ֧ה אֲדֹנִ֛י סוּרָ֥ה אֵלַ֖י אַל־תִּירָ֑א וַיָּ֤סַר אֵלֶ֙יהָ֙ הָאֹ֔הֱלָה וַתְּכַסֵּ֖הוּ בַּשְּׂמִיכָֽה׃
+And Jael went out to meet Sisera, and said unto him: ‘Turn in, my lord, turn in to me; fear not.’ And he turned in unto her into the tent, and she covered him with a rug.
+Judges 4:19
+וַיֹּ֧אמֶר אֵלֶ֛יהָ הַשְׁקִינִי־נָ֥א מְעַט־מַ֖יִם כִּ֣י צָמֵ֑אתִי וַתִּפְתַּ֞ח אֶת־נֹ֧אוד הֶחָלָ֛ב וַתַּשְׁקֵ֖הוּ וַתְּכַסֵּֽהוּ׃
+And he said unto her: ‘Give me, I pray thee, a little water to drink; for I am thirsty.’ And she opened a bottle of milk, and gave him drink, and covered him.
+Judges 4:20
+וַיֹּ֣אמֶר אֵלֶ֔יהָ עֲמֹ֖ד פֶּ֣תַח הָאֹ֑הֶל וְהָיָה֩ אִם־אִ֨ישׁ יָבֹ֜א וּשְׁאֵלֵ֗ךְ וְאָמַ֛ר הֲיֵֽשׁ־פֹּ֥ה אִ֖ישׁ וְאָמַ֥רְתְּ אָֽיִן׃
+And he said unto her: ‘Stand in the door of the tent, and it shall be, when any man doth come and inquire of thee, and say: Is there any man here? that thou shalt say: No.’
+Judges 4:21
+וַתִּקַּ֣ח יָעֵ֣ל אֵֽשֶׁת־חֶ֠בֶר אֶת־יְתַ֨ד הָאֹ֜הֶל וַתָּ֧שֶׂם אֶת־הַמַּקֶּ֣בֶת בְּיָדָ֗הּ וַתָּב֤וֹא אֵלָיו֙ בַּלָּ֔אט וַתִּתְקַ֤ע אֶת־הַיָּתֵד֙ בְּרַקָּת֔וֹ וַתִּצְנַ֖ח בָּאָ֑רֶץ וְהֽוּא־נִרְדָּ֥ם וַיָּ֖עַף וַיָּמֹֽת׃
+Then Jael Heber’s wife took a tent-pin, and took a hammer in her hand, and went softly unto him, and smote the pin into his temples, and it pierced through into the ground; for he was in a deep sleep; so he swooned and died.
+Judges 4:22
+וְהִנֵּ֣ה בָרָק֮ רֹדֵ֣ף אֶת־סִֽיסְרָא֒ וַתֵּצֵ֤א יָעֵל֙ לִקְרָאת֔וֹ וַתֹּ֣אמֶר ל֔וֹ לֵ֣ךְ וְאַרְאֶ֔ךָּ אֶת־הָאִ֖ישׁ אֲשֶׁר־אַתָּ֣ה מְבַקֵּ֑שׁ וַיָּבֹ֣א אֵלֶ֔יהָ וְהִנֵּ֤ה סִֽיסְרָא֙ נֹפֵ֣ל מֵ֔ת וְהַיָּתֵ֖ד בְּרַקָּתֽוֹ׃
+And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him: ‘Come, and I will show thee the man whom thou seekest.’ And he came unto her; and, behold, Sisera lay dead, and the tent-pin was in his temples.
+Judges 4:23
+וַיַּכְנַ֤ע אֱלֹהִים֙ בַּיּ֣וֹם הַה֔וּא אֵ֖ת יָבִ֣ין מֶֽלֶךְ־כְּנָ֑עַן לִפְנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃
+So God subdued on that day Jabin the king of Canaan before the children of Israel.
+Judges 4:24
+וַתֵּ֜לֶךְ יַ֤ד בְּנֵֽי־יִשְׂרָאֵל֙ הָל֣וֹךְ וְקָשָׁ֔ה עַ֖ל יָבִ֣ין מֶלֶךְ־כְּנָ֑עַן עַ֚ד אֲשֶׁ֣ר הִכְרִ֔יתוּ אֵ֖ת יָבִ֥ין מֶלֶךְ־כְּנָֽעַן׃  {פ}
+And the hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.
+Judges 5:1
+וַתָּ֣שַׁר דְּבוֹרָ֔ה וּבָרָ֖ק בֶּן־אֲבִינֹ֑עַם        בַּיּ֥וֹם הַה֖וּא לֵאמֹֽר׃
+Then sang Deborah and Barak the son of Abinoam on that day, saying:
+Judges 5:2
+בִּפְרֹ֤עַ פְּרָעוֹת֙ בְּיִשְׂרָאֵ֔ל        בְּהִתְנַדֵּ֖ב עָ֑ם בָּֽרְכ֖וּ יְהֹוָֽה׃
+When men let grow their hair in Israel, When the people offer themselves willingly, Bless ye the LORD.
+Judges 5:3
+שִׁמְע֣וּ מְלָכִ֔ים הַאֲזִ֖ינוּ רֹֽזְנִ֑ים        אָנֹכִ֗י לַֽיהֹוָה֙ אָנֹכִ֣י אָשִׁ֔ירָה        אֲזַמֵּ֕ר לַֽיהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+Hear, O ye kings; give ear, O ye princes; I, unto the LORD will I sing; I will sing praise to the LORD, the God of Israel.
+Judges 5:4
+יְהֹוָ֗ה בְּצֵאתְךָ֤ מִשֵּׂעִיר֙        בְּצַעְדְּךָ֙ מִשְּׂדֵ֣ה אֱד֔וֹם        אֶ֣רֶץ רָעָ֔שָׁה גַּם־שָׁמַ֖יִם נָטָ֑פוּ        גַּם־עָבִ֖ים נָ֥טְפוּ מָֽיִם׃
+LORD, when Thou didst go forth out of Seir, When Thou didst march out of the field of Edom, The earth trembled, the heavens also dropped, Yea, the clouds dropped water.
+Judges 5:5
+הָרִ֥ים נָזְל֖וּ מִפְּנֵ֣י יְהֹוָ֑ה        זֶ֣ה סִינַ֔י מִפְּנֵ֕י יְהֹוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃
+The mountains quaked at the presence of the LORD, Even yon Sinai at the presence of the LORD, the God of Israel.
+Judges 5:6
+בִּימֵ֞י שַׁמְגַּ֤ר בֶּן־עֲנָת֙        בִּימֵ֣י יָעֵ֔ל חָֽדְל֖וּ אֳרָח֑וֹת        וְהֹלְכֵ֣י נְתִיב֔וֹת יֵלְכ֕וּ אֳרָח֖וֹת עֲקַלְקַלּֽוֹת׃
+In the days of Shamgar the son of Anath, In the days of Jael, the highways ceased, And the travellers walked through byways.
+Judges 5:7
+חָדְל֧וּ פְרָז֛וֹן בְּיִשְׂרָאֵ֖ל חָדֵ֑לּוּ        עַ֤ד שַׁקַּ֙מְתִּי֙ דְּבוֹרָ֔ה שַׁקַּ֥מְתִּי אֵ֖ם בְּיִשְׂרָאֵֽל׃
+The rulers ceased in Israel, they ceased, Until that thou didst arise, Deborah, That thou didst arise a mother in Israel. .
+Judges 5:8
+יִבְחַר֙ אֱלֹהִ֣ים חֲדָשִׁ֔ים אָ֖ז לָחֶ֣ם שְׁעָרִ֑ים        מָגֵ֤ן אִם־יֵֽרָאֶה֙ וָרֹ֔מַח        בְּאַרְבָּעִ֥ים אֶ֖לֶף בְּיִשְׂרָאֵֽל׃
+They chose new gods; Then was war in the gates; Was there a shield or spear seen Among forty thousand in Israel?
+Judges 5:9
+לִבִּי֙ לְחוֹקְקֵ֣י יִשְׂרָאֵ֔ל        הַמִּֽתְנַדְּבִ֖ים בָּעָ֑ם בָּרְכ֖וּ יְהֹוָֽה׃
+My heart is toward the governors of Israel, That offered themselves willingly among the people. Bless ye the LORD.
+Judges 5:10
+רֹכְבֵי֩ אֲתֹנ֨וֹת צְחֹר֜וֹת        יֹשְׁבֵ֧י עַל־מִדִּ֛ין וְהֹלְכֵ֥י עַל־דֶּ֖רֶךְ שִֽׂיחוּ׃
+Ye that ride on white asses, Ye that sit on rich cloths, And ye that walk by the way, tell of it;
+Judges 5:11
+מִקּ֣וֹל מְחַֽצְצִ֗ים בֵּ֚ין מַשְׁאַבִּ֔ים        שָׁ֤ם יְתַנּוּ֙ צִדְק֣וֹת יְהֹוָ֔ה        צִדְקֹ֥ת פִּרְזוֹנ֖וֹ בְּיִשְׂרָאֵ֑ל        אָ֛ז יָֽרְד֥וּ לַשְּׁעָרִ֖ים עַם־יְהֹוָֽה׃
+Louder than the voice of archers, by the watering-troughs! There shall they rehearse the righteous acts of the LORD, Even the righteous acts of His rulers in Israel. Then the people of the LORD went down to the gates.
+Judges 5:12
+עוּרִ֤י עוּרִי֙ דְּבוֹרָ֔ה        ע֥וּרִי ע֖וּרִי דַּבְּרִי־שִׁ֑יר        ק֥וּם בָּרָ֛ק וּֽשְׁבֵ֥ה שֶׁבְיְךָ֖ בֶּן־אֲבִינֹֽעַם׃
+Awake, awake, Deborah; Awake, awake, utter a song; Arise, Barak, and lead thy captivity captive, thou son of Abinoam.
+Judges 5:13
+אָ֚ז יְרַ֣ד שָׂרִ֔יד לְאַדִּירִ֖ים עָ֑ם        יְהֹוָ֕ה יְרַד־לִ֖י בַּגִּבּוֹרִֽים׃
+Then made He a remnant to have dominion over the nobles and the people; The LORD made me have dominion over the mighty.
+Judges 5:14
+מִנִּ֣י אֶפְרַ֗יִם שׇׁרְשָׁם֙ בַּעֲמָלֵ֔ק        אַחֲרֶ֥יךָ בִנְיָמִ֖ין בַּעֲמָמֶ֑יךָ        מִנִּ֣י מָכִ֗יר יָֽרְדוּ֙ מְחֹ֣קְקִ֔ים        וּמִ֨זְּבוּלֻ֔ן מֹשְׁכִ֖ים בְּשֵׁ֥בֶט סֹפֵֽר׃
+Out of Ephraim came they whose root is in Amalek; After thee, Benjamin, among thy peoples; Out of Machir came down governors, And out of Zebulun they that handle the marshal’s staff.
+Judges 5:15
+וְשָׂרַ֤י בְּיִשָּׂשכָר֙ עִם־דְּבֹרָ֔ה        וְיִשָּׂשכָר֙ כֵּ֣ן בָּרָ֔ק בָּעֵ֖מֶק שֻׁלַּ֣ח בְּרַגְלָ֑יו        בִּפְלַגּ֣וֹת רְאוּבֵ֔ן גְּדֹלִ֖ים חִקְקֵי־לֵֽב׃
+And the princes of Issachar were with Deborah; As was Issachar, so was Barak; Into the valley they rushed forth at his feet. Among the divisions of Reuben There were great resolves of heart.
+Judges 5:16
+לָ֣מָּה יָשַׁ֗בְתָּ בֵּ֚ין הַֽמִּשְׁפְּתַ֔יִם        לִשְׁמֹ֖עַ שְׁרִק֣וֹת עֲדָרִ֑ים        לִפְלַגּ֣וֹת רְאוּבֵ֔ן גְּדוֹלִ֖ים חִקְרֵי־לֵֽב׃
+Why sattest thou among the sheep-folds, To hear the pipings for the flocks? At the divisions of Reuben There were great searchings of heart.
+Judges 5:17
+גִּלְעָ֗ד בְּעֵ֤בֶר הַיַּרְדֵּן֙ שָׁכֵ֔ן        וְדָ֕ן לָ֥מָּה יָג֖וּר אֳנִיּ֑וֹת        אָשֵׁ֗ר יָשַׁב֙ לְח֣וֹף יַמִּ֔ים        וְעַ֥ל מִפְרָצָ֖יו יִשְׁכּֽוֹן׃
+Gilead abode beyond the Jordan; And Dan, why doth he sojourn by the ships? Asher dwelt at the shore of the sea, And abideth by its bays.
+Judges 5:18
+זְבֻל֗וּן עַ֣ם חֵרֵ֥ף נַפְשׁ֛וֹ        לָמ֖וּת וְנַפְתָּלִ֑י עַ֖ל מְרוֹמֵ֥י שָׂדֶֽה׃
+Zebulun is a people that jeoparded their lives unto the death, And Naphtali, upon the high places of the field.
+Judges 5:19
+בָּ֤אוּ מְלָכִים֙ נִלְחָ֔מוּ        אָ֤ז נִלְחֲמוּ֙ מַלְכֵ֣י כְנַ֔עַן        בְּתַעְנַ֖ךְ עַל־מֵ֣י מְגִדּ֑וֹ        בֶּ֥צַע כֶּ֖סֶף לֹ֥א לָקָֽחוּ׃
+The kings came, they fought; Then fought the kings of Canaan, In Taanach by the waters of Megiddo; They took no gain of money.
+Judges 5:20
+מִן־שָׁמַ֖יִם נִלְחָ֑מוּ        הַכּֽוֹכָבִים֙ מִמְּסִלּוֹתָ֔ם נִלְחֲמ֖וּ עִם־סִֽיסְרָֽא׃
+They fought from heaven, The stars in their courses fought against Sisera.
+Judges 5:21
+נַ֤חַל קִישׁוֹן֙ גְּרָפָ֔ם        נַ֥חַל קְדוּמִ֖ים נַ֣חַל קִישׁ֑וֹן        תִּדְרְכִ֥י נַפְשִׁ֖י עֹֽז׃
+The brook Kishon swept them away, That ancient brook, the brook Kishon. O my soul, tread them down with strength.
+Judges 5:22
+אָ֥ז הָלְמ֖וּ עִקְּבֵי־ס֑וּס        מִֽדַּהֲר֖וֹת דַּהֲר֥וֹת אַבִּירָֽיו׃
+Then did the horsehoofs stamp By reason of the prancings, the prancings of their mighty ones.
+Judges 5:23
+א֣וֹרוּ מֵר֗וֹז אָמַר֙ מַלְאַ֣ךְ יְהֹוָ֔ה אֹ֥רוּ אָר֖וֹר יֹשְׁבֶ֑יהָ        כִּ֤י לֹֽא־בָ֙אוּ֙ לְעֶזְרַ֣ת יְהֹוָ֔ה        לְעֶזְרַ֥ת יְהֹוָ֖ה בַּגִּבּוֹרִֽים׃
+’Curse ye Meroz’, said the angel of the LORD, ‘Curse ye bitterly the inhabitants thereof, Because they came not to the help of the LORD, To the help of the LORD against the mighty.’
+Judges 5:24
+תְּבֹרַךְ֙ מִנָּשִׁ֔ים יָעֵ֕ל אֵ֖שֶׁת חֶ֣בֶר הַקֵּינִ֑י        מִנָּשִׁ֥ים בָּאֹ֖הֶל תְּבֹרָֽךְ׃
+Blessed above women shall Jael be, The wife of Heber the Kenite, Above women in the tent shall she be blessed.
+Judges 5:25
+מַ֥יִם שָׁאַ֖ל חָלָ֣ב נָתָ֑נָה        בְּסֵ֥פֶל אַדִּירִ֖ים הִקְרִ֥יבָה חֶמְאָֽה׃
+Water he asked, milk she gave him; In a lordly bowl she brought him curd.
+Judges 5:26
+יָדָהּ֙ לַיָּתֵ֣ד תִּשְׁלַ֔חְנָה        וִימִינָ֖הּ לְהַלְמ֣וּת עֲמֵלִ֑ים        וְהָלְמָ֤ה סִֽיסְרָא֙ מָחֲקָ֣ה רֹאשׁ֔וֹ        וּמָחֲצָ֥ה וְחָלְפָ֖ה רַקָּתֽוֹ׃
+Her hand she put to the tent-pin, And her right hand to the workmen’s hammer; And with the hammer she smote Sisera, she smote through his head, Yea, she pierced and struck through his temples.
+Judges 5:27
+בֵּ֣ין רַגְלֶ֔יהָ כָּרַ֥ע נָפַ֖ל שָׁכָ֑ב        בֵּ֤ין רַגְלֶ֙יהָ֙ כָּרַ֣ע נָפָ֔ל        בַּאֲשֶׁ֣ר כָּרַ֔ע שָׁ֖ם נָפַ֥ל שָׁדֽוּד׃
+At her feet he sunk, he fell, he lay; At her feet he sunk, he fell; Where he sunk, there he fell down dead.
+Judges 5:28
+בְּעַד֩ הַחַלּ֨וֹן נִשְׁקְפָ֧ה וַתְּיַבֵּ֛ב אֵ֥ם סִֽיסְרָ֖א בְּעַ֣ד הָאֶשְׁנָ֑ב        מַדּ֗וּעַ בֹּשֵׁ֤שׁ רִכְבּוֹ֙ לָב֔וֹא        מַדּ֣וּעַ אֶֽחֱר֔וּ פַּעֲמֵ֖י מַרְכְּבוֹתָֽיו׃
+Through the window she looked forth, and peered, The mother of Sisera, through the lattice: ‘Why is his chariot so long in coming? Why tarry the wheels of his chariots?
+Judges 5:29
+חַכְמ֥וֹת שָׂרוֹתֶ֖יהָ תַּעֲנֶ֑ינָּה        אַף־הִ֕יא תָּשִׁ֥יב אֲמָרֶ֖יהָ לָֽהּ׃
+The wisest of her princesses answer her, Yea, she returneth answer to herself:
+Judges 5:30
+הֲלֹ֨א יִמְצְא֜וּ יְחַלְּק֣וּ שָׁלָ֗ל        רַ֤חַם רַחֲמָתַ֙יִם֙ לְרֹ֣אשׁ גֶּ֔בֶר        שְׁלַ֤ל צְבָעִים֙ לְסִ֣יסְרָ֔א        שְׁלַ֥ל צְבָעִ֖ים רִקְמָ֑ה        צֶ֥בַע רִקְמָתַ֖יִם לְצַוְּארֵ֥י שָׁלָֽל׃
+’Are they not finding, are they not dividing the spoil? A damsel, two damsels to every man; To Sisera a spoil of dyed garments, A spoil of dyed garments of embroidery, Two dyed garments of broidery for the neck of every spoiler?’
+Judges 5:31
+כֵּ֠ן יֹאבְד֤וּ כׇל־אוֹיְבֶ֙יךָ֙ יְהֹוָ֔ה וְאֹ֣הֲבָ֔יו כְּצֵ֥את הַשֶּׁ֖מֶשׁ בִּגְבֻרָת֑וֹ        וַתִּשְׁקֹ֥ט הָאָ֖רֶץ אַרְבָּעִ֥ים שָׁנָֽה׃  {פ}
+So perish all Thine enemies, O LORD; But they that love Him be as the sun when he goeth forth in his might. And the land had rest forty years.
+https://www.sefaria.org/Judges%204
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Judges%205
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

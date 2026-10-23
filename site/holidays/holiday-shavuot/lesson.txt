@@ -1,0 +1,1466 @@
+Holiday readings · Shavuot
+קריאות למועד · שבועות
+
+How does revelation become a way of learning and sharing? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד נעשית ההתגלות לדרך של לימוד ושל שיתוף? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does revelation become a way of learning and sharing?
+כיצד נעשית ההתגלות לדרך של לימוד ושל שיתוף?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Exodus 19:1
+Arrival at Sinai begins with a proposal of covenant and a people’s response. Preparation creates boundaries before the encounter. Revelation is presented through a relation that asks to be heard, not simply through an overwhelming spectacle.
+ההגעה לסיני מתחילה בהצעת ברית ובתשובת הציבור. ההכנה מציבה גבולות לפני המפגש. ההתגלות נמסרת דרך קשר המבקש שמיעה ולא רק במחזה מכריע.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Exodus 20:12
+The Decalogue connects relation to God with obligations involving family, life, fidelity, property, testimony, and desire. The whole reading must remain in view. Selecting only the opening declaration would conceal the conduct that the encounter demands.
+עשרת הדברים מחברים יחס לאל לחובות משפחה, חיים, נאמנות, רכוש, עדות ותשוקה. יש להשאיר את הקריאה כולה במבט. בחירת ההצהרה הראשונה בלבד תסתיר את המעשה שהמפגש דורש.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Ruth 4:22
+The complete Ruth scroll ends with a genealogy after a story of hunger, loyalty, gleaning, and public commitment. Its customary Shavuot reading makes receipt of Torah converse with practical kindness. Diaspora second-day Torah and Habakkuk readings are listed separately from Israel’s one-day festival.
+מגילת רות המלאה חותמת ביוחסין לאחר רעב, נאמנות, לקט והתחייבות פומבית. מנהג קריאתה בשבועות מחבר קבלת תורה לחסד מעשי. קריאות היום השני בחו״ל וחבקוק נבדלות מן החג בן היום האחד בארץ.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Shavuot · Torah
+Exodus 19:1-20:23
+Exodus 19:1
+בַּחֹ֙דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בַּיּ֣וֹם הַזֶּ֔ה בָּ֖אוּ מִדְבַּ֥ר סִינָֽי׃
+In the third month after the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.
+Exodus 19:2
+וַיִּסְע֣וּ מֵרְפִידִ֗ים וַיָּבֹ֙אוּ֙ מִדְבַּ֣ר סִינַ֔י וַֽיַּחֲנ֖וּ בַּמִּדְבָּ֑ר וַיִּֽחַן־שָׁ֥ם יִשְׂרָאֵ֖ל נֶ֥גֶד הָהָֽר׃
+And when they were departed from Rephidim, and were come to the wilderness of Sinai, they encamped in the wilderness; and there Israel encamped before the mount.
+Exodus 19:3
+וּמֹשֶׁ֥ה עָלָ֖ה אֶל־הָאֱלֹהִ֑ים וַיִּקְרָ֨א אֵלָ֤יו יְהֹוָה֙ מִן־הָהָ֣ר לֵאמֹ֔ר כֹּ֤ה תֹאמַר֙ לְבֵ֣ית יַעֲקֹ֔ב וְתַגֵּ֖יד לִבְנֵ֥י יִשְׂרָאֵֽל׃
+And Moses went up unto God, and the LORD called unto him out of the mountain, saying: ‘Thus shalt thou say to the house of Jacob, and tell the children of Israel:
+Exodus 19:4
+אַתֶּ֣ם רְאִיתֶ֔ם אֲשֶׁ֥ר עָשִׂ֖יתִי לְמִצְרָ֑יִם וָאֶשָּׂ֤א אֶתְכֶם֙ עַל־כַּנְפֵ֣י נְשָׁרִ֔ים וָאָבִ֥א אֶתְכֶ֖ם אֵלָֽי׃
+Ye have seen what I did unto the Egyptians, and how I bore you on eagles’wings, and brought you unto Myself.
+Exodus 19:5
+וְעַתָּ֗ה אִם־שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת־בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י סְגֻלָּה֙ מִכׇּל־הָ֣עַמִּ֔ים כִּי־לִ֖י כׇּל־הָאָֽרֶץ׃
+Now therefore, if ye will hearken unto My voice indeed, and keep My covenant, then ye shall be Mine own treasure from among all peoples; for all the earth is Mine;
+Exodus 19:6
+וְאַתֶּ֧ם תִּהְיוּ־לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר אֶל־בְּנֵ֥י יִשְׂרָאֵֽל׃
+and ye shall be unto Me a kingdom of priests, and a holy nation. These are the words which thou shalt speak unto the children of Israel.’
+Exodus 19:7
+וַיָּבֹ֣א מֹשֶׁ֔ה וַיִּקְרָ֖א לְזִקְנֵ֣י הָעָ֑ם וַיָּ֣שֶׂם לִפְנֵיהֶ֗ם אֵ֚ת כׇּל־הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר צִוָּ֖הוּ יְהֹוָֽה׃
+And Moses came and called for the elders of the people, and set before them all these words which the LORD commanded him.
+Exodus 19:8
+וַיַּעֲנ֨וּ כׇל־הָעָ֤ם יַחְדָּו֙ וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה נַעֲשֶׂ֑ה וַיָּ֧שֶׁב מֹשֶׁ֛ה אֶת־דִּבְרֵ֥י הָעָ֖ם אֶל־יְהֹוָֽה׃
+And all the people answered together, and said: ‘All that the LORD hath spoken we will do.’ And Moses reported the words of the people unto the LORD.
+Exodus 19:9
+וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י בָּ֣א אֵלֶ֘יךָ֮ בְּעַ֣ב הֶֽעָנָן֒ בַּעֲב֞וּר יִשְׁמַ֤ע הָעָם֙ בְּדַבְּרִ֣י עִמָּ֔ךְ וְגַם־בְּךָ֖ יַאֲמִ֣ינוּ לְעוֹלָ֑ם וַיַּגֵּ֥ד מֹשֶׁ֛ה אֶת־דִּבְרֵ֥י הָעָ֖ם אֶל־יְהֹוָֽה׃
+And the LORD said unto Moses: ‘Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and may also believe thee for ever.’ And Moses told the words of the people unto the LORD.
+Exodus 19:10
+וַיֹּ֨אמֶר יְהֹוָ֤ה אֶל־מֹשֶׁה֙ לֵ֣ךְ אֶל־הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיּ֖וֹם וּמָחָ֑ר וְכִבְּס֖וּ שִׂמְלֹתָֽם׃
+And the LORD said unto Moses: ‘Go unto the people, and sanctify them to-day and to-morrow, and let them wash their garments,
+Exodus 19:11
+וְהָי֥וּ נְכֹנִ֖ים לַיּ֣וֹם הַשְּׁלִישִׁ֑י כִּ֣י  ׀  בַּיּ֣וֹם הַשְּׁלִשִׁ֗י יֵרֵ֧ד יְהֹוָ֛ה לְעֵינֵ֥י כׇל־הָעָ֖ם עַל־הַ֥ר סִינָֽי׃
+and be ready against the third day; for the third day the LORD will come down in the sight of all the people upon mount Sinai.
+Exodus 19:12
+וְהִגְבַּלְתָּ֤ אֶת־הָעָם֙ סָבִ֣יב לֵאמֹ֔ר הִשָּׁמְר֥וּ לָכֶ֛ם עֲל֥וֹת בָּהָ֖ר וּנְגֹ֣עַ בְּקָצֵ֑הוּ כׇּל־הַנֹּגֵ֥עַ בָּהָ֖ר מ֥וֹת יוּמָֽת׃
+And thou shalt set bounds unto the people round about, saying: Take heed to yourselves, that ye go not up into the mount, or touch the border of it; whosoever toucheth the mount shall be surely put to death;
+Exodus 19:13
+לֹא־תִגַּ֨ע בּ֜וֹ יָ֗ד כִּֽי־סָק֤וֹל יִסָּקֵל֙ אוֹ־יָרֹ֣ה יִיָּרֶ֔ה אִם־בְּהֵמָ֥ה אִם־אִ֖ישׁ לֹ֣א יִחְיֶ֑ה בִּמְשֹׁךְ֙ הַיֹּבֵ֔ל הֵ֖מָּה יַעֲל֥וּ בָהָֽר׃
+no hand shall touch him, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live; when the ram’s horn soundeth long, they shall come up to the mount.’
+Exodus 19:14
+וַיֵּ֧רֶד מֹשֶׁ֛ה מִן־הָהָ֖ר אֶל־הָעָ֑ם וַיְקַדֵּשׁ֙ אֶת־הָעָ֔ם וַֽיְכַבְּס֖וּ שִׂמְלֹתָֽם׃
+And Moses went down from the mount unto the people, and sanctified the people; and they washed their garments.
+Exodus 19:15
+וַיֹּ֙אמֶר֙ אֶל־הָעָ֔ם הֱי֥וּ נְכֹנִ֖ים לִשְׁלֹ֣שֶׁת יָמִ֑ים אַֽל־תִּגְּשׁ֖וּ אֶל־אִשָּֽׁה׃
+And he said unto the people: ‘Be ready against the third day; come not near a woman.’
+Exodus 19:16
+וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן כָּבֵד֙ עַל־הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כׇּל־הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה׃
+And it came to pass on the third day, when it was morning, that there were thunders and lightnings and a thick cloud upon the mount, and the voice of a horn exceeding loud; and all the people that were in the camp trembled.
+Exodus 19:17
+וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת־הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן־הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית הָהָֽר׃
+And Moses brought forth the people out of the camp to meet God; and they stood at the nether part of the mount.
+Exodus 19:18
+וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵ֠י אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהֹוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כׇּל־הָהָ֖ר מְאֹֽד׃
+Now mount Sinai was altogether on smoke, because the LORD descended upon it in fire; and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.
+Exodus 19:19
+וַֽיְהִי֙ ק֣וֹל הַשֹּׁפָ֔ר הוֹלֵ֖ךְ וְחָזֵ֣ק מְאֹ֑ד מֹשֶׁ֣ה יְדַבֵּ֔ר וְהָאֱלֹהִ֖ים יַעֲנֶ֥נּוּ בְקֽוֹל׃
+And when the voice of the horn waxed louder and louder, Moses spoke, and God answered him by a voice.
+Exodus 19:20
+וַיֵּ֧רֶד יְהֹוָ֛ה עַל־הַ֥ר סִינַ֖י אֶל־רֹ֣אשׁ הָהָ֑ר וַיִּקְרָ֨א יְהֹוָ֧ה לְמֹשֶׁ֛ה אֶל־רֹ֥אשׁ הָהָ֖ר וַיַּ֥עַל מֹשֶֽׁה׃
+And the LORD came down upon mount Sinai, to the top of the mount; and the LORD called Moses to the top of the mount; and Moses went up.
+Exodus 19:21
+וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה רֵ֖ד הָעֵ֣ד בָּעָ֑ם פֶּן־יֶהֶרְס֤וּ אֶל־יְהֹוָה֙ לִרְא֔וֹת וְנָפַ֥ל מִמֶּ֖נּוּ רָֽב׃
+And the LORD said unto Moses: ‘Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish.
+Exodus 19:22
+וְגַ֧ם הַכֹּהֲנִ֛ים הַנִּגָּשִׁ֥ים אֶל־יְהֹוָ֖ה יִתְקַדָּ֑שׁוּ פֶּן־יִפְרֹ֥ץ בָּהֶ֖ם יְהֹוָֽה׃
+And let the priests also, that come near to the LORD, sanctify themselves, lest the LORD break forth upon them.’
+Exodus 19:23
+וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־יְהֹוָ֔ה לֹא־יוּכַ֣ל הָעָ֔ם לַעֲלֹ֖ת אֶל־הַ֣ר סִינָ֑י כִּֽי־אַתָּ֞ה הַעֵדֹ֤תָה בָּ֙נוּ֙ לֵאמֹ֔ר הַגְבֵּ֥ל אֶת־הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃
+And Moses said unto the LORD: ‘The people cannot come up to mount Sinai; for thou didst charge us, saying: Set bounds about the mount, and sanctify it.’
+Exodus 19:24
+וַיֹּ֨אמֶר אֵלָ֤יו יְהֹוָה֙ לֶךְ־רֵ֔ד וְעָלִ֥יתָ אַתָּ֖ה וְאַהֲרֹ֣ן עִמָּ֑ךְ וְהַכֹּהֲנִ֣ים וְהָעָ֗ם אַל־יֶֽהֶרְס֛וּ לַעֲלֹ֥ת אֶל־יְהֹוָ֖ה פֶּן־יִפְרׇץ־בָּֽם׃
+And the LORD said unto him: ‘Go, get thee down, and thou shalt come up, thou, and Aaron with thee; but let not the priests and the people break through to come up unto the LORD, lest He break forth upon them.’
+Exodus 19:25
+וַיֵּ֥רֶד מֹשֶׁ֖ה אֶל־הָעָ֑ם וַיֹּ֖אמֶר אֲלֵהֶֽם׃  {ס}
+So Moses went down unto the people, and told them.
+Exodus 20:1
+וַיְדַבֵּ֣ר אֱלֹהִ֔ים אֵ֛ת כׇּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹֽר׃  {ס}
+And God spoke all these words, saying:
+Exodus 20:2
+אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃
+I am the LORD thy God, who brought thee out of the land of Egypt, out of the house of bondage.
+Exodus 20:3
+לֹֽ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃
+Thou shalt have no other gods before Me.
+Exodus 20:4
+לֹֽ֣א־תַעֲשֶֽׂ֨ה־לְךָ֥֣ פֶ֣֙סֶל֙  ׀  וְכׇל־תְּמוּנָ֔֡ה אֲשֶׁ֤֣ר בַּשָּׁמַ֣֙יִם֙  ׀  מִמַּ֔֡עַל וַֽאֲשֶׁ֥ר֩ בָּאָ֖֨רֶץ מִתָּ֑͏ַ֜חַת וַאֲשֶׁ֥ר בַּמַּ֖֣יִם  ׀  מִתַּ֥֣חַת לָאָֽ֗רֶץ׃
+Thou shalt not make unto thee a graven image, nor any manner of likeness, of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth;
+Exodus 20:5
+לֹֽא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒ כִּ֣י אָֽנֹכִ֞י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵ֠ד עֲוֺ֨ן אָבֹ֧ת עַל־בָּנִ֛ים עַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃
+thou shalt not bow down unto them, nor serve them; for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate Me;
+Exodus 20:6
+וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַאֲלָפִ֑֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃  {ס}
+and showing mercy unto the thousandth generation of them that love Me and keep My commandments.
+Exodus 20:7
+לֹ֥א תִשָּׂ֛א אֶת־שֵֽׁם־יְהֹוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהֹוָ֔ה אֵ֛ת אֲשֶׁר־יִשָּׂ֥א אֶת־שְׁמ֖וֹ לַשָּֽׁוְא׃  {פ}
+Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh His name in vain.
+Exodus 20:8
+זָכ֛וֹר֩ אֶת־י֥֨וֹם הַשַּׁבָּ֖֜ת לְקַדְּשֽׁ֗וֹ׃
+Remember the sabbath day, to keep it holy.
+Exodus 20:9
+שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃
+Six days shalt thou labour, and do all thy work;
+Exodus 20:10
+וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת  ׀  לַיהֹוָ֣ה אֱלֹהֶ֑֗יךָ לֹֽ֣א־תַעֲשֶׂ֣֨ה כׇל־מְלָאכָ֜֡ה אַתָּ֣ה  ׀  וּבִנְךָ֣͏ֽ־וּ֠בִתֶּ֗ךָ עַבְדְּךָ֤֨ וַאֲמָֽתְךָ֜֙ וּבְהֶמְתֶּ֔֗ךָ וְגֵרְךָ֖֙ אֲשֶׁ֥֣ר בִּשְׁעָרֶֽ֔יךָ׃
+but the seventh day is a sabbath unto the LORD thy God, in it thou shalt not do any manner of work, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, nor thy cattle, nor thy stranger that is within thy gates;
+Exodus 20:11
+כִּ֣י שֵֽׁשֶׁת־יָמִים֩ עָשָׂ֨ה יְהֹוָ֜ה אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֗רֶץ אֶת־הַיָּם֙ וְאֶת־כׇּל־אֲשֶׁר־בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל־כֵּ֗ן בֵּרַ֧ךְ יְהֹוָ֛ה אֶת־י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ׃  {ס}
+for in six days the LORD made heaven and earth, the sea, and all that in them is, and rested on the seventh day; wherefore the LORD blessed the sabbath day, and hallowed it.
+Exodus 20:12
+כַּבֵּ֥ד אֶת־אָבִ֖יךָ וְאֶת־אִמֶּ֑ךָ לְמַ֙עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃  {ס}
+Honour thy father and thy mother, that thy days may be long upon the land which the LORD thy God giveth thee.
+Exodus 20:13
+לֹ֥֖א תִּֿרְצָ֖͏ֽח׃  {ס}         לֹ֣֖א תִּֿנְאָ֑͏ֽף׃  {ס}         לֹ֣֖א תִּֿגְנֹֽ֔ב׃  {ס}         לֹֽא־תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃  {ס}
+Thou shalt not murder. Thou shalt not commit adultery. Thou shalt not steal. Thou shalt not bear false witness against thy neighbour.
+Exodus 20:14
+לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ  {ס}         לֹֽא־תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ׃  {פ}
+Thou shalt not covet thy neighbour’s house; thou shalt not covet thy neighbour’s wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
+Exodus 20:15
+וְכׇל־הָעָם֩ רֹאִ֨ים אֶת־הַקּוֹלֹ֜ת וְאֶת־הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת־הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק׃
+And all the people perceived the thunderings, and the lightnings, and the voice of the horn, and the mountain smoking; and when the people saw it, they trembled, and stood afar off.
+Exodus 20:16
+וַיֹּֽאמְרוּ֙ אֶל־מֹשֶׁ֔ה דַּבֵּר־אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל־יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן־נָמֽוּת׃
+And they said unto Moses: ‘Speak thou with us, and we will hear; but let not God speak with us, lest we die.’
+Exodus 20:17
+וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־הָעָם֮ אַל־תִּירָ֒אוּ֒ כִּ֗י לְבַֽעֲבוּר֙ נַסּ֣וֹת אֶתְכֶ֔ם בָּ֖א הָאֱלֹהִ֑ים וּבַעֲב֗וּר תִּהְיֶ֧ה יִרְאָת֛וֹ עַל־פְּנֵיכֶ֖ם לְבִלְתִּ֥י תֶחֱטָֽאוּ׃
+And Moses said unto the people: ‘Fear not; for God is come to prove you, and that His fear may be before you, that ye sin not.’
+Exodus 20:18
+וַיַּעֲמֹ֥ד הָעָ֖ם מֵרָחֹ֑ק וּמֹשֶׁה֙ נִגַּ֣שׁ אֶל־הָֽעֲרָפֶ֔ל אֲשֶׁר־שָׁ֖ם הָאֱלֹהִֽים׃  {ס}
+And the people stood afar off; but Moses drew near unto the thick darkness where God was.
+Exodus 20:19
+וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כֹּ֥ה תֹאמַ֖ר אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל אַתֶּ֣ם רְאִיתֶ֔ם כִּ֚י מִן־הַשָּׁמַ֔יִם דִּבַּ֖רְתִּי עִמָּכֶֽם׃
+And the LORD said unto Moses: Thus thou shalt say unto the children of Israel: Ye yourselves have seen that I have talked with you from heaven.
+Exodus 20:20
+לֹ֥א תַעֲשׂ֖וּן אִתִּ֑י אֱלֹ֤הֵי כֶ֙סֶף֙ וֵאלֹהֵ֣י זָהָ֔ב לֹ֥א תַעֲשׂ֖וּ לָכֶֽם׃
+Ye shall not make with Me—gods of silver, or gods of gold, ye shall not make unto you.
+Exodus 20:21
+מִזְבַּ֣ח אֲדָמָה֮ תַּעֲשֶׂה־לִּי֒ וְזָבַחְתָּ֣ עָלָ֗יו אֶת־עֹלֹתֶ֙יךָ֙ וְאֶת־שְׁלָמֶ֔יךָ אֶת־צֹֽאנְךָ֖ וְאֶת־בְּקָרֶ֑ךָ בְּכׇל־הַמָּקוֹם֙ אֲשֶׁ֣ר אַזְכִּ֣יר אֶת־שְׁמִ֔י אָב֥וֹא אֵלֶ֖יךָ וּבֵרַכְתִּֽיךָ׃
+An altar of earth thou shalt make unto Me, and shalt sacrifice thereon thy burnt-offerings, and thy peace-offerings, thy sheep, and thine oxen; in every place where I cause My name to be mentioned I will come unto thee and bless thee.
+Exodus 20:22
+וְאִם־מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה־לִּ֔י לֹֽא־תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַתְּחַֽלְלֶֽהָ׃
+And if thou make Me an altar of stone, thou shalt not build it of hewn stones; for if thou lift up thy tool upon it, thou hast profaned it.
+Exodus 20:23
+וְלֹֽא־תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל־מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא־תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו׃  {פ}
+Neither shalt thou go up by steps unto Mine altar, that thy nakedness be not uncovered thereon.
+https://www.sefaria.org/Exodus.19
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Exodus.20
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Numbers 28:26-28:31
+Numbers 28:26
+וּבְי֣וֹם הַבִּכּוּרִ֗ים בְּהַקְרִ֨יבְכֶ֜ם מִנְחָ֤ה חֲדָשָׁה֙ לַֽיהֹוָ֔ה בְּשָׁבֻעֹ֖תֵיכֶ֑ם מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+Also in the day of the first-fruits, when ye bring a new meal-offering unto the LORD in your feast of weeks, ye shall have a holy convocation: ye shall do no manner of servile work;
+Numbers 28:27
+וְהִקְרַבְתֶּ֨ם עוֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה פָּרִ֧ים בְּנֵי־בָקָ֛ר שְׁנַ֖יִם אַ֣יִל אֶחָ֑ד שִׁבְעָ֥ה כְבָשִׂ֖ים בְּנֵ֥י שָׁנָֽה׃
+but ye shall present a burnt-offering for a sweet savour unto the LORD: two young bullocks, one ram, seven he-lambs of the first year;
+Numbers 28:28
+וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֣ר הָֽאֶחָ֔ד שְׁנֵי֙ עֶשְׂרֹנִ֔ים לָאַ֖יִל הָאֶחָֽד׃
+and their meal-offering, fine flour mingled with oil, three tenth parts for each bullock, two tenth parts for the one ram,
+Numbers 28:29
+עִשָּׂרוֹן֙ עִשָּׂר֔וֹן לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃
+a several tenth part for every lamb of the seven lambs;
+Numbers 28:30
+שְׂעִ֥יר עִזִּ֖ים אֶחָ֑ד לְכַפֵּ֖ר עֲלֵיכֶֽם׃
+one he-goat, to make atonement for you.
+Numbers 28:31
+מִלְּבַ֞ד עֹלַ֧ת הַתָּמִ֛יד וּמִנְחָת֖וֹ תַּעֲשׂ֑וּ תְּמִימִ֥ם יִהְיוּ־לָכֶ֖ם וְנִסְכֵּיהֶֽם׃  {פ}
+Beside the continual burnt-offering, and the meal-offering thereof, ye shall offer them—they shall be unto you without blemish—and their drink-offerings.
+https://www.sefaria.org/Numbers%2028
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot · haft
+Ezekiel 1:1-1:28
+Ezekiel 1:1
+וַיְהִ֣י  ׀  בִּשְׁלֹשִׁ֣ים שָׁנָ֗ה בָּֽרְבִיעִי֙ בַּחֲמִשָּׁ֣ה לַחֹ֔דֶשׁ וַאֲנִ֥י בְתֽוֹךְ־הַגּוֹלָ֖ה עַל־נְהַר־כְּבָ֑ר נִפְתְּחוּ֙ הַשָּׁמַ֔יִם וָאֶרְאֶ֖ה מַרְא֥וֹת אֱלֹהִֽים׃
+Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar that the heavens were opened, and I saw visions of God.
+Ezekiel 1:2
+בַּחֲמִשָּׁ֖ה לַחֹ֑דֶשׁ הִ֚יא הַשָּׁנָ֣ה הַחֲמִישִׁ֔ית לְגָל֖וּת הַמֶּ֥לֶךְ יוֹיָכִֽין׃
+In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity,
+Ezekiel 1:3
+הָיֹ֣ה הָיָ֣ה דְבַר־יְ֠הֹוָ֠ה אֶל־יְחֶזְקֵ֨אל בֶּן־בּוּזִ֧י הַכֹּהֵ֛ן בְּאֶ֥רֶץ כַּשְׂדִּ֖ים עַל־נְהַר־כְּבָ֑ר וַתְּהִ֥י עָלָ֛יו שָׁ֖ם יַד־יְהֹוָֽה׃
+the word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
+Ezekiel 1:4
+וָאֵ֡רֶא וְהִנֵּה֩ ר֨וּחַ סְעָרָ֜ה בָּאָ֣ה מִן־הַצָּפ֗וֹן עָנָ֤ן גָּדוֹל֙ וְאֵ֣שׁ מִתְלַקַּ֔חַת וְנֹ֥גַֽהּ־ל֖וֹ סָבִ֑יב וּמִ֨תּוֹכָ֔הּ כְּעֵ֥ין הַחַשְׁמַ֖ל מִתּ֥וֹךְ הָאֵֽשׁ׃
+And I looked, and, behold, a stormy wind came out of the north, a great cloud, with a fire flashing up, so that a brightness was round about it; and out of the midst thereof as the colour of electrum, out of the midst of the fire.
+Ezekiel 1:5
+וּמִ֨תּוֹכָ֔הּ דְּמ֖וּת אַרְבַּ֣ע חַיּ֑וֹת וְזֶה֙ מַרְאֵיהֶ֔ן דְּמ֥וּת אָדָ֖ם לָהֵֽנָּה׃
+And out of the midst thereof came the likeness of four living creatures. And this was their appearance: they had the likeness of a man.
+Ezekiel 1:6
+וְאַרְבָּעָ֥ה פָנִ֖ים לְאֶחָ֑ת וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאַחַ֥ת לָהֶֽם׃
+And every one had four faces, and every one of them had four wings.
+Ezekiel 1:7
+וְרַגְלֵיהֶ֖ם רֶ֣גֶל יְשָׁרָ֑ה וְכַ֣ף רַגְלֵיהֶ֗ם כְּכַף֙ רֶ֣גֶל עֵ֔גֶל וְנֹ֣צְצִ֔ים כְּעֵ֖ין נְחֹ֥שֶׁת קָלָֽל׃
+And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot; and they sparkled like the colour of burnished brass.
+Ezekiel 1:8
+(וידו)   [וִידֵ֣י]   אָדָ֗ם מִתַּ֙חַת֙ כַּנְפֵיהֶ֔ם עַ֖ל אַרְבַּ֣עַת רִבְעֵיהֶ֑ם וּפְנֵיהֶ֥ם וְכַנְפֵיהֶ֖ם לְאַרְבַּעְתָּֽם׃
+And they had the hands of a man under their wings on their four sides; and as for the faces and wings of them four,
+Ezekiel 1:9
+חֹ֥בְרֹ֛ת אִשָּׁ֥ה אֶל־אֲחוֹתָ֖הּ כַּנְפֵיהֶ֑ם לֹא־יִסַּ֣בּוּ בְלֶכְתָּ֔ן אִ֛ישׁ אֶל־עֵ֥בֶר פָּנָ֖יו יֵלֵֽכוּ׃
+their wings were joined one to another; they turned not when they went; they went every one straight forward.
+Ezekiel 1:10
+וּדְמ֣וּת פְּנֵיהֶם֮ פְּנֵ֣י אָדָם֒ וּפְנֵ֨י אַרְיֵ֤ה אֶל־הַיָּמִין֙ לְאַרְבַּעְתָּ֔ם וּפְנֵי־שׁ֥וֹר מֵהַשְּׂמֹ֖אול לְאַרְבַּעְתָּ֑ן וּפְנֵי־נֶ֖שֶׁר לְאַרְבַּעְתָּֽן׃
+As for the likeness of their faces, they had the face of a man; and they four had the face of a lion on the right side; and they four had the face of an ox on the left side; they four had also the face of an eagle.
+Ezekiel 1:11
+וּפְנֵיהֶ֕ם וְכַנְפֵיהֶ֥ם פְּרֻד֖וֹת מִלְמָ֑עְלָה לְאִ֗ישׁ שְׁ֚תַּיִם חֹבְר֣וֹת אִ֔ישׁ וּשְׁתַּ֣יִם מְכַסּ֔וֹת אֵ֖ת גְּוִיֹּתֵיהֶֽנָה׃
+Thus were their faces; and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.
+Ezekiel 1:12
+וְאִ֛ישׁ אֶל־עֵ֥בֶר פָּנָ֖יו יֵלֵ֑כוּ אֶ֣ל אֲשֶׁר֩ יִֽהְיֶה־שָּׁ֨מָּה הָר֤וּחַ לָלֶ֙כֶת֙ יֵלֵ֔כוּ לֹ֥א יִסַּ֖בּוּ בְּלֶכְתָּֽן׃
+And they went every one straight forward; whither the spirit was to go, they went; they turned not when they went.
+Ezekiel 1:13
+וּדְמ֨וּת הַחַיּ֜וֹת מַרְאֵיהֶ֣ם כְּגַחֲלֵי־אֵ֗שׁ בֹּֽעֲרוֹת֙ כְּמַרְאֵ֣ה הַלַּפִּדִ֔ים הִ֕יא מִתְהַלֶּ֖כֶת בֵּ֣ין הַחַיּ֑וֹת וְנֹ֣גַהּ לָאֵ֔שׁ וּמִן־הָאֵ֖שׁ יוֹצֵ֥א בָרָֽק׃
+As for the likeness of the living creatures, their appearance was like coals of fire, burning like the appearance of torches; it flashed up and down among the living creatures; and there was brightness to the fire, and out of the fire went forth lightning.
+Ezekiel 1:14
+וְהַחַיּ֖וֹת רָצ֣וֹא וָשׁ֑וֹב כְּמַרְאֵ֖ה הַבָּזָֽק׃
+And the living creatures ran and returned as the appearance of a flash of lightning.
+Ezekiel 1:15
+וָאֵ֖רֶא הַחַיּ֑וֹת וְהִנֵּה֩ אוֹפַ֨ן אֶחָ֥ד בָּאָ֛רֶץ אֵ֥צֶל הַחַיּ֖וֹת לְאַרְבַּ֥עַת פָּנָֽיו׃
+Now as I beheld the living creatures, behold one wheel at the bottom hard by the living creatures, at the four faces thereof.
+Ezekiel 1:16
+מַרְאֵ֨ה הָאוֹפַנִּ֤ים וּמַֽעֲשֵׂיהֶם֙ כְּעֵ֣ין תַּרְשִׁ֔ישׁ וּדְמ֥וּת אֶחָ֖ד לְאַרְבַּעְתָּ֑ן וּמַרְאֵיהֶם֙ וּמַ֣עֲשֵׂיהֶ֔ם כַּאֲשֶׁ֛ר יִהְיֶ֥ה הָאוֹפַ֖ן בְּת֥וֹךְ הָאוֹפָֽן׃
+The appearance of the wheels and their work was like unto the colour of a beryl; and they four had one likeness; and their appearance and their work was as it were a wheel within a wheel.
+Ezekiel 1:17
+עַל־אַרְבַּ֥עַת רִבְעֵיהֶ֖ן בְּלֶכְתָּ֣ם יֵלֵ֑כוּ לֹ֥א יִסַּ֖בּוּ בְּלֶכְתָּֽן׃
+When they went, they went toward their four sides; they turned not when they went.
+Ezekiel 1:18
+וְגַ֨בֵּיהֶ֔ן וְגֹ֥בַהּ לָהֶ֖ם וְיִרְאָ֣ה לָהֶ֑ם וְגַבֹּתָ֗ם מְלֵאֹ֥ת עֵינַ֛יִם סָבִ֖יב לְאַרְבַּעְתָּֽן׃
+As for their rings, they were high and they were dreadful; and they four had their rings full of eyes round about.
+Ezekiel 1:19
+וּבְלֶ֙כֶת֙ הַחַיּ֔וֹת יֵלְכ֥וּ הָאוֹפַנִּ֖ים אֶצְלָ֑ם וּבְהִנָּשֵׂ֤א הַחַיּוֹת֙ מֵעַ֣ל הָאָ֔רֶץ יִנָּשְׂא֖וּ הָאוֹפַנִּֽים׃
+And when the living creatures went, the wheels went hard by them; and when the living creatures were lifted up from the bottom, the wheels were lifted up.
+Ezekiel 1:20
+עַ֣ל אֲשֶׁר֩ יִֽהְיֶה־שָּׁ֨ם הָר֤וּחַ לָלֶ֙כֶת֙ יֵלֵ֔כוּ שָׁ֥מָּה הָר֖וּחַ לָלֶ֑כֶת וְהָאוֹפַנִּ֗ים יִנָּֽשְׂאוּ֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃
+Whithersoever the spirit was to go, as the spirit was to go thither, so they went; and the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.
+Ezekiel 1:21
+בְּלֶכְתָּ֣ם יֵלֵ֔כוּ וּבְעׇמְדָ֖ם יַעֲמֹ֑דוּ וּֽבְהִנָּשְׂאָ֞ם מֵעַ֣ל הָאָ֗רֶץ יִנָּשְׂא֤וּ הָאֽוֹפַנִּים֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃
+When those went, these went, and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.
+Ezekiel 1:22
+וּדְמ֞וּת עַל־רָאשֵׁ֤י הַחַיָּה֙ רָקִ֔יעַ כְּעֵ֖ין הַקֶּ֣רַח הַנּוֹרָ֑א נָט֥וּי עַל־רָאשֵׁיהֶ֖ם מִלְמָֽעְלָה׃
+And over the heads of the living creatures there was the likeness of a firmament, like the colour of the terrible ice, stretched forth over their heads above.
+Ezekiel 1:23
+וְתַ֙חַת֙ הָרָקִ֔יעַ כַּנְפֵיהֶ֣ם יְשָׁר֔וֹת אִשָּׁ֖ה אֶל־אֲחוֹתָ֑הּ לְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה וּלְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה אֵ֖ת גְּוִיֹּתֵיהֶֽם׃
+And under the firmament were their wings conformable the one to the other; this one of them had two which covered, and that one of them had two which covered, their bodies.
+Ezekiel 1:24
+וָאֶשְׁמַ֣ע אֶת־ק֣וֹל כַּנְפֵיהֶ֡ם כְּקוֹל֩ מַ֨יִם רַבִּ֤ים כְּקוֹל־שַׁדַּי֙ בְּלֶכְתָּ֔ם ק֥וֹל הֲמֻלָּ֖ה כְּק֣וֹל מַחֲנֶ֑ה בְּעׇמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃
+And when they went, I heard the noise of their wings like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of a host; when they stood, they let down their wings.
+Ezekiel 1:25
+וַיְהִי־ק֕וֹל מֵעַ֕ל לָרָקִ֖יעַ אֲשֶׁ֣ר עַל־רֹאשָׁ֑ם בְּעׇמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃
+For, when there was a voice above the firmament that was over their heads, as they stood, they let down their wings.
+Ezekiel 1:26
+וּמִמַּ֗עַל לָרָקִ֙יעַ֙ אֲשֶׁ֣ר עַל־רֹאשָׁ֔ם כְּמַרְאֵ֥ה אֶבֶן־סַפִּ֖יר דְּמ֣וּת כִּסֵּ֑א וְעַל֙ דְּמ֣וּת הַכִּסֵּ֔א דְּמ֞וּת כְּמַרְאֵ֥ה אָדָ֛ם עָלָ֖יו מִלְמָֽעְלָה׃
+And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone; and upon the likeness of the throne was a likeness as the appearance of a man upon it above.
+Ezekiel 1:27
+וָאֵ֣רֶא  ׀  כְּעֵ֣ין חַשְׁמַ֗ל כְּמַרְאֵה־אֵ֤שׁ בֵּֽית־לָהּ֙ סָבִ֔יב מִמַּרְאֵ֥ה מׇתְנָ֖יו וּלְמָ֑עְלָה וּמִמַּרְאֵ֤ה מׇתְנָיו֙ וּלְמַ֔טָּה רָאִ֙יתִי֙ כְּמַרְאֵה־אֵ֔שׁ וְנֹ֥גַֽהּ ל֖וֹ סָבִֽיב׃
+And I saw as the colour of electrum, as the appearance of fire round about enclosing it, from the appearance of his loins and upward; and from the appearance of his loins and downward I saw as it were the appearance of fire, and there was brightness round about him.
+Ezekiel 1:28
+כְּמַרְאֵ֣ה הַקֶּ֡שֶׁת אֲשֶׁר֩ יִהְיֶ֨ה בֶעָנָ֜ן בְּי֣וֹם הַגֶּ֗שֶׁם כֵּ֣ן מַרְאֵ֤ה הַנֹּ֙גַהּ֙ סָבִ֔יב ה֕וּא מַרְאֵ֖ה דְּמ֣וּת כְּבוֹד־יְהֹוָ֑ה וָֽאֶרְאֶה֙ וָאֶפֹּ֣ל עַל־פָּנַ֔י וָאֶשְׁמַ֖ע ק֥וֹל מְדַבֵּֽר׃  {פ}
+As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spoke.
+https://www.sefaria.org/Ezekiel.1
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Ezekiel 3:12
+Ezekiel 3:12
+וַתִּשָּׂאֵ֣נִי ר֔וּחַ וָאֶשְׁמַ֣ע אַחֲרַ֔י ק֖וֹל רַ֣עַשׁ גָּד֑וֹל בָּר֥וּךְ כְּבוֹד־יְהֹוָ֖ה מִמְּקוֹמֽוֹ׃
+Then a spirit lifted me up, and I heard behind me the voice of a great rushing: ‘Blessed be the glory of the LORD from His place’;
+https://www.sefaria.org/Ezekiel.3
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot I [Diaspora / חו״ל] · Torah
+Exodus 19:1-20:23
+Exodus 19:1
+בַּחֹ֙דֶשׁ֙ הַשְּׁלִישִׁ֔י לְצֵ֥את בְּנֵי־יִשְׂרָאֵ֖ל מֵאֶ֣רֶץ מִצְרָ֑יִם בַּיּ֣וֹם הַזֶּ֔ה בָּ֖אוּ מִדְבַּ֥ר סִינָֽי׃
+In the third month after the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.
+Exodus 19:2
+וַיִּסְע֣וּ מֵרְפִידִ֗ים וַיָּבֹ֙אוּ֙ מִדְבַּ֣ר סִינַ֔י וַֽיַּחֲנ֖וּ בַּמִּדְבָּ֑ר וַיִּֽחַן־שָׁ֥ם יִשְׂרָאֵ֖ל נֶ֥גֶד הָהָֽר׃
+And when they were departed from Rephidim, and were come to the wilderness of Sinai, they encamped in the wilderness; and there Israel encamped before the mount.
+Exodus 19:3
+וּמֹשֶׁ֥ה עָלָ֖ה אֶל־הָאֱלֹהִ֑ים וַיִּקְרָ֨א אֵלָ֤יו יְהֹוָה֙ מִן־הָהָ֣ר לֵאמֹ֔ר כֹּ֤ה תֹאמַר֙ לְבֵ֣ית יַעֲקֹ֔ב וְתַגֵּ֖יד לִבְנֵ֥י יִשְׂרָאֵֽל׃
+And Moses went up unto God, and the LORD called unto him out of the mountain, saying: ‘Thus shalt thou say to the house of Jacob, and tell the children of Israel:
+Exodus 19:4
+אַתֶּ֣ם רְאִיתֶ֔ם אֲשֶׁ֥ר עָשִׂ֖יתִי לְמִצְרָ֑יִם וָאֶשָּׂ֤א אֶתְכֶם֙ עַל־כַּנְפֵ֣י נְשָׁרִ֔ים וָאָבִ֥א אֶתְכֶ֖ם אֵלָֽי׃
+Ye have seen what I did unto the Egyptians, and how I bore you on eagles’wings, and brought you unto Myself.
+Exodus 19:5
+וְעַתָּ֗ה אִם־שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת־בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י סְגֻלָּה֙ מִכׇּל־הָ֣עַמִּ֔ים כִּי־לִ֖י כׇּל־הָאָֽרֶץ׃
+Now therefore, if ye will hearken unto My voice indeed, and keep My covenant, then ye shall be Mine own treasure from among all peoples; for all the earth is Mine;
+Exodus 19:6
+וְאַתֶּ֧ם תִּהְיוּ־לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר אֶל־בְּנֵ֥י יִשְׂרָאֵֽל׃
+and ye shall be unto Me a kingdom of priests, and a holy nation. These are the words which thou shalt speak unto the children of Israel.’
+Exodus 19:7
+וַיָּבֹ֣א מֹשֶׁ֔ה וַיִּקְרָ֖א לְזִקְנֵ֣י הָעָ֑ם וַיָּ֣שֶׂם לִפְנֵיהֶ֗ם אֵ֚ת כׇּל־הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר צִוָּ֖הוּ יְהֹוָֽה׃
+And Moses came and called for the elders of the people, and set before them all these words which the LORD commanded him.
+Exodus 19:8
+וַיַּעֲנ֨וּ כׇל־הָעָ֤ם יַחְדָּו֙ וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר־דִּבֶּ֥ר יְהֹוָ֖ה נַעֲשֶׂ֑ה וַיָּ֧שֶׁב מֹשֶׁ֛ה אֶת־דִּבְרֵ֥י הָעָ֖ם אֶל־יְהֹוָֽה׃
+And all the people answered together, and said: ‘All that the LORD hath spoken we will do.’ And Moses reported the words of the people unto the LORD.
+Exodus 19:9
+וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י בָּ֣א אֵלֶ֘יךָ֮ בְּעַ֣ב הֶֽעָנָן֒ בַּעֲב֞וּר יִשְׁמַ֤ע הָעָם֙ בְּדַבְּרִ֣י עִמָּ֔ךְ וְגַם־בְּךָ֖ יַאֲמִ֣ינוּ לְעוֹלָ֑ם וַיַּגֵּ֥ד מֹשֶׁ֛ה אֶת־דִּבְרֵ֥י הָעָ֖ם אֶל־יְהֹוָֽה׃
+And the LORD said unto Moses: ‘Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and may also believe thee for ever.’ And Moses told the words of the people unto the LORD.
+Exodus 19:10
+וַיֹּ֨אמֶר יְהֹוָ֤ה אֶל־מֹשֶׁה֙ לֵ֣ךְ אֶל־הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיּ֖וֹם וּמָחָ֑ר וְכִבְּס֖וּ שִׂמְלֹתָֽם׃
+And the LORD said unto Moses: ‘Go unto the people, and sanctify them to-day and to-morrow, and let them wash their garments,
+Exodus 19:11
+וְהָי֥וּ נְכֹנִ֖ים לַיּ֣וֹם הַשְּׁלִישִׁ֑י כִּ֣י  ׀  בַּיּ֣וֹם הַשְּׁלִשִׁ֗י יֵרֵ֧ד יְהֹוָ֛ה לְעֵינֵ֥י כׇל־הָעָ֖ם עַל־הַ֥ר סִינָֽי׃
+and be ready against the third day; for the third day the LORD will come down in the sight of all the people upon mount Sinai.
+Exodus 19:12
+וְהִגְבַּלְתָּ֤ אֶת־הָעָם֙ סָבִ֣יב לֵאמֹ֔ר הִשָּׁמְר֥וּ לָכֶ֛ם עֲל֥וֹת בָּהָ֖ר וּנְגֹ֣עַ בְּקָצֵ֑הוּ כׇּל־הַנֹּגֵ֥עַ בָּהָ֖ר מ֥וֹת יוּמָֽת׃
+And thou shalt set bounds unto the people round about, saying: Take heed to yourselves, that ye go not up into the mount, or touch the border of it; whosoever toucheth the mount shall be surely put to death;
+Exodus 19:13
+לֹא־תִגַּ֨ע בּ֜וֹ יָ֗ד כִּֽי־סָק֤וֹל יִסָּקֵל֙ אוֹ־יָרֹ֣ה יִיָּרֶ֔ה אִם־בְּהֵמָ֥ה אִם־אִ֖ישׁ לֹ֣א יִחְיֶ֑ה בִּמְשֹׁךְ֙ הַיֹּבֵ֔ל הֵ֖מָּה יַעֲל֥וּ בָהָֽר׃
+no hand shall touch him, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live; when the ram’s horn soundeth long, they shall come up to the mount.’
+Exodus 19:14
+וַיֵּ֧רֶד מֹשֶׁ֛ה מִן־הָהָ֖ר אֶל־הָעָ֑ם וַיְקַדֵּשׁ֙ אֶת־הָעָ֔ם וַֽיְכַבְּס֖וּ שִׂמְלֹתָֽם׃
+And Moses went down from the mount unto the people, and sanctified the people; and they washed their garments.
+Exodus 19:15
+וַיֹּ֙אמֶר֙ אֶל־הָעָ֔ם הֱי֥וּ נְכֹנִ֖ים לִשְׁלֹ֣שֶׁת יָמִ֑ים אַֽל־תִּגְּשׁ֖וּ אֶל־אִשָּֽׁה׃
+And he said unto the people: ‘Be ready against the third day; come not near a woman.’
+Exodus 19:16
+וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן כָּבֵד֙ עַל־הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כׇּל־הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה׃
+And it came to pass on the third day, when it was morning, that there were thunders and lightnings and a thick cloud upon the mount, and the voice of a horn exceeding loud; and all the people that were in the camp trembled.
+Exodus 19:17
+וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת־הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן־הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית הָהָֽר׃
+And Moses brought forth the people out of the camp to meet God; and they stood at the nether part of the mount.
+Exodus 19:18
+וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵ֠י אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהֹוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כׇּל־הָהָ֖ר מְאֹֽד׃
+Now mount Sinai was altogether on smoke, because the LORD descended upon it in fire; and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.
+Exodus 19:19
+וַֽיְהִי֙ ק֣וֹל הַשֹּׁפָ֔ר הוֹלֵ֖ךְ וְחָזֵ֣ק מְאֹ֑ד מֹשֶׁ֣ה יְדַבֵּ֔ר וְהָאֱלֹהִ֖ים יַעֲנֶ֥נּוּ בְקֽוֹל׃
+And when the voice of the horn waxed louder and louder, Moses spoke, and God answered him by a voice.
+Exodus 19:20
+וַיֵּ֧רֶד יְהֹוָ֛ה עַל־הַ֥ר סִינַ֖י אֶל־רֹ֣אשׁ הָהָ֑ר וַיִּקְרָ֨א יְהֹוָ֧ה לְמֹשֶׁ֛ה אֶל־רֹ֥אשׁ הָהָ֖ר וַיַּ֥עַל מֹשֶֽׁה׃
+And the LORD came down upon mount Sinai, to the top of the mount; and the LORD called Moses to the top of the mount; and Moses went up.
+Exodus 19:21
+וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה רֵ֖ד הָעֵ֣ד בָּעָ֑ם פֶּן־יֶהֶרְס֤וּ אֶל־יְהֹוָה֙ לִרְא֔וֹת וְנָפַ֥ל מִמֶּ֖נּוּ רָֽב׃
+And the LORD said unto Moses: ‘Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish.
+Exodus 19:22
+וְגַ֧ם הַכֹּהֲנִ֛ים הַנִּגָּשִׁ֥ים אֶל־יְהֹוָ֖ה יִתְקַדָּ֑שׁוּ פֶּן־יִפְרֹ֥ץ בָּהֶ֖ם יְהֹוָֽה׃
+And let the priests also, that come near to the LORD, sanctify themselves, lest the LORD break forth upon them.’
+Exodus 19:23
+וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־יְהֹוָ֔ה לֹא־יוּכַ֣ל הָעָ֔ם לַעֲלֹ֖ת אֶל־הַ֣ר סִינָ֑י כִּֽי־אַתָּ֞ה הַעֵדֹ֤תָה בָּ֙נוּ֙ לֵאמֹ֔ר הַגְבֵּ֥ל אֶת־הָהָ֖ר וְקִדַּשְׁתּֽוֹ׃
+And Moses said unto the LORD: ‘The people cannot come up to mount Sinai; for thou didst charge us, saying: Set bounds about the mount, and sanctify it.’
+Exodus 19:24
+וַיֹּ֨אמֶר אֵלָ֤יו יְהֹוָה֙ לֶךְ־רֵ֔ד וְעָלִ֥יתָ אַתָּ֖ה וְאַהֲרֹ֣ן עִמָּ֑ךְ וְהַכֹּהֲנִ֣ים וְהָעָ֗ם אַל־יֶֽהֶרְס֛וּ לַעֲלֹ֥ת אֶל־יְהֹוָ֖ה פֶּן־יִפְרׇץ־בָּֽם׃
+And the LORD said unto him: ‘Go, get thee down, and thou shalt come up, thou, and Aaron with thee; but let not the priests and the people break through to come up unto the LORD, lest He break forth upon them.’
+Exodus 19:25
+וַיֵּ֥רֶד מֹשֶׁ֖ה אֶל־הָעָ֑ם וַיֹּ֖אמֶר אֲלֵהֶֽם׃  {ס}
+So Moses went down unto the people, and told them.
+Exodus 20:1
+וַיְדַבֵּ֣ר אֱלֹהִ֔ים אֵ֛ת כׇּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹֽר׃  {ס}
+And God spoke all these words, saying:
+Exodus 20:2
+אָֽנֹכִ֖י֙ יְהֹוָ֣ה אֱלֹהֶ֑֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֣֥ית עֲבָדִ֑͏ֽים׃
+I am the LORD thy God, who brought thee out of the land of Egypt, out of the house of bondage.
+Exodus 20:3
+לֹֽ֣א־יִהְיֶ֥͏ֽה־לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־פָּנָֽ͏ַ֗י׃
+Thou shalt have no other gods before Me.
+Exodus 20:4
+לֹֽ֣א־תַעֲשֶֽׂ֨ה־לְךָ֥֣ פֶ֣֙סֶל֙  ׀  וְכׇל־תְּמוּנָ֔֡ה אֲשֶׁ֤֣ר בַּשָּׁמַ֣֙יִם֙  ׀  מִמַּ֔֡עַל וַֽאֲשֶׁ֥ר֩ בָּאָ֖֨רֶץ מִתָּ֑͏ַ֜חַת וַאֲשֶׁ֥ר בַּמַּ֖֣יִם  ׀  מִתַּ֥֣חַת לָאָֽ֗רֶץ׃
+Thou shalt not make unto thee a graven image, nor any manner of likeness, of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth;
+Exodus 20:5
+לֹֽא־תִשְׁתַּחֲוֶ֥֣ה לָהֶ֖ם֮ וְלֹ֣א תׇעׇבְדֵ֑ם֒ כִּ֣י אָֽנֹכִ֞י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ אֵ֣ל קַנָּ֔א פֹּ֠קֵ֠ד עֲוֺ֨ן אָבֹ֧ת עַל־בָּנִ֛ים עַל־שִׁלֵּשִׁ֥ים וְעַל־רִבֵּעִ֖ים לְשֹׂנְאָֽ֑י׃
+thou shalt not bow down unto them, nor serve them; for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate Me;
+Exodus 20:6
+וְעֹ֥֤שֶׂה חֶ֖֙סֶד֙ לַאֲלָפִ֑֔ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי׃  {ס}
+and showing mercy unto the thousandth generation of them that love Me and keep My commandments.
+Exodus 20:7
+לֹ֥א תִשָּׂ֛א אֶת־שֵֽׁם־יְהֹוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהֹוָ֔ה אֵ֛ת אֲשֶׁר־יִשָּׂ֥א אֶת־שְׁמ֖וֹ לַשָּֽׁוְא׃  {פ}
+Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh His name in vain.
+Exodus 20:8
+זָכ֛וֹר֩ אֶת־י֥֨וֹם הַשַּׁבָּ֖֜ת לְקַדְּשֽׁ֗וֹ׃
+Remember the sabbath day, to keep it holy.
+Exodus 20:9
+שֵׁ֤֣שֶׁת יָמִ֣ים֙ תַּֽעֲבֹ֔ד֮ וְעָשִׂ֖֣יתָ כׇּֿל־מְלַאכְתֶּֽךָ֒׃
+Six days shalt thou labour, and do all thy work;
+Exodus 20:10
+וְי֨וֹם֙ הַשְּׁבִיעִ֔֜י שַׁבָּ֖֣ת  ׀  לַיהֹוָ֣ה אֱלֹהֶ֑֗יךָ לֹֽ֣א־תַעֲשֶׂ֣֨ה כׇל־מְלָאכָ֜֡ה אַתָּ֣ה  ׀  וּבִנְךָ֣͏ֽ־וּ֠בִתֶּ֗ךָ עַבְדְּךָ֤֨ וַאֲמָֽתְךָ֜֙ וּבְהֶמְתֶּ֔֗ךָ וְגֵרְךָ֖֙ אֲשֶׁ֥֣ר בִּשְׁעָרֶֽ֔יךָ׃
+but the seventh day is a sabbath unto the LORD thy God, in it thou shalt not do any manner of work, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, nor thy cattle, nor thy stranger that is within thy gates;
+Exodus 20:11
+כִּ֣י שֵֽׁשֶׁת־יָמִים֩ עָשָׂ֨ה יְהֹוָ֜ה אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֗רֶץ אֶת־הַיָּם֙ וְאֶת־כׇּל־אֲשֶׁר־בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל־כֵּ֗ן בֵּרַ֧ךְ יְהֹוָ֛ה אֶת־י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ׃  {ס}
+for in six days the LORD made heaven and earth, the sea, and all that in them is, and rested on the seventh day; wherefore the LORD blessed the sabbath day, and hallowed it.
+Exodus 20:12
+כַּבֵּ֥ד אֶת־אָבִ֖יךָ וְאֶת־אִמֶּ֑ךָ לְמַ֙עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃  {ס}
+Honour thy father and thy mother, that thy days may be long upon the land which the LORD thy God giveth thee.
+Exodus 20:13
+לֹ֥֖א תִּֿרְצָ֖͏ֽח׃  {ס}         לֹ֣֖א תִּֿנְאָ֑͏ֽף׃  {ס}         לֹ֣֖א תִּֿגְנֹֽ֔ב׃  {ס}         לֹֽא־תַעֲנֶ֥ה בְרֵעֲךָ֖ עֵ֥ד שָֽׁקֶר׃  {ס}
+Thou shalt not murder. Thou shalt not commit adultery. Thou shalt not steal. Thou shalt not bear false witness against thy neighbour.
+Exodus 20:14
+לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ  {ס}         לֹֽא־תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ׃  {פ}
+Thou shalt not covet thy neighbour’s house; thou shalt not covet thy neighbour’s wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.
+Exodus 20:15
+וְכׇל־הָעָם֩ רֹאִ֨ים אֶת־הַקּוֹלֹ֜ת וְאֶת־הַלַּפִּידִ֗ם וְאֵת֙ ק֣וֹל הַשֹּׁפָ֔ר וְאֶת־הָהָ֖ר עָשֵׁ֑ן וַיַּ֤רְא הָעָם֙ וַיָּנֻ֔עוּ וַיַּֽעַמְד֖וּ מֵֽרָחֹֽק׃
+And all the people perceived the thunderings, and the lightnings, and the voice of the horn, and the mountain smoking; and when the people saw it, they trembled, and stood afar off.
+Exodus 20:16
+וַיֹּֽאמְרוּ֙ אֶל־מֹשֶׁ֔ה דַּבֵּר־אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל־יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן־נָמֽוּת׃
+And they said unto Moses: ‘Speak thou with us, and we will hear; but let not God speak with us, lest we die.’
+Exodus 20:17
+וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־הָעָם֮ אַל־תִּירָ֒אוּ֒ כִּ֗י לְבַֽעֲבוּר֙ נַסּ֣וֹת אֶתְכֶ֔ם בָּ֖א הָאֱלֹהִ֑ים וּבַעֲב֗וּר תִּהְיֶ֧ה יִרְאָת֛וֹ עַל־פְּנֵיכֶ֖ם לְבִלְתִּ֥י תֶחֱטָֽאוּ׃
+And Moses said unto the people: ‘Fear not; for God is come to prove you, and that His fear may be before you, that ye sin not.’
+Exodus 20:18
+וַיַּעֲמֹ֥ד הָעָ֖ם מֵרָחֹ֑ק וּמֹשֶׁה֙ נִגַּ֣שׁ אֶל־הָֽעֲרָפֶ֔ל אֲשֶׁר־שָׁ֖ם הָאֱלֹהִֽים׃  {ס}
+And the people stood afar off; but Moses drew near unto the thick darkness where God was.
+Exodus 20:19
+וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה כֹּ֥ה תֹאמַ֖ר אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל אַתֶּ֣ם רְאִיתֶ֔ם כִּ֚י מִן־הַשָּׁמַ֔יִם דִּבַּ֖רְתִּי עִמָּכֶֽם׃
+And the LORD said unto Moses: Thus thou shalt say unto the children of Israel: Ye yourselves have seen that I have talked with you from heaven.
+Exodus 20:20
+לֹ֥א תַעֲשׂ֖וּן אִתִּ֑י אֱלֹ֤הֵי כֶ֙סֶף֙ וֵאלֹהֵ֣י זָהָ֔ב לֹ֥א תַעֲשׂ֖וּ לָכֶֽם׃
+Ye shall not make with Me—gods of silver, or gods of gold, ye shall not make unto you.
+Exodus 20:21
+מִזְבַּ֣ח אֲדָמָה֮ תַּעֲשֶׂה־לִּי֒ וְזָבַחְתָּ֣ עָלָ֗יו אֶת־עֹלֹתֶ֙יךָ֙ וְאֶת־שְׁלָמֶ֔יךָ אֶת־צֹֽאנְךָ֖ וְאֶת־בְּקָרֶ֑ךָ בְּכׇל־הַמָּקוֹם֙ אֲשֶׁ֣ר אַזְכִּ֣יר אֶת־שְׁמִ֔י אָב֥וֹא אֵלֶ֖יךָ וּבֵרַכְתִּֽיךָ׃
+An altar of earth thou shalt make unto Me, and shalt sacrifice thereon thy burnt-offerings, and thy peace-offerings, thy sheep, and thine oxen; in every place where I cause My name to be mentioned I will come unto thee and bless thee.
+Exodus 20:22
+וְאִם־מִזְבַּ֤ח אֲבָנִים֙ תַּֽעֲשֶׂה־לִּ֔י לֹֽא־תִבְנֶ֥ה אֶתְהֶ֖ן גָּזִ֑ית כִּ֧י חַרְבְּךָ֛ הֵנַ֥פְתָּ עָלֶ֖יהָ וַתְּחַֽלְלֶֽהָ׃
+And if thou make Me an altar of stone, thou shalt not build it of hewn stones; for if thou lift up thy tool upon it, thou hast profaned it.
+Exodus 20:23
+וְלֹֽא־תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל־מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא־תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו׃  {פ}
+Neither shalt thou go up by steps unto Mine altar, that thy nakedness be not uncovered thereon.
+https://www.sefaria.org/Exodus.19
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Exodus.20
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Numbers 28:26-28:31
+Numbers 28:26
+וּבְי֣וֹם הַבִּכּוּרִ֗ים בְּהַקְרִ֨יבְכֶ֜ם מִנְחָ֤ה חֲדָשָׁה֙ לַֽיהֹוָ֔ה בְּשָׁבֻעֹ֖תֵיכֶ֑ם מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+Also in the day of the first-fruits, when ye bring a new meal-offering unto the LORD in your feast of weeks, ye shall have a holy convocation: ye shall do no manner of servile work;
+Numbers 28:27
+וְהִקְרַבְתֶּ֨ם עוֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה פָּרִ֧ים בְּנֵי־בָקָ֛ר שְׁנַ֖יִם אַ֣יִל אֶחָ֑ד שִׁבְעָ֥ה כְבָשִׂ֖ים בְּנֵ֥י שָׁנָֽה׃
+but ye shall present a burnt-offering for a sweet savour unto the LORD: two young bullocks, one ram, seven he-lambs of the first year;
+Numbers 28:28
+וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֣ר הָֽאֶחָ֔ד שְׁנֵי֙ עֶשְׂרֹנִ֔ים לָאַ֖יִל הָאֶחָֽד׃
+and their meal-offering, fine flour mingled with oil, three tenth parts for each bullock, two tenth parts for the one ram,
+Numbers 28:29
+עִשָּׂרוֹן֙ עִשָּׂר֔וֹן לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃
+a several tenth part for every lamb of the seven lambs;
+Numbers 28:30
+שְׂעִ֥יר עִזִּ֖ים אֶחָ֑ד לְכַפֵּ֖ר עֲלֵיכֶֽם׃
+one he-goat, to make atonement for you.
+Numbers 28:31
+מִלְּבַ֞ד עֹלַ֧ת הַתָּמִ֛יד וּמִנְחָת֖וֹ תַּעֲשׂ֑וּ תְּמִימִ֥ם יִהְיוּ־לָכֶ֖ם וְנִסְכֵּיהֶֽם׃  {פ}
+Beside the continual burnt-offering, and the meal-offering thereof, ye shall offer them—they shall be unto you without blemish—and their drink-offerings.
+https://www.sefaria.org/Numbers%2028
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot I [Diaspora / חו״ל] · haft
+Ezekiel 1:1-1:28
+Ezekiel 1:1
+וַיְהִ֣י  ׀  בִּשְׁלֹשִׁ֣ים שָׁנָ֗ה בָּֽרְבִיעִי֙ בַּחֲמִשָּׁ֣ה לַחֹ֔דֶשׁ וַאֲנִ֥י בְתֽוֹךְ־הַגּוֹלָ֖ה עַל־נְהַר־כְּבָ֑ר נִפְתְּחוּ֙ הַשָּׁמַ֔יִם וָאֶרְאֶ֖ה מַרְא֥וֹת אֱלֹהִֽים׃
+Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar that the heavens were opened, and I saw visions of God.
+Ezekiel 1:2
+בַּחֲמִשָּׁ֖ה לַחֹ֑דֶשׁ הִ֚יא הַשָּׁנָ֣ה הַחֲמִישִׁ֔ית לְגָל֖וּת הַמֶּ֥לֶךְ יוֹיָכִֽין׃
+In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity,
+Ezekiel 1:3
+הָיֹ֣ה הָיָ֣ה דְבַר־יְ֠הֹוָ֠ה אֶל־יְחֶזְקֵ֨אל בֶּן־בּוּזִ֧י הַכֹּהֵ֛ן בְּאֶ֥רֶץ כַּשְׂדִּ֖ים עַל־נְהַר־כְּבָ֑ר וַתְּהִ֥י עָלָ֛יו שָׁ֖ם יַד־יְהֹוָֽה׃
+the word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
+Ezekiel 1:4
+וָאֵ֡רֶא וְהִנֵּה֩ ר֨וּחַ סְעָרָ֜ה בָּאָ֣ה מִן־הַצָּפ֗וֹן עָנָ֤ן גָּדוֹל֙ וְאֵ֣שׁ מִתְלַקַּ֔חַת וְנֹ֥גַֽהּ־ל֖וֹ סָבִ֑יב וּמִ֨תּוֹכָ֔הּ כְּעֵ֥ין הַחַשְׁמַ֖ל מִתּ֥וֹךְ הָאֵֽשׁ׃
+And I looked, and, behold, a stormy wind came out of the north, a great cloud, with a fire flashing up, so that a brightness was round about it; and out of the midst thereof as the colour of electrum, out of the midst of the fire.
+Ezekiel 1:5
+וּמִ֨תּוֹכָ֔הּ דְּמ֖וּת אַרְבַּ֣ע חַיּ֑וֹת וְזֶה֙ מַרְאֵיהֶ֔ן דְּמ֥וּת אָדָ֖ם לָהֵֽנָּה׃
+And out of the midst thereof came the likeness of four living creatures. And this was their appearance: they had the likeness of a man.
+Ezekiel 1:6
+וְאַרְבָּעָ֥ה פָנִ֖ים לְאֶחָ֑ת וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאַחַ֥ת לָהֶֽם׃
+And every one had four faces, and every one of them had four wings.
+Ezekiel 1:7
+וְרַגְלֵיהֶ֖ם רֶ֣גֶל יְשָׁרָ֑ה וְכַ֣ף רַגְלֵיהֶ֗ם כְּכַף֙ רֶ֣גֶל עֵ֔גֶל וְנֹ֣צְצִ֔ים כְּעֵ֖ין נְחֹ֥שֶׁת קָלָֽל׃
+And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot; and they sparkled like the colour of burnished brass.
+Ezekiel 1:8
+(וידו)   [וִידֵ֣י]   אָדָ֗ם מִתַּ֙חַת֙ כַּנְפֵיהֶ֔ם עַ֖ל אַרְבַּ֣עַת רִבְעֵיהֶ֑ם וּפְנֵיהֶ֥ם וְכַנְפֵיהֶ֖ם לְאַרְבַּעְתָּֽם׃
+And they had the hands of a man under their wings on their four sides; and as for the faces and wings of them four,
+Ezekiel 1:9
+חֹ֥בְרֹ֛ת אִשָּׁ֥ה אֶל־אֲחוֹתָ֖הּ כַּנְפֵיהֶ֑ם לֹא־יִסַּ֣בּוּ בְלֶכְתָּ֔ן אִ֛ישׁ אֶל־עֵ֥בֶר פָּנָ֖יו יֵלֵֽכוּ׃
+their wings were joined one to another; they turned not when they went; they went every one straight forward.
+Ezekiel 1:10
+וּדְמ֣וּת פְּנֵיהֶם֮ פְּנֵ֣י אָדָם֒ וּפְנֵ֨י אַרְיֵ֤ה אֶל־הַיָּמִין֙ לְאַרְבַּעְתָּ֔ם וּפְנֵי־שׁ֥וֹר מֵהַשְּׂמֹ֖אול לְאַרְבַּעְתָּ֑ן וּפְנֵי־נֶ֖שֶׁר לְאַרְבַּעְתָּֽן׃
+As for the likeness of their faces, they had the face of a man; and they four had the face of a lion on the right side; and they four had the face of an ox on the left side; they four had also the face of an eagle.
+Ezekiel 1:11
+וּפְנֵיהֶ֕ם וְכַנְפֵיהֶ֥ם פְּרֻד֖וֹת מִלְמָ֑עְלָה לְאִ֗ישׁ שְׁ֚תַּיִם חֹבְר֣וֹת אִ֔ישׁ וּשְׁתַּ֣יִם מְכַסּ֔וֹת אֵ֖ת גְּוִיֹּתֵיהֶֽנָה׃
+Thus were their faces; and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.
+Ezekiel 1:12
+וְאִ֛ישׁ אֶל־עֵ֥בֶר פָּנָ֖יו יֵלֵ֑כוּ אֶ֣ל אֲשֶׁר֩ יִֽהְיֶה־שָּׁ֨מָּה הָר֤וּחַ לָלֶ֙כֶת֙ יֵלֵ֔כוּ לֹ֥א יִסַּ֖בּוּ בְּלֶכְתָּֽן׃
+And they went every one straight forward; whither the spirit was to go, they went; they turned not when they went.
+Ezekiel 1:13
+וּדְמ֨וּת הַחַיּ֜וֹת מַרְאֵיהֶ֣ם כְּגַחֲלֵי־אֵ֗שׁ בֹּֽעֲרוֹת֙ כְּמַרְאֵ֣ה הַלַּפִּדִ֔ים הִ֕יא מִתְהַלֶּ֖כֶת בֵּ֣ין הַחַיּ֑וֹת וְנֹ֣גַהּ לָאֵ֔שׁ וּמִן־הָאֵ֖שׁ יוֹצֵ֥א בָרָֽק׃
+As for the likeness of the living creatures, their appearance was like coals of fire, burning like the appearance of torches; it flashed up and down among the living creatures; and there was brightness to the fire, and out of the fire went forth lightning.
+Ezekiel 1:14
+וְהַחַיּ֖וֹת רָצ֣וֹא וָשׁ֑וֹב כְּמַרְאֵ֖ה הַבָּזָֽק׃
+And the living creatures ran and returned as the appearance of a flash of lightning.
+Ezekiel 1:15
+וָאֵ֖רֶא הַחַיּ֑וֹת וְהִנֵּה֩ אוֹפַ֨ן אֶחָ֥ד בָּאָ֛רֶץ אֵ֥צֶל הַחַיּ֖וֹת לְאַרְבַּ֥עַת פָּנָֽיו׃
+Now as I beheld the living creatures, behold one wheel at the bottom hard by the living creatures, at the four faces thereof.
+Ezekiel 1:16
+מַרְאֵ֨ה הָאוֹפַנִּ֤ים וּמַֽעֲשֵׂיהֶם֙ כְּעֵ֣ין תַּרְשִׁ֔ישׁ וּדְמ֥וּת אֶחָ֖ד לְאַרְבַּעְתָּ֑ן וּמַרְאֵיהֶם֙ וּמַ֣עֲשֵׂיהֶ֔ם כַּאֲשֶׁ֛ר יִהְיֶ֥ה הָאוֹפַ֖ן בְּת֥וֹךְ הָאוֹפָֽן׃
+The appearance of the wheels and their work was like unto the colour of a beryl; and they four had one likeness; and their appearance and their work was as it were a wheel within a wheel.
+Ezekiel 1:17
+עַל־אַרְבַּ֥עַת רִבְעֵיהֶ֖ן בְּלֶכְתָּ֣ם יֵלֵ֑כוּ לֹ֥א יִסַּ֖בּוּ בְּלֶכְתָּֽן׃
+When they went, they went toward their four sides; they turned not when they went.
+Ezekiel 1:18
+וְגַ֨בֵּיהֶ֔ן וְגֹ֥בַהּ לָהֶ֖ם וְיִרְאָ֣ה לָהֶ֑ם וְגַבֹּתָ֗ם מְלֵאֹ֥ת עֵינַ֛יִם סָבִ֖יב לְאַרְבַּעְתָּֽן׃
+As for their rings, they were high and they were dreadful; and they four had their rings full of eyes round about.
+Ezekiel 1:19
+וּבְלֶ֙כֶת֙ הַחַיּ֔וֹת יֵלְכ֥וּ הָאוֹפַנִּ֖ים אֶצְלָ֑ם וּבְהִנָּשֵׂ֤א הַחַיּוֹת֙ מֵעַ֣ל הָאָ֔רֶץ יִנָּשְׂא֖וּ הָאוֹפַנִּֽים׃
+And when the living creatures went, the wheels went hard by them; and when the living creatures were lifted up from the bottom, the wheels were lifted up.
+Ezekiel 1:20
+עַ֣ל אֲשֶׁר֩ יִֽהְיֶה־שָּׁ֨ם הָר֤וּחַ לָלֶ֙כֶת֙ יֵלֵ֔כוּ שָׁ֥מָּה הָר֖וּחַ לָלֶ֑כֶת וְהָאוֹפַנִּ֗ים יִנָּֽשְׂאוּ֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃
+Whithersoever the spirit was to go, as the spirit was to go thither, so they went; and the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.
+Ezekiel 1:21
+בְּלֶכְתָּ֣ם יֵלֵ֔כוּ וּבְעׇמְדָ֖ם יַעֲמֹ֑דוּ וּֽבְהִנָּשְׂאָ֞ם מֵעַ֣ל הָאָ֗רֶץ יִנָּשְׂא֤וּ הָאֽוֹפַנִּים֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃
+When those went, these went, and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up beside them; for the spirit of the living creature was in the wheels.
+Ezekiel 1:22
+וּדְמ֞וּת עַל־רָאשֵׁ֤י הַחַיָּה֙ רָקִ֔יעַ כְּעֵ֖ין הַקֶּ֣רַח הַנּוֹרָ֑א נָט֥וּי עַל־רָאשֵׁיהֶ֖ם מִלְמָֽעְלָה׃
+And over the heads of the living creatures there was the likeness of a firmament, like the colour of the terrible ice, stretched forth over their heads above.
+Ezekiel 1:23
+וְתַ֙חַת֙ הָרָקִ֔יעַ כַּנְפֵיהֶ֣ם יְשָׁר֔וֹת אִשָּׁ֖ה אֶל־אֲחוֹתָ֑הּ לְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה וּלְאִ֗ישׁ שְׁתַּ֤יִם מְכַסּוֹת֙ לָהֵ֔נָּה אֵ֖ת גְּוִיֹּתֵיהֶֽם׃
+And under the firmament were their wings conformable the one to the other; this one of them had two which covered, and that one of them had two which covered, their bodies.
+Ezekiel 1:24
+וָאֶשְׁמַ֣ע אֶת־ק֣וֹל כַּנְפֵיהֶ֡ם כְּקוֹל֩ מַ֨יִם רַבִּ֤ים כְּקוֹל־שַׁדַּי֙ בְּלֶכְתָּ֔ם ק֥וֹל הֲמֻלָּ֖ה כְּק֣וֹל מַחֲנֶ֑ה בְּעׇמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃
+And when they went, I heard the noise of their wings like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of a host; when they stood, they let down their wings.
+Ezekiel 1:25
+וַיְהִי־ק֕וֹל מֵעַ֕ל לָרָקִ֖יעַ אֲשֶׁ֣ר עַל־רֹאשָׁ֑ם בְּעׇמְדָ֖ם תְּרַפֶּ֥ינָה כַנְפֵיהֶֽן׃
+For, when there was a voice above the firmament that was over their heads, as they stood, they let down their wings.
+Ezekiel 1:26
+וּמִמַּ֗עַל לָרָקִ֙יעַ֙ אֲשֶׁ֣ר עַל־רֹאשָׁ֔ם כְּמַרְאֵ֥ה אֶבֶן־סַפִּ֖יר דְּמ֣וּת כִּסֵּ֑א וְעַל֙ דְּמ֣וּת הַכִּסֵּ֔א דְּמ֞וּת כְּמַרְאֵ֥ה אָדָ֛ם עָלָ֖יו מִלְמָֽעְלָה׃
+And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone; and upon the likeness of the throne was a likeness as the appearance of a man upon it above.
+Ezekiel 1:27
+וָאֵ֣רֶא  ׀  כְּעֵ֣ין חַשְׁמַ֗ל כְּמַרְאֵה־אֵ֤שׁ בֵּֽית־לָהּ֙ סָבִ֔יב מִמַּרְאֵ֥ה מׇתְנָ֖יו וּלְמָ֑עְלָה וּמִמַּרְאֵ֤ה מׇתְנָיו֙ וּלְמַ֔טָּה רָאִ֙יתִי֙ כְּמַרְאֵה־אֵ֔שׁ וְנֹ֥גַֽהּ ל֖וֹ סָבִֽיב׃
+And I saw as the colour of electrum, as the appearance of fire round about enclosing it, from the appearance of his loins and upward; and from the appearance of his loins and downward I saw as it were the appearance of fire, and there was brightness round about him.
+Ezekiel 1:28
+כְּמַרְאֵ֣ה הַקֶּ֡שֶׁת אֲשֶׁר֩ יִהְיֶ֨ה בֶעָנָ֜ן בְּי֣וֹם הַגֶּ֗שֶׁם כֵּ֣ן מַרְאֵ֤ה הַנֹּ֙גַהּ֙ סָבִ֔יב ה֕וּא מַרְאֵ֖ה דְּמ֣וּת כְּבוֹד־יְהֹוָ֑ה וָֽאֶרְאֶה֙ וָאֶפֹּ֣ל עַל־פָּנַ֔י וָאֶשְׁמַ֖ע ק֥וֹל מְדַבֵּֽר׃  {פ}
+As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spoke.
+https://www.sefaria.org/Ezekiel.1
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Ezekiel 3:12
+Ezekiel 3:12
+וַתִּשָּׂאֵ֣נִי ר֔וּחַ וָאֶשְׁמַ֣ע אַחֲרַ֔י ק֖וֹל רַ֣עַשׁ גָּד֑וֹל בָּר֥וּךְ כְּבוֹד־יְהֹוָ֖ה מִמְּקוֹמֽוֹ׃
+Then a spirit lifted me up, and I heard behind me the voice of a great rushing: ‘Blessed be the glory of the LORD from His place’;
+https://www.sefaria.org/Ezekiel.3
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot II [Diaspora / חו״ל] · Torah
+Deuteronomy 15:19-16:17
+Deuteronomy 15:19
+כׇּֽל־הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ֙ הַזָּכָ֔ר תַּקְדִּ֖ישׁ לַיהֹוָ֣ה אֱלֹהֶ֑יךָ לֹ֤א תַעֲבֹד֙ בִּבְכֹ֣ר שׁוֹרֶ֔ךָ וְלֹ֥א תָגֹ֖ז בְּכ֥וֹר צֹאנֶֽךָ׃
+All the firstling males that are born of thy herd and of thy flock thou shalt sanctify unto the LORD thy God; thou shalt do no work with the firstling of thine ox, nor shear the firstling of thy flock.
+Deuteronomy 15:20
+לִפְנֵי֩ יְהֹוָ֨ה אֱלֹהֶ֤יךָ תֹאכְלֶ֙נּוּ֙ שָׁנָ֣ה בְשָׁנָ֔ה בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה אַתָּ֖ה וּבֵיתֶֽךָ׃
+Thou shalt eat it before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.
+Deuteronomy 15:21
+וְכִֽי־יִהְיֶ֨ה ב֜וֹ מ֗וּם פִּסֵּ֙חַ֙ א֣וֹ עִוֵּ֔ר כֹּ֖ל מ֣וּם רָ֑ע לֹ֣א תִזְבָּחֶ֔נּוּ לַיהֹוָ֖ה אֱלֹהֶֽיךָ׃
+And if there be any blemish therein, lameness, or blindness, any ill blemish whatsoever, thou shalt not sacrifice it unto the LORD thy God.
+Deuteronomy 15:22
+בִּשְׁעָרֶ֖יךָ תֹּאכְלֶ֑נּוּ הַטָּמֵ֤א וְהַטָּהוֹר֙ יַחְדָּ֔ו כַּצְּבִ֖י וְכָאַיָּֽל׃
+Thou shalt eat it within thy gates; the unclean and the clean may eat it alike, as the gazelle, and as the hart.
+Deuteronomy 15:23
+רַ֥ק אֶת־דָּמ֖וֹ לֹ֣א תֹאכֵ֑ל עַל־הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם׃  {פ}
+Only thou shalt not eat the blood thereof; thou shalt pour it out upon the ground as water.
+Deuteronomy 16:1
+שָׁמוֹר֙ אֶת־חֹ֣דֶשׁ הָאָבִ֔יב וְעָשִׂ֣יתָ פֶּ֔סַח לַיהֹוָ֖ה אֱלֹהֶ֑יךָ כִּ֞י בְּחֹ֣דֶשׁ הָֽאָבִ֗יב הוֹצִ֨יאֲךָ֜ יְהֹוָ֧ה אֱלֹהֶ֛יךָ מִמִּצְרַ֖יִם לָֽיְלָה׃
+Observe the month of Abib, and keep the passover unto the LORD thy God; for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.
+Deuteronomy 16:2
+וְזָבַ֥חְתָּ פֶּ֛סַח לַיהֹוָ֥ה אֱלֹהֶ֖יךָ צֹ֣אן וּבָקָ֑ר בַּמָּקוֹם֙ אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֔ה לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃
+And thou shalt sacrifice the passover-offering unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to cause His name to dwell there.
+Deuteronomy 16:3
+לֹא־תֹאכַ֤ל עָלָיו֙ חָמֵ֔ץ שִׁבְעַ֥ת יָמִ֛ים תֹּֽאכַל־עָלָ֥יו מַצּ֖וֹת לֶ֣חֶם עֹ֑נִי כִּ֣י בְחִפָּז֗וֹן יָצָ֙אתָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לְמַ֣עַן תִּזְכֹּ֗ר אֶת־י֤וֹם צֵֽאתְךָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃
+Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction; for in haste didst thou come forth out of the land of Egypt; that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
+Deuteronomy 16:4
+וְלֹֽא־יֵרָאֶ֨ה לְךָ֥ שְׂאֹ֛ר בְּכׇל־גְּבֻלְךָ֖ שִׁבְעַ֣ת יָמִ֑ים וְלֹא־יָלִ֣ין מִן־הַבָּשָׂ֗ר אֲשֶׁ֨ר תִּזְבַּ֥ח בָּעֶ֛רֶב בַּיּ֥וֹם הָרִאשׁ֖וֹן לַבֹּֽקֶר׃
+And there shall be no leaven seen with thee in all thy borders seven days; neither shall any of the flesh, which thou sacrificest the first day at even, remain all night until the morning.
+Deuteronomy 16:5
+לֹ֥א תוּכַ֖ל לִזְבֹּ֣חַ אֶת־הַפָּ֑סַח בְּאַחַ֣ד שְׁעָרֶ֔יךָ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃
+Thou mayest not sacrifice the passover-offering within any of thy gates, which the LORD thy God giveth thee;
+Deuteronomy 16:6
+כִּ֠י אִֽם־אֶל־הַמָּק֞וֹם אֲשֶׁר־יִבְחַ֨ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לְשַׁכֵּ֣ן שְׁמ֔וֹ שָׁ֛ם תִּזְבַּ֥ח אֶת־הַפֶּ֖סַח בָּעָ֑רֶב כְּב֣וֹא הַשֶּׁ֔מֶשׁ מוֹעֵ֖ד צֵֽאתְךָ֥ מִמִּצְרָֽיִם׃
+but at the place which the LORD thy God shall choose to cause His name to dwell in, there thou shalt sacrifice the passover-offering at even, at the going down of the sun, at the season that thou camest forth out of Egypt.
+Deuteronomy 16:7
+וּבִשַּׁלְתָּ֙ וְאָ֣כַלְתָּ֔ בַּמָּק֕וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּ֑וֹ וּפָנִ֣יתָ בַבֹּ֔קֶר וְהָלַכְתָּ֖ לְאֹהָלֶֽיךָ׃
+And thou shalt roast and eat it in the place which the LORD thy God shall choose; and thou shalt turn in the morning, and go unto thy tents.
+Deuteronomy 16:8
+שֵׁ֥שֶׁת יָמִ֖ים תֹּאכַ֣ל מַצּ֑וֹת וּבַיּ֣וֹם הַשְּׁבִיעִ֗י עֲצֶ֙רֶת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א תַעֲשֶׂ֖ה מְלָאכָֽה׃  {ס}
+Six days thou shalt eat unleavened bread; and on the seventh day shall be a solemn assembly to the LORD thy God; thou shalt do no work therein.
+Deuteronomy 16:9
+שִׁבְעָ֥ה שָׁבֻעֹ֖ת תִּסְפׇּר־לָ֑ךְ מֵהָחֵ֤ל חֶרְמֵשׁ֙ בַּקָּמָ֔ה תָּחֵ֣ל לִסְפֹּ֔ר שִׁבְעָ֖ה שָׁבֻעֽוֹת׃
+Seven weeks shalt thou number unto thee; from the time the sickle is first put to the standing corn shalt thou begin to number seven weeks.
+Deuteronomy 16:10
+וְעָשִׂ֜יתָ חַ֤ג שָׁבֻעוֹת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ מִסַּ֛ת נִדְבַ֥ת יָדְךָ֖ אֲשֶׁ֣ר תִּתֵּ֑ן כַּאֲשֶׁ֥ר יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃
+And thou shalt keep the feast of weeks unto the LORD thy God after the measure of the freewill-offering of thy hand, which thou shalt give, according as the LORD thy God blesseth thee.
+Deuteronomy 16:11
+וְשָׂמַחְתָּ֞ לִפְנֵ֣י  ׀  יְהֹוָ֣ה אֱלֹהֶ֗יךָ אַתָּ֨ה וּבִנְךָ֣ וּבִתֶּ֘ךָ֮ וְעַבְדְּךָ֣ וַאֲמָתֶ֒ךָ֒ וְהַלֵּוִי֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֣ר בְּקִרְבֶּ֑ךָ בַּמָּק֗וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃
+And thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite that is within they gates, and the stranger, and the fatherless, and the widow, that are in the midst of thee, in the place which the LORD thy God shall choose to cause His name to dwell there.
+Deuteronomy 16:12
+וְזָ֣כַרְתָּ֔ כִּי־עֶ֥בֶד הָיִ֖יתָ בְּמִצְרָ֑יִם וְשָׁמַרְתָּ֣ וְעָשִׂ֔יתָ אֶת־הַֽחֻקִּ֖ים הָאֵֽלֶּה׃  {פ}
+And thou shalt remember that thou wast a bondman in Egypt; and thou shalt observe and do these statutes.
+Deuteronomy 16:13
+חַ֧ג הַסֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים בְּאׇ֨סְפְּךָ֔ מִֽגׇּרְנְךָ֖ וּמִיִּקְבֶֽךָ׃
+Thou shalt keep the feast of tabernacles seven days, after that thou hast gathered in from thy threshing-floor and from thy winepress.
+Deuteronomy 16:14
+וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֙ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֗י וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ׃
+And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite, and the stranger, and the fatherless, and the widow, that are within thy gates.
+Deuteronomy 16:15
+שִׁבְעַ֣ת יָמִ֗ים תָּחֹג֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה כִּ֣י יְבָרֶכְךָ֞ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בְּכֹ֤ל תְּבוּאָֽתְךָ֙ וּבְכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔יךָ וְהָיִ֖יתָ אַ֥ךְ שָׂמֵֽחַ׃
+Seven days shalt thou keep a feast unto the LORD thy God in the place which the LORD shall choose; because the LORD thy God shall bless thee in all thine increase, and in all the work of thy hands, and thou shalt be altogether joyful.
+Deuteronomy 16:16
+שָׁל֣וֹשׁ פְּעָמִ֣ים  ׀  בַּשָּׁנָ֡ה יֵרָאֶ֨ה כׇל־זְכוּרְךָ֜ אֶת־פְּנֵ֣י  ׀  יְהֹוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה אֶת־פְּנֵ֥י יְהֹוָ֖ה רֵיקָֽם׃
+Three times in a year shall all thy males appear before the LORD thy God in the place which He shall choose; on the feast of unleavened bread, and on the feast of weeks, and on the feast of tabernacles; and they shall not appear before the LORD empty;
+Deuteronomy 16:17
+אִ֖ישׁ כְּמַתְּנַ֣ת יָד֑וֹ כְּבִרְכַּ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃  {ס}
+every man shall give as he is able, according to the blessing of the LORD thy God which He hath given thee.
+https://www.sefaria.org/Deuteronomy.15
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Deuteronomy.16
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Numbers 28:26-28:31
+Numbers 28:26
+וּבְי֣וֹם הַבִּכּוּרִ֗ים בְּהַקְרִ֨יבְכֶ֜ם מִנְחָ֤ה חֲדָשָׁה֙ לַֽיהֹוָ֔ה בְּשָׁבֻעֹ֖תֵיכֶ֑ם מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+Also in the day of the first-fruits, when ye bring a new meal-offering unto the LORD in your feast of weeks, ye shall have a holy convocation: ye shall do no manner of servile work;
+Numbers 28:27
+וְהִקְרַבְתֶּ֨ם עוֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה פָּרִ֧ים בְּנֵי־בָקָ֛ר שְׁנַ֖יִם אַ֣יִל אֶחָ֑ד שִׁבְעָ֥ה כְבָשִׂ֖ים בְּנֵ֥י שָׁנָֽה׃
+but ye shall present a burnt-offering for a sweet savour unto the LORD: two young bullocks, one ram, seven he-lambs of the first year;
+Numbers 28:28
+וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֣ר הָֽאֶחָ֔ד שְׁנֵי֙ עֶשְׂרֹנִ֔ים לָאַ֖יִל הָאֶחָֽד׃
+and their meal-offering, fine flour mingled with oil, three tenth parts for each bullock, two tenth parts for the one ram,
+Numbers 28:29
+עִשָּׂרוֹן֙ עִשָּׂר֔וֹן לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃
+a several tenth part for every lamb of the seven lambs;
+Numbers 28:30
+שְׂעִ֥יר עִזִּ֖ים אֶחָ֑ד לְכַפֵּ֖ר עֲלֵיכֶֽם׃
+one he-goat, to make atonement for you.
+Numbers 28:31
+מִלְּבַ֞ד עֹלַ֧ת הַתָּמִ֛יד וּמִנְחָת֖וֹ תַּעֲשׂ֑וּ תְּמִימִ֥ם יִהְיוּ־לָכֶ֖ם וְנִסְכֵּיהֶֽם׃  {פ}
+Beside the continual burnt-offering, and the meal-offering thereof, ye shall offer them—they shall be unto you without blemish—and their drink-offerings.
+https://www.sefaria.org/Numbers%2028
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot II [Diaspora / חו״ל] · haft
+Habakkuk 3:1-3:19
+Habakkuk 3:1
+תְּפִלָּ֖ה לַחֲבַקּ֣וּק הַנָּבִ֑יא עַ֖ל שִׁגְיֹנֽוֹת׃
+A prayer of Habakkuk the prophet. Upon Shigionoth.
+Habakkuk 3:2
+יְהֹוָ֗ה שָׁמַ֣עְתִּי שִׁמְעֲךָ֮ יָרֵ֒אתִי֒ יְהֹוָ֗ה פׇּֽעׇלְךָ֙ בְּקֶ֤רֶב שָׁנִים֙ חַיֵּ֔יהוּ בְּקֶ֥רֶב שָׁנִ֖ים תּוֹדִ֑יעַ בְּרֹ֖גֶז רַחֵ֥ם תִּזְכּֽוֹר׃
+O LORD, I have heard the report of Thee, and am afraid; O LORD, revive Thy work in the midst of the years, in the midst of the years make it known; In wrath remember compassion.
+Habakkuk 3:3
+אֱל֙וֹהַּ֙ מִתֵּימָ֣ן יָב֔וֹא וְקָד֥וֹשׁ מֵהַר־פָּארָ֖ן סֶ֑לָה כִּסָּ֤ה שָׁמַ֙יִם֙ הוֹד֔וֹ וּתְהִלָּת֖וֹ מָלְאָ֥ה הָאָֽרֶץ׃
+God cometh from Teman, And the Holy One from mount Paran. Selah His glory covereth the heavens, And the earth is full of His praise.
+Habakkuk 3:4
+וְנֹ֙גַהּ֙ כָּא֣וֹר תִּֽהְיֶ֔ה קַרְנַ֥יִם מִיָּד֖וֹ ל֑וֹ וְשָׁ֖ם חֶבְי֥וֹן עֻזֹּֽה׃
+And a brightness appeareth as the light; rays hath He at His side; and there is the hiding of His power.
+Habakkuk 3:5
+לְפָנָ֖יו יֵ֣לֶךְ דָּ֑בֶר וְיֵצֵ֥א רֶ֖שֶׁף לְרַגְלָֽיו׃
+Before him goeth the pestilence, and fiery bolts go forth at His feet.
+Habakkuk 3:6
+עָמַ֣ד  ׀  וַיְמֹ֣דֶד אֶ֗רֶץ רָאָה֙ וַיַּתֵּ֣ר גּוֹיִ֔ם וַיִּתְפֹּֽצְצוּ֙ הַרְרֵי־עַ֔ד שַׁח֖וּ גִּבְע֣וֹת עוֹלָ֑ם הֲלִיכ֥וֹת עוֹלָ֖ם לֽוֹ׃
+He standeth, and shaketh the earth, He beholdeth, and maketh the nations to tremble; And the everlasting mountains are dashed in pieces, The ancient hills do bow; His goings are as of old.
+Habakkuk 3:7
+תַּ֣חַת אָ֔וֶן רָאִ֖יתִי אׇהֳלֵ֣י כוּשָׁ֑ן יִרְגְּז֕וּן יְרִיע֖וֹת אֶ֥רֶץ מִדְיָֽן׃
+I see the tents of Cushan in affliction; The curtains of the land of Midian do tremble.
+Habakkuk 3:8
+הֲבִנְהָרִים֙ חָרָ֣ה יְהֹוָ֔ה אִ֤ם בַּנְּהָרִים֙ אַפֶּ֔ךָ אִם־בַּיָּ֖ם עֶבְרָתֶ֑ךָ כִּ֤י תִרְכַּב֙ עַל־סוּסֶ֔יךָ מַרְכְּבֹתֶ֖יךָ יְשׁוּעָֽה׃
+Is it, O LORD, that against the rivers, is it that Thine anger is kindled against the rivers, or Thy wrath against the sea? That Thou dost ride upon Thy horses, upon Thy chariots of victory?
+Habakkuk 3:9
+עֶרְיָ֤ה תֵעוֹר֙ קַשְׁתֶּ֔ךָ שְׁבֻע֥וֹת מַטּ֖וֹת אֹ֣מֶר סֶ֑לָה נְהָר֖וֹת תְּבַקַּע־אָֽרֶץ׃
+Thy bow is made quite bare; Sworn are the rods of the word. Selah. Thou dost cleave the earth with rivers.
+Habakkuk 3:10
+רָא֤וּךָ יָחִ֙ילוּ֙ הָרִ֔ים זֶ֥רֶם מַ֖יִם עָבָ֑ר נָתַ֤ן תְּהוֹם֙ קוֹל֔וֹ ר֖וֹם יָדֵ֥יהוּ נָשָֽׂא׃
+The mountains have seen Thee, and they tremble; the tempest of waters floweth over; the deep uttereth its voice, And lifteth up its hands on high.
+Habakkuk 3:11
+שֶׁ֥מֶשׁ יָרֵ֖חַ עָ֣מַד זְבֻ֑לָה לְא֤וֹר חִצֶּ֙יךָ֙ יְהַלֵּ֔כוּ לְנֹ֖גַהּ בְּרַ֥ק חֲנִיתֶֽךָ׃
+The sun and moon stand still in their habitation; at the light of Thine arrows as they go, At the shining of Thy glittering spear.
+Habakkuk 3:12
+בְּזַ֖עַם תִּצְעַד־אָ֑רֶץ בְּאַ֖ף תָּד֥וּשׁ גּוֹיִֽם׃
+Thou marchest through the earth in indignation, Thou threshest the nations in anger.
+Habakkuk 3:13
+יָצָ֙אתָ֙ לְיֵ֣שַׁע עַמֶּ֔ךָ לְיֵ֖שַׁע אֶת־מְשִׁיחֶ֑ךָ מָחַ֤צְתָּ רֹּאשׁ֙ מִבֵּ֣ית רָשָׁ֔ע עָר֛וֹת יְס֥וֹד עַד־צַוָּ֖אר סֶֽלָה׃  {פ}
+Thou art come forth for the deliverance of Thy people, for the deliverance of Thine anointed; Thou woundest the head out of the house of the wicked, uncovering the foundation even unto the neck. Selah
+Habakkuk 3:14
+נָקַ֤בְתָּ בְמַטָּיו֙ רֹ֣אשׁ  פְּרָזָ֔ו  יִסְעֲר֖וּ לַהֲפִיצֵ֑נִי עֲלִ֣יצֻתָ֔ם כְּמוֹ־לֶאֱכֹ֥ל עָנִ֖י בַּמִּסְתָּֽר׃
+Thou hast stricken through with his own rods the head of his rulers, that come as a whirlwind to scatter me; whose rejoicing is as to devour the poor secretly.
+Habakkuk 3:15
+דָּרַ֥כְתָּ בַיָּ֖ם סוּסֶ֑יךָ חֹ֖מֶר מַ֥יִם רַבִּֽים׃
+Thou hast trodden the sea with Thy horses, the foaming of mighty waters.
+Habakkuk 3:16
+שָׁמַ֣עְתִּי  ׀  וַתִּרְגַּ֣ז בִּטְנִ֗י לְקוֹל֙ צָלְל֣וּ שְׂפָתַ֔י יָב֥וֹא רָקָ֛ב בַּעֲצָמַ֖י וְתַחְתַּ֣י אֶרְגָּ֑ז אֲשֶׁ֤ר אָנ֙וּחַ֙ לְי֣וֹם צָרָ֔ה לַעֲל֖וֹת לְעַ֥ם יְגוּדֶֽנּוּ׃
+When I heard, mine inward parts trembled, My lips quivered at the voice; Rottenness entereth into my bones, And I tremble where I stand; that I should wait for the day of trouble, when he cometh up against the people that he invadeth.
+Habakkuk 3:17
+כִּֽי־תְאֵנָ֣ה לֹֽא־תִפְרָ֗ח וְאֵ֤ין יְבוּל֙ בַּגְּפָנִ֔ים כִּחֵשׁ֙ מַֽעֲשֵׂה־זַ֔יִת וּשְׁדֵמ֖וֹת לֹא־עָ֣שָׂה אֹ֑כֶל גָּזַ֤ר מִמִּכְלָה֙ צֹ֔אן וְאֵ֥ין בָּקָ֖ר בָּרְפָתִֽים׃
+For though the fig-tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, And the fields shall yield no food; The flock shall be cut off from the fold, and there shall be no herd in the stalls;
+Habakkuk 3:18
+וַאֲנִ֖י בַּיהֹוָ֣ה אֶעְל֑וֹזָה אָגִ֖ילָה בֵּאלֹהֵ֥י יִשְׁעִֽי׃
+Yet I will rejoice in the LORD, I will exult in the God of my salvation.
+Habakkuk 3:19
+יֱהֹוִ֤ה אֲדֹנָי֙ חֵילִ֔י וַיָּ֤שֶׂם רַגְלַי֙ כָּאַיָּל֔וֹת וְעַ֥ל בָּמוֹתַ֖י יַדְרִכֵ֑נִי לַמְנַצֵּ֖חַ בִּנְגִינוֹתָֽי׃
+God, the Lord, is my strength, And He maketh my feet like hinds’feet, And He maketh me to walk upon my high places. For the Leader. With my string-music.
+https://www.sefaria.org/Habakkuk.3
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot II [Diaspora / חו״ל] · seph
+Habakkuk 2:20-3:19
+Habakkuk 2:20
+וַיהֹוָ֖ה בְּהֵיכַ֣ל קׇדְשׁ֑וֹ הַ֥ס מִפָּנָ֖יו כׇּל־הָאָֽרֶץ׃  {ס}
+But the LORD is in His holy temple; Let all the earth keep silence before Him.
+Habakkuk 3:1
+תְּפִלָּ֖ה לַחֲבַקּ֣וּק הַנָּבִ֑יא עַ֖ל שִׁגְיֹנֽוֹת׃
+A prayer of Habakkuk the prophet. Upon Shigionoth.
+Habakkuk 3:2
+יְהֹוָ֗ה שָׁמַ֣עְתִּי שִׁמְעֲךָ֮ יָרֵ֒אתִי֒ יְהֹוָ֗ה פׇּֽעׇלְךָ֙ בְּקֶ֤רֶב שָׁנִים֙ חַיֵּ֔יהוּ בְּקֶ֥רֶב שָׁנִ֖ים תּוֹדִ֑יעַ בְּרֹ֖גֶז רַחֵ֥ם תִּזְכּֽוֹר׃
+O LORD, I have heard the report of Thee, and am afraid; O LORD, revive Thy work in the midst of the years, in the midst of the years make it known; In wrath remember compassion.
+Habakkuk 3:3
+אֱל֙וֹהַּ֙ מִתֵּימָ֣ן יָב֔וֹא וְקָד֥וֹשׁ מֵהַר־פָּארָ֖ן סֶ֑לָה כִּסָּ֤ה שָׁמַ֙יִם֙ הוֹד֔וֹ וּתְהִלָּת֖וֹ מָלְאָ֥ה הָאָֽרֶץ׃
+God cometh from Teman, And the Holy One from mount Paran. Selah His glory covereth the heavens, And the earth is full of His praise.
+Habakkuk 3:4
+וְנֹ֙גַהּ֙ כָּא֣וֹר תִּֽהְיֶ֔ה קַרְנַ֥יִם מִיָּד֖וֹ ל֑וֹ וְשָׁ֖ם חֶבְי֥וֹן עֻזֹּֽה׃
+And a brightness appeareth as the light; rays hath He at His side; and there is the hiding of His power.
+Habakkuk 3:5
+לְפָנָ֖יו יֵ֣לֶךְ דָּ֑בֶר וְיֵצֵ֥א רֶ֖שֶׁף לְרַגְלָֽיו׃
+Before him goeth the pestilence, and fiery bolts go forth at His feet.
+Habakkuk 3:6
+עָמַ֣ד  ׀  וַיְמֹ֣דֶד אֶ֗רֶץ רָאָה֙ וַיַּתֵּ֣ר גּוֹיִ֔ם וַיִּתְפֹּֽצְצוּ֙ הַרְרֵי־עַ֔ד שַׁח֖וּ גִּבְע֣וֹת עוֹלָ֑ם הֲלִיכ֥וֹת עוֹלָ֖ם לֽוֹ׃
+He standeth, and shaketh the earth, He beholdeth, and maketh the nations to tremble; And the everlasting mountains are dashed in pieces, The ancient hills do bow; His goings are as of old.
+Habakkuk 3:7
+תַּ֣חַת אָ֔וֶן רָאִ֖יתִי אׇהֳלֵ֣י כוּשָׁ֑ן יִרְגְּז֕וּן יְרִיע֖וֹת אֶ֥רֶץ מִדְיָֽן׃
+I see the tents of Cushan in affliction; The curtains of the land of Midian do tremble.
+Habakkuk 3:8
+הֲבִנְהָרִים֙ חָרָ֣ה יְהֹוָ֔ה אִ֤ם בַּנְּהָרִים֙ אַפֶּ֔ךָ אִם־בַּיָּ֖ם עֶבְרָתֶ֑ךָ כִּ֤י תִרְכַּב֙ עַל־סוּסֶ֔יךָ מַרְכְּבֹתֶ֖יךָ יְשׁוּעָֽה׃
+Is it, O LORD, that against the rivers, is it that Thine anger is kindled against the rivers, or Thy wrath against the sea? That Thou dost ride upon Thy horses, upon Thy chariots of victory?
+Habakkuk 3:9
+עֶרְיָ֤ה תֵעוֹר֙ קַשְׁתֶּ֔ךָ שְׁבֻע֥וֹת מַטּ֖וֹת אֹ֣מֶר סֶ֑לָה נְהָר֖וֹת תְּבַקַּע־אָֽרֶץ׃
+Thy bow is made quite bare; Sworn are the rods of the word. Selah. Thou dost cleave the earth with rivers.
+Habakkuk 3:10
+רָא֤וּךָ יָחִ֙ילוּ֙ הָרִ֔ים זֶ֥רֶם מַ֖יִם עָבָ֑ר נָתַ֤ן תְּהוֹם֙ קוֹל֔וֹ ר֖וֹם יָדֵ֥יהוּ נָשָֽׂא׃
+The mountains have seen Thee, and they tremble; the tempest of waters floweth over; the deep uttereth its voice, And lifteth up its hands on high.
+Habakkuk 3:11
+שֶׁ֥מֶשׁ יָרֵ֖חַ עָ֣מַד זְבֻ֑לָה לְא֤וֹר חִצֶּ֙יךָ֙ יְהַלֵּ֔כוּ לְנֹ֖גַהּ בְּרַ֥ק חֲנִיתֶֽךָ׃
+The sun and moon stand still in their habitation; at the light of Thine arrows as they go, At the shining of Thy glittering spear.
+Habakkuk 3:12
+בְּזַ֖עַם תִּצְעַד־אָ֑רֶץ בְּאַ֖ף תָּד֥וּשׁ גּוֹיִֽם׃
+Thou marchest through the earth in indignation, Thou threshest the nations in anger.
+Habakkuk 3:13
+יָצָ֙אתָ֙ לְיֵ֣שַׁע עַמֶּ֔ךָ לְיֵ֖שַׁע אֶת־מְשִׁיחֶ֑ךָ מָחַ֤צְתָּ רֹּאשׁ֙ מִבֵּ֣ית רָשָׁ֔ע עָר֛וֹת יְס֥וֹד עַד־צַוָּ֖אר סֶֽלָה׃  {פ}
+Thou art come forth for the deliverance of Thy people, for the deliverance of Thine anointed; Thou woundest the head out of the house of the wicked, uncovering the foundation even unto the neck. Selah
+Habakkuk 3:14
+נָקַ֤בְתָּ בְמַטָּיו֙ רֹ֣אשׁ  פְּרָזָ֔ו  יִסְעֲר֖וּ לַהֲפִיצֵ֑נִי עֲלִ֣יצֻתָ֔ם כְּמוֹ־לֶאֱכֹ֥ל עָנִ֖י בַּמִּסְתָּֽר׃
+Thou hast stricken through with his own rods the head of his rulers, that come as a whirlwind to scatter me; whose rejoicing is as to devour the poor secretly.
+Habakkuk 3:15
+דָּרַ֥כְתָּ בַיָּ֖ם סוּסֶ֑יךָ חֹ֖מֶר מַ֥יִם רַבִּֽים׃
+Thou hast trodden the sea with Thy horses, the foaming of mighty waters.
+Habakkuk 3:16
+שָׁמַ֣עְתִּי  ׀  וַתִּרְגַּ֣ז בִּטְנִ֗י לְקוֹל֙ צָלְל֣וּ שְׂפָתַ֔י יָב֥וֹא רָקָ֛ב בַּעֲצָמַ֖י וְתַחְתַּ֣י אֶרְגָּ֑ז אֲשֶׁ֤ר אָנ֙וּחַ֙ לְי֣וֹם צָרָ֔ה לַעֲל֖וֹת לְעַ֥ם יְגוּדֶֽנּוּ׃
+When I heard, mine inward parts trembled, My lips quivered at the voice; Rottenness entereth into my bones, And I tremble where I stand; that I should wait for the day of trouble, when he cometh up against the people that he invadeth.
+Habakkuk 3:17
+כִּֽי־תְאֵנָ֣ה לֹֽא־תִפְרָ֗ח וְאֵ֤ין יְבוּל֙ בַּגְּפָנִ֔ים כִּחֵשׁ֙ מַֽעֲשֵׂה־זַ֔יִת וּשְׁדֵמ֖וֹת לֹא־עָ֣שָׂה אֹ֑כֶל גָּזַ֤ר מִמִּכְלָה֙ צֹ֔אן וְאֵ֥ין בָּקָ֖ר בָּרְפָתִֽים׃
+For though the fig-tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, And the fields shall yield no food; The flock shall be cut off from the fold, and there shall be no herd in the stalls;
+Habakkuk 3:18
+וַאֲנִ֖י בַּיהֹוָ֣ה אֶעְל֑וֹזָה אָגִ֖ילָה בֵּאלֹהֵ֥י יִשְׁעִֽי׃
+Yet I will rejoice in the LORD, I will exult in the God of my salvation.
+Habakkuk 3:19
+יֱהֹוִ֤ה אֲדֹנָי֙ חֵילִ֔י וַיָּ֤שֶׂם רַגְלַי֙ כָּאַיָּל֔וֹת וְעַ֥ל בָּמוֹתַ֖י יַדְרִכֵ֑נִי לַמְנַצֵּ֖חַ בִּנְגִינוֹתָֽי׃
+God, the Lord, is my strength, And He maketh my feet like hinds’feet, And He maketh me to walk upon my high places. For the Leader. With my string-music.
+https://www.sefaria.org/Habakkuk.2
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Habakkuk.3
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot II (on Shabbat) [Diaspora / חו״ל] · Torah
+Deuteronomy 14:22-16:17
+Deuteronomy 14:22
+עַשֵּׂ֣ר תְּעַשֵּׂ֔ר אֵ֖ת כׇּל־תְּבוּאַ֣ת זַרְעֶ֑ךָ הַיֹּצֵ֥א הַשָּׂדֶ֖ה שָׁנָ֥ה שָׁנָֽה׃
+Thou shalt surely tithe all the increase of thy seed, that which is brought forth in the field year by year.
+Deuteronomy 14:23
+וְאָכַלְתָּ֞ לִפְנֵ֣י  ׀  יְהֹוָ֣ה אֱלֹהֶ֗יךָ בַּמָּק֣וֹם אֲשֶׁר־יִבְחַר֮ לְשַׁכֵּ֣ן שְׁמ֣וֹ שָׁם֒ מַעְשַׂ֤ר דְּגָֽנְךָ֙ תִּירֹשְׁךָ֣ וְיִצְהָרֶ֔ךָ וּבְכֹרֹ֥ת בְּקָרְךָ֖ וְצֹאנֶ֑ךָ לְמַ֣עַן תִּלְמַ֗ד לְיִרְאָ֛ה אֶת־יְהֹוָ֥ה אֱלֹהֶ֖יךָ כׇּל־הַיָּמִֽים׃
+And thou shalt eat before the LORD thy God, in the place which He shall choose to cause His name to dwell there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herd and of thy flock; that thou mayest learn to fear the LORD thy God always.
+Deuteronomy 14:24
+וְכִֽי־יִרְבֶּ֨ה מִמְּךָ֜ הַדֶּ֗רֶךְ כִּ֣י לֹ֣א תוּכַל֮ שְׂאֵתוֹ֒ כִּֽי־יִרְחַ֤ק מִמְּךָ֙ הַמָּק֔וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לָשׂ֥וּם שְׁמ֖וֹ שָׁ֑ם כִּ֥י יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃
+And if the way be too long for thee, so that thou art not able to carry it, because the place is too far from thee, which the LORD thy God shall choose to set His name there, when the LORD thy God shall bless thee;
+Deuteronomy 14:25
+וְנָתַתָּ֖ה בַּכָּ֑סֶף וְצַרְתָּ֤ הַכֶּ֙סֶף֙ בְּיָ֣דְךָ֔ וְהָֽלַכְתָּ֙ אֶל־הַמָּק֔וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּֽוֹ׃
+then shalt thou turn it into money, and bind up the money in thy hand, and shalt go unto the place which the LORD thy God shall choose.
+Deuteronomy 14:26
+וְנָתַתָּ֣ה הַכֶּ֡סֶף בְּכֹל֩ אֲשֶׁר־תְּאַוֶּ֨ה נַפְשְׁךָ֜ בַּבָּקָ֣ר וּבַצֹּ֗אן וּבַיַּ֙יִן֙ וּבַשֵּׁכָ֔ר וּבְכֹ֛ל אֲשֶׁ֥ר תִּֽשְׁאָלְךָ֖ נַפְשֶׁ֑ךָ וְאָכַ֣לְתָּ שָּׁ֗ם לִפְנֵי֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְשָׂמַחְתָּ֖ אַתָּ֥ה וּבֵיתֶֽךָ׃
+And thou shalt bestow the money for whatsoever thy soul desireth, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul asketh of thee; and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou and thy household.
+Deuteronomy 14:27
+וְהַלֵּוִ֥י אֲשֶׁר־בִּשְׁעָרֶ֖יךָ לֹ֣א תַֽעַזְבֶ֑נּוּ כִּ֣י אֵ֥ין ל֛וֹ חֵ֥לֶק וְנַחֲלָ֖ה עִמָּֽךְ׃  {ס}
+And the Levite that is within thy gates, thou shalt not forsake him; for he hath no portion nor inheritance with thee.
+Deuteronomy 14:28
+מִקְצֵ֣ה  ׀  שָׁלֹ֣שׁ שָׁנִ֗ים תּוֹצִיא֙ אֶת־כׇּל־מַעְשַׂר֙ תְּבוּאָ֣תְךָ֔ בַּשָּׁנָ֖ה הַהִ֑וא וְהִנַּחְתָּ֖ בִּשְׁעָרֶֽיךָ׃
+At the end of every three years, even in the same year, thou shalt bring forth all the tithe of thine increase, and shall lay it up within thy gates.
+Deuteronomy 14:29
+וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין־לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּ֠ר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇל־מַעֲשֵׂ֥ה יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה׃  {ס}
+And the Levite, because he hath no portion nor inheritance with thee, and the stranger, and the fatherless, and the widow, that are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thy hand which thou doest.
+Deuteronomy 15:1
+מִקֵּ֥ץ שֶֽׁבַע־שָׁנִ֖ים תַּעֲשֶׂ֥ה שְׁמִטָּֽה׃
+At the end of every seven years thou shalt make a release.
+Deuteronomy 15:2
+וְזֶה֮ דְּבַ֣ר הַשְּׁמִטָּה֒ שָׁמ֗וֹט כׇּל־בַּ֙עַל֙ מַשֵּׁ֣ה יָד֔וֹ אֲשֶׁ֥ר יַשֶּׁ֖ה בְּרֵעֵ֑הוּ לֹֽא־יִגֹּ֤שׂ אֶת־רֵעֵ֙הוּ֙ וְאֶת־אָחִ֔יו כִּֽי־קָרָ֥א שְׁמִטָּ֖ה לַיהֹוָֽה׃
+And this is the manner of the release: every creditor shall release that which he hath lent unto his neighbour; he shall not exact it of his neighbour and his brother; because the LORD’S release hath been proclaimed.
+Deuteronomy 15:3
+אֶת־הַנׇּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת־אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ׃
+Of a foreigner thou mayest exact it; but whatsoever of thine is with thy brother thy hand shall release.
+Deuteronomy 15:4
+אֶ֕פֶס כִּ֛י לֹ֥א יִֽהְיֶה־בְּךָ֖ אֶבְי֑וֹן כִּֽי־בָרֵ֤ךְ יְבָֽרֶכְךָ֙ יְהֹוָ֔ה בָּאָ֕רֶץ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ נֹֽתֵן־לְךָ֥ נַחֲלָ֖ה לְרִשְׁתָּֽהּ׃
+Howbeit there shall be no needy among you—for the LORD will surely bless thee in the land which the LORD thy God giveth thee for an inheritance to possess it—
+Deuteronomy 15:5
+רַ֚ק אִם־שָׁמ֣וֹעַ תִּשְׁמַ֔ע בְּק֖וֹל יְהֹוָ֣ה אֱלֹהֶ֑יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־כׇּל־הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃
+if only thou diligently hearken unto the voice of the LORD thy God, to observe to do all this commandment which I command thee this day.
+Deuteronomy 15:6
+כִּֽי־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ בֵּֽרַכְךָ֔ כַּאֲשֶׁ֖ר דִּבֶּר־לָ֑ךְ וְהַֽעֲבַטְתָּ֞ גּוֹיִ֣ם רַבִּ֗ים וְאַתָּה֙ לֹ֣א תַעֲבֹ֔ט וּמָֽשַׁלְתָּ֙ בְּגוֹיִ֣ם רַבִּ֔ים וּבְךָ֖ לֹ֥א יִמְשֹֽׁלוּ׃  {ס}
+For the LORD thy God will bless thee, as He promised thee; and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt rule over many nations, but they shall not rule over thee.
+Deuteronomy 15:7
+כִּֽי־יִהְיֶה֩ בְךָ֨ אֶבְי֜וֹן מֵאַחַ֤ד אַחֶ֙יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ לֹ֧א תְאַמֵּ֣ץ אֶת־לְבָבְךָ֗ וְלֹ֤א תִקְפֹּץ֙ אֶת־יָ֣דְךָ֔ מֵאָחִ֖יךָ הָאֶבְיֽוֹן׃
+If there be among you a needy man, one of thy brethren, within any of thy gates, in thy land which the LORD thy God giveth thee, thou shalt not harden thy heart, nor shut thy hand from thy needy brother;
+Deuteronomy 15:8
+כִּֽי־פָתֹ֧חַ תִּפְתַּ֛ח אֶת־יָדְךָ֖ ל֑וֹ וְהַעֲבֵט֙ תַּעֲבִיטֶ֔נּוּ דֵּ֚י מַחְסֹר֔וֹ אֲשֶׁ֥ר יֶחְסַ֖ר לֽוֹ׃
+but thou shalt surely open thy hand unto him, and shalt surely lend him sufficient for his need in that which he wanteth.
+Deuteronomy 15:9
+הִשָּׁ֣מֶר לְךָ֡ פֶּן־יִהְיֶ֣ה דָבָר֩ עִם־לְבָבְךָ֨ בְלִיַּ֜עַל לֵאמֹ֗ר קָֽרְבָ֣ה שְׁנַֽת־הַשֶּׁ֘בַע֮ שְׁנַ֣ת הַשְּׁמִטָּה֒ וְרָעָ֣ה עֵֽינְךָ֗ בְּאָחִ֙יךָ֙ הָֽאֶבְי֔וֹן וְלֹ֥א תִתֵּ֖ן ל֑וֹ וְקָרָ֤א עָלֶ֙יךָ֙ אֶל־יְהֹוָ֔ה וְהָיָ֥ה בְךָ֖ חֵֽטְא׃
+Beware that there be not a base thought in thy heart, saying: ‘The seventh year, the year of release, is at hand’; and thine eye be evil against thy needy brother, and thou give him nought; and he cry unto the LORD against thee, and it be sin in thee.
+Deuteronomy 15:10
+נָת֤וֹן תִּתֵּן֙ ל֔וֹ וְלֹא־יֵרַ֥ע לְבָבְךָ֖ בְּתִתְּךָ֣ ל֑וֹ כִּ֞י בִּגְלַ֣ל  ׀  הַדָּבָ֣ר הַזֶּ֗ה יְבָרֶכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇֽל־מַעֲשֶׂ֔ךָ וּבְכֹ֖ל מִשְׁלַ֥ח יָדֶֽךָ׃
+Thou shalt surely give him, and thy heart shall not be grieved when thou givest unto him; because that for this thing the LORD thy God will bless thee in all thy work, and in all that thou puttest thy hand unto.
+Deuteronomy 15:11
+כִּ֛י לֹא־יֶחְדַּ֥ל אֶבְי֖וֹן מִקֶּ֣רֶב הָאָ֑רֶץ עַל־כֵּ֞ן אָנֹכִ֤י מְצַוְּךָ֙ לֵאמֹ֔ר פָּ֠תֹ֠חַ תִּפְתַּ֨ח אֶת־יָדְךָ֜ לְאָחִ֧יךָ לַעֲנִיֶּ֛ךָ וּלְאֶבְיֹנְךָ֖ בְּאַרְצֶֽךָ׃  {ס}
+For the poor shall never cease out of the land; therefore I command thee, saying: ‘Thou shalt surely open thy hand unto thy poor and needy brother, in thy land.’
+Deuteronomy 15:12
+כִּֽי־יִמָּכֵ֨ר לְךָ֜ אָחִ֣יךָ הָֽעִבְרִ֗י א֚וֹ הָֽעִבְרִיָּ֔ה וַעֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים וּבַשָּׁנָה֙ הַשְּׁבִיעִ֔ת תְּשַׁלְּחֶ֥נּוּ חׇפְשִׁ֖י מֵעִמָּֽךְ׃
+If thy brother, a Hebrew man, or a Hebrew woman, be sold unto thee, he shall serve thee six years; and in the seventh year thou shalt let him go free from thee.
+Deuteronomy 15:13
+וְכִֽי־תְשַׁלְּחֶ֥נּוּ חׇפְשִׁ֖י מֵֽעִמָּ֑ךְ לֹ֥א תְשַׁלְּחֶ֖נּוּ רֵיקָֽם׃
+And when thou lettest him go free from thee, thou shalt not let him go empty;
+Deuteronomy 15:14
+הַעֲנֵ֤יק תַּעֲנִיק֙ ל֔וֹ מִצֹּ֣אנְךָ֔ וּמִֽגׇּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ אֲשֶׁ֧ר בֵּרַכְךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ תִּתֶּן־לֽוֹ׃
+thou shalt furnish him liberally out of thy flock, and out of thy threshing-floor, and out of thy winepress; of that wherewith the LORD thy God hath blessed thee thou shalt give unto him.
+Deuteronomy 15:15
+וְזָכַרְתָּ֗ כִּ֣י עֶ֤בֶד הָיִ֙יתָ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַֽיִּפְדְּךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ עַל־כֵּ֞ן אָנֹכִ֧י מְצַוְּךָ֛ אֶת־הַדָּבָ֥ר הַזֶּ֖ה הַיּֽוֹם׃
+And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee; therefore I command thee this thing to-day.
+Deuteronomy 15:16
+וְהָיָה֙ כִּֽי־יֹאמַ֣ר אֵלֶ֔יךָ לֹ֥א אֵצֵ֖א מֵעִמָּ֑ךְ כִּ֤י אֲהֵֽבְךָ֙ וְאֶת־בֵּיתֶ֔ךָ כִּי־ט֥וֹב ל֖וֹ עִמָּֽךְ׃
+And it shall be, if he say unto thee: ‘I will not go out from thee’; because he loveth thee and thy house, because he fareth well with thee;
+Deuteronomy 15:17
+וְלָקַחְתָּ֣ אֶת־הַמַּרְצֵ֗עַ וְנָתַתָּ֤ה בְאׇזְנוֹ֙ וּבַדֶּ֔לֶת וְהָיָ֥ה לְךָ֖ עֶ֣בֶד עוֹלָ֑ם וְאַ֥ף לַאֲמָתְךָ֖ תַּעֲשֶׂה־כֵּֽן׃
+then thou shalt take an awl, and thrust it through his ear and into the door, and he shall be thy bondman for ever. And also unto thy bondwoman thou shalt do likewise.
+Deuteronomy 15:18
+לֹא־יִקְשֶׁ֣ה בְעֵינֶ֗ךָ בְּשַׁלֵּֽחֲךָ֨ אֹת֤וֹ חׇפְשִׁי֙ מֵֽעִמָּ֔ךְ כִּ֗י מִשְׁנֶה֙ שְׂכַ֣ר שָׂכִ֔יר עֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים וּבֵֽרַכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל אֲשֶׁ֥ר תַּעֲשֶֽׂה׃  {פ}
+It shall not seem hard unto thee, when thou lettest him go free from thee; for to the double of the hire of a hireling hath he served thee six years; and the LORD thy God will bless thee in all that thou doest.
+Deuteronomy 15:19
+כׇּֽל־הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ֙ הַזָּכָ֔ר תַּקְדִּ֖ישׁ לַיהֹוָ֣ה אֱלֹהֶ֑יךָ לֹ֤א תַעֲבֹד֙ בִּבְכֹ֣ר שׁוֹרֶ֔ךָ וְלֹ֥א תָגֹ֖ז בְּכ֥וֹר צֹאנֶֽךָ׃
+All the firstling males that are born of thy herd and of thy flock thou shalt sanctify unto the LORD thy God; thou shalt do no work with the firstling of thine ox, nor shear the firstling of thy flock.
+Deuteronomy 15:20
+לִפְנֵי֩ יְהֹוָ֨ה אֱלֹהֶ֤יךָ תֹאכְלֶ֙נּוּ֙ שָׁנָ֣ה בְשָׁנָ֔ה בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה אַתָּ֖ה וּבֵיתֶֽךָ׃
+Thou shalt eat it before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.
+Deuteronomy 15:21
+וְכִֽי־יִהְיֶ֨ה ב֜וֹ מ֗וּם פִּסֵּ֙חַ֙ א֣וֹ עִוֵּ֔ר כֹּ֖ל מ֣וּם רָ֑ע לֹ֣א תִזְבָּחֶ֔נּוּ לַיהֹוָ֖ה אֱלֹהֶֽיךָ׃
+And if there be any blemish therein, lameness, or blindness, any ill blemish whatsoever, thou shalt not sacrifice it unto the LORD thy God.
+Deuteronomy 15:22
+בִּשְׁעָרֶ֖יךָ תֹּאכְלֶ֑נּוּ הַטָּמֵ֤א וְהַטָּהוֹר֙ יַחְדָּ֔ו כַּצְּבִ֖י וְכָאַיָּֽל׃
+Thou shalt eat it within thy gates; the unclean and the clean may eat it alike, as the gazelle, and as the hart.
+Deuteronomy 15:23
+רַ֥ק אֶת־דָּמ֖וֹ לֹ֣א תֹאכֵ֑ל עַל־הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם׃  {פ}
+Only thou shalt not eat the blood thereof; thou shalt pour it out upon the ground as water.
+Deuteronomy 16:1
+שָׁמוֹר֙ אֶת־חֹ֣דֶשׁ הָאָבִ֔יב וְעָשִׂ֣יתָ פֶּ֔סַח לַיהֹוָ֖ה אֱלֹהֶ֑יךָ כִּ֞י בְּחֹ֣דֶשׁ הָֽאָבִ֗יב הוֹצִ֨יאֲךָ֜ יְהֹוָ֧ה אֱלֹהֶ֛יךָ מִמִּצְרַ֖יִם לָֽיְלָה׃
+Observe the month of Abib, and keep the passover unto the LORD thy God; for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.
+Deuteronomy 16:2
+וְזָבַ֥חְתָּ פֶּ֛סַח לַיהֹוָ֥ה אֱלֹהֶ֖יךָ צֹ֣אן וּבָקָ֑ר בַּמָּקוֹם֙ אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֔ה לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃
+And thou shalt sacrifice the passover-offering unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to cause His name to dwell there.
+Deuteronomy 16:3
+לֹא־תֹאכַ֤ל עָלָיו֙ חָמֵ֔ץ שִׁבְעַ֥ת יָמִ֛ים תֹּֽאכַל־עָלָ֥יו מַצּ֖וֹת לֶ֣חֶם עֹ֑נִי כִּ֣י בְחִפָּז֗וֹן יָצָ֙אתָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לְמַ֣עַן תִּזְכֹּ֗ר אֶת־י֤וֹם צֵֽאתְךָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃
+Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction; for in haste didst thou come forth out of the land of Egypt; that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
+Deuteronomy 16:4
+וְלֹֽא־יֵרָאֶ֨ה לְךָ֥ שְׂאֹ֛ר בְּכׇל־גְּבֻלְךָ֖ שִׁבְעַ֣ת יָמִ֑ים וְלֹא־יָלִ֣ין מִן־הַבָּשָׂ֗ר אֲשֶׁ֨ר תִּזְבַּ֥ח בָּעֶ֛רֶב בַּיּ֥וֹם הָרִאשׁ֖וֹן לַבֹּֽקֶר׃
+And there shall be no leaven seen with thee in all thy borders seven days; neither shall any of the flesh, which thou sacrificest the first day at even, remain all night until the morning.
+Deuteronomy 16:5
+לֹ֥א תוּכַ֖ל לִזְבֹּ֣חַ אֶת־הַפָּ֑סַח בְּאַחַ֣ד שְׁעָרֶ֔יךָ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃
+Thou mayest not sacrifice the passover-offering within any of thy gates, which the LORD thy God giveth thee;
+Deuteronomy 16:6
+כִּ֠י אִֽם־אֶל־הַמָּק֞וֹם אֲשֶׁר־יִבְחַ֨ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לְשַׁכֵּ֣ן שְׁמ֔וֹ שָׁ֛ם תִּזְבַּ֥ח אֶת־הַפֶּ֖סַח בָּעָ֑רֶב כְּב֣וֹא הַשֶּׁ֔מֶשׁ מוֹעֵ֖ד צֵֽאתְךָ֥ מִמִּצְרָֽיִם׃
+but at the place which the LORD thy God shall choose to cause His name to dwell in, there thou shalt sacrifice the passover-offering at even, at the going down of the sun, at the season that thou camest forth out of Egypt.
+Deuteronomy 16:7
+וּבִשַּׁלְתָּ֙ וְאָ֣כַלְתָּ֔ בַּמָּק֕וֹם אֲשֶׁ֥ר יִבְחַ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ בּ֑וֹ וּפָנִ֣יתָ בַבֹּ֔קֶר וְהָלַכְתָּ֖ לְאֹהָלֶֽיךָ׃
+And thou shalt roast and eat it in the place which the LORD thy God shall choose; and thou shalt turn in the morning, and go unto thy tents.
+Deuteronomy 16:8
+שֵׁ֥שֶׁת יָמִ֖ים תֹּאכַ֣ל מַצּ֑וֹת וּבַיּ֣וֹם הַשְּׁבִיעִ֗י עֲצֶ֙רֶת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א תַעֲשֶׂ֖ה מְלָאכָֽה׃  {ס}
+Six days thou shalt eat unleavened bread; and on the seventh day shall be a solemn assembly to the LORD thy God; thou shalt do no work therein.
+Deuteronomy 16:9
+שִׁבְעָ֥ה שָׁבֻעֹ֖ת תִּסְפׇּר־לָ֑ךְ מֵהָחֵ֤ל חֶרְמֵשׁ֙ בַּקָּמָ֔ה תָּחֵ֣ל לִסְפֹּ֔ר שִׁבְעָ֖ה שָׁבֻעֽוֹת׃
+Seven weeks shalt thou number unto thee; from the time the sickle is first put to the standing corn shalt thou begin to number seven weeks.
+Deuteronomy 16:10
+וְעָשִׂ֜יתָ חַ֤ג שָׁבֻעוֹת֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ מִסַּ֛ת נִדְבַ֥ת יָדְךָ֖ אֲשֶׁ֣ר תִּתֵּ֑ן כַּאֲשֶׁ֥ר יְבָרֶכְךָ֖ יְהֹוָ֥ה אֱלֹהֶֽיךָ׃
+And thou shalt keep the feast of weeks unto the LORD thy God after the measure of the freewill-offering of thy hand, which thou shalt give, according as the LORD thy God blesseth thee.
+Deuteronomy 16:11
+וְשָׂמַחְתָּ֞ לִפְנֵ֣י  ׀  יְהֹוָ֣ה אֱלֹהֶ֗יךָ אַתָּ֨ה וּבִנְךָ֣ וּבִתֶּ֘ךָ֮ וְעַבְדְּךָ֣ וַאֲמָתֶ֒ךָ֒ וְהַלֵּוִי֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֣ר בְּקִרְבֶּ֑ךָ בַּמָּק֗וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃
+And thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite that is within they gates, and the stranger, and the fatherless, and the widow, that are in the midst of thee, in the place which the LORD thy God shall choose to cause His name to dwell there.
+Deuteronomy 16:12
+וְזָ֣כַרְתָּ֔ כִּי־עֶ֥בֶד הָיִ֖יתָ בְּמִצְרָ֑יִם וְשָׁמַרְתָּ֣ וְעָשִׂ֔יתָ אֶת־הַֽחֻקִּ֖ים הָאֵֽלֶּה׃  {פ}
+And thou shalt remember that thou wast a bondman in Egypt; and thou shalt observe and do these statutes.
+Deuteronomy 16:13
+חַ֧ג הַסֻּכֹּ֛ת תַּעֲשֶׂ֥ה לְךָ֖ שִׁבְעַ֣ת יָמִ֑ים בְּאׇ֨סְפְּךָ֔ מִֽגׇּרְנְךָ֖ וּמִיִּקְבֶֽךָ׃
+Thou shalt keep the feast of tabernacles seven days, after that thou hast gathered in from thy threshing-floor and from thy winepress.
+Deuteronomy 16:14
+וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֙ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֗י וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ׃
+And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy man-servant, and thy maid-servant, and the Levite, and the stranger, and the fatherless, and the widow, that are within thy gates.
+Deuteronomy 16:15
+שִׁבְעַ֣ת יָמִ֗ים תָּחֹג֙ לַיהֹוָ֣ה אֱלֹהֶ֔יךָ בַּמָּק֖וֹם אֲשֶׁר־יִבְחַ֣ר יְהֹוָ֑ה כִּ֣י יְבָרֶכְךָ֞ יְהֹוָ֣ה אֱלֹהֶ֗יךָ בְּכֹ֤ל תְּבוּאָֽתְךָ֙ וּבְכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔יךָ וְהָיִ֖יתָ אַ֥ךְ שָׂמֵֽחַ׃
+Seven days shalt thou keep a feast unto the LORD thy God in the place which the LORD shall choose; because the LORD thy God shall bless thee in all thine increase, and in all the work of thy hands, and thou shalt be altogether joyful.
+Deuteronomy 16:16
+שָׁל֣וֹשׁ פְּעָמִ֣ים  ׀  בַּשָּׁנָ֡ה יֵרָאֶ֨ה כׇל־זְכוּרְךָ֜ אֶת־פְּנֵ֣י  ׀  יְהֹוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙ אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה אֶת־פְּנֵ֥י יְהֹוָ֖ה רֵיקָֽם׃
+Three times in a year shall all thy males appear before the LORD thy God in the place which He shall choose; on the feast of unleavened bread, and on the feast of weeks, and on the feast of tabernacles; and they shall not appear before the LORD empty;
+Deuteronomy 16:17
+אִ֖ישׁ כְּמַתְּנַ֣ת יָד֑וֹ כְּבִרְכַּ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃  {ס}
+every man shall give as he is able, according to the blessing of the LORD thy God which He hath given thee.
+https://www.sefaria.org/Deuteronomy.14
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Deuteronomy.15
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Deuteronomy.16
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Numbers 28:26-28:31
+Numbers 28:26
+וּבְי֣וֹם הַבִּכּוּרִ֗ים בְּהַקְרִ֨יבְכֶ֜ם מִנְחָ֤ה חֲדָשָׁה֙ לַֽיהֹוָ֔ה בְּשָׁבֻעֹ֖תֵיכֶ֑ם מִֽקְרָא־קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כׇּל־מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֥א תַעֲשֽׂוּ׃
+Also in the day of the first-fruits, when ye bring a new meal-offering unto the LORD in your feast of weeks, ye shall have a holy convocation: ye shall do no manner of servile work;
+Numbers 28:27
+וְהִקְרַבְתֶּ֨ם עוֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהֹוָ֔ה פָּרִ֧ים בְּנֵי־בָקָ֛ר שְׁנַ֖יִם אַ֣יִל אֶחָ֑ד שִׁבְעָ֥ה כְבָשִׂ֖ים בְּנֵ֥י שָׁנָֽה׃
+but ye shall present a burnt-offering for a sweet savour unto the LORD: two young bullocks, one ram, seven he-lambs of the first year;
+Numbers 28:28
+וּמִ֨נְחָתָ֔ם סֹ֖לֶת בְּלוּלָ֣ה בַשָּׁ֑מֶן שְׁלֹשָׁ֤ה עֶשְׂרֹנִים֙ לַפָּ֣ר הָֽאֶחָ֔ד שְׁנֵי֙ עֶשְׂרֹנִ֔ים לָאַ֖יִל הָאֶחָֽד׃
+and their meal-offering, fine flour mingled with oil, three tenth parts for each bullock, two tenth parts for the one ram,
+Numbers 28:29
+עִשָּׂרוֹן֙ עִשָּׂר֔וֹן לַכֶּ֖בֶשׂ הָאֶחָ֑ד לְשִׁבְעַ֖ת הַכְּבָשִֽׂים׃
+a several tenth part for every lamb of the seven lambs;
+Numbers 28:30
+שְׂעִ֥יר עִזִּ֖ים אֶחָ֑ד לְכַפֵּ֖ר עֲלֵיכֶֽם׃
+one he-goat, to make atonement for you.
+Numbers 28:31
+מִלְּבַ֞ד עֹלַ֧ת הַתָּמִ֛יד וּמִנְחָת֖וֹ תַּעֲשׂ֑וּ תְּמִימִ֥ם יִהְיוּ־לָכֶ֖ם וְנִסְכֵּיהֶֽם׃  {פ}
+Beside the continual burnt-offering, and the meal-offering thereof, ye shall offer them—they shall be unto you without blemish—and their drink-offerings.
+https://www.sefaria.org/Numbers%2028
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot II (on Shabbat) [Diaspora / חו״ל] · haft
+Habakkuk 3:1-3:19
+Habakkuk 3:1
+תְּפִלָּ֖ה לַחֲבַקּ֣וּק הַנָּבִ֑יא עַ֖ל שִׁגְיֹנֽוֹת׃
+A prayer of Habakkuk the prophet. Upon Shigionoth.
+Habakkuk 3:2
+יְהֹוָ֗ה שָׁמַ֣עְתִּי שִׁמְעֲךָ֮ יָרֵ֒אתִי֒ יְהֹוָ֗ה פׇּֽעׇלְךָ֙ בְּקֶ֤רֶב שָׁנִים֙ חַיֵּ֔יהוּ בְּקֶ֥רֶב שָׁנִ֖ים תּוֹדִ֑יעַ בְּרֹ֖גֶז רַחֵ֥ם תִּזְכּֽוֹר׃
+O LORD, I have heard the report of Thee, and am afraid; O LORD, revive Thy work in the midst of the years, in the midst of the years make it known; In wrath remember compassion.
+Habakkuk 3:3
+אֱל֙וֹהַּ֙ מִתֵּימָ֣ן יָב֔וֹא וְקָד֥וֹשׁ מֵהַר־פָּארָ֖ן סֶ֑לָה כִּסָּ֤ה שָׁמַ֙יִם֙ הוֹד֔וֹ וּתְהִלָּת֖וֹ מָלְאָ֥ה הָאָֽרֶץ׃
+God cometh from Teman, And the Holy One from mount Paran. Selah His glory covereth the heavens, And the earth is full of His praise.
+Habakkuk 3:4
+וְנֹ֙גַהּ֙ כָּא֣וֹר תִּֽהְיֶ֔ה קַרְנַ֥יִם מִיָּד֖וֹ ל֑וֹ וְשָׁ֖ם חֶבְי֥וֹן עֻזֹּֽה׃
+And a brightness appeareth as the light; rays hath He at His side; and there is the hiding of His power.
+Habakkuk 3:5
+לְפָנָ֖יו יֵ֣לֶךְ דָּ֑בֶר וְיֵצֵ֥א רֶ֖שֶׁף לְרַגְלָֽיו׃
+Before him goeth the pestilence, and fiery bolts go forth at His feet.
+Habakkuk 3:6
+עָמַ֣ד  ׀  וַיְמֹ֣דֶד אֶ֗רֶץ רָאָה֙ וַיַּתֵּ֣ר גּוֹיִ֔ם וַיִּתְפֹּֽצְצוּ֙ הַרְרֵי־עַ֔ד שַׁח֖וּ גִּבְע֣וֹת עוֹלָ֑ם הֲלִיכ֥וֹת עוֹלָ֖ם לֽוֹ׃
+He standeth, and shaketh the earth, He beholdeth, and maketh the nations to tremble; And the everlasting mountains are dashed in pieces, The ancient hills do bow; His goings are as of old.
+Habakkuk 3:7
+תַּ֣חַת אָ֔וֶן רָאִ֖יתִי אׇהֳלֵ֣י כוּשָׁ֑ן יִרְגְּז֕וּן יְרִיע֖וֹת אֶ֥רֶץ מִדְיָֽן׃
+I see the tents of Cushan in affliction; The curtains of the land of Midian do tremble.
+Habakkuk 3:8
+הֲבִנְהָרִים֙ חָרָ֣ה יְהֹוָ֔ה אִ֤ם בַּנְּהָרִים֙ אַפֶּ֔ךָ אִם־בַּיָּ֖ם עֶבְרָתֶ֑ךָ כִּ֤י תִרְכַּב֙ עַל־סוּסֶ֔יךָ מַרְכְּבֹתֶ֖יךָ יְשׁוּעָֽה׃
+Is it, O LORD, that against the rivers, is it that Thine anger is kindled against the rivers, or Thy wrath against the sea? That Thou dost ride upon Thy horses, upon Thy chariots of victory?
+Habakkuk 3:9
+עֶרְיָ֤ה תֵעוֹר֙ קַשְׁתֶּ֔ךָ שְׁבֻע֥וֹת מַטּ֖וֹת אֹ֣מֶר סֶ֑לָה נְהָר֖וֹת תְּבַקַּע־אָֽרֶץ׃
+Thy bow is made quite bare; Sworn are the rods of the word. Selah. Thou dost cleave the earth with rivers.
+Habakkuk 3:10
+רָא֤וּךָ יָחִ֙ילוּ֙ הָרִ֔ים זֶ֥רֶם מַ֖יִם עָבָ֑ר נָתַ֤ן תְּהוֹם֙ קוֹל֔וֹ ר֖וֹם יָדֵ֥יהוּ נָשָֽׂא׃
+The mountains have seen Thee, and they tremble; the tempest of waters floweth over; the deep uttereth its voice, And lifteth up its hands on high.
+Habakkuk 3:11
+שֶׁ֥מֶשׁ יָרֵ֖חַ עָ֣מַד זְבֻ֑לָה לְא֤וֹר חִצֶּ֙יךָ֙ יְהַלֵּ֔כוּ לְנֹ֖גַהּ בְּרַ֥ק חֲנִיתֶֽךָ׃
+The sun and moon stand still in their habitation; at the light of Thine arrows as they go, At the shining of Thy glittering spear.
+Habakkuk 3:12
+בְּזַ֖עַם תִּצְעַד־אָ֑רֶץ בְּאַ֖ף תָּד֥וּשׁ גּוֹיִֽם׃
+Thou marchest through the earth in indignation, Thou threshest the nations in anger.
+Habakkuk 3:13
+יָצָ֙אתָ֙ לְיֵ֣שַׁע עַמֶּ֔ךָ לְיֵ֖שַׁע אֶת־מְשִׁיחֶ֑ךָ מָחַ֤צְתָּ רֹּאשׁ֙ מִבֵּ֣ית רָשָׁ֔ע עָר֛וֹת יְס֥וֹד עַד־צַוָּ֖אר סֶֽלָה׃  {פ}
+Thou art come forth for the deliverance of Thy people, for the deliverance of Thine anointed; Thou woundest the head out of the house of the wicked, uncovering the foundation even unto the neck. Selah
+Habakkuk 3:14
+נָקַ֤בְתָּ בְמַטָּיו֙ רֹ֣אשׁ  פְּרָזָ֔ו  יִסְעֲר֖וּ לַהֲפִיצֵ֑נִי עֲלִ֣יצֻתָ֔ם כְּמוֹ־לֶאֱכֹ֥ל עָנִ֖י בַּמִּסְתָּֽר׃
+Thou hast stricken through with his own rods the head of his rulers, that come as a whirlwind to scatter me; whose rejoicing is as to devour the poor secretly.
+Habakkuk 3:15
+דָּרַ֥כְתָּ בַיָּ֖ם סוּסֶ֑יךָ חֹ֖מֶר מַ֥יִם רַבִּֽים׃
+Thou hast trodden the sea with Thy horses, the foaming of mighty waters.
+Habakkuk 3:16
+שָׁמַ֣עְתִּי  ׀  וַתִּרְגַּ֣ז בִּטְנִ֗י לְקוֹל֙ צָלְל֣וּ שְׂפָתַ֔י יָב֥וֹא רָקָ֛ב בַּעֲצָמַ֖י וְתַחְתַּ֣י אֶרְגָּ֑ז אֲשֶׁ֤ר אָנ֙וּחַ֙ לְי֣וֹם צָרָ֔ה לַעֲל֖וֹת לְעַ֥ם יְגוּדֶֽנּוּ׃
+When I heard, mine inward parts trembled, My lips quivered at the voice; Rottenness entereth into my bones, And I tremble where I stand; that I should wait for the day of trouble, when he cometh up against the people that he invadeth.
+Habakkuk 3:17
+כִּֽי־תְאֵנָ֣ה לֹֽא־תִפְרָ֗ח וְאֵ֤ין יְבוּל֙ בַּגְּפָנִ֔ים כִּחֵשׁ֙ מַֽעֲשֵׂה־זַ֔יִת וּשְׁדֵמ֖וֹת לֹא־עָ֣שָׂה אֹ֑כֶל גָּזַ֤ר מִמִּכְלָה֙ צֹ֔אן וְאֵ֥ין בָּקָ֖ר בָּרְפָתִֽים׃
+For though the fig-tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, And the fields shall yield no food; The flock shall be cut off from the fold, and there shall be no herd in the stalls;
+Habakkuk 3:18
+וַאֲנִ֖י בַּיהֹוָ֣ה אֶעְל֑וֹזָה אָגִ֖ילָה בֵּאלֹהֵ֥י יִשְׁעִֽי׃
+Yet I will rejoice in the LORD, I will exult in the God of my salvation.
+Habakkuk 3:19
+יֱהֹוִ֤ה אֲדֹנָי֙ חֵילִ֔י וַיָּ֤שֶׂם רַגְלַי֙ כָּאַיָּל֔וֹת וְעַ֥ל בָּמוֹתַ֖י יַדְרִכֵ֑נִי לַמְנַצֵּ֖חַ בִּנְגִינוֹתָֽי׃
+God, the Lord, is my strength, And He maketh my feet like hinds’feet, And He maketh me to walk upon my high places. For the Leader. With my string-music.
+https://www.sefaria.org/Habakkuk.3
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Shavuot II (on Shabbat) [Diaspora / חו״ל] · seph
+Habakkuk 2:20-3:19
+Habakkuk 2:20
+וַיהֹוָ֖ה בְּהֵיכַ֣ל קׇדְשׁ֑וֹ הַ֥ס מִפָּנָ֖יו כׇּל־הָאָֽרֶץ׃  {ס}
+But the LORD is in His holy temple; Let all the earth keep silence before Him.
+Habakkuk 3:1
+תְּפִלָּ֖ה לַחֲבַקּ֣וּק הַנָּבִ֑יא עַ֖ל שִׁגְיֹנֽוֹת׃
+A prayer of Habakkuk the prophet. Upon Shigionoth.
+Habakkuk 3:2
+יְהֹוָ֗ה שָׁמַ֣עְתִּי שִׁמְעֲךָ֮ יָרֵ֒אתִי֒ יְהֹוָ֗ה פׇּֽעׇלְךָ֙ בְּקֶ֤רֶב שָׁנִים֙ חַיֵּ֔יהוּ בְּקֶ֥רֶב שָׁנִ֖ים תּוֹדִ֑יעַ בְּרֹ֖גֶז רַחֵ֥ם תִּזְכּֽוֹר׃
+O LORD, I have heard the report of Thee, and am afraid; O LORD, revive Thy work in the midst of the years, in the midst of the years make it known; In wrath remember compassion.
+Habakkuk 3:3
+אֱל֙וֹהַּ֙ מִתֵּימָ֣ן יָב֔וֹא וְקָד֥וֹשׁ מֵהַר־פָּארָ֖ן סֶ֑לָה כִּסָּ֤ה שָׁמַ֙יִם֙ הוֹד֔וֹ וּתְהִלָּת֖וֹ מָלְאָ֥ה הָאָֽרֶץ׃
+God cometh from Teman, And the Holy One from mount Paran. Selah His glory covereth the heavens, And the earth is full of His praise.
+Habakkuk 3:4
+וְנֹ֙גַהּ֙ כָּא֣וֹר תִּֽהְיֶ֔ה קַרְנַ֥יִם מִיָּד֖וֹ ל֑וֹ וְשָׁ֖ם חֶבְי֥וֹן עֻזֹּֽה׃
+And a brightness appeareth as the light; rays hath He at His side; and there is the hiding of His power.
+Habakkuk 3:5
+לְפָנָ֖יו יֵ֣לֶךְ דָּ֑בֶר וְיֵצֵ֥א רֶ֖שֶׁף לְרַגְלָֽיו׃
+Before him goeth the pestilence, and fiery bolts go forth at His feet.
+Habakkuk 3:6
+עָמַ֣ד  ׀  וַיְמֹ֣דֶד אֶ֗רֶץ רָאָה֙ וַיַּתֵּ֣ר גּוֹיִ֔ם וַיִּתְפֹּֽצְצוּ֙ הַרְרֵי־עַ֔ד שַׁח֖וּ גִּבְע֣וֹת עוֹלָ֑ם הֲלִיכ֥וֹת עוֹלָ֖ם לֽוֹ׃
+He standeth, and shaketh the earth, He beholdeth, and maketh the nations to tremble; And the everlasting mountains are dashed in pieces, The ancient hills do bow; His goings are as of old.
+Habakkuk 3:7
+תַּ֣חַת אָ֔וֶן רָאִ֖יתִי אׇהֳלֵ֣י כוּשָׁ֑ן יִרְגְּז֕וּן יְרִיע֖וֹת אֶ֥רֶץ מִדְיָֽן׃
+I see the tents of Cushan in affliction; The curtains of the land of Midian do tremble.
+Habakkuk 3:8
+הֲבִנְהָרִים֙ חָרָ֣ה יְהֹוָ֔ה אִ֤ם בַּנְּהָרִים֙ אַפֶּ֔ךָ אִם־בַּיָּ֖ם עֶבְרָתֶ֑ךָ כִּ֤י תִרְכַּב֙ עַל־סוּסֶ֔יךָ מַרְכְּבֹתֶ֖יךָ יְשׁוּעָֽה׃
+Is it, O LORD, that against the rivers, is it that Thine anger is kindled against the rivers, or Thy wrath against the sea? That Thou dost ride upon Thy horses, upon Thy chariots of victory?
+Habakkuk 3:9
+עֶרְיָ֤ה תֵעוֹר֙ קַשְׁתֶּ֔ךָ שְׁבֻע֥וֹת מַטּ֖וֹת אֹ֣מֶר סֶ֑לָה נְהָר֖וֹת תְּבַקַּע־אָֽרֶץ׃
+Thy bow is made quite bare; Sworn are the rods of the word. Selah. Thou dost cleave the earth with rivers.
+Habakkuk 3:10
+רָא֤וּךָ יָחִ֙ילוּ֙ הָרִ֔ים זֶ֥רֶם מַ֖יִם עָבָ֑ר נָתַ֤ן תְּהוֹם֙ קוֹל֔וֹ ר֖וֹם יָדֵ֥יהוּ נָשָֽׂא׃
+The mountains have seen Thee, and they tremble; the tempest of waters floweth over; the deep uttereth its voice, And lifteth up its hands on high.
+Habakkuk 3:11
+שֶׁ֥מֶשׁ יָרֵ֖חַ עָ֣מַד זְבֻ֑לָה לְא֤וֹר חִצֶּ֙יךָ֙ יְהַלֵּ֔כוּ לְנֹ֖גַהּ בְּרַ֥ק חֲנִיתֶֽךָ׃
+The sun and moon stand still in their habitation; at the light of Thine arrows as they go, At the shining of Thy glittering spear.
+Habakkuk 3:12
+בְּזַ֖עַם תִּצְעַד־אָ֑רֶץ בְּאַ֖ף תָּד֥וּשׁ גּוֹיִֽם׃
+Thou marchest through the earth in indignation, Thou threshest the nations in anger.
+Habakkuk 3:13
+יָצָ֙אתָ֙ לְיֵ֣שַׁע עַמֶּ֔ךָ לְיֵ֖שַׁע אֶת־מְשִׁיחֶ֑ךָ מָחַ֤צְתָּ רֹּאשׁ֙ מִבֵּ֣ית רָשָׁ֔ע עָר֛וֹת יְס֥וֹד עַד־צַוָּ֖אר סֶֽלָה׃  {פ}
+Thou art come forth for the deliverance of Thy people, for the deliverance of Thine anointed; Thou woundest the head out of the house of the wicked, uncovering the foundation even unto the neck. Selah
+Habakkuk 3:14
+נָקַ֤בְתָּ בְמַטָּיו֙ רֹ֣אשׁ  פְּרָזָ֔ו  יִסְעֲר֖וּ לַהֲפִיצֵ֑נִי עֲלִ֣יצֻתָ֔ם כְּמוֹ־לֶאֱכֹ֥ל עָנִ֖י בַּמִּסְתָּֽר׃
+Thou hast stricken through with his own rods the head of his rulers, that come as a whirlwind to scatter me; whose rejoicing is as to devour the poor secretly.
+Habakkuk 3:15
+דָּרַ֥כְתָּ בַיָּ֖ם סוּסֶ֑יךָ חֹ֖מֶר מַ֥יִם רַבִּֽים׃
+Thou hast trodden the sea with Thy horses, the foaming of mighty waters.
+Habakkuk 3:16
+שָׁמַ֣עְתִּי  ׀  וַתִּרְגַּ֣ז בִּטְנִ֗י לְקוֹל֙ צָלְל֣וּ שְׂפָתַ֔י יָב֥וֹא רָקָ֛ב בַּעֲצָמַ֖י וְתַחְתַּ֣י אֶרְגָּ֑ז אֲשֶׁ֤ר אָנ֙וּחַ֙ לְי֣וֹם צָרָ֔ה לַעֲל֖וֹת לְעַ֥ם יְגוּדֶֽנּוּ׃
+When I heard, mine inward parts trembled, My lips quivered at the voice; Rottenness entereth into my bones, And I tremble where I stand; that I should wait for the day of trouble, when he cometh up against the people that he invadeth.
+Habakkuk 3:17
+כִּֽי־תְאֵנָ֣ה לֹֽא־תִפְרָ֗ח וְאֵ֤ין יְבוּל֙ בַּגְּפָנִ֔ים כִּחֵשׁ֙ מַֽעֲשֵׂה־זַ֔יִת וּשְׁדֵמ֖וֹת לֹא־עָ֣שָׂה אֹ֑כֶל גָּזַ֤ר מִמִּכְלָה֙ צֹ֔אן וְאֵ֥ין בָּקָ֖ר בָּרְפָתִֽים׃
+For though the fig-tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, And the fields shall yield no food; The flock shall be cut off from the fold, and there shall be no herd in the stalls;
+Habakkuk 3:18
+וַאֲנִ֖י בַּיהֹוָ֣ה אֶעְל֑וֹזָה אָגִ֖ילָה בֵּאלֹהֵ֥י יִשְׁעִֽי׃
+Yet I will rejoice in the LORD, I will exult in the God of my salvation.
+Habakkuk 3:19
+יֱהֹוִ֤ה אֲדֹנָי֙ חֵילִ֔י וַיָּ֤שֶׂם רַגְלַי֙ כָּאַיָּל֔וֹת וְעַ֥ל בָּמוֹתַ֖י יַדְרִכֵ֑נִי לַמְנַצֵּ֖חַ בִּנְגִינוֹתָֽי׃
+God, the Lord, is my strength, And He maketh my feet like hinds’feet, And He maketh me to walk upon my high places. For the Leader. With my string-music.
+https://www.sefaria.org/Habakkuk.2
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Habakkuk.3
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Megillah · Ruth (according to local custom) · Megillah
+Ruth 1:1-4:22
+Ruth 1:1
+וַיְהִ֗י בִּימֵי֙ שְׁפֹ֣ט הַשֹּׁפְטִ֔ים וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨לֶךְ אִ֜ישׁ מִבֵּ֧ית לֶ֣חֶם יְהוּדָ֗ה לָגוּר֙ בִּשְׂדֵ֣י מוֹאָ֔ב ה֥וּא וְאִשְׁתּ֖וֹ וּשְׁנֵ֥י בָנָֽיו׃
+AND IT came to pass in the days when the judges judged, that there was a famine in the land. And a certain man of Beth-lehem in Judah went to sojourn in the field of Moab, he, and his wife, and his two sons.
+Ruth 1:2
+וְשֵׁ֣ם הָאִ֣ישׁ אֱֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נׇעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־בָנָ֣יו  ׀  מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵֽי־מוֹאָ֖ב וַיִּֽהְיוּ־שָֽׁם׃
+And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem in Judah. And they came into the field of Moab, and continued there.
+Ruth 1:3
+וַיָּ֥מׇת אֱלִימֶ֖לֶךְ אִ֣ישׁ נׇעֳמִ֑י וַתִּשָּׁאֵ֥ר הִ֖יא וּשְׁנֵ֥י בָנֶֽיהָ׃
+And Elimelech Naomi’s husband died; and she was left, and her two sons.
+Ruth 1:4
+וַיִּשְׂא֣וּ לָהֶ֗ם נָשִׁים֙ מֹֽאֲבִיּ֔וֹת שֵׁ֤ם הָאַחַת֙ עׇרְפָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית ר֑וּת וַיֵּ֥שְׁבוּ שָׁ֖ם כְּעֶ֥שֶׂר שָׁנִֽים׃
+And they took them wives of the women of Moab: the name of the one was Orpah, and the name of the other Ruth; and they dwelt there about ten years.
+Ruth 1:5
+וַיָּמֻ֥תוּ גַם־שְׁנֵיהֶ֖ם מַחְל֣וֹן וְכִלְי֑וֹן וַתִּשָּׁאֵר֙ הָֽאִשָּׁ֔ה מִשְּׁנֵ֥י יְלָדֶ֖יהָ וּמֵאִישָֽׁהּ׃
+And Mahlon and Chilion died both of them; and the woman was left of her two children and of her husband.
+Ruth 1:6
+וַתָּ֤קׇם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שׇׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־פָקַ֤ד יְהֹוָה֙ אֶת־עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃
+Then she arose with her daughters-in-law, that she might return from the field of Moab; for she had heard in the field of Moab how that the LORD had remembered His people in giving them bread.
+Ruth 1:7
+וַתֵּצֵ֗א מִן־הַמָּקוֹם֙ אֲשֶׁ֣ר הָֽיְתָה־שָּׁ֔מָּה וּשְׁתֵּ֥י כַלּוֹתֶ֖יהָ עִמָּ֑הּ וַתֵּלַ֣כְנָה בַדֶּ֔רֶךְ לָשׁ֖וּב אֶל־אֶ֥רֶץ יְהוּדָֽה׃
+And she went forth out of the place where she was, and her two daughters-in-law with her; and they went on the way to return unto the land of Judah.
+Ruth 1:8
+וַתֹּ֤אמֶר נׇעֳמִי֙ לִשְׁתֵּ֣י כַלֹּתֶ֔יהָ לֵ֣כְנָה שֹּׁ֔בְנָה אִשָּׁ֖ה לְבֵ֣ית אִמָּ֑הּ   (יעשה)   [יַ֣עַשׂ]   יְהֹוָ֤ה עִמָּכֶם֙ חֶ֔סֶד כַּאֲשֶׁ֧ר עֲשִׂיתֶ֛ם עִם־הַמֵּתִ֖ים וְעִמָּדִֽי׃
+And Naomi said unto her two daughters-in-law: ‘Go, return each of you to her mother’s house; the LORD deal kindly with you, as ye have dealt with the dead, and with me.
+Ruth 1:9
+יִתֵּ֤ן יְהֹוָה֙ לָכֶ֔ם וּמְצֶ֣אןָ מְנוּחָ֔ה אִשָּׁ֖ה בֵּ֣ית אִישָׁ֑הּ וַתִּשַּׁ֣ק לָהֶ֔ן וַתִּשֶּׂ֥אנָה קוֹלָ֖ן וַתִּבְכֶּֽינָה׃
+TheLORD grant you that ye may find rest, each of you in the house of her husband.’ Then she kissed them; and they lifted up their voice, and wept.
+Ruth 1:10
+וַתֹּאמַ֖רְנָה־לָּ֑הּ כִּֽי־אִתָּ֥ךְ נָשׁ֖וּב לְעַמֵּֽךְ׃
+And they said unto her: ‘Nay, but we will return with thee unto thy people.’
+Ruth 1:11
+וַתֹּ֤אמֶר נׇעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַעֽוֹד־לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃
+And Naomi said: ‘Turn back, my daughters; why will ye go with me? have I yet sons in my womb, that they may be your husbands?
+Ruth 1:12
+שֹׁ֤בְנָה בְנֹתַי֙ לֵ֔כְןָ כִּ֥י זָקַ֖נְתִּי מִהְי֣וֹת לְאִ֑ישׁ כִּ֤י אָמַ֙רְתִּי֙ יֶשׁ־לִ֣י תִקְוָ֔ה גַּ֣ם הָיִ֤יתִי הַלַּ֙יְלָה֙ לְאִ֔ישׁ וְגַ֖ם יָלַ֥דְתִּי בָנִֽים׃
+Turn back, my daughters, go your way; for I am too old to have a husband. If I should say: I have hope, should I even have an husband to-night, and also bear sons;
+Ruth 1:13
+הֲלָהֵ֣ן  ׀  תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־מַר־לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־יָצְאָ֥ה בִ֖י יַד־יְהֹוָֽה׃
+would ye tarry for them till they were grown? would ye shut yourselves off for them and have no husbands? nay, my daughters; for it grieveth me much for your sakes, for the hand of the LORD is gone forth against me.’
+Ruth 1:14
+וַתִּשֶּׂ֣נָה קוֹלָ֔ן וַתִּבְכֶּ֖ינָה ע֑וֹד וַתִּשַּׁ֤ק עׇרְפָּה֙ לַחֲמוֹתָ֔הּ וְר֖וּת דָּ֥בְקָה בָּֽהּ׃
+And they lifted up their voice, and wept again; and Orpah kissed her mother-in-law; but Ruth cleaved unto her.
+Ruth 1:15
+וַתֹּ֗אמֶר הִנֵּה֙ שָׁ֣בָה יְבִמְתֵּ֔ךְ אֶל־עַמָּ֖הּ וְאֶל־אֱלֹהֶ֑יהָ שׁ֖וּבִי אַחֲרֵ֥י יְבִמְתֵּֽךְ׃
+And she said: ‘Behold, thy sister-in-law is gone back unto her people, and unto her god; return thou after thy sister-in-law.’
+Ruth 1:16
+וַתֹּ֤אמֶר רוּת֙ אַל־תִּפְגְּעִי־בִ֔י לְעׇזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל־אֲשֶׁ֨ר תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֙ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי׃
+And Ruth said: ‘Entreat me not to leave thee, and to return from following after thee; for whither thou goest, I will go; and where thou lodgest, I will lodge; thy people shall be my people, and thy God my God;
+Ruth 1:17
+בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהֹוָ֥ה לִי֙ וְכֹ֣ה יוֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃
+where thou diest, will I die, and there will I be buried; the LORD do so to me,and more also, if aught but death part thee and me.’
+Ruth 1:18
+וַתֵּ֕רֶא כִּֽי־מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃
+And when she saw that she was stedfastly minded to go with her, she left off speaking unto her.
+Ruth 1:19
+וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־בּוֹאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבוֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כׇּל־הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נׇעֳמִֽי׃
+So they two went until they came to Beth-lehem. And it came to pass, when they were come to Beth-lehem, that all the city was astir concerning them, and the women said: ‘Is this Naomi?’
+Ruth 1:20
+וַתֹּ֣אמֶר אֲלֵיהֶ֔ן אַל־תִּקְרֶ֥אנָה לִ֖י נׇעֳמִ֑י קְרֶ֤אןָ לִי֙ מָרָ֔א כִּֽי־הֵמַ֥ר שַׁדַּ֛י לִ֖י מְאֹֽד׃
+And she said unto them: ‘Call me not Naomi, call me Marah; for the Almighty hath dealt very bitterly with me.
+Ruth 1:21
+אֲנִי֙ מְלֵאָ֣ה הָלַ֔כְתִּי וְרֵיקָ֖ם הֱשִׁיבַ֣נִי יְהֹוָ֑ה לָ֣מָּה תִקְרֶ֤אנָה לִי֙ נׇעֳמִ֔י וַֽיהֹוָה֙ עָ֣נָה בִ֔י וְשַׁדַּ֖י הֵ֥רַֽע לִֽי׃
+I went out full, and the LORD hath brought me back home empty; why call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?’
+Ruth 1:22
+וַתָּ֣שׇׁב נׇעֳמִ֗י וְר֨וּת הַמּוֹאֲבִיָּ֤ה כַלָּתָהּ֙ עִמָּ֔הּ הַשָּׁ֖בָה מִשְּׂדֵ֣י מוֹאָ֑ב וְהֵ֗מָּה בָּ֚אוּ בֵּ֣ית לֶ֔חֶם בִּתְחִלַּ֖ת קְצִ֥יר שְׂעֹרִֽים׃
+So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the field of Moab—and they came to Beth-lehem in the beginning of barley harvest.
+Ruth 2:1
+וּֽלְנׇעֳמִ֞י   (מידע)   [מוֹדָ֣ע]   לְאִישָׁ֗הּ אִ֚ישׁ גִּבּ֣וֹר חַ֔יִל מִמִּשְׁפַּ֖חַת אֱלִימֶ֑לֶךְ וּשְׁמ֖וֹ בֹּֽעַז׃
+And Naomi had a kinsman of her husband’s, a mighty man of valour, of the family of Elimelech, and his name was Boaz.
+Ruth 2:2
+וַתֹּ֩אמֶר֩ ר֨וּת הַמּוֹאֲבִיָּ֜ה אֶֽל־נׇעֳמִ֗י אֵלְכָה־נָּ֤א הַשָּׂדֶה֙ וַאֲלַקֳּטָ֣ה בַֽשִּׁבֳּלִ֔ים אַחַ֕ר אֲשֶׁ֥ר אֶמְצָא־חֵ֖ן בְּעֵינָ֑יו וַתֹּ֥אמֶר לָ֖הּ לְכִ֥י בִתִּֽי׃
+And Ruth the Moabitess said unto Naomi: ‘Let me now go to the field, and glean among the ears of corn after him in whose sight I shall find favour.’ And she said unto her: ‘Go, my daughter.’
+Ruth 2:3
+וַתֵּ֤לֶךְ וַתָּבוֹא֙ וַתְּלַקֵּ֣ט בַּשָּׂדֶ֔ה אַחֲרֵ֖י הַקֹּצְרִ֑ים וַיִּ֣קֶר מִקְרֶ֔הָ חֶלְקַ֤ת הַשָּׂדֶה֙ לְבֹ֔עַז אֲשֶׁ֖ר מִמִּשְׁפַּ֥חַת אֱלִימֶֽלֶךְ׃
+And she went, and came and gleaned in the field after the reapers; and her hap was to light on the portion of the field belonging unto Boaz, who was of the family of Elimelech.
+Ruth 2:4
+וְהִנֵּה־בֹ֗עַז בָּ֚א מִבֵּ֣ית לֶ֔חֶם וַיֹּ֥אמֶר לַקּוֹצְרִ֖ים יְהֹוָ֣ה עִמָּכֶ֑ם וַיֹּ֥אמְרוּ ל֖וֹ יְבָרֶכְךָ֥ יְהֹוָֽה׃
+And, behold, Boaz came from Beth-lehem, and said unto the reapers: ‘The LORD be with you.’ And they answered him: ‘The LORD bless thee.’
+Ruth 2:5
+וַיֹּ֤אמֶר בֹּ֙עַז֙ לְנַֽעֲר֔וֹ הַנִּצָּ֖ב עַל־הַקּוֹצְרִ֑ים לְמִ֖י הַנַּעֲרָ֥ה הַזֹּֽאת׃
+Then said Boaz unto his servant that was set over the reapers: ‘Whose damsel is this?’
+Ruth 2:6
+וַיַּ֗עַן הַנַּ֛עַר הַנִּצָּ֥ב עַל־הַקּוֹצְרִ֖ים וַיֹּאמַ֑ר נַעֲרָ֤ה מֽוֹאֲבִיָּה֙ הִ֔יא הַשָּׁ֥בָה עִֽם־נׇעֳמִ֖י מִשְּׂדֵ֥י מוֹאָֽב׃
+And the servant that was set over the reapers answered and said: ‘It is a Moabitish damsel that came back with Naomi out of the field of Moab;
+Ruth 2:7
+וַתֹּ֗אמֶר אֲלַקֳּטָה־נָּא֙ וְאָסַפְתִּ֣י בָעֳמָרִ֔ים אַחֲרֵ֖י הַקּוֹצְרִ֑ים וַתָּב֣וֹא וַֽתַּעֲמ֗וֹד מֵאָ֤ז הַבֹּ֙קֶר֙ וְעַד־עַ֔תָּה זֶ֛ה שִׁבְתָּ֥הּ הַבַּ֖יִת מְעָֽט׃
+and she said: Let me glean, I pray you, and gather after the reapers among the sheaves; so she came, and hath continued even from the morning until now, save that she tarried a little in the house.’
+Ruth 2:8
+וַיֹּ֩אמֶר֩ בֹּ֨עַז אֶל־ר֜וּת הֲל֧וֹא שָׁמַ֣עַתְּ בִּתִּ֗י אַל־תֵּֽלְכִי֙ לִלְקֹט֙ בְּשָׂדֶ֣ה אַחֵ֔ר וְגַ֛ם לֹ֥א תַעֲבוּרִ֖י מִזֶּ֑ה וְכֹ֥ה תִדְבָּקִ֖ין עִם־נַעֲרֹתָֽי׃
+Then said Boaz unto Ruth: ‘Hearest thou not, my daughter? Go not to glean in another field, neither pass from hence, but abide here fast by my maidens.
+Ruth 2:9
+עֵינַ֜יִךְ בַּשָּׂדֶ֤ה אֲשֶׁר־יִקְצֹרוּן֙ וְהָלַ֣כְתְּ אַחֲרֵיהֶ֔ן הֲל֥וֹא צִוִּ֛יתִי אֶת־הַנְּעָרִ֖ים לְבִלְתִּ֣י נׇגְעֵ֑ךְ וְצָמִ֗ת וְהָלַכְתְּ֙ אֶל־הַכֵּלִ֔ים וְשָׁתִ֕ית מֵאֲשֶׁ֥ר יִשְׁאֲב֖וּן הַנְּעָרִֽים׃
+Let thine eyes be on the field that they do reap, and go thou after them; have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of that which the young men have drawn.’
+Ruth 2:10
+וַתִּפֹּל֙ עַל־פָּנֶ֔יהָ וַתִּשְׁתַּ֖חוּ אָ֑רְצָה וַתֹּ֣אמֶר אֵלָ֗יו מַדּ֩וּעַ֩ מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֙יךָ֙ לְהַכִּירֵ֔נִי וְאָנֹכִ֖י נׇכְרִיָּֽה׃
+Then she fell on her face, and bowed down to the ground, and said unto him: ‘Why have I found favour in thy sight, that thou shouldest take cognizance of me, seeing I am a foreigner?’
+Ruth 2:11
+וַיַּ֤עַן בֹּ֙עַז֙ וַיֹּ֣אמֶר לָ֔הּ הֻגֵּ֨ד הֻגַּ֜ד לִ֗י כֹּ֤ל אֲשֶׁר־עָשִׂית֙ אֶת־חֲמוֹתֵ֔ךְ אַחֲרֵ֖י מ֣וֹת אִישֵׁ֑ךְ וַתַּעַזְבִ֞י אָבִ֣יךְ וְאִמֵּ֗ךְ וְאֶ֙רֶץ֙ מֽוֹלַדְתֵּ֔ךְ וַתֵּ֣לְכִ֔י אֶל־עַ֕ם אֲשֶׁ֥ר לֹא־יָדַ֖עַתְּ תְּמ֥וֹל שִׁלְשֽׁוֹם׃
+And Boaz answered and said unto her: ‘It hath fully been told me, all that thou hast done unto thy mother-in-law since the death of thy husband; and how thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people that thou knewest not heretofore.
+Ruth 2:12
+יְשַׁלֵּ֥ם יְהֹוָ֖ה פׇּעֳלֵ֑ךְ וּתְהִ֨י מַשְׂכֻּרְתֵּ֜ךְ שְׁלֵמָ֗ה מֵעִ֤ם יְהֹוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר־בָּ֖את לַחֲס֥וֹת תַּחַת־כְּנָפָֽיו׃
+The LORD recompense thy work, and be thy reward complete from the LORD, the God of Israel, under whose wings thou art come to take refuge.’
+Ruth 2:13
+וַ֠תֹּ֠אמֶר אֶמְצָא־חֵ֨ן בְּעֵינֶ֤יךָ אֲדֹנִי֙ כִּ֣י נִֽחַמְתָּ֔נִי וְכִ֥י דִבַּ֖רְתָּ עַל־לֵ֣ב שִׁפְחָתֶ֑ךָ וְאָֽנֹכִי֙ לֹ֣א אֶהְיֶ֔ה כְּאַחַ֖ת שִׁפְחֹתֶֽיךָ׃
+Then she said: ‘Let me find favour in thy sight, my LORD; for that thou hast comforted me, and for that thou hast spoken to the heart of thy handmaid, though I be not as one of thy handmaidens.’
+Ruth 2:14
+וַיֹּ֩אמֶר֩ לָ֨הֿ בֹ֜עַז לְעֵ֣ת הָאֹ֗כֶל גֹּ֤שִֽׁי הֲלֹם֙ וְאָכַ֣לְתְּ מִן־הַלֶּ֔חֶם וְטָבַ֥לְתְּ פִּתֵּ֖ךְ בַּחֹ֑מֶץ וַתֵּ֙שֶׁב֙ מִצַּ֣ד הַקֹּצְרִ֔ים וַיִּצְבׇּט־לָ֣הּ קָלִ֔י וַתֹּ֥אכַל וַתִּשְׂבַּ֖ע וַתֹּתַֽר׃
+And Boaz said unto her at meal-time: ‘Come hither, and eat of the bread, and dip thy morsel in the vinegar.’ And she sat beside the reapers; and they reached her parched corn, and she did eat and was satisfied, and left thereof.
+Ruth 2:15
+וַתָּ֖קׇם לְלַקֵּ֑ט וַיְצַו֩ בֹּ֨עַז אֶת־נְעָרָ֜יו לֵאמֹ֗ר גַּ֣ם בֵּ֧ין הָעֳמָרִ֛ים תְּלַקֵּ֖ט וְלֹ֥א תַכְלִימֽוּהָ׃
+And when she was risen up to glean, Boaz commanded his young men, saying: ‘Let her glean even among the sheaves, and put her not to shame.
+Ruth 2:16
+וְגַ֛ם שֹׁל־תָּשֹׁ֥לּוּ לָ֖הּ מִן־הַצְּבָתִ֑ים וַעֲזַבְתֶּ֥ם וְלִקְּטָ֖ה וְלֹ֥א תִגְעֲרוּ־בָֽהּ׃
+And also pull out some for her of purpose from the bundles, and leave it, and let her glean, and rebuke her not.’
+Ruth 2:17
+וַתְּלַקֵּ֥ט בַּשָּׂדֶ֖ה עַד־הָעָ֑רֶב וַתַּחְבֹּט֙ אֵ֣ת אֲשֶׁר־לִקֵּ֔טָה וַיְהִ֖י כְּאֵיפָ֥ה שְׂעֹרִֽים׃
+So she gleaned in the field until even; and she beat out that which she had gleaned, and it was about an ephah of barley.
+Ruth 2:18
+וַתִּשָּׂא֙ וַתָּב֣וֹא הָעִ֔יר וַתֵּ֥רֶא חֲמוֹתָ֖הּ אֵ֣ת אֲשֶׁר־לִקֵּ֑טָה וַתּוֹצֵא֙ וַתִּתֶּן־לָ֔הּ אֵ֥ת אֲשֶׁר־הוֹתִ֖רָה מִשׇּׂבְעָֽהּ׃
+And she took it up, and went into the city; and her mother-in-law saw what she had gleaned; and she brought forth and gave to her that which she had left after she was satisfied.
+Ruth 2:19
+וַתֹּ֩אמֶר֩ לָ֨הּ חֲמוֹתָ֜הּ אֵיפֹ֨ה לִקַּ֤טְתְּ הַיּוֹם֙ וְאָ֣נָה עָשִׂ֔ית יְהִ֥י מַכִּירֵ֖ךְ בָּר֑וּךְ וַתַּגֵּ֣ד לַחֲמוֹתָ֗הּ אֵ֤ת אֲשֶׁר־עָֽשְׂתָה֙ עִמּ֔וֹ וַתֹּ֗אמֶר שֵׁ֤ם הָאִישׁ֙ אֲשֶׁ֨ר עָשִׂ֧יתִי עִמּ֛וֹ הַיּ֖וֹם בֹּֽעַז׃
+And her mother-in-law said unto her: ‘Where hast thou gleaned to-day? and where wroughtest thou? blessed be he that did take knowledge of thee.’ And she told her mother-in-law with whom she had wrought, and said: ‘The man’s name with whom I wrought to-day is Boaz.’
+Ruth 2:20
+וַתֹּ֨אמֶר נׇעֳמִ֜י לְכַלָּתָ֗הּ בָּר֥וּךְ הוּא֙ לַיהֹוָ֔ה אֲשֶׁר֙ לֹא־עָזַ֣ב חַסְדּ֔וֹ אֶת־הַחַיִּ֖ים וְאֶת־הַמֵּתִ֑ים וַתֹּ֧אמֶר לָ֣הּ נׇעֳמִ֗י קָר֥וֹב לָ֙נוּ֙ הָאִ֔ישׁ מִֽגֹּאֲלֵ֖נוּ הֽוּא׃
+And Naomi said unto her daughter-in-law: ‘Blessed be he of the LORD, who hath not left off His kindness to the living and to the dead.’ And Naomi said unto her: ‘The man is nigh of kin unto us, one of our near kinsmen.’
+Ruth 2:21
+וַתֹּ֖אמֶר ר֣וּת הַמּוֹאֲבִיָּ֑ה גַּ֣ם  ׀  כִּי־אָמַ֣ר אֵלַ֗י עִם־הַנְּעָרִ֤ים אֲשֶׁר־לִי֙ תִּדְבָּקִ֔ין עַ֣ד אִם־כִּלּ֔וּ אֵ֥ת כׇּל־הַקָּצִ֖יר אֲשֶׁר־לִֽי׃
+And Ruth the Moabitess said: ‘Yea, he said unto me: Thou shalt keep fast by my young men, until they have ended all my harvest.’
+Ruth 2:22
+וַתֹּ֥אמֶר נׇעֳמִ֖י אֶל־ר֣וּת כַּלָּתָ֑הּ ט֣וֹב בִּתִּ֗י כִּ֤י תֵצְאִי֙ עִם־נַ֣עֲרוֹתָ֔יו וְלֹ֥א יִפְגְּעוּ־בָ֖ךְ בְּשָׂדֶ֥ה אַחֵֽר׃
+And Naomi said unto Ruth her daughter-in-law: ‘It is good, my daughter, that thou go out with his maidens, and that thou be not met in any other field.’
+Ruth 2:23
+וַתִּדְבַּ֞ק בְּנַעֲר֥וֹת בֹּ֙עַז֙ לְלַקֵּ֔ט עַד־כְּל֥וֹת קְצִֽיר־הַשְּׂעֹרִ֖ים וּקְצִ֣יר הַחִטִּ֑ים וַתֵּ֖שֶׁב אֶת־חֲמוֹתָֽהּ׃
+So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and she dwelt with her mother-in-law.
+Ruth 3:1
+וַתֹּ֥אמֶר לָ֖הּ נׇעֳמִ֣י חֲמוֹתָ֑הּ בִּתִּ֕י הֲלֹ֧א אֲבַקֶּשׁ־לָ֛ךְ מָנ֖וֹחַ אֲשֶׁ֥ר יִֽיטַב־לָֽךְ׃
+And Naomi her mother-in-law said unto her: ‘My daughter, shall I not seek rest for thee, that it may be well with thee?
+Ruth 3:2
+וְעַתָּ֗ה הֲלֹ֥א בֹ֙עַז֙ מֹֽדַעְתָּ֔נוּ אֲשֶׁ֥ר הָיִ֖ית אֶת־נַעֲרוֹתָ֑יו הִנֵּה־ה֗וּא זֹרֶ֛ה אֶת־גֹּ֥רֶן הַשְּׂעֹרִ֖ים הַלָּֽיְלָה׃
+And now is there not Boaz our kinsman, with whose maidens thou wast? Behold, he winnoweth barley to-night in the threshing-floor.
+Ruth 3:3
+וְרָחַ֣צְתְּ  ׀  וָסַ֗כְתְּ וְשַׂ֧מְתְּ   (שמלתך)   [שִׂמְלֹתַ֛יִךְ]   עָלַ֖יִךְ   (וירדתי)   [וְיָרַ֣דְתְּ]   הַגֹּ֑רֶן אַל־תִּוָּדְעִ֣י לָאִ֔ישׁ עַ֥ד כַּלֹּת֖וֹ לֶאֱכֹ֥ל וְלִשְׁתּֽוֹת׃
+Wash thyself therefore, and anoint thee, and put thy raiment upon thee, and get thee down to the threshing-floor; but make not thyself known unto the man, until he shall have done eating and drinking.
+Ruth 3:4
+וִיהִ֣י בְשׇׁכְב֗וֹ וְיָדַ֙עַתְּ֙ אֶת־הַמָּקוֹם֙ אֲשֶׁ֣ר יִשְׁכַּב־שָׁ֔ם וּבָ֛את וְגִלִּ֥ית מַרְגְּלֹתָ֖יו   (ושכבתי)   [וְשָׁכָ֑בְתְּ]   וְהוּא֙ יַגִּ֣יד לָ֔ךְ אֵ֖ת אֲשֶׁ֥ר תַּעֲשִֽׂין׃
+And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.’
+Ruth 3:5
+וַתֹּ֖אמֶר אֵלֶ֑יהָ כֹּ֛ל אֲשֶׁר־תֹּאמְרִ֥י  [אֵלַ֖י]  אֶעֱשֶֽׂה׃
+And she said unto her: ‘All that thou sayest unto me I will do.’
+Ruth 3:6
+וַתֵּ֖רֶד הַגֹּ֑רֶן וַתַּ֕עַשׂ כְּכֹ֥ל אֲשֶׁר־צִוַּ֖תָּה חֲמוֹתָֽהּ׃
+And she went down unto the threshing-floor, and did according to all that her mother-in-law bade her.
+Ruth 3:7
+וַיֹּ֨אכַל בֹּ֤עַז וַיֵּשְׁתְּ֙ וַיִּיטַ֣ב לִבּ֔וֹ וַיָּבֹ֕א לִשְׁכַּ֖ב בִּקְצֵ֣ה הָעֲרֵמָ֑ה וַתָּבֹ֣א בַלָּ֔ט וַתְּגַ֥ל מַרְגְּלֹתָ֖יו וַתִּשְׁכָּֽב׃
+And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn; and she came softly, and uncovered his feet, and laid her down.
+Ruth 3:8
+וַֽיְהִי֙ בַּחֲצִ֣י הַלַּ֔יְלָה וַיֶּחֱרַ֥ד הָאִ֖ישׁ וַיִּלָּפֵ֑ת וְהִנֵּ֣ה אִשָּׁ֔ה שֹׁכֶ֖בֶת מַרְגְּלֹתָֽיו׃
+And it came to pass at midnight, that the man was startled, and turned himself; and, behold, a woman lay at his feet.
+Ruth 3:9
+וַיֹּ֖אמֶר מִי־אָ֑תְּ וַתֹּ֗אמֶר אָֽנֹכִי֙ ר֣וּת אֲמָתֶ֔ךָ וּפָרַשְׂתָּ֤ כְנָפֶ֙ךָ֙ עַל־אֲמָ֣תְךָ֔ כִּ֥י גֹאֵ֖ל אָֽתָּה׃
+And he said: ‘Who art thou?’ And she answered: ‘I am Ruth thine handmaid; spread therefore thy skirt over thy handmaid; for thou art a near kinsman.’
+Ruth 3:10
+וַיֹּ֗אמֶר בְּרוּכָ֨ה אַ֤תְּ לַֽיהֹוָה֙ בִּתִּ֔י הֵיטַ֛בְתְּ חַסְדֵּ֥ךְ הָאַחֲר֖וֹן מִן־הָרִאשׁ֑וֹן לְבִלְתִּי־לֶ֗כֶת אַֽחֲרֵי֙ הַבַּ֣חוּרִ֔ים אִם־דַּ֖ל וְאִם־עָשִֽׁיר׃
+And he said: ‘Blessed be thou of the LORD, my daughter; thou hast shown more kindness in the end than at the beginning, inasmuch as thou didst not follow the young men, whether poor or rich.
+Ruth 3:11
+וְעַתָּ֗ה בִּתִּי֙ אַל־תִּ֣ירְאִ֔י כֹּ֥ל אֲשֶׁר־תֹּאמְרִ֖י אֶעֱשֶׂה־לָּ֑ךְ כִּ֤י יוֹדֵ֙עַ֙ כׇּל־שַׁ֣עַר עַמִּ֔י כִּ֛י אֵ֥שֶׁת חַ֖יִל אָֽתְּ׃
+And now, my daughter, fear not; I will do to thee all that thou sayest; for all the men in the gate of my people do know that thou art a virtuous woman.
+Ruth 3:12
+וְעַתָּה֙ כִּ֣י אׇמְנָ֔ם כִּ֥י  (אם)  גֹאֵ֖ל אָנֹ֑כִי וְגַ֛ם יֵ֥שׁ גֹּאֵ֖ל קָר֥וֹב מִמֶּֽנִּי׃
+And now it is true that I am a near kinsman; howbeit there is a kinsman nearer than I.
+Ruth 3:13
+לִ֣י נִ י  ׀  הַלַּ֗יְלָה וְהָיָ֤ה בַבֹּ֙קֶר֙ אִם־יִגְאָלֵ֥ךְ טוֹב֙ יִגְאָ֔ל וְאִם־לֹ֨א יַחְפֹּ֧ץ לְגׇאֳלֵ֛ךְ וּגְאַלְתִּ֥יךְ אָנֹ֖כִי חַי־יְהֹוָ֑ה שִׁכְבִ֖י עַד־הַבֹּֽקֶר׃
+Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part; but if he be not willing to do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the LORD liveth; lie down until the morning.’
+Ruth 3:14
+וַתִּשְׁכַּ֤ב  מַרְגְּלוֹתָו֙  עַד־הַבֹּ֔קֶר וַתָּ֕קׇם   (בטרום)   [בְּטֶ֛רֶם]   יַכִּ֥יר אִ֖ישׁ אֶת־רֵעֵ֑הוּ וַיֹּ֙אמֶר֙ אַל־יִוָּדַ֔ע כִּי־בָ֥אָה הָאִשָּׁ֖ה הַגֹּֽרֶן׃
+And she lay at his feet until the morning; and she rose up before one could discern another. For he said: ‘Let it not be known that the woman came to the threshing-floor.’
+Ruth 3:15
+וַיֹּ֗אמֶר הָ֠בִ֠י הַמִּטְפַּ֧חַת אֲשֶׁר־עָלַ֛יִךְ וְאֶחֳזִי־בָ֖הּ וַתֹּ֣אחֶז בָּ֑הּ וַיָּ֤מׇד שֵׁשׁ־שְׂעֹרִים֙ וַיָּ֣שֶׁת עָלֶ֔יהָ וַיָּבֹ֖א הָעִֽיר׃
+And he said: ‘Bring the mantle that is upon thee, and hold it’; and she held it; and he measured six measures of barley, and laid it on her; and he went into the city.
+Ruth 3:16
+וַתָּבוֹא֙ אֶל־חֲמוֹתָ֔הּ וַתֹּ֖אמֶר מִי־אַ֣תְּ בִּתִּ֑י וַתַּ֨גֶּד־לָ֔הּ אֵ֛ת כׇּל־אֲשֶׁ֥ר עָשָׂה־לָ֖הּ הָאִֽישׁ׃
+And when she came to her mother-in-law, she said: ‘Who art thou, my daughter?’ And she told her all that the man had done to her.
+Ruth 3:17
+וַתֹּ֕אמֶר שֵׁשׁ־הַשְּׂעֹרִ֥ים הָאֵ֖לֶּה נָ֣תַן לִ֑י כִּ֚י אָמַ֣ר  [אֵלַ֔י]  אַל־תָּב֥וֹאִי רֵיקָ֖ם אֶל־חֲמוֹתֵֽךְ׃
+And she said: ‘These six measures of barley gave he me; for he said to me: Go not empty unto thy mother-in-law.’
+Ruth 3:18
+וַתֹּ֙אמֶר֙ שְׁבִ֣י בִתִּ֔י עַ֚ד אֲשֶׁ֣ר תֵּֽדְעִ֔ין אֵ֖יךְ יִפֹּ֣ל דָּבָ֑ר כִּ֣י לֹ֤א יִשְׁקֹט֙ הָאִ֔ישׁ כִּֽי־אִם־כִּלָּ֥ה הַדָּבָ֖ר הַיּֽוֹם׃
+Then said she: ‘Sit still, my daughter, until thou know how the matter will fall; for the man will not rest, until he have finished the thing this day.’
+Ruth 4:1
+וּבֹ֨עַז עָלָ֣ה הַשַּׁ֘עַר֮ וַיֵּ֣שֶׁב שָׁם֒ וְהִנֵּ֨ה הַגֹּאֵ֤ל עֹבֵר֙ אֲשֶׁ֣ר דִּבֶּר־בֹּ֔עַז וַיֹּ֛אמֶר ס֥וּרָה שְׁבָה־פֹּ֖ה פְּלֹנִ֣י אַלְמֹנִ֑י וַיָּ֖סַר וַיֵּשֵֽׁב׃
+Now Boaz went up to the gate, and sat him down there; and, behold, the near kinsman of whom Boaz spoke came by; unto whom he said: ‘Ho, such a one! turn aside, sit down here.’ And he turned aside, and sat down.
+Ruth 4:2
+וַיִּקַּ֞ח עֲשָׂרָ֧ה אֲנָשִׁ֛ים מִזִּקְנֵ֥י הָעִ֖יר וַיֹּ֣אמֶר שְׁבוּ־פֹ֑ה וַיֵּשֵֽׁבוּ׃
+And he took ten men of the elders of the city, and said: ‘Sit ye down here.’ And they sat down.
+Ruth 4:3
+וַיֹּ֙אמֶר֙ לַגֹּאֵ֔ל חֶלְקַת֙ הַשָּׂדֶ֔ה אֲשֶׁ֥ר לְאָחִ֖ינוּ לֶאֱלִימֶ֑לֶךְ מָכְרָ֣ה נׇעֳמִ֔י הַשָּׁ֖בָה מִשְּׂדֵ֥ה מוֹאָֽב׃
+And he said unto the near kinsman: ‘Naomi, that is come back out of the field of Moab, selleth the parcel of land, which was our brother Elimelech’s;
+Ruth 4:4
+וַאֲנִ֨י אָמַ֜רְתִּי אֶגְלֶ֧ה אׇזְנְךָ֣ לֵאמֹ֗ר קְ֠נֵ֠ה נֶ֥גֶד הַיֹּשְׁבִים֮ וְנֶ֣גֶד זִקְנֵ֣י עַמִּי֒ אִם־תִּגְאַל֙ גְּאָ֔ל וְאִם־לֹ֨א יִגְאַ֜ל הַגִּ֣ידָה לִּ֗י   (ואדע)   [וְאֵֽדְעָה֙]   כִּ֣י אֵ֤ין זוּלָֽתְךָ֙ לִגְא֔וֹל וְאָנֹכִ֖י אַחֲרֶ֑יךָ וַיֹּ֖אמֶר אָנֹכִ֥י אֶגְאָֽל׃
+and I thought to disclose it unto thee, saying: Buy it before them that sit here, and before the elders of my people. If thou wilt redeem it, redeem it; but if it will not be redeemed, then tell me, that I may know; for there is none to redeem it beside thee; and I am after thee.’ And he said: ‘I will redeem it.’
+Ruth 4:5
+וַיֹּ֣אמֶר בֹּ֔עַז בְּיוֹם־קְנוֹתְךָ֥ הַשָּׂדֶ֖ה מִיַּ֣ד נׇעֳמִ֑י וּ֠מֵאֵ֠ת ר֣וּת הַמּוֹאֲבִיָּ֤ה אֵֽשֶׁת־הַמֵּת֙   (קניתי)   [קָנִ֔יתָ]   לְהָקִ֥ים שֵׁם־הַמֵּ֖ת עַל־נַחֲלָתֽוֹ׃
+Then said Boaz: ‘What day thou buyest the field of the hand of Naomi—hast thou also bought of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance?’
+Ruth 4:6
+וַיֹּ֣אמֶר הַגֹּאֵ֗ל לֹ֤א אוּכַל֙   (לגאול)   [לִגְאׇל־]  לִ֔י פֶּן־אַשְׁחִ֖ית אֶת־נַחֲלָתִ֑י גְּאַל־לְךָ֤ אַתָּה֙ אֶת־גְּאֻלָּתִ֔י כִּ֥י לֹא־אוּכַ֖ל לִגְאֹֽל׃
+And the near kinsman said: ‘I cannot redeem it for myself, lest I mar mine own inheritance; take thou my right of redemption on thee; for I cannot redeem it.’—
+Ruth 4:7
+וְזֹאת֩ לְפָנִ֨ים בְּיִשְׂרָאֵ֜ל עַל־הַגְּאֻלָּ֤ה וְעַל־הַתְּמוּרָה֙ לְקַיֵּ֣ם כׇּל־דָּבָ֔ר שָׁלַ֥ף אִ֛ישׁ נַעֲל֖וֹ וְנָתַ֣ן לְרֵעֵ֑הוּ וְזֹ֥את הַתְּעוּדָ֖ה בְּיִשְׂרָאֵֽל׃
+Now this was the custom in former time in Israel concerning redeeming and concerning exchanging, to confirm all things: a man drew off his shoe, and gave it to his neighbour; and this was the attestation in Israel.—
+Ruth 4:8
+וַיֹּ֧אמֶר הַגֹּאֵ֛ל לְבֹ֖עַז קְנֵה־לָ֑ךְ וַיִּשְׁלֹ֖ף נַעֲלֽוֹ׃
+So the near kinsman said unto Boaz: ‘Buy it for thyself.’ And he drew off his shoe.
+Ruth 4:9
+וַיֹּ֩אמֶר֩ בֹּ֨עַז לַזְּקֵנִ֜ים וְכׇל־הָעָ֗ם עֵדִ֤ים אַתֶּם֙ הַיּ֔וֹם כִּ֤י קָנִ֙יתִי֙ אֶת־כׇּל־אֲשֶׁ֣ר לֶאֱלִימֶ֔לֶךְ וְאֵ֛ת כׇּל־אֲשֶׁ֥ר לְכִלְי֖וֹן וּמַחְל֑וֹן מִיַּ֖ד נׇעֳמִֽי׃
+And Boaz said unto the elders, and unto all the people: ‘Ye are witnesses this day, that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, of the hand of Naomi.
+Ruth 4:10
+וְגַ֣ם אֶת־ר֣וּת הַמֹּאֲבִיָּה֩ אֵ֨שֶׁת מַחְל֜וֹן קָנִ֧יתִי לִ֣י לְאִשָּׁ֗ה לְהָקִ֤ים שֵׁם־הַמֵּת֙ עַל־נַ֣חֲלָת֔וֹ וְלֹֽא־יִכָּרֵ֧ת שֵׁם־הַמֵּ֛ת מֵעִ֥ם אֶחָ֖יו וּמִשַּׁ֣עַר מְקוֹמ֑וֹ עֵדִ֥ים אַתֶּ֖ם הַיּֽוֹם׃
+Moreover Ruth the Moabitess, the wife of Mahlon, have I acquired to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place; ye are witnesses this day.’
+Ruth 4:11
+וַיֹּ֨אמְר֜וּ כׇּל־הָעָ֧ם אֲשֶׁר־בַּשַּׁ֛עַר וְהַזְּקֵנִ֖ים עֵדִ֑ים יִתֵּן֩ יְהֹוָ֨ה אֶֽת־הָאִשָּׁ֜ה הַבָּאָ֣ה אֶל־בֵּיתֶ֗ךָ כְּרָחֵ֤ל  ׀  וּכְלֵאָה֙ אֲשֶׁ֨ר בָּנ֤וּ שְׁתֵּיהֶם֙ אֶת־בֵּ֣ית יִשְׂרָאֵ֔ל וַעֲשֵׂה־חַ֣יִל בְּאֶפְרָ֔תָה וּקְרָא־שֵׁ֖ם בְּבֵ֥ית לָֽחֶם׃
+And all the people that were in the gate, and the elders, said: ‘We are witnesses. The LORD make the woman that is come into thy house like Rachel and like Leah, which two did build the house of Israel; and do thou worthily in Ephrath, and be famous in Beth-lehem;
+Ruth 4:12
+וִיהִ֤י בֵֽיתְךָ֙ כְּבֵ֣ית פֶּ֔רֶץ אֲשֶׁר־יָלְדָ֥ה תָמָ֖ר לִיהוּדָ֑ה מִן־הַזֶּ֗רַע אֲשֶׁ֨ר יִתֵּ֤ן יְהֹוָה֙ לְךָ֔ מִן־הַֽנַּעֲרָ֖ה הַזֹּֽאת׃
+and let thy house be like the house of Perez, whom Tamar bore unto Judah, of the seed which the LORD shall give thee of this young woman.’
+Ruth 4:13
+וַיִּקַּ֨ח בֹּ֤עַז אֶת־רוּת֙ וַתְּהִי־ל֣וֹ לְאִשָּׁ֔ה וַיָּבֹ֖א אֵלֶ֑יהָ וַיִּתֵּ֨ן יְהֹוָ֥ה לָ֛הּ הֵרָי֖וֹן וַתֵּ֥לֶד בֵּֽן׃
+So Boaz took Ruth, and she became his wife; and he went in unto her, and the LORD gave her conception, and she bore a son.
+Ruth 4:14
+וַתֹּאמַ֤רְנָה הַנָּשִׁים֙ אֶֽל־נׇעֳמִ֔י בָּר֣וּךְ יְהֹוָ֔ה אֲ֠שֶׁ֠ר לֹ֣א הִשְׁבִּ֥ית לָ֛ךְ גֹּאֵ֖ל הַיּ֑וֹם וְיִקָּרֵ֥א שְׁמ֖וֹ בְּיִשְׂרָאֵֽל׃
+And the women said unto Naomi: ‘Blessed be the LORD, who hath not left thee this day without a near kinsman, and let his name be famous in Israel.
+Ruth 4:15
+וְהָ֤יָה לָךְ֙ לְמֵשִׁ֣יב נֶ֔פֶשׁ וּלְכַלְכֵּ֖ל אֶת־שֵׂיבָתֵ֑ךְ כִּ֣י כַלָּתֵ֤ךְ אֲֽשֶׁר־אֲהֵבַ֙תֶךְ֙ יְלָדַ֔תּוּ אֲשֶׁר־הִיא֙ ט֣וֹבָה לָ֔ךְ מִשִּׁבְעָ֖ה בָּנִֽים׃
+And he shall be unto thee a restorer of life, and a nourisher of thine old age; for thy daughter-in-law, who loveth thee, who is better to thee than seven sons, hath borne him.’
+Ruth 4:16
+וַתִּקַּ֨ח נׇעֳמִ֤י אֶת־הַיֶּ֙לֶד֙ וַתְּשִׁתֵ֣הוּ בְחֵיקָ֔הּ וַתְּהִי־ל֖וֹ לְאֹמֶֽנֶת׃
+And Naomi took the child, and laid it in her bosom, and became nurse unto it.
+Ruth 4:17
+וַתִּקְרֶ֩אנָה֩ ל֨וֹ הַשְּׁכֵנ֥וֹת שֵׁם֙ לֵאמֹ֔ר יֻלַּד־בֵּ֖ן לְנׇעֳמִ֑י וַתִּקְרֶ֤אנָֽה שְׁמוֹ֙ עוֹבֵ֔ד ה֥וּא אֲבִֽי־יִשַׁ֖י אֲבִ֥י דָוִֽד׃  {פ}
+And the women her neighbours gave it a name, saying: ‘There is a son born to Naomi’; and they called his name Obed; he is the father of Jesse, the father of David.
+Ruth 4:18
+וְאֵ֙לֶּה֙ תּוֹלְד֣וֹת פָּ֔רֶץ פֶּ֖רֶץ הוֹלִ֥יד אֶת־חֶצְרֽוֹן׃
+Now these are the generations of Perez: Perez begot Hezron;
+Ruth 4:19
+וְחֶצְרוֹן֙ הוֹלִ֣יד אֶת־רָ֔ם וְרָ֖ם הוֹלִ֥יד אֶת־עַמִּינָדָֽב׃
+and Hezron begot Ram, and Ram begot Amminadab;
+Ruth 4:20
+וְעַמִּֽינָדָב֙ הוֹלִ֣יד אֶת־נַחְשׁ֔וֹן וְנַחְשׁ֖וֹן הוֹלִ֥יד אֶת־שַׂלְמָֽה׃
+and Amminadab begot Nahshon, and Nahshon begot Salmon;
+Ruth 4:21
+וְשַׂלְמוֹן֙ הוֹלִ֣יד אֶת־בֹּ֔עַז וּבֹ֖עַז הוֹלִ֥יד אֶת־עוֹבֵֽד׃
+and Salmon begot Boaz, and Boaz begot Obed;
+Ruth 4:22
+וְעֹבֵד֙ הוֹלִ֣יד אֶת־יִשָׁ֔י וְיִשַׁ֖י הוֹלִ֥יד אֶת־דָּוִֽד׃
+and Obed begot Jesse, and Jesse begot David.
+https://www.sefaria.org/Ruth%201
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Ruth%202
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Ruth%203
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Ruth%204
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

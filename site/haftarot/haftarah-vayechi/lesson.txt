@@ -1,0 +1,103 @@
+Haftarah · Vayechi
+הפטרה · ויחי
+
+How should a final charge be read without simplifying its tensions? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד קוראים צוואה בלי לפשט את המתחים שבה? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How should a final charge be read without simplifying its tensions?
+כיצד קוראים צוואה בלי לפשט את המתחים שבה?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+I Kings 2:1
+David introduces his charge through the fact of his approaching death. Succession requires both courage and restraint under Torah. The opening offers a standard of conduct before the reader encounters the personal and political debts that complicate the farewell.
+דוד פותח את צוואתו בידיעת מותו הקרב. הירושה דורשת אומץ וגם ריסון במסגרת התורה. הפתיחה מציבה אמת מידה לפני החובות האישיים והמדיניים המסבכים את דברי הפרידה.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+I Kings 2:5
+The instructions concerning Joab, Barzillai’s descendants, and Shimei bring unresolved history into the next reign. Their different treatment resists a simple moral slogan. Track gratitude, bloodshed, oath, and prudence separately rather than treating every instruction as the same kind of command.
+ההוראות על יואב, בני ברזילי ושמעי מעבירות היסטוריה בלתי פתורה למלכות הבאה. היחס השונה אליהם אינו מתכנס לסיסמה אחת. יש להבחין בין הכרת טובה, שפיכות דמים, שבועה ושיקול מדיני.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+I Kings 2:12
+The narrative ends with Solomon’s throne established. That statement records a political outcome; it does not erase the preceding moral difficulties. Compare the stability of a succession with the harder question of how the new ruler will exercise inherited responsibility.
+הסיפור חותם בהתבססות כיסא שלמה. זהו תיאור של תוצאה מדינית, והוא אינו מוחק את הקשיים המוסריים שקדמו לה. יש להשוות יציבות של ירושה לדרך שבה היורש יפעיל את האחריות שקיבל.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+I Kings 2:1-2:12
+I Kings 2:1
+וַיִּקְרְב֥וּ יְמֵֽי־דָוִ֖ד לָמ֑וּת וַיְצַ֛ו אֶת־שְׁלֹמֹ֥ה בְנ֖וֹ לֵאמֹֽר׃
+Now the days of David drew nigh that he should die; and he charged Solomon his son, saying:
+I Kings 2:2
+אָנֹכִ֣י הֹלֵ֔ךְ בְּדֶ֖רֶךְ כׇּל־הָאָ֑רֶץ וְחָזַקְתָּ֖ וְהָיִ֥יתָֽ לְאִֽישׁ׃
+’I go the way of all the earth; be thou strong therefore, and show thyself a man;
+I Kings 2:3
+וְשָׁמַרְתָּ֞ אֶת־מִשְׁמֶ֣רֶת  ׀  יְהֹוָ֣ה אֱלֹהֶ֗יךָ לָלֶ֤כֶת בִּדְרָכָיו֙ לִשְׁמֹ֨ר חֻקֹּתָ֤יו מִצְוֺתָיו֙ וּמִשְׁפָּטָ֣יו וְעֵדְוֺתָ֔יו כַּכָּת֖וּב בְּתוֹרַ֣ת מֹשֶׁ֑ה לְמַ֣עַן תַּשְׂכִּ֗יל אֵ֚ת כׇּל־אֲשֶׁ֣ר תַּעֲשֶׂ֔ה וְאֵ֛ת כׇּל־אֲשֶׁ֥ר תִּפְנֶ֖ה שָֽׁם׃
+and keep the charge of the LORD thy God, to walk in His ways, to keep His statutes, and His commandments, and His ordinances, and His testimonies, according to that which is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself;
+I Kings 2:4
+לְמַ֩עַן֩ יָקִ֨ים יְהֹוָ֜ה אֶת־דְּבָר֗וֹ אֲשֶׁ֨ר דִּבֶּ֣ר עָלַי֮ לֵאמֹר֒ אִם־יִשְׁמְר֨וּ בָנֶ֜יךָ אֶת־דַּרְכָּ֗ם לָלֶ֤כֶת לְפָנַי֙ בֶּאֱמֶ֔ת בְּכׇל־לְבָבָ֖ם וּבְכׇל־נַפְשָׁ֑ם לֵאמֹ֕ר לֹֽא־יִכָּרֵ֤ת לְךָ֙ אִ֔ישׁ מֵעַ֖ל כִּסֵּ֥א יִשְׂרָאֵֽל׃
+that the LORD may establish His word which He spoke concerning me, saying: If thy children take heed to their way, to walk before Me in truth with all their heart and with all their soul, there shall not fail thee, said He, a man on the throne of Israel.
+I Kings 2:5
+וְגַ֣ם אַתָּ֣ה יָדַ֡עְתָּ אֵת֩ אֲשֶׁר־עָ֨שָׂה לִ֜י יוֹאָ֣ב בֶּן־צְרוּיָ֗ה אֲשֶׁ֣ר עָשָׂ֣ה לִשְׁנֵֽי־שָׂרֵ֣י צִבְא֣וֹת יִ֠שְׂרָאֵ֠ל לְאַבְנֵ֨ר בֶּן־נֵ֜ר וְלַעֲמָשָׂ֤א בֶן־יֶ֙תֶר֙ וַיַּ֣הַרְגֵ֔ם וַיָּ֥שֶׂם דְּמֵֽי־מִלְחָמָ֖ה בְּשָׁלֹ֑ם וַיִּתֵּ֞ן דְּמֵ֣י מִלְחָמָ֗ה בַּחֲגֹֽרָתוֹ֙ אֲשֶׁ֣ר בְּמׇתְנָ֔יו וּֽבְנַעֲל֖וֹ אֲשֶׁ֥ר בְּרַגְלָֽיו׃
+Moreover thou knowest also what Joab the son of Zeruiah did unto me, even what he did to the two captains of the hosts of Israel, unto Abner the son of Ner and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that was about his loins, and in his shoes that were on his feet.
+I Kings 2:6
+וְעָשִׂ֖יתָ כְּחׇכְמָתֶ֑ךָ וְלֹֽא־תוֹרֵ֧ד שֵׂיבָת֛וֹ בְּשָׁלֹ֖ם שְׁאֹֽל׃
+Do therefore according to thy wisdom, and let not his hoar head go down to the grave in peace.
+I Kings 2:7
+וְלִבְנֵ֨י בַרְזִלַּ֤י הַגִּלְעָדִי֙ תַּֽעֲשֶׂה־חֶ֔סֶד וְהָי֖וּ בְּאֹכְלֵ֣י שֻׁלְחָנֶ֑ךָ כִּי־כֵן֙ קָרְב֣וּ אֵלַ֔י בְּבׇרְחִ֕י מִפְּנֵ֖י אַבְשָׁל֥וֹם אָחִֽיךָ׃
+But show kindness unto the sons of Barzillai the Gileadite, and let them be of those that eat at thy table; for so they drew nigh unto me when I fled from Absalom thy brother.
+I Kings 2:8
+וְהִנֵּ֣ה עִ֠מְּךָ֠ שִֽׁמְעִ֨י בֶן־גֵּרָ֥א בֶֽן־הַיְמִינִי֮ מִבַּחֻרִים֒ וְה֤וּא קִֽלְלַ֙נִי֙ קְלָלָ֣ה נִמְרֶ֔צֶת בְּי֖וֹם לֶכְתִּ֣י מַחֲנָ֑יִם וְהֽוּא־יָרַ֤ד לִקְרָאתִי֙ הַיַּרְדֵּ֔ן וָאֶשָּׁ֨בַֽע ל֤וֹ בַֽיהֹוָה֙ לֵאמֹ֔ר אִם־אֲמִֽיתְךָ֖ בֶּחָֽרֶב׃
+And, behold, there is with thee Shimei the son of Gera, the Benjamite, of Bahurim, who cursed me with a grievous curse in the day when I went to Mahanaim; but he came down to meet me at the Jordan, and I swore to him by the LORD, saying: I will not put thee to death with the sword.
+I Kings 2:9
+וְעַתָּה֙ אַל־תְּנַקֵּ֔הוּ כִּ֛י אִ֥ישׁ חָכָ֖ם אָ֑תָּה וְיָֽדַעְתָּ֙ אֵ֣ת אֲשֶׁ֣ר תַּֽעֲשֶׂה־לּ֔וֹ וְהוֹרַדְתָּ֧ אֶת־שֵׂיבָת֛וֹ בְּדָ֖ם שְׁאֽוֹל׃
+Now therefore hold him not guiltless, for thou art a wise man; and thou wilt know what thou oughtest to do unto him, and thou shalt bring his hoar head down to the grave with blood.’
+I Kings 2:10
+וַיִּשְׁכַּ֥ב דָּוִ֖ד עִם־אֲבֹתָ֑יו וַיִּקָּבֵ֖ר בְּעִ֥יר דָּוִֽד׃  {פ}
+And David slept with his fathers, and was buried in the city of David.
+I Kings 2:11
+וְהַיָּמִ֗ים אֲשֶׁ֨ר מָלַ֤ךְ דָּוִד֙ עַל־יִשְׂרָאֵ֔ל אַרְבָּעִ֖ים שָׁנָ֑ה בְּחֶבְר֤וֹן מָלַךְ֙ שֶׁ֣בַע שָׁנִ֔ים וּבִירוּשָׁלַ֣͏ִם מָלַ֔ךְ שְׁלֹשִׁ֥ים וְשָׁלֹ֖שׁ שָׁנִֽים׃
+And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
+I Kings 2:12
+וּשְׁלֹמֹ֕ה יָשַׁ֕ב עַל־כִּסֵּ֖א דָּוִ֣ד אָבִ֑יו וַתִּכֹּ֥ן מַלְכֻת֖וֹ מְאֹֽד׃  {ס}
+And Solomon sat upon the throne of David his father; and his kingdom was established firmly.
+https://www.sefaria.org/I%20Kings%202
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

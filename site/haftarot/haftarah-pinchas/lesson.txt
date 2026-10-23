@@ -1,0 +1,138 @@
+Haftarah · Pinchas
+הפטרה · פינחס
+
+How can zeal learn to hear beyond a dramatic encounter? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד לומדת קנאות לשמוע מעבר למפגש דרמטי? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How can zeal learn to hear beyond a dramatic encounter?
+כיצד לומדת קנאות לשמוע מעבר למפגש דרמטי?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+I Kings 18:46
+Elijah’s strength before Ahab is followed immediately by flight from a threat. Public success has not removed exhaustion or fear. The narrative refuses to turn the prophet’s earlier victory into an uncomplicated portrait of invulnerability.
+כוח אליהו לפני אחאב מתחלף במנוסה מפני איום. ההצלחה הציבורית לא ביטלה עייפות ופחד. הסיפור מסרב להפוך את הניצחון הקודם לדיוקן פשוט של חסינות.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+I Kings 19:12
+The sequence of wind, earthquake, and fire leads to a finely quiet sound. The repeated question to Elijah returns the encounter to his understanding of his task. Ask whether he hears a changed commission or only repeats his original account.
+הרוח, הרעש והאש מובילים לקול דממה דקה. השאלה החוזרת לאליהו מחזירה את המפגש להבנת תפקידו. האם הוא שומע שליחות ששונתה או חוזר רק על סיפורו הראשון?
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+I Kings 19:21
+Elisha leaves his former work and follows Elijah in service. Succession becomes the final practical answer to isolation. When Pinchas falls after 17 Tammuz, Jeremiah 1:1–2:3 replaces this regular reading; that seasonal assignment has its own entry.
+אלישע עוזב את עבודתו הקודמת והולך לשרת את אליהו. ההמשכיות נעשית לתשובה מעשית לבדידות. כשפינחס חל אחרי י״ז בתמוז, ירמיהו א׳:א׳–ב׳:ג׳ מחליף קריאה זו ומופיע ברשומה נפרדת.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+I Kings 18:46-19:21
+I Kings 18:46
+וְיַד־יְהֹוָ֗ה הָֽיְתָה֙ אֶל־אֵ֣לִיָּ֔הוּ וַיְשַׁנֵּ֖ס מׇתְנָ֑יו וַיָּ֙רׇץ֙ לִפְנֵ֣י אַחְאָ֔ב עַד־בֹּאֲכָ֖ה יִזְרְעֶֽאלָה׃
+And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.
+I Kings 19:1
+וַיַּגֵּ֤ד אַחְאָב֙ לְאִיזֶ֔בֶל אֵ֛ת כׇּל־אֲשֶׁ֥ר עָשָׂ֖ה אֵלִיָּ֑הוּ וְאֵ֨ת כׇּל־אֲשֶׁ֥ר הָרַ֛ג אֶת־כׇּל־הַנְּבִיאִ֖ים בֶּחָֽרֶב׃
+And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.
+I Kings 19:2
+וַתִּשְׁלַ֤ח אִיזֶ֙בֶל֙ מַלְאָ֔ךְ אֶל־אֵלִיָּ֖הוּ לֵאמֹ֑ר כֹּֽה־יַעֲשׂ֤וּן אֱלֹהִים֙ וְכֹ֣ה יֽוֹסִפ֔וּן כִּֽי־כָעֵ֤ת מָחָר֙ אָשִׂ֣ים אֶֽת־נַפְשְׁךָ֔ כְּנֶ֖פֶשׁ אַחַ֥ד מֵהֶֽם׃
+Then Jezebel sent a messenger unto Elijah, saying: ‘So let the gods do [to me], and more also, if I make not thy life as the life of one of them by to-morrow about this time.’
+I Kings 19:3
+וַיַּ֗רְא וַיָּ֙קׇם֙ וַיֵּ֣לֶךְ אֶל־נַפְשׁ֔וֹ וַיָּבֹ֕א בְּאֵ֥ר שֶׁ֖בַע אֲשֶׁ֣ר לִיהוּדָ֑ה וַיַּנַּ֥ח אֶֽת־נַעֲר֖וֹ שָֽׁם׃
+And when he saw that, he arose, and went for his life, and came to Beer-sheba, which belongeth to Judah, and left his servant there.
+I Kings 19:4
+וְהֽוּא־הָלַ֤ךְ בַּמִּדְבָּר֙ דֶּ֣רֶךְ י֔וֹם וַיָּבֹ֕א וַיֵּ֕שֶׁב תַּ֖חַת רֹ֣תֶם   (אחת)   [אֶחָ֑ד]   וַיִּשְׁאַ֤ל אֶת־נַפְשׁוֹ֙ לָמ֔וּת וַיֹּ֣אמֶר  ׀  רַ֗ב עַתָּ֤ה יְהֹוָה֙ קַ֣ח נַפְשִׁ֔י כִּֽי־לֹא־ט֥וֹב אָנֹכִ֖י מֵאֲבֹתָֽי׃
+But he himself went a day’s journey into the wilderness, and came and sat down under a broom-tree; and he requested for himself that he might die; and said: ‘It is enough; now, O LORD, take away my life; for I am not better than my fathers.’
+I Kings 19:5
+וַיִּשְׁכַּב֙ וַיִּישַׁ֔ן תַּ֖חַת רֹ֣תֶם אֶחָ֑ד וְהִנֵּה־זֶ֤ה מַלְאָךְ֙ נֹגֵ֣עַ בּ֔וֹ וַיֹּ֥אמֶר ל֖וֹ ק֥וּם אֱכֽוֹל׃
+And he lay down and slept under a broom-tree; and, behold, an angel touched him, and said unto him: ‘Arise and eat.’
+I Kings 19:6
+וַיַּבֵּ֕ט וְהִנֵּ֧ה מְרַאֲשֹׁתָ֛יו עֻגַ֥ת רְצָפִ֖ים וְצַפַּ֣חַת מָ֑יִם וַיֹּ֣אכַל וַיֵּ֔שְׁתְּ וַיָּ֖שׇׁב וַיִּשְׁכָּֽב׃
+And he looked, and, behold, there was at his head a cake baked on the hot stones, and a cruse of water. And he did eat and drink, and laid him down again.
+I Kings 19:7
+וַיָּ֩שׇׁב֩ מַלְאַ֨ךְ יְהֹוָ֤ה  ׀  שֵׁנִית֙ וַיִּגַּע־בּ֔וֹ וַיֹּ֖אמֶר ק֣וּם אֱכֹ֑ל כִּ֛י רַ֥ב מִמְּךָ֖ הַדָּֽרֶךְ׃
+And the angel of the LORD came again the second time, and touched him, and said: ‘Arise and eat; because the journey is too great for thee.’
+I Kings 19:8
+וַיָּ֖קׇם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ  ׀  הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽב׃
+And he arose, and did eat and drink, and went in the strength of that meal forty days and forty nights unto Horeb the mount of God.
+I Kings 19:9
+וַיָּבֹא־שָׁ֥ם אֶל־הַמְּעָרָ֖ה וַיָּ֣לֶן שָׁ֑ם וְהִנֵּ֤ה דְבַר־יְהֹוָה֙ אֵלָ֔יו וַיֹּ֣אמֶר ל֔וֹ מַה־לְּךָ֥ פֹ֖ה אֵלִיָּֽהוּ׃
+And he came thither unto a cave, and lodged there; and, behold, the word of the LORD came to him, and He said unto him: ‘What doest thou here, Elijah?’
+I Kings 19:10
+וַיֹּ֩אמֶר֩ קַנֹּ֨א קִנֵּ֜אתִי לַיהֹוָ֣ה  ׀  אֱלֹהֵ֣י צְבָא֗וֹת כִּֽי־עָזְב֤וּ בְרִֽיתְךָ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶת־מִזְבְּחֹתֶ֣יךָ הָרָ֔סוּ וְאֶת־נְבִיאֶ֖יךָ הָרְג֣וּ בֶחָ֑רֶב וָאִוָּתֵ֤ר אֲנִי֙ לְבַדִּ֔י וַיְבַקְשׁ֥וּ אֶת־נַפְשִׁ֖י לְקַחְתָּֽהּ׃
+And he said: ‘I have been very jealous for the LORD, the God of hosts; for the children of Israel have forsaken Thy covenant, thrown down Thine altars, and slain Thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.’
+I Kings 19:11
+וַיֹּ֗אמֶר צֵ֣א וְעָמַדְתָּ֣ בָהָר֮ לִפְנֵ֣י יְהֹוָה֒ וְהִנֵּ֧ה יְהֹוָ֣ה עֹבֵ֗ר וְר֣וּחַ גְּדוֹלָ֡ה וְחָזָ֞ק מְפָרֵק֩ הָרִ֨ים וּמְשַׁבֵּ֤ר סְלָעִים֙ לִפְנֵ֣י יְהֹוָ֔ה לֹ֥א בָר֖וּחַ יְהֹוָ֑ה וְאַחַ֤ר הָר֙וּחַ֙ רַ֔עַשׁ לֹ֥א בָרַ֖עַשׁ יְהֹוָֽה׃
+And He said: ‘Go forth, and stand upon the mount before the LORD.’ And, behold, the LORD passed by, and a great and strong wind rent the mountains, and broke in pieces the rocks before the LORD; but the LORD was not in the wind; and after the wind an earthquake; but the LORD was not in the earthquake;
+I Kings 19:12
+וְאַחַ֤ר הָרַ֙עַשׁ֙ אֵ֔שׁ לֹ֥א בָאֵ֖שׁ יְהֹוָ֑ה וְאַחַ֣ר הָאֵ֔שׁ ק֖וֹל דְּמָמָ֥ה דַקָּֽה׃
+and after the earthquake a fire; but the LORD was not in the fire; and after the fire a still small voice.
+I Kings 19:13
+וַיְהִ֣י  ׀  כִּשְׁמֹ֣עַ אֵלִיָּ֗הוּ וַיָּ֤לֶט פָּנָיו֙ בְּאַדַּרְתּ֔וֹ וַיֵּצֵ֕א וַֽיַּעֲמֹ֖ד פֶּ֣תַח הַמְּעָרָ֑ה וְהִנֵּ֤ה אֵלָיו֙ ק֔וֹל וַיֹּ֕אמֶר מַה־לְּךָ֥ פֹ֖ה אֵלִיָּֽהוּ׃
+And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. And, behold, there came a voice unto him, and said: ‘What doest thou here, Elijah?’
+I Kings 19:14
+וַיֹּ֩אמֶר֩ קַנֹּ֨א קִנֵּ֜אתִי לַיהֹוָ֣ה  ׀  אֱלֹהֵ֣י צְבָא֗וֹת כִּֽי־עָזְב֤וּ בְרִֽיתְךָ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶת־מִזְבְּחֹתֶ֣יךָ הָרָ֔סוּ וְאֶת־נְבִיאֶ֖יךָ הָרְג֣וּ בֶחָ֑רֶב וָאִוָּתֵ֤ר אֲנִי֙ לְבַדִּ֔י וַיְבַקְשׁ֥וּ אֶת־נַפְשִׁ֖י לְקַחְתָּֽהּ׃  {ס}
+And he said: ‘I have been very jealous for the LORD, the God of hosts; for the children of Israel have forsaken Thy covenant, thrown down Thine altars, and slain Thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.’
+I Kings 19:15
+וַיֹּ֤אמֶר יְהֹוָה֙ אֵלָ֔יו לֵ֛ךְ שׁ֥וּב לְדַרְכְּךָ֖ מִדְבַּ֣רָה דַמָּ֑שֶׂק וּבָ֗אתָ וּמָשַׁחְתָּ֧ אֶת־חֲזָאֵ֛ל לְמֶ֖לֶךְ עַל־אֲרָֽם׃
+And the LORD said unto him: ‘Go, return on thy way to the wilderness of Damascus; and when thou comest, thou shalt anoint Hazael to be king over Aram;
+I Kings 19:16
+וְאֵת֙ יֵה֣וּא בֶן־נִמְשִׁ֔י תִּמְשַׁ֥ח לְמֶ֖לֶךְ עַל־יִשְׂרָאֵ֑ל וְאֶת־אֱלִישָׁ֤ע בֶּן־שָׁפָט֙ מֵאָבֵ֣ל מְחוֹלָ֔ה תִּמְשַׁ֥ח לְנָבִ֖יא תַּחְתֶּֽיךָ׃
+and Jehu the son of Nimshi shalt thou anoint to be king over Israel; and Elisha the son of Shaphat of Abel-meholah shalt thou anoint to be prophet in thy room.
+I Kings 19:17
+וְהָיָ֗ה הַנִּמְלָ֛ט מֵחֶ֥רֶב חֲזָאֵ֖ל יָמִ֣ית יֵה֑וּא וְהַנִּמְלָ֛ט מֵחֶ֥רֶב יֵה֖וּא יָמִ֥ית אֱלִישָֽׁע׃
+And it shall come to pass, that him that escapeth from the sword of Hazael shall Jehu slay; and him that escapeth from the sword of Jehu shall Elisha slay.
+I Kings 19:18
+וְהִשְׁאַרְתִּ֥י בְיִשְׂרָאֵ֖ל שִׁבְעַ֣ת אֲלָפִ֑ים כׇּל־הַבִּרְכַּ֗יִם אֲשֶׁ֤ר לֹא־כָֽרְעוּ֙ לַבַּ֔עַל וְכׇ֨ל־הַפֶּ֔ה אֲשֶׁ֥ר לֹֽא־נָשַׁ֖ק לֽוֹ׃
+Yet will I leave seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.’
+I Kings 19:19
+וַיֵּ֣לֶךְ מִ֠שָּׁ֠ם וַיִּמְצָ֞א אֶת־אֱלִישָׁ֤ע בֶּן־שָׁפָט֙ וְה֣וּא חֹרֵ֔שׁ שְׁנֵים־עָשָׂ֤ר צְמָדִים֙ לְפָנָ֔יו וְה֖וּא בִּשְׁנֵ֣ים הֶעָשָׂ֑ר וַיַּעֲבֹ֤ר אֵלִיָּ֙הוּ֙ אֵלָ֔יו וַיַּשְׁלֵ֥ךְ אַדַּרְתּ֖וֹ אֵלָֽיו׃
+So he departed thence, and found Elisha the son of Shaphat, who was plowing, with twelve yoke of oxen before him, and he with the twelfth; and Elijah passed over unto him, and cast his mantle upon him.
+I Kings 19:20
+וַיַּעֲזֹ֣ב אֶת־הַבָּקָ֗ר וַיָּ֙רׇץ֙ אַחֲרֵ֣י אֵלִיָּ֔הוּ וַיֹּ֗אמֶר אֶשְּׁקָה־נָּא֙ לְאָבִ֣י וּלְאִמִּ֔י וְאֵלְכָ֖ה אַחֲרֶ֑יךָ וַיֹּ֤אמֶר לוֹ֙ לֵ֣ךְ שׁ֔וּב כִּ֥י מֶה־עָשִׂ֖יתִי לָֽךְ׃
+And he left the oxen, and ran after Elijah, and said: ‘Let me, I pray thee, kiss my father and my mother, and then I will follow thee.’ And he said unto him: ‘Go back; for what have I done to thee?’
+I Kings 19:21
+וַיָּ֨שׇׁב מֵאַחֲרָ֜יו וַיִּקַּ֣ח אֶת־צֶ֧מֶד הַבָּקָ֣ר וַיִּזְבָּחֵ֗הוּ וּבִכְלִ֤י הַבָּקָר֙ בִּשְּׁלָ֣ם הַבָּשָׂ֔ר וַיִּתֵּ֥ן לָעָ֖ם וַיֹּאכֵ֑לוּ וַיָּ֗קׇם וַיֵּ֛לֶךְ אַחֲרֵ֥י אֵלִיָּ֖הוּ וַֽיְשָׁרְתֵֽהוּ׃  {פ}
+And he returned from following him, and took the yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.
+https://www.sefaria.org/I%20Kings%2018
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/I%20Kings%2019
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

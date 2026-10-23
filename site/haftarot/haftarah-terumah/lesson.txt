@@ -1,0 +1,132 @@
+Haftarah · Terumah
+הפטרה · תרומה
+
+How do architecture and conduct belong in the same sacred building? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד שייכים המבנה וההתנהגות לאותו בית מקודש? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How do architecture and conduct belong in the same sacred building?
+כיצד שייכים המבנה וההתנהגות לאותו בית מקודש?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+I Kings 5:26
+Peace and an agreement with Hiram frame the Temple’s construction. Materials and labor come through human relationships. Sacred architecture is not produced outside economic and political life; its story begins by showing the cooperation that makes building possible.
+שלום וברית עם חירם מקיפים את בניין המקדש. החומרים והעבודה מגיעים דרך קשרים אנושיים. המבנה המקודש אינו נוצר מחוץ לחיים הכלכליים והמדיניים; הסיפור מציג תחילה את שיתוף הפעולה המאפשר אותו.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+I Kings 6:7
+The preparation of the stone before it reaches the house removes the sound of iron from the building site. The detail makes restraint part of construction. Ask how the manner of making something can already express the character of its intended use.
+הכנת האבן לפני הבאתה לבית מוציאה את קול הברזל מאתר הבנייה. הפרט הופך ריסון לחלק ממעשה הבניין. דרך הכנת הדבר עשויה לבטא כבר עכשיו את אופיו של השימוש המיועד לו.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+I Kings 6:13
+The divine address interrupts the measurements with a condition concerning commandments. The promised dwelling among Israel cannot be reduced to correct dimensions. The conclusion directs the builders from the house as an object to the conduct of the people among whom God will dwell.
+דבר האל קוטע את המידות בתנאי הנוגע למצוות. השראת השכינה אינה מצטמצמת לממדים נכונים. הסיום מעביר את הבונים מן הבית כחפץ אל התנהגות העם שבתוכו נועדה הנוכחות האלוהית לשכון.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+I Kings 5:26-6:13
+I Kings 5:26
+וַֽיהֹוָ֗ה נָתַ֤ן חׇכְמָה֙ לִשְׁלֹמֹ֔ה כַּאֲשֶׁ֖ר דִּבֶּר־ל֑וֹ וַיְהִ֣י שָׁלֹ֗ם בֵּ֤ין חִירָם֙ וּבֵ֣ין שְׁלֹמֹ֔ה וַיִּכְרְת֥וּ בְרִ֖ית שְׁנֵיהֶֽם׃
+And the LORD gave Solomon wisdom, as He promised him; and there was peace between Hiram and Solomon; and they two made a league together.
+I Kings 5:27
+וַיַּ֨עַל הַמֶּ֧לֶךְ שְׁלֹמֹ֛ה מַ֖ס מִכׇּל־יִשְׂרָאֵ֑ל וַיְהִ֣י הַמַּ֔ס שְׁלֹשִׁ֥ים אֶ֖לֶף אִֽישׁ׃
+And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.
+I Kings 5:28
+וַיִּשְׁלָחֵ֣ם לְבָנ֗וֹנָה עֲשֶׂ֨רֶת אֲלָפִ֤ים בַּחֹ֙דֶשׁ֙ חֲלִיפ֔וֹת חֹ֚דֶשׁ יִהְי֣וּ בַלְּבָנ֔וֹן שְׁנַ֥יִם חֳדָשִׁ֖ים בְּבֵית֑וֹ וַאֲדֹנִירָ֖ם עַל־הַמַּֽס׃  {ס}
+And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home; and Adoniram was over the levy.
+I Kings 5:29
+וַיְהִ֧י לִשְׁלֹמֹ֛ה שִׁבְעִ֥ים אֶ֖לֶף נֹשֵׂ֣א סַבָּ֑ל וּשְׁמֹנִ֥ים אֶ֖לֶף חֹצֵ֥ב בָּהָֽר׃
+And Solomon had threescore and ten thousand that bore burdens, and fourscore thousand that were hewers in the mountains;
+I Kings 5:30
+לְ֠בַ֠ד מִשָּׂרֵ֨י הַנִּצָּבִ֤ים לִשְׁלֹמֹה֙ אֲשֶׁ֣ר עַל־הַמְּלָאכָ֔ה שְׁלֹ֥שֶׁת אֲלָפִ֖ים וּשְׁלֹ֣שׁ מֵא֑וֹת הָרֹדִ֣ים בָּעָ֔ם הָעֹשִׂ֖ים בַּמְּלָאכָֽה׃  {ס}
+besides Solomon’s chief officers that were over the work, three thousand and three hundred, who bore rule over the people that wrought in the work.
+I Kings 5:31
+וַיְצַ֣ו הַמֶּ֡לֶךְ וַיַּסִּ֩עוּ֩ אֲבָנִ֨ים גְּדֹל֜וֹת אֲבָנִ֧ים יְקָר֛וֹת לְיַסֵּ֥ד הַבָּ֖יִת אַבְנֵ֥י גָזִֽית׃
+And the king commanded, and they quarried great stones, costly stones, to lay the foundation of the house with hewn stone.
+I Kings 5:32
+וַֽיִּפְסְל֞וּ בֹּנֵ֧י שְׁלֹמֹ֛ה וּבֹנֵ֥י חִיר֖וֹם וְהַגִּבְלִ֑ים וַיָּכִ֛ינוּ הָעֵצִ֥ים וְהָאֲבָנִ֖ים לִבְנ֥וֹת הַבָּֽיִת׃  {פ}
+And Solomon’s builders and Hiram’s builders and the Gebalites did fashion them, and prepared the timber and the stones to build the house.
+I Kings 6:1
+וַיְהִ֣י בִשְׁמוֹנִ֣ים שָׁנָ֣ה וְאַרְבַּ֣ע מֵא֣וֹת שָׁנָ֡ה לְצֵ֣את בְּנֵֽי־יִשְׂרָאֵ֣ל מֵאֶֽרֶץ־מִצְרַ֩יִם֩ בַּשָּׁנָ֨ה הָרְבִיעִ֜ית בְּחֹ֣דֶשׁ זִ֗ו ה֚וּא הַחֹ֣דֶשׁ הַשֵּׁנִ֔י לִמְלֹ֥ךְ שְׁלֹמֹ֖ה עַל־יִשְׂרָאֵ֑ל וַיִּ֥בֶן הַבַּ֖יִת לַיהֹוָֽה׃
+And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Ziv, which is the second month, that he began to build the house of the LORD.
+I Kings 6:2
+וְהַבַּ֗יִת אֲשֶׁ֨ר בָּנָ֜ה הַמֶּ֤לֶךְ שְׁלֹמֹה֙ לַיהֹוָ֔ה שִׁשִּׁים־אַמָּ֥ה אׇרְכּ֖וֹ וְעֶשְׂרִ֣ים רׇחְבּ֑וֹ וּשְׁלֹשִׁ֥ים אַמָּ֖ה קוֹמָתֽוֹ׃
+And the house which king Solomon built for the LORD, the length thereof was threescore cubits, and the breadth thereof twenty cubits, and the height thereof thirty cubits.
+I Kings 6:3
+וְהָאוּלָ֗ם עַל־פְּנֵי֙ הֵיכַ֣ל הַבַּ֔יִת עֶשְׂרִ֤ים אַמָּה֙ אׇרְכּ֔וֹ עַל־פְּנֵ֖י רֹ֣חַב הַבָּ֑יִת עֶ֧שֶׂר בָּאַמָּ֛ה רׇחְבּ֖וֹ עַל־פְּנֵ֥י הַבָּֽיִת׃
+And the porch before the atemple of the house, twenty cubits was the length thereof, according to the breadth of the house; and ten cubits was the breadth thereof before the house.
+I Kings 6:4
+וַיַּ֣עַשׂ לַבָּ֔יִת חַלּוֹנֵ֖י שְׁקֻפִ֥ים אֲטוּמִֽים׃
+And for the house he made windows broad within, and narrow without.
+I Kings 6:5
+וַיִּ֩בֶן֩ עַל־קִ֨יר הַבַּ֤יִת   (יצוע)   [יָצִ֙יעַ֙]   סָבִ֔יב אֶת־קִיר֤וֹת הַבַּ֙יִת֙ סָבִ֔יב לַהֵיכָ֖ל וְלַדְּבִ֑יר וַיַּ֥עַשׂ צְלָע֖וֹת סָבִֽיב׃
+And against the wall of the house he built a side-structure round about, against the walls of the house round about, both of the temple and of the sanctuary; and he made side-chambers round about;
+I Kings 6:6
+(היצוע)   [הַיָּצִ֨יעַ]   הַתַּחְתֹּנָ֜ה חָמֵ֧שׁ בָּאַמָּ֣ה רׇחְבָּ֗הּ וְהַתִּֽיכֹנָה֙ שֵׁ֤שׁ בָּאַמָּה֙ רׇחְבָּ֔הּ וְהַ֨שְּׁלִישִׁ֔ית שֶׁ֥בַע בָּאַמָּ֖ה רׇחְבָּ֑הּ כִּ֡י מִגְרָעוֹת֩ נָתַ֨ן לַבַּ֤יִת סָבִיב֙ ח֔וּצָה לְבִלְתִּ֖י אֲחֹ֥ז בְּקִירוֹת־הַבָּֽיִת׃
+the nethermost story of the side-structure was five cubits broad, and the middle was six cubits broad, and the third was seven cubits broad; for on the outside he made rebatements in the wall of the house round about, that the beams should not have hold in the walls of the house.—
+I Kings 6:7
+וְהַבַּ֙יִת֙ בְּהִבָּ֣נֹת֔וֹ אֶבֶן־שְׁלֵמָ֥ה מַסָּ֖ע נִבְנָ֑ה וּמַקָּב֤וֹת וְהַגַּרְזֶן֙ כׇּל־כְּלִ֣י בַרְזֶ֔ל לֹֽא־נִשְׁמַ֥ע בַּבַּ֖יִת בְּהִבָּנֹתֽוֹ׃
+For the house, when it was in building, was built of stone made ready at the quarry; and there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building.—
+I Kings 6:8
+פֶּ֗תַח הַצֵּלָע֙ הַתִּ֣יכֹנָ֔ה אֶל־כֶּ֥תֶף הַבַּ֖יִת הַיְמָנִ֑ית וּבְלוּלִּ֗ים יַֽעֲלוּ֙ עַל־הַתִּ֣יכֹנָ֔ה וּמִן־הַתִּיכֹנָ֖ה אֶל־הַשְּׁלִשִֽׁים׃
+The door for the lowest row of chambers was in the right side of the house and they went up by winding stairs into the middle row, and out of the middle into the third.
+I Kings 6:9
+וַיִּ֥בֶן אֶת־הַבַּ֖יִת וַיְכַלֵּ֑הוּ וַיִּסְפֹּ֤ן אֶת־הַבַּ֙יִת֙ גֵּבִ֔ים וּשְׂדֵרֹ֖ת בָּאֲרָזִֽים׃
+So he built the house, and finished it; and he covered in the house with planks of cedar over beams.
+I Kings 6:10
+וַיִּ֤בֶן אֶת־  [הַיָּצִ֙יעַ֙]   (היצוע)   עַל־כׇּל־הַבַּ֔יִת חָמֵ֥שׁ אַמּ֖וֹת קוֹמָת֑וֹ וַיֶּאֱחֹ֥ז אֶת־הַבַּ֖יִת בַּעֲצֵ֥י אֲרָזִֽים׃  {פ}
+And he built the stories of the side-structure against all the house, each five cubits high; and they rested on the house with timber of cedar.
+I Kings 6:11
+וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה אֶל־שְׁלֹמֹ֖ה לֵאמֹֽר׃
+And the word of the LORD came to Solomon, saying:
+I Kings 6:12
+הַבַּ֨יִת הַזֶּ֜ה אֲשֶׁר־אַתָּ֣ה בֹנֶ֗ה אִם־תֵּלֵ֤ךְ בְּחֻקֹּתַי֙ וְאֶת־מִשְׁפָּטַ֣י תַּֽעֲשֶׂ֔ה וְשָׁמַרְתָּ֥ אֶת־כׇּל־מִצְוֺתַ֖י לָלֶ֣כֶת בָּהֶ֑ם וַהֲקִמֹתִ֤י אֶת־דְּבָרִי֙ אִתָּ֔ךְ אֲשֶׁ֥ר דִּבַּ֖רְתִּי אֶל־דָּוִ֥ד אָבִֽיךָ׃
+’As for this house which thou art building, if thou wilt walk in My statutes, and execute Mine ordinances, and keep all My commandments to walk in them; then will I establish My word with thee, which I spoke unto David thy father;
+I Kings 6:13
+וְשָׁ֣כַנְתִּ֔י בְּת֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֥א אֶעֱזֹ֖ב אֶת־עַמִּ֥י יִשְׂרָאֵֽל׃  {פ}
+in that I will dwell therein among the children of Israel, and will not forsake My people Israel.’
+https://www.sefaria.org/I%20Kings%205
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/I%20Kings%206
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

@@ -1,0 +1,145 @@
+Haftarah · Vaetchanan
+הפטרה · ואתחנן
+
+How does consolation restore the capacity to perceive? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד משיבה הנחמה את היכולת לראות? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does consolation restore the capacity to perceive?
+כיצד משיבה הנחמה את היכולת לראות?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Isaiah 40:1
+The doubled call to comfort addresses a people after punishment. A voice prepares a road and levels obstacles. Consolation is spoken into a changed historical condition; it is not a request to forget that the wound existed.
+הקריאה הכפולה לנחמה פונה לעם אחרי העונש. קול מפנה דרך ומיישר מכשולים. הנחמה נאמרת לתוך מצב היסטורי שהשתנה ואינה מבקשת לשכוח שהפצע היה קיים.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Isaiah 40:12
+Questions about measuring water and spanning the heavens unsettle human comparisons for God. Comfort is deepened by reorienting the imagination. The people’s future need not be limited to the scale on which their present rulers appear powerful.
+השאלות על מדידת המים והשמים מערערות השוואות אנושיות לאל. הנחמה מעמיקה באמצעות שינוי הדמיון. עתיד העם אינו מוכרח להצטמצם לקנה המידה שבו שליטיו נראים חזקים.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Isaiah 40:26
+The call to lift the eyes closes with the stars named and mustered without loss. The earlier language of consolation returns as an invitation to attend. A renewed way of seeing becomes part of recovery from the conviction of being forgotten.
+הרמת העיניים חותמת בכוכבים הנקראים ונמנים בלי חסרון. לשון הנחמה שבה כהזמנה לתשומת לב. דרך ראייה מחודשת נעשית חלק מן ההחלמה מהאמונה שהאדם נשכח.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Isaiah 40:1-40:26
+Isaiah 40:1
+נַחֲמ֥וּ נַחֲמ֖וּ עַמִּ֑י יֹאמַ֖ר אֱלֹהֵיכֶֽם׃
+Comfort ye, comfort ye My people, saith your God.
+Isaiah 40:2
+דַּבְּר֞וּ עַל־לֵ֤ב יְרוּשָׁלַ֙͏ִם֙ וְקִרְא֣וּ אֵלֶ֔יהָ כִּ֤י מָֽלְאָה֙ צְבָאָ֔הּ כִּ֥י נִרְצָ֖ה עֲוֺנָ֑הּ כִּ֤י לָֽקְחָה֙ מִיַּ֣ד יְהֹוָ֔ה כִּפְלַ֖יִם בְּכׇל־חַטֹּאתֶֽיהָ׃  {ס}
+Bid Jerusalem take heart, and proclaim unto her, that her time of service is accomplished, that her guilt is paid off; that she hath received of the LORD’S hand double for all her sins.
+Isaiah 40:3
+ק֣וֹל קוֹרֵ֔א בַּמִּדְבָּ֕ר פַּנּ֖וּ דֶּ֣רֶךְ יְהֹוָ֑ה יַשְּׁרוּ֙ בָּעֲרָבָ֔ה מְסִלָּ֖ה לֵאלֹהֵֽינוּ׃
+Hark! one calleth: ‘Clear ye in the wilderness the way of the LORD, make plain in the desert a highway for our God.
+Isaiah 40:4
+כׇּל־גֶּיא֙ יִנָּשֵׂ֔א וְכׇל־הַ֥ר וְגִבְעָ֖ה יִשְׁפָּ֑לוּ וְהָיָ֤ה הֶֽעָקֹב֙ לְמִישׁ֔וֹר וְהָרְכָסִ֖ים לְבִקְעָֽה׃
+Every valley shall be lifted up, and every mountain and hill shall be made low; and the rugged shall be made level, and the rough places a plain;
+Isaiah 40:5
+וְנִגְלָ֖ה כְּב֣וֹד יְהֹוָ֑ה וְרָא֤וּ כׇל־בָּשָׂר֙ יַחְדָּ֔ו כִּ֛י פִּ֥י יְהֹוָ֖ה דִּבֵּֽר׃  {פ}
+And the glory of the LORD shall be revealed, and all flesh shall see it together; for the mouth of the LORD hath spoken it.’
+Isaiah 40:6
+ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כׇּל־הַבָּשָׂ֣ר חָצִ֔יר וְכׇל־חַסְדּ֖וֹ כְּצִ֥יץ הַשָּׂדֶֽה׃
+Hark! one saith: ‘Proclaim!’ And he saith: ‘What shall I proclaim?’ ’All flesh is grass, And all the goodliness thereof is as the flower of the field;
+Isaiah 40:7
+יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל־צִ֔יץ כִּ֛י ר֥וּחַ יְהֹוָ֖ה נָ֣שְׁבָה בּ֑וֹ אָכֵ֥ן חָצִ֖יר הָעָֽם׃
+The grass withereth, the flower fadeth; Because the breath of the LORD bloweth upon it— Surely the people is grass.
+Isaiah 40:8
+יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר־אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם׃  {ס}
+The grass withereth, the flower fadeth; But the word of our God shall stand for ever.’
+Isaiah 40:9
+עַ֣ל הַר־גָּבֹ֤הַּ עֲלִי־לָךְ֙ מְבַשֶּׂ֣רֶת צִיּ֔וֹן הָרִ֤ימִי בַכֹּ֙חַ֙ קוֹלֵ֔ךְ מְבַשֶּׂ֖רֶת יְרוּשָׁלָ֑͏ִם הָרִ֙ימִי֙ אַל־תִּירָ֔אִי אִמְרִי֙ לְעָרֵ֣י יְהוּדָ֔ה הִנֵּ֖ה אֱלֹהֵיכֶֽם׃
+O thou that tellest good tidings to Zion, Get thee up into the high mountain; O thou that tellest good tidings to Jerusalem, Lift up thy voice with strength; Lift it up, be not afraid; Say unto the cities of Judah: ‘Behold your God! ’
+Isaiah 40:10
+הִנֵּ֨ה אֲדֹנָ֤י יֱהֹוִה֙ בְּחָזָ֣ק יָב֔וֹא וּזְרֹע֖וֹ מֹ֣שְׁלָה ל֑וֹ הִנֵּ֤ה שְׂכָרוֹ֙ אִתּ֔וֹ וּפְעֻלָּת֖וֹ לְפָנָֽיו׃
+Behold, the Lord GOD will come as a Mighty One, And His arm will rule for Him; Behold, His reward is with Him, And His recompense before Him.
+Isaiah 40:11
+כְּרֹעֶה֙ עֶדְר֣וֹ יִרְעֶ֔ה בִּזְרֹעוֹ֙ יְקַבֵּ֣ץ טְלָאִ֔ים וּבְחֵיק֖וֹ יִשָּׂ֑א עָל֖וֹת יְנַהֵֽל׃  {ס}
+Even as a shepherd that feedeth his flock, That gathereth the lambs in his arm, And carrieth them in his bosom, And gently leadeth those that give suck.
+Isaiah 40:12
+מִי־מָדַ֨ד בְּשׇׁעֳל֜וֹ מַ֗יִם וְשָׁמַ֙יִם֙ בַּזֶּ֣רֶת תִּכֵּ֔ן וְכָ֥ל בַּשָּׁלִ֖שׁ עֲפַ֣ר הָאָ֑רֶץ וְשָׁקַ֤ל בַּפֶּ֙לֶס֙ הָרִ֔ים וּגְבָע֖וֹת בְּמֹאזְנָֽיִם׃
+Who hath measured the waters in the hollow of his hand, And meted out heaven with the span, And comprehended the dust of the earth in a measure, And weighed the mountains in scales, And the hills in a balance?
+Isaiah 40:13
+מִֽי־תִכֵּ֥ן אֶת־ר֖וּחַ יְהֹוָ֑ה וְאִ֖ישׁ עֲצָת֥וֹ יוֹדִיעֶֽנּוּ׃
+Who hath meted out the spirit of the LORD? Or who was His counsellor that he might instruct Him?
+Isaiah 40:14
+אֶת־מִ֤י נוֹעָץ֙ וַיְבִינֵ֔הוּ וַֽיְלַמְּדֵ֖הוּ בְּאֹ֣רַח מִשְׁפָּ֑ט וַיְלַמְּדֵ֣הוּ דַ֔עַת וְדֶ֥רֶךְ תְּבוּנ֖וֹת יוֹדִיעֶֽנּוּ׃
+With whom took He counsel, and who instructed Him, And taught Him in the path of right, And taught Him knowledge, And made Him to know the way of discernment?
+Isaiah 40:15
+הֵ֤ן גּוֹיִם֙ כְּמַ֣ר מִדְּלִ֔י וּכְשַׁ֥חַק מֹאזְנַ֖יִם נֶחְשָׁ֑בוּ הֵ֥ן אִיִּ֖ים כַּדַּ֥ק יִטּֽוֹל׃
+Behold, the nations are as a drop of a bucket, And are counted as the small dust of the balance; Behold the isles are as a mote in weight.
+Isaiah 40:16
+וּלְבָנ֕וֹן אֵ֥ין דֵּ֖י בָּעֵ֑ר וְחַ֨יָּת֔וֹ אֵ֥ין דֵּ֖י עוֹלָֽה׃  {פ}
+And Lebanon is not sufficient fuel, Nor the beasts thereof sufficient for burnt-offerings.
+Isaiah 40:17
+כׇּל־הַגּוֹיִ֖ם כְּאַ֣יִן נֶגְדּ֑וֹ מֵאֶ֥פֶס וָתֹ֖הוּ נֶחְשְׁבוּ־לֽוֹ׃
+All the nations are as nothing before Him; They are accounted by Him as things of nought, and vanity.
+Isaiah 40:18
+וְאֶל־מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה־דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ׃
+To whom then will ye liken God? Or what likeness will ye compare unto Him?
+Isaiah 40:19
+הַפֶּ֙סֶל֙ נָסַ֣ךְ חָרָ֔שׁ וְצֹרֵ֖ף בַּזָּהָ֣ב יְרַקְּעֶ֑נּוּ וּרְתֻק֥וֹת כֶּ֖סֶף צוֹרֵֽף׃
+The image perchance, which the craftsman hath melted, And the goldsmith spread over with gold, The silversmith casting silver chains?
+Isaiah 40:20
+הַֽמְסֻכָּ֣ן תְּרוּמָ֔ה עֵ֥ץ לֹא־יִרְקַ֖ב יִבְחָ֑ר חָרָ֤שׁ חָכָם֙ יְבַקֶּשׁ־ל֔וֹ לְהָכִ֥ין פֶּ֖סֶל לֹ֥א יִמּֽוֹט׃  {ס}
+A holm-oak is set apart, He chooseth a tree that will not rot; He seeketh unto him a cunning craftsman To set up an image, that shall not be moved.
+Isaiah 40:21
+הֲל֤וֹא תֵֽדְעוּ֙ הֲל֣וֹא תִשְׁמָ֔עוּ הֲל֛וֹא הֻגַּ֥ד מֵרֹ֖אשׁ לָכֶ֑ם הֲלוֹא֙ הֲבִ֣ינוֹתֶ֔ם מוֹסְד֖וֹת הָאָֽרֶץ׃
+Know ye not? hear ye not? Hath it not been told you from the beginning? Have ye not understood the foundations of the earth?
+Isaiah 40:22
+הַיֹּשֵׁב֙ עַל־ח֣וּג הָאָ֔רֶץ וְיֹשְׁבֶ֖יהָ כַּחֲגָבִ֑ים הַנּוֹטֶ֤ה כַדֹּק֙ שָׁמַ֔יִם וַיִּמְתָּחֵ֥ם כָּאֹ֖הֶל לָשָֽׁבֶת׃
+It is He that sitteth above the circle of the earth, And the inhabitants thereof are as grasshoppers; That stretcheth out the heavens as a curtain, And spreadeth them out as a tent to dwell in;
+Isaiah 40:23
+הַנּוֹתֵ֥ן רוֹזְנִ֖ים לְאָ֑יִן שֹׁ֥פְטֵי אֶ֖רֶץ כַּתֹּ֥הוּ עָשָֽׂה׃
+That bringeth princes to nothing; He maketh the judges of the earth as a thing of nought.
+Isaiah 40:24
+אַ֣ף בַּל־נִטָּ֗עוּ אַ֚ף בַּל־זֹרָ֔עוּ אַ֛ף בַּל־שֹׁרֵ֥שׁ בָּאָ֖רֶץ גִּזְעָ֑ם וְגַם־נָשַׁ֤ף בָּהֶם֙ וַיִּבָ֔שׁוּ וּסְעָרָ֖ה כַּקַּ֥שׁ תִּשָּׂאֵֽם׃  {ס}
+Scarce are they planted, Scarce are they sown, Scarce hath their stock taken root in the earth; When He bloweth upon them, they wither, And the whirlwind taketh them away as stubble.
+Isaiah 40:25
+וְאֶל־מִ֥י תְדַמְּי֖וּנִי וְאֶשְׁוֶ֑ה יֹאמַ֖ר קָדֽוֹשׁ׃
+To whom then will ye liken Me, that I should be equal? Saith the Holy One.
+Isaiah 40:26
+שְׂאוּ־מָר֨וֹם עֵינֵיכֶ֤ם וּרְאוּ֙ מִֽי־בָרָ֣א אֵ֔לֶּה הַמּוֹצִ֥יא בְמִסְפָּ֖ר צְבָאָ֑ם לְכֻלָּם֙ בְּשֵׁ֣ם יִקְרָ֔א מֵרֹ֤ב אוֹנִים֙ וְאַמִּ֣יץ כֹּ֔חַ אִ֖ישׁ לֹ֥א נֶעְדָּֽר׃  {ס}
+Lift up your eyes on high, And see: who hath created these? He that bringeth out their host by number, He calleth them all by name; By the greatness of His might, and for that He is strong in power, Not one faileth.
+https://www.sefaria.org/Isaiah%2040
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

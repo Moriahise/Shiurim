@@ -1,0 +1,138 @@
+Haftarah · Matot
+הפטרה · מטות
+
+What allows a hesitant speaker to become a bearer of warning? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מה מאפשר לדובר מהסס לשאת אזהרה? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What allows a hesitant speaker to become a bearer of warning?
+מה מאפשר לדובר מהסס לשאת אזהרה?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Jeremiah 1:1
+Jeremiah’s call is placed within named reigns and the history leading to exile. Prophecy addresses a situated public world. The biographical opening prevents the commission from becoming a general motivational message detached from danger.
+קריאת ירמיהו ממוקמת במלכויות נקובות ובתולדות הדרך לגלות. הנבואה פונה לעולם ציבורי מסוים. הפתיחה מונעת מן השליחות להפוך למסר עידוד כללי המנותק מסכנה.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Jeremiah 1:10
+The commission includes uprooting and building. These are not interchangeable activities, and the order matters. The images of almond and boiling pot then require interpretation, showing that a received word must still be understood before it is spoken publicly.
+המינוי כולל נתישה ובנייה. אלה פעולות שונות, ולסדרן יש משמעות. מראות השקד והסיר דורשים אחר כך פירוש ומלמדים שגם דבר שהתקבל זקוק להבנה לפני השמעתו בציבור.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Jeremiah 2:3
+The closing memory of Israel’s early devotion follows a demanding commission to rebuke. Affection and warning belong within one relationship. Read the remembered wilderness as the basis for accountability, not as evidence that later conduct requires no examination.
+זיכרון חסד הנעורים חותם שליחות תובענית של תוכחה. אהבה ואזהרה שייכות לאותו קשר. זיכרון המדבר הוא בסיס לאחריות ולא ראיה שמעשיו המאוחרים של העם פטורים מבדיקה.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Jeremiah 1:1-2:3
+Jeremiah 1:1
+דִּבְרֵ֥י יִרְמְיָ֖הוּ בֶּן־חִלְקִיָּ֑הוּ מִן־הַכֹּֽהֲנִים֙ אֲשֶׁ֣ר בַּעֲנָת֔וֹת בְּאֶ֖רֶץ בִּנְיָמִֽן׃
+THE WORDS of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin,
+Jeremiah 1:2
+אֲשֶׁ֨ר הָיָ֤ה דְבַר־יְהֹוָה֙ אֵלָ֔יו בִּימֵ֛י יֹאשִׁיָּ֥הוּ בֶן־אָמ֖וֹן מֶ֣לֶךְ יְהוּדָ֑ה בִּשְׁלֹשׁ־עֶשְׂרֵ֥ה שָׁנָ֖ה לְמׇלְכֽוֹ׃
+to whom the word of the LORD came in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign.
+Jeremiah 1:3
+וַיְהִ֗י בִּימֵ֨י יְהוֹיָקִ֤ים בֶּן־יֹאשִׁיָּ֙הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה עַד־תֹּם֙ עַשְׁתֵּ֣י עֶשְׂרֵ֣ה שָׁנָ֔ה לְצִדְקִיָּ֥הוּ בֶן־יֹאשִׁיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה עַד־גְּל֥וֹת יְרוּשָׁלַ֖͏ִם בַּחֹ֥דֶשׁ הַחֲמִישִֽׁי׃  {פ}
+It came also in the days of Jehoiakim the son of Josiah, king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah, king of Judah, unto the carrying away of Jerusalem captive in the fifth month.
+Jeremiah 1:4
+וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃
+And the word of the LORD came unto me, saying:
+Jeremiah 1:5
+בְּטֶ֨רֶם   (אצורך)   [אֶצׇּרְךָ֤]   בַבֶּ֙טֶן֙ יְדַעְתִּ֔יךָ וּבְטֶ֛רֶם תֵּצֵ֥א מֵרֶ֖חֶם הִקְדַּשְׁתִּ֑יךָ נָבִ֥יא לַגּוֹיִ֖ם נְתַתִּֽיךָ׃
+Before I formed thee in the belly I knew thee, And before thou camest forth out of the womb I sanctified thee; I have appointed thee a prophet unto the nations.
+Jeremiah 1:6
+וָאֹמַ֗ר אֲהָהּ֙ אֲדֹנָ֣י יֱהֹוִ֔ה הִנֵּ֥ה לֹֽא־יָדַ֖עְתִּי דַּבֵּ֑ר כִּי־נַ֖עַר אָנֹֽכִי׃  {ס}
+Then said I: ‘Ah, Lord GOD! behold, I cannot speak; for I am a child.’
+Jeremiah 1:7
+וַיֹּ֤אמֶר יְהֹוָה֙ אֵלַ֔י אַל־תֹּאמַ֖ר נַ֣עַר אָנֹ֑כִי כִּ֠י עַֽל־כׇּל־אֲשֶׁ֤ר אֶֽשְׁלָחֲךָ֙ תֵּלֵ֔ךְ וְאֵ֛ת כׇּל־אֲשֶׁ֥ר אֲצַוְּךָ֖ תְּדַבֵּֽר׃
+But the LORD said unto me: Say not: I am a child; For to whomsoever I shall send thee thou shalt go, And whatsoever I shall command thee thou shalt speak.
+Jeremiah 1:8
+אַל־תִּירָ֖א מִפְּנֵיהֶ֑ם כִּֽי־אִתְּךָ֥ אֲנִ֛י לְהַצִּלֶ֖ךָ נְאֻם־יְהֹוָֽה׃
+Be not afraid of them; For I am with thee to deliver thee, Saith the LORD.
+Jeremiah 1:9
+וַיִּשְׁלַ֤ח יְהֹוָה֙ אֶת־יָד֔וֹ וַיַּגַּ֖ע עַל־פִּ֑י וַיֹּ֤אמֶר יְהֹוָה֙ אֵלַ֔י הִנֵּ֛ה נָתַ֥תִּי דְבָרַ֖י בְּפִֽיךָ׃
+Then the LORD put forth His hand, and touched my mouth; and the LORD said unto me: Behold, I have put My words in thy mouth;
+Jeremiah 1:10
+רְאֵ֞ה הִפְקַדְתִּ֣יךָ  ׀  הַיּ֣וֹם הַזֶּ֗ה עַל־הַגּוֹיִם֙ וְעַל־הַמַּמְלָכ֔וֹת לִנְת֥וֹשׁ וְלִנְת֖וֹץ וּלְהַאֲבִ֣יד וְלַהֲר֑וֹס לִבְנ֖וֹת וְלִנְטֽוֹעַ׃  {פ}
+See, I have this day set thee over the nations and over the kingdoms, To root out and to pull down, And to destroy and to overthrow; To build, and to plant.
+Jeremiah 1:11
+וַיְהִ֤י דְבַר־יְהֹוָה֙ אֵלַ֣י לֵאמֹ֔ר מָה־אַתָּ֥ה רֹאֶ֖ה יִרְמְיָ֑הוּ וָאֹמַ֕ר מַקֵּ֥ל שָׁקֵ֖ד אֲנִ֥י רֹאֶֽה׃
+Moreover the word of the LORD came unto me, saying: ‘Jeremiah, what seest thou?’ And I said: ‘I see a rod of an almond-tree.’
+Jeremiah 1:12
+וַיֹּ֧אמֶר יְהֹוָ֛ה אֵלַ֖י הֵיטַ֣בְתָּ לִרְא֑וֹת כִּֽי־שֹׁקֵ֥ד אֲנִ֛י עַל־דְּבָרִ֖י לַעֲשֹׂתֽוֹ׃  {ס}
+Then said the LORD unto me: ‘Thou hast well seen; for I watch over My word to perform it.’
+Jeremiah 1:13
+וַיְהִ֨י דְבַר־יְהֹוָ֤ה  ׀  אֵלַי֙ שֵׁנִ֣ית לֵאמֹ֔ר מָ֥ה אַתָּ֖ה רֹאֶ֑ה וָאֹמַ֗ר סִ֤יר נָפ֙וּחַ֙ אֲנִ֣י רֹאֶ֔ה וּפָנָ֖יו מִפְּנֵ֥י צָפֽוֹנָה׃
+And the word of the LORD came unto me the second time, saying: ‘What seest thou?’ And I said: ‘I see a seething pot; and the face thereof is from the north.’
+Jeremiah 1:14
+וַיֹּ֥אמֶר יְהֹוָ֖ה אֵלָ֑י מִצָּפוֹן֙ תִּפָּתַ֣ח הָרָעָ֔ה עַ֥ל כׇּל־יֹשְׁבֵ֖י הָאָֽרֶץ׃
+Then the LORD said unto me: ‘Out of the north the evil shall break forth upon all the inhabitants of the land.
+Jeremiah 1:15
+כִּ֣י  ׀  הִנְנִ֣י קֹרֵ֗א לְכׇֽל־מִשְׁפְּח֛וֹת מַמְלְכ֥וֹת צָפ֖וֹנָה נְאֻם־יְהֹוָ֑ה וּבָ֡אוּ וְֽנָתְנוּ֩ אִ֨ישׁ כִּסְא֜וֹ פֶּ֣תַח  ׀  שַׁעֲרֵ֣י יְרוּשָׁלַ֗͏ִם וְעַ֤ל כׇּל־חוֹמֹתֶ֙יהָ֙ סָבִ֔יב וְעַ֖ל כׇּל־עָרֵ֥י יְהוּדָֽה׃
+For, lo, I will call all the families of the kingdoms of the north, saith the LORD; and they shall come, and they shall set every one his throne at the entrance of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.
+Jeremiah 1:16
+וְדִבַּרְתִּ֤י מִשְׁפָּטַי֙ אוֹתָ֔ם עַ֖ל כׇּל־רָעָתָ֑ם אֲשֶׁ֣ר עֲזָב֗וּנִי וַֽיְקַטְּרוּ֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים וַיִּֽשְׁתַּחֲו֖וּ לְמַעֲשֵׂ֥י יְדֵיהֶֽם׃
+And I will utter My judgments against them touching all their wickedness; in that they have forsaken me, and have offered unto other gods, and worshipped the work of their own hands.
+Jeremiah 1:17
+וְאַתָּה֙ תֶּאְזֹ֣ר מׇתְנֶ֔יךָ וְקַמְתָּ֙ וְדִבַּרְתָּ֣ אֲלֵיהֶ֔ם אֵ֛ת כׇּל־אֲשֶׁ֥ר אָנֹכִ֖י אֲצַוֶּ֑ךָּ אַל־תֵּחַת֙ מִפְּנֵיהֶ֔ם פֶּֽן־אֲחִתְּךָ֖ לִפְנֵיהֶֽם׃
+Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee; be not dismayed at them, lest I dismay thee before them.
+Jeremiah 1:18
+וַאֲנִ֞י הִנֵּ֧ה נְתַתִּ֣יךָ הַיּ֗וֹם לְעִ֨יר מִבְצָ֜ר וּלְעַמּ֥וּד בַּרְזֶ֛ל וּלְחֹמ֥וֹת נְחֹ֖שֶׁת עַל־כׇּל־הָאָ֑רֶץ לְמַלְכֵ֤י יְהוּדָה֙ לְשָׂרֶ֔יהָ לְכֹהֲנֶ֖יהָ וּלְעַ֥ם הָאָֽרֶץ׃
+For, behold, I have made thee this day a fortified city, and an iron pillar, and brazen walls, against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.
+Jeremiah 1:19
+וְנִלְחֲמ֥וּ אֵלֶ֖יךָ וְלֹא־י֣וּכְלוּ לָ֑ךְ כִּי־אִתְּךָ֥ אֲנִ֛י נְאֻם־יְהֹוָ֖ה לְהַצִּילֶֽךָ׃  {פ}
+And they shall fight against thee; but they shall not prevail against thee; For I am with thee, saith the LORD, to deliver thee.’
+Jeremiah 2:1
+וַיְהִ֥י דְבַר־יְהֹוָ֖ה אֵלַ֥י לֵאמֹֽר׃
+And the word of the LORD came to me, saying:
+Jeremiah 2:2
+הָלֹ֡ךְ וְֽקָרָ֩אתָ֩ בְאׇזְנֵ֨י יְרוּשָׁלַ֜͏ִם לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהֹוָ֔ה זָכַ֤רְתִּי לָךְ֙ חֶ֣סֶד נְעוּרַ֔יִךְ אַהֲבַ֖ת כְּלוּלֹתָ֑יִךְ לֶכְתֵּ֤ךְ אַֽחֲרַי֙ בַּמִּדְבָּ֔ר בְּאֶ֖רֶץ לֹ֥א זְרוּעָֽה׃
+Go, and cry in the ears of Jerusalem, saying: Thus saith the LORD: I remember for thee the affection of thy youth, the love of thine espousals; how thou wentest after Me in the wilderness, in a land that was not sown.
+Jeremiah 2:3
+קֹ֤דֶשׁ יִשְׂרָאֵל֙ לַיהֹוָ֔ה רֵאשִׁ֖ית תְּבוּאָתֹ֑ה כׇּל־אֹכְלָ֣יו יֶאְשָׁ֔מוּ רָעָ֛ה תָּבֹ֥א אֲלֵיהֶ֖ם נְאֻם־יְהֹוָֽה׃  {פ}
+Israel is the LORD’S hallowed portion, His first-fruits of the increase; all that devour him shall be held guilty, evil shall come upon them, saith the LORD.
+https://www.sefaria.org/Jeremiah%201
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Jeremiah%202
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

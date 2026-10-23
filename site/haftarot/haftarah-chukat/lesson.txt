@@ -1,0 +1,166 @@
+Haftarah · Chukat
+הפטרה · חקת
+
+How does a rejected person become responsible for a community? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+כיצד נעשה אדם דחוי לאחראי לציבור? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+How does a rejected person become responsible for a community?
+כיצד נעשה אדם דחוי לאחראי לציבור?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Judges 11:1
+Jephthah’s exclusion from his household precedes the elders’ request for help. The contrast exposes how communities may seek the strength of people whose belonging they previously denied. His response makes that contradiction explicit.
+גירוש יפתח מביתו קודם לבקשת העזרה של הזקנים. הניגוד חושף ציבור המבקש את כוחו של מי ששייכותו נשללה. תשובתו של יפתח מעמידה את הסתירה הזאת בגלוי.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Judges 11:23
+The argument with Ammon recounts territory, movement, and conflicting historical claims. Read it as a diplomatic speech made by a participant in the dispute. Distinguish its rhetorical purpose from an unqualified template for later territorial arguments.
+הוויכוח עם עמון מציג ארץ, תנועה ותביעות היסטוריות מתחרות. זהו נאום מדיני של צד בסכסוך. יש להבחין בין תכליתו הרטורית לבין הפיכתו לתבנית מוחלטת לכל ויכוח עתידי.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Judges 11:33
+Military success ends the liturgical reading, but Jephthah’s rash vow has already introduced tragedy. The omitted continuation must not be forgotten when interpreting the victory. A successful battle does not establish the wisdom of every word spoken by its commander.
+הניצחון הצבאי חותם את ההפטרה, אך נדר יפתח כבר מכניס אליה אסון. אין לשכוח את ההמשך שאינו נקרא כאשר מפרשים את הניצחון. הצלחה בקרב אינה מאשרת כל אמירה של המפקד.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Judges 11:1-11:33
+Judges 11:1
+וְיִפְתָּ֣ח הַגִּלְעָדִ֗י הָיָה֙ גִּבּ֣וֹר חַ֔יִל וְה֖וּא בֶּן־אִשָּׁ֣ה זוֹנָ֑ה וַיּ֥וֹלֶד גִּלְעָ֖ד אֶת־יִפְתָּֽח׃
+Now Jephthah the Gileadite was a mighty man of valour, and he was the son of a harlot; and Gilead begot Jephthah.
+Judges 11:2
+וַתֵּ֧לֶד אֵֽשֶׁת־גִּלְעָ֛ד ל֖וֹ בָּנִ֑ים וַיִּגְדְּל֨וּ בְֽנֵי־הָאִשָּׁ֜ה וַיְגָרְשׁ֣וּ אֶת־יִפְתָּ֗ח וַיֹּ֤אמְרוּ לוֹ֙ לֹא־תִנְחַ֣ל בְּבֵית־אָבִ֔ינוּ כִּ֛י בֶּן־אִשָּׁ֥ה אַחֶ֖רֶת אָֽתָּה׃
+And Gilead’s wife bore him sons; and when his wife’s sons grew up, they drove out Jephthah, and said unto him: ‘Thou shalt not inherit in our father’s house; for thou art the son of another woman.’
+Judges 11:3
+וַיִּבְרַ֤ח יִפְתָּח֙ מִפְּנֵ֣י אֶחָ֔יו וַיֵּ֖שֶׁב בְּאֶ֣רֶץ ט֑וֹב וַיִּֽתְלַקְּט֤וּ אֶל־יִפְתָּח֙ אֲנָשִׁ֣ים רֵיקִ֔ים וַיֵּצְא֖וּ עִמּֽוֹ׃  {פ}
+Then Jephthah fled from his brethren, and dwelt in the land of Tob; and there were gathered vain fellows to Jephthah, and they went out with him.
+Judges 11:4
+וַיְהִ֖י מִיָּמִ֑ים וַיִּלָּחֲמ֥וּ בְנֵֽי־עַמּ֖וֹן עִם־יִשְׂרָאֵֽל׃
+And it came to pass after a while, that the children of Ammon made war against Israel.
+Judges 11:5
+וַיְהִ֕י כַּאֲשֶׁר־נִלְחֲמ֥וּ בְנֵֽי־עַמּ֖וֹן עִם־יִשְׂרָאֵ֑ל וַיֵּֽלְכוּ֙ זִקְנֵ֣י גִלְעָ֔ד לָקַ֥חַת אֶת־יִפְתָּ֖ח מֵאֶ֥רֶץ טֽוֹב׃
+And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob.
+Judges 11:6
+וַיֹּאמְר֣וּ לְיִפְתָּ֔ח לְכָ֕ה וְהָיִ֥יתָה לָּ֖נוּ לְקָצִ֑ין וְנִֽלָּחֲמָ֖ה בִּבְנֵ֥י עַמּֽוֹן׃
+And they said unto Jephthah: ‘Come and be our chief, that we may fight with the children of Ammon.’
+Judges 11:7
+וַיֹּ֤אמֶר יִפְתָּח֙ לְזִקְנֵ֣י גִלְעָ֔ד הֲלֹ֤א אַתֶּם֙ שְׂנֵאתֶ֣ם אוֹתִ֔י וַתְּגָרְשׁ֖וּנִי מִבֵּ֣ית אָבִ֑י וּמַדּ֜וּעַ בָּאתֶ֤ם אֵלַי֙ עַ֔תָּה כַּאֲשֶׁ֖ר צַ֥ר לָכֶֽם׃
+And Jephthah said unto the elders of Gilead: ‘Did not ye hate me, and drive me out of my father’s house? and why are ye come unto me now when ye are in distress?’
+Judges 11:8
+וַיֹּאמְרוּ֩ זִקְנֵ֨י גִלְעָ֜ד אֶל־יִפְתָּ֗ח לָכֵן֙ עַתָּה֙ שַׁ֣בְנוּ אֵלֶ֔יךָ וְהָלַכְתָּ֣ עִמָּ֔נוּ וְנִלְחַמְתָּ֖ בִּבְנֵ֣י עַמּ֑וֹן וְהָיִ֤יתָ לָּ֙נוּ֙ לְרֹ֔אשׁ לְכֹ֖ל יֹשְׁבֵ֥י גִלְעָֽד׃
+And the elders of Gilead said unto Jephthah: ‘Therefore are we returned to thee now, that thou mayest go with us, and fight with the children of Ammon, and thou shalt be our head over all the inhabitants of Gilead.’
+Judges 11:9
+וַיֹּ֨אמֶר יִפְתָּ֜ח אֶל־זִקְנֵ֣י גִלְעָ֗ד אִם־מְשִׁיבִ֨ים אַתֶּ֤ם אוֹתִי֙ לְהִלָּחֵם֙ בִּבְנֵ֣י עַמּ֔וֹן וְנָתַ֧ן יְהֹוָ֛ה אוֹתָ֖ם לְפָנָ֑י אָנֹכִ֕י אֶהְיֶ֥ה לָכֶ֖ם לְרֹֽאשׁ׃
+And Jephthah said unto the elders of Gilead: ‘If ye bring me back home to fight with the children of Ammon, and the LORD deliver them before me, I will be your head.’
+Judges 11:10
+וַיֹּאמְר֥וּ זִקְנֵֽי־גִלְעָ֖ד אֶל־יִפְתָּ֑ח יְהֹוָ֗ה יִֽהְיֶ֤ה שֹׁמֵ֙עַ֙ בֵּינוֹתֵ֔ינוּ אִם־לֹ֥א כִדְבָרְךָ֖ כֵּ֥ן נַעֲשֶֽׂה׃
+And the elders of Gilead said unto Jephthah: ‘The LORD shall be witness between us; surely according to thy word so will we do.’
+Judges 11:11
+וַיֵּ֤לֶךְ יִפְתָּח֙ עִם־זִקְנֵ֣י גִלְעָ֔ד וַיָּשִׂ֨ימוּ הָעָ֥ם אוֹת֛וֹ עֲלֵיהֶ֖ם לְרֹ֣אשׁ וּלְקָצִ֑ין וַיְדַבֵּ֨ר יִפְתָּ֧ח אֶת־כׇּל־דְּבָרָ֛יו לִפְנֵ֥י יְהֹוָ֖ה בַּמִּצְפָּֽה׃  {פ}
+Then Jephthah went with the elders of Gilead, and the people made him head and chief over them; and Jephthah spoke all his words before the LORD in Mizpah.
+Judges 11:12
+וַיִּשְׁלַ֤ח יִפְתָּח֙ מַלְאָכִ֔ים אֶל־מֶ֥לֶךְ בְּנֵֽי־עַמּ֖וֹן לֵאמֹ֑ר מַה־לִּ֣י וָלָ֔ךְ כִּֽי־בָ֥אתָ אֵלַ֖י לְהִלָּחֵ֥ם בְּאַרְצִֽי׃
+And Jephthah sent messengers unto the king of the children of Ammon, saying: ‘What hast thou to do with me, that thou art come unto me to fight against my land?’
+Judges 11:13
+וַיֹּ֩אמֶר֩ מֶ֨לֶךְ בְּנֵֽי־עַמּ֜וֹן אֶל־מַלְאֲכֵ֣י יִפְתָּ֗ח כִּֽי־לָקַ֨ח יִשְׂרָאֵ֤ל אֶת־אַרְצִי֙ בַּעֲלוֹת֣וֹ מִמִּצְרַ֔יִם מֵאַרְנ֥וֹן וְעַד־הַיַּבֹּ֖ק וְעַד־הַיַּרְדֵּ֑ן וְעַתָּ֕ה הָשִׁ֥יבָה אֶתְהֶ֖ן בְּשָׁלֽוֹם׃
+And the king of the children of Ammon answered unto the messengers of Jephthah: ‘Because Israel took away my land, when he came up out of Egypt, from the Arnon even unto the Jabbok, and unto the Jordan; now therefore restore those cities peaceably.’
+Judges 11:14
+וַיּ֥וֹסֶף ע֖וֹד יִפְתָּ֑ח וַיִּשְׁלַח֙ מַלְאָכִ֔ים אֶל־מֶ֖לֶךְ בְּנֵ֥י עַמּֽוֹן׃
+And Jephthah sent messengers again unto the king of the children of Ammon;
+Judges 11:15
+וַיֹּ֣אמֶר ל֔וֹ כֹּ֖ה אָמַ֣ר יִפְתָּ֑ח לֹֽא־לָקַ֤ח יִשְׂרָאֵל֙ אֶת־אֶ֣רֶץ מוֹאָ֔ב וְאֶת־אֶ֖רֶץ בְּנֵ֥י עַמּֽוֹן׃
+and he said unto him: ‘Thus saith Jephthah: Israel took not away the land of Moab, nor the land of the children of Ammon.
+Judges 11:16
+כִּ֖י בַּעֲלוֹתָ֣ם מִמִּצְרָ֑יִם וַיֵּ֨לֶךְ יִשְׂרָאֵ֤ל בַּמִּדְבָּר֙ עַד־יַם־ס֔וּף וַיָּבֹ֖א קָדֵֽשָׁה׃
+But when they came up from Egypt, and Israel walked through the wilderness unto the Red Sea, and came to Kadesh;
+Judges 11:17
+וַיִּשְׁלַ֣ח יִשְׂרָאֵ֣ל מַלְאָכִ֣ים  ׀  אֶל־מֶ֩לֶךְ֩ אֱד֨וֹם  ׀  לֵאמֹ֜ר אֶעְבְּרָה־נָּ֣א בְאַרְצֶ֗ךָ וְלֹ֤א שָׁמַע֙ מֶ֣לֶךְ אֱד֔וֹם וְגַ֨ם אֶל־מֶ֧לֶךְ מוֹאָ֛ב שָׁלַ֖ח וְלֹ֣א אָבָ֑ה וַיֵּ֥שֶׁב יִשְׂרָאֵ֖ל בְּקָדֵֽשׁ׃
+then Israel sent messengers unto the king of Edom, saying: Let me, I pray thee, pass through thy land; but the king of Edom hearkened not. And in like manner he sent unto the king of Moab; but he would not; and Israel abode in Kadesh.
+Judges 11:18
+וַיֵּ֣לֶךְ בַּמִּדְבָּ֗ר וַיָּ֜סׇב אֶת־אֶ֤רֶץ אֱדוֹם֙ וְאֶת־אֶ֣רֶץ מוֹאָ֔ב וַיָּבֹ֤א מִמִּזְרַח־שֶׁ֙מֶשׁ֙ לְאֶ֣רֶץ מוֹאָ֔ב וַֽיַּחֲנ֖וּן בְּעֵ֣בֶר אַרְנ֑וֹן וְלֹֽא־בָ֙אוּ֙ בִּגְב֣וּל מוֹאָ֔ב כִּ֥י אַרְנ֖וֹן גְּב֥וּל מוֹאָֽב׃
+Then he walked through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and they pitched on the other side of the Arnon; but they came not within the border of Moab, for the Arnon was the border of Moab.
+Judges 11:19
+וַיִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל־סִיח֥וֹן מֶלֶךְ־הָאֱמֹרִ֖י מֶ֣לֶךְ חֶשְׁבּ֑וֹן וַיֹּ֤אמֶר לוֹ֙ יִשְׂרָאֵ֔ל נַעְבְּרָה־נָּ֥א בְאַרְצְךָ֖ עַד־מְקוֹמִֽי׃
+And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him: Let us pass, we pray thee, through thy land unto my place.
+Judges 11:20
+וְלֹא־הֶאֱמִ֨ין סִיח֤וֹן אֶת־יִשְׂרָאֵל֙ עֲבֹ֣ר בִּגְבֻל֔וֹ וַיֶּאֱסֹ֤ף סִיחוֹן֙ אֶת־כׇּל־עַמּ֔וֹ וַֽיַּחֲנ֖וּ בְּיָ֑הְצָה וַיִּלָּ֖חֶם עִם־יִשְׂרָאֵֽל׃
+But Sihon trusted not Israel to pass through his border; but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel.
+Judges 11:21
+וַ֠יִּתֵּ֠ן יְהֹוָ֨ה אֱלֹהֵֽי־יִשְׂרָאֵ֜ל אֶת־סִיח֧וֹן וְאֶת־כׇּל־עַמּ֛וֹ בְּיַ֥ד יִשְׂרָאֵ֖ל וַיַּכּ֑וּם וַיִּירַשׁ֙ יִשְׂרָאֵ֔ל אֵ֚ת כׇּל־אֶ֣רֶץ הָאֱמֹרִ֔י יוֹשֵׁ֖ב הָאָ֥רֶץ הַהִֽיא׃
+And the LORD, the God of Israel, delivered Sihon and all his people into the hand of Israel, and they smote them; so Israel possessed all the land of the Amorites, the inhabitants of that country.
+Judges 11:22
+וַיִּ֣ירְשׁ֔וּ אֵ֖ת כׇּל־גְּב֣וּל הָאֱמֹרִ֑י מֵֽאַרְנוֹן֙ וְעַד־הַיַּבֹּ֔ק וּמִן־הַמִּדְבָּ֖ר וְעַד־הַיַּרְדֵּֽן׃
+And they possessed all the border of the Amorites, from the Arnon even unto the Jabbok, and from the wilderness even unto the Jordan.
+Judges 11:23
+וְעַתָּ֞ה יְהֹוָ֣ה  ׀  אֱלֹהֵ֣י יִשְׂרָאֵ֗ל הוֹרִישׁ֙ אֶת־הָ֣אֱמֹרִ֔י מִפְּנֵ֖י עַמּ֣וֹ יִשְׂרָאֵ֑ל וְאַתָּ֖ה תִּירָשֶֽׁנּוּ׃
+So now the LORD, the God of Israel, hath dispossessed the Amorites from before His people Israel, and shouldest thou possess them?
+Judges 11:24
+הֲלֹ֞א אֵ֣ת אֲשֶׁ֧ר יוֹרִֽישְׁךָ֛ כְּמ֥וֹשׁ אֱלֹהֶ֖יךָ אוֹת֣וֹ תִירָ֑שׁ וְאֵת֩ כׇּל־אֲשֶׁ֨ר הוֹרִ֜ישׁ יְהֹוָ֧ה אֱלֹהֵ֛ינוּ מִפָּנֵ֖ינוּ אוֹת֥וֹ נִירָֽשׁ׃
+Wilt not thou possess that which Chemosh thy god giveth thee to possess? So whomsoever the LORD our God hath dispossessed from before us, them will we possess.
+Judges 11:25
+וְעַתָּ֗ה הֲט֥וֹב טוֹב֙ אַתָּ֔ה מִבָּלָ֥ק בֶּן־צִפּ֖וֹר מֶ֣לֶךְ מוֹאָ֑ב הֲר֥וֹב רָב֙ עִם־יִשְׂרָאֵ֔ל אִם־נִלְחֹ֥ם נִלְחַ֖ם בָּֽם׃
+And now art thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them?
+Judges 11:26
+בְּשֶׁ֣בֶת יִ֠שְׂרָאֵ֠ל בְּחֶשְׁבּ֨וֹן וּבִבְנוֹתֶ֜יהָ וּבְעַרְע֣וֹר וּבִבְנוֹתֶ֗יהָ וּבְכׇל־הֶֽעָרִים֙ אֲשֶׁר֙ עַל־יְדֵ֣י אַרְנ֔וֹן שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וּמַדּ֥וּעַ לֹֽא־הִצַּלְתֶּ֖ם בָּעֵ֥ת הַהִֽיא׃
+While Israel dwelt in Heshbon and its towns, and in Aroer and its towns, and in all the cities that are along by the side of the Arnon, three hundred years; wherefore did ye not recover them within that time?
+Judges 11:27
+וְאָֽנֹכִי֙ לֹא־חָטָ֣אתִי לָ֔ךְ וְאַתָּ֞ה עֹשֶׂ֥ה אִתִּ֛י רָעָ֖ה לְהִלָּ֣חֶם בִּ֑י יִשְׁפֹּ֨ט יְהֹוָ֤ה הַשֹּׁפֵט֙ הַיּ֔וֹם בֵּ֚ין בְּנֵ֣י יִשְׂרָאֵ֔ל וּבֵ֖ין בְּנֵ֥י עַמּֽוֹן׃
+I therefore have not sinned against thee, but thou doest me wrong to war against me; the LORD, the Judge, be judge this day between the children of Israel and the children of Ammon.’
+Judges 11:28
+וְלֹ֣א שָׁמַ֔ע מֶ֖לֶךְ בְּנֵ֣י עַמּ֑וֹן אֶל־דִּבְרֵ֣י יִפְתָּ֔ח אֲשֶׁ֥ר שָׁלַ֖ח אֵלָֽיו׃  {פ}
+Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him.
+Judges 11:29
+וַתְּהִ֤י עַל־יִפְתָּח֙ ר֣וּחַ יְהֹוָ֔ה וַיַּעֲבֹ֥ר אֶת־הַגִּלְעָ֖ד וְאֶת־מְנַשֶּׁ֑ה וַֽיַּעֲבֹר֙ אֶת־מִצְפֵּ֣ה גִלְעָ֔ד וּמִמִּצְפֵּ֣ה גִלְעָ֔ד עָבַ֖ר בְּנֵ֥י עַמּֽוֹן׃
+Then the spirit of the LORD came upon Jephthah, and he passed over Gilead and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over unto the children of Ammon.
+Judges 11:30
+וַיִּדַּ֨ר יִפְתָּ֥ח נֶ֛דֶר לַיהֹוָ֖ה וַיֹּאמַ֑ר אִם־נָת֥וֹן תִּתֵּ֛ן אֶת־בְּנֵ֥י עַמּ֖וֹן בְּיָדִֽי׃
+And Jephthah vowed a vow unto the LORD, and said: ‘If Thou wilt indeed deliver the children of Ammon into my hand,
+Judges 11:31
+וְהָיָ֣ה הַיּוֹצֵ֗א אֲשֶׁ֨ר יֵצֵ֜א מִדַּלְתֵ֤י בֵיתִי֙ לִקְרָאתִ֔י בְּשׁוּבִ֥י בְשָׁל֖וֹם מִבְּנֵ֣י עַמּ֑וֹן וְהָיָה֙ לַיהֹוָ֔ה וְהַעֲלִיתִ֖יהוּ עֹלָֽה׃  {פ}
+then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, it shall be the LORD’S, and I will offer it up for a burnt-offering.’
+Judges 11:32
+וַיַּעֲבֹ֥ר יִפְתָּ֛ח אֶל־בְּנֵ֥י עַמּ֖וֹן לְהִלָּ֣חֶם בָּ֑ם וַיִּתְּנֵ֥ם יְהֹוָ֖ה בְּיָדֽוֹ׃
+So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hand.
+Judges 11:33
+וַיַּכֵּ֡ם מֵעֲרוֹעֵר֩ וְעַד־בֹּאֲךָ֨ מִנִּ֜ית עֶשְׂרִ֣ים עִ֗יר וְעַד֙ אָבֵ֣ל כְּרָמִ֔ים מַכָּ֖ה גְּדוֹלָ֣ה מְאֹ֑ד וַיִּכָּֽנְעוּ֙ בְּנֵ֣י עַמּ֔וֹן מִפְּנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃  {פ}
+And he smote them from Aroer until thou come to Minnith, even twenty cities, and unto Abel-cheramim, with a very great slaughter. So the children of Ammon were subdued before the children of Israel.
+https://www.sefaria.org/Judges%2011
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+

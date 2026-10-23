@@ -1,0 +1,188 @@
+Haftarah · Yitro
+הפטרה · יתרו
+
+What happens when a person called to speak first recognizes the limits of speech? A source-based study guide connecting the opening, the central turn, and the conclusion. Complete Hebrew originals, JPS 1917 English, and a TXT edition accompany the commentary.
+מה קורה כאשר השליח לדבר מכיר תחילה במגבלת דיבורו? דף עיון המחבר בין הפתיחה, נקודת המפנה והסיום, בצד המקורות העבריים המלאים, תרגום JPS 1917 לאנגלית וגרסת TXT.
+
+What happens when a person called to speak first recognizes the limits of speech?
+מה קורה כאשר השליח לדבר מכיר תחילה במגבלת דיבורו?
+
+Beginning · Attend to the opening / התחלה · הקשבה לפתיחה
+Isaiah 6:1
+The vision of the enthroned God confronts Isaiah with a holiness exceeding ordinary political authority. His first concern is not prestige but unclean lips. The opening prepares prophetic speech through acknowledgment of the speaker’s own involvement in the people’s condition.
+מראה האל על הכיסא מפגיש את ישעיהו עם קדושה שמעבר לשלטון רגיל. תגובתו הראשונה אינה יוקרה אלא טומאת שפתיים. דבר הנבואה מוכשר באמצעות הכרת הדובר בשותפותו במצב עמו.
+
+Middle · Follow the turn / אמצע · בעקבות המפנה
+Isaiah 6:8
+The response to the call follows purification rather than preceding it. Yet the mission will encounter failed understanding. Vocation is not validated by immediate success; the text holds readiness to serve alongside the disturbing prospect that hearing will not lead to change.
+ההיענות לקריאה באה אחרי הטיהור ולא לפניו. ובכל זאת השליחות תפגוש חוסר הבנה. נכונות לשרת אינה נמדדת בהצלחה מיידית; הכתוב מציב אותה מול האפשרות המטרידה שהשמיעה לא תוליד שינוי.
+
+Conclusion · Read through the ending / סיום · קריאה עד החתימה
+Isaiah 9:6
+The longer reading concludes with justice and peace under a promised rule, after moving through national fear in chapter 7. The Sephardic boundary at 6:13 ends instead with a surviving holy seed. These are distinct final emphases, not interchangeable verse numbers.
+הקריאה הארוכה חותמת בצדק ובשלום של שלטון מובטח לאחר הפחד הלאומי שבפרק ז׳. הגבול הספרדי בו׳:י״ג מסיים בזרע קודש שנותר. אלה דגשים שונים של סיום, ולא מספרי פסוקים שאפשר להחליף ביניהם.
+
+Return to the opening question after reading every assigned passage. Identify what the text states, what the commentary infers, and how the final verses change your first reading. When a custom uses a different boundary, compare its own beginning and ending before combining conclusions.
+חזרו לשאלת הפתיחה אחרי קריאת כל הקטעים. הבחינו בין הנאמר במקור, המסקנה המוצעת בעיון והשינוי שיוצרים פסוקי הסיום בהבנת הפתיחה. כאשר למנהג אחר גבולות שונים, השוו תחילה את פתיחתו ואת חתימתו לפני חיבור המסקנות.
+
+FULL ORIGINAL READINGS / המקורות במלואם
+Hebrew: Miqra according to the Masorah, via Sefaria, CC-BY-SA. English: JPS 1917, Public Domain. Original spelling retained; HTML/footnote markup removed.
+
+Ashkenazic / default · אשכנז
+Isaiah 6:1-7:6
+Isaiah 6:1
+בִּשְׁנַת־מוֹת֙ הַמֶּ֣לֶךְ עֻזִּיָּ֔הוּ וָאֶרְאֶ֧ה אֶת־אֲדֹנָ֛י יֹשֵׁ֥ב עַל־כִּסֵּ֖א רָ֣ם וְנִשָּׂ֑א וְשׁוּלָ֖יו מְלֵאִ֥ים אֶת־הַהֵיכָֽל׃
+In the year that king Uzziah died I saw the Lord sitting upon a throne high and lifted up, and His train filled the temple.
+Isaiah 6:2
+שְׂרָפִ֨ים עֹמְדִ֤ים  ׀  מִמַּ֙עַל֙ ל֔וֹ שֵׁ֧שׁ כְּנָפַ֛יִם שֵׁ֥שׁ כְּנָפַ֖יִם לְאֶחָ֑ד בִּשְׁתַּ֣יִם  ׀  יְכַסֶּ֣ה פָנָ֗יו וּבִשְׁתַּ֛יִם יְכַסֶּ֥ה רַגְלָ֖יו וּבִשְׁתַּ֥יִם יְעוֹפֵֽף׃
+Above Him stood the seraphim; each one had six wings: with twain he covered his face and with twain he covered his feet, and with twain he did fly.
+Isaiah 6:3
+וְקָרָ֨א זֶ֤ה אֶל־זֶה֙ וְאָמַ֔ר קָד֧וֹשׁ  ׀  קָד֛וֹשׁ קָד֖וֹשׁ יְהֹוָ֣ה צְבָא֑וֹת מְלֹ֥א כׇל־הָאָ֖רֶץ כְּבוֹדֽוֹ׃
+And one called unto another, and said: Holy, holy, holy, is the LORD of hosts; The whole earth is full of His glory.
+Isaiah 6:4
+וַיָּנֻ֙עוּ֙ אַמּ֣וֹת הַסִּפִּ֔ים מִקּ֖וֹל הַקּוֹרֵ֑א וְהַבַּ֖יִת יִמָּלֵ֥א עָשָֽׁן׃
+And the posts of the door were moved at the voice of them that called, and the house was filled with smoke.
+Isaiah 6:5
+וָאֹמַ֞ר אֽוֹי־לִ֣י כִֽי־נִדְמֵ֗יתִי כִּ֣י אִ֤ישׁ טְמֵֽא־שְׂפָתַ֙יִם֙ אָנֹ֔כִי וּבְתוֹךְ֙ עַם־טְמֵ֣א שְׂפָתַ֔יִם אָנֹכִ֖י יוֹשֵׁ֑ב כִּ֗י אֶת־הַמֶּ֛לֶךְ יְהֹוָ֥ה צְבָא֖וֹת רָא֥וּ עֵינָֽי׃
+Then said I: Woe is me! for I am undone; Because I am a man of unclean lips, And I dwell in the midst of a people of unclean lips; For mine eyes have seen the King, The LORD of hosts.
+Isaiah 6:6
+וַיָּ֣עׇף אֵלַ֗י אֶחָד֙ מִן־הַשְּׂרָפִ֔ים וּבְיָד֖וֹ רִצְפָּ֑ה בְּמֶ֨לְקַחַ֔יִם לָקַ֖ח מֵעַ֥ל הַמִּזְבֵּֽחַ׃
+Then flew unto me one of the seraphim, with a glowing stone in his hand, which he had taken with the tongs from off the altar;
+Isaiah 6:7
+וַיַּגַּ֣ע עַל־פִּ֔י וַיֹּ֕אמֶר הִנֵּ֛ה נָגַ֥ע זֶ֖ה עַל־שְׂפָתֶ֑יךָ וְסָ֣ר עֲוֺנֶ֔ךָ וְחַטָּאתְךָ֖ תְּכֻפָּֽר׃
+and he touched my mouth with it, and said: Lo, this hath touched thy lips; And thine iniquity is taken away, And thy sin expiated.
+Isaiah 6:8
+וָאֶשְׁמַ֞ע אֶת־ק֤וֹל אֲדֹנָי֙ אֹמֵ֔ר אֶת־מִ֥י אֶשְׁלַ֖ח וּמִ֣י יֵֽלֶךְ־לָ֑נוּ וָאֹמַ֖ר הִנְנִ֥י שְׁלָחֵֽנִי׃
+And I heard the voice of the Lord, saying: Whom shall I send, And who will go for us? Then I said: ‘Here am I; send me.’
+Isaiah 6:9
+וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֙וֹעַ֙ וְאַל־תָּבִ֔ינוּ וּרְא֥וּ רָא֖וֹ וְאַל־תֵּדָֽעוּ׃
+And He said: ‘Go, and tell this people: Hear ye indeed, but understand not; and see ye indeed, but perceive not.
+Isaiah 6:10
+הַשְׁמֵן֙ לֵב־הָעָ֣ם הַזֶּ֔ה וְאׇזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן־יִרְאֶ֨ה בְעֵינָ֜יו וּבְאׇזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ׃
+Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they, seeing with their eyes, and hearing with their ears, and understanding with their heart, return, and be healed.’
+Isaiah 6:11
+וָאֹמַ֕ר עַד־מָתַ֖י אֲדֹנָ֑י וַיֹּ֡אמֶר עַ֣ד אֲשֶׁר֩ אִם־שָׁא֨וּ עָרִ֜ים מֵאֵ֣ין יוֹשֵׁ֗ב וּבָתִּים֙ מֵאֵ֣ין אָדָ֔ם וְהָאֲדָמָ֖ה תִּשָּׁאֶ֥ה שְׁמָמָֽה׃
+Then said I: ‘Lord, how long?’ And He answered: ‘Until cities be waste without inhabitant, and houses without man, And the land become utterly waste,
+Isaiah 6:12
+וְרִחַ֥ק יְהֹוָ֖ה אֶת־הָאָדָ֑ם וְרַבָּ֥ה הָעֲזוּבָ֖ה בְּקֶ֥רֶב הָאָֽרֶץ׃
+And the LORD have removed men far away, and the forsaken places be many in the midst of the land.
+Isaiah 6:13
+וְע֥וֹד בָּהּ֙ עֲשִׂ֣רִיָּ֔ה וְשָׁ֖בָה וְהָיְתָ֣ה לְבָעֵ֑ר כָּאֵלָ֣ה וְכָאַלּ֗וֹן אֲשֶׁ֤ר בְּשַׁלֶּ֙כֶת֙ מַצֶּ֣בֶת בָּ֔ם זֶ֥רַע קֹ֖דֶשׁ מַצַּבְתָּֽהּ׃  {פ}
+And if there be yet a tenth in it, it shall again be eaten up; as a terebinth, and as an oak, whose stock remaineth, when they cast their leaves, so the holy seed shall be the stock thereof.’
+Isaiah 7:1
+וַיְהִ֡י בִּימֵ֣י אָ֠חָ֠ז בֶּן־יוֹתָ֨ם בֶּן־עֻזִּיָּ֜הוּ מֶ֣לֶךְ יְהוּדָ֗ה עָלָ֣ה רְצִ֣ין מֶֽלֶךְ־אֲ֠רָ֠ם וּפֶ֨קַח בֶּן־רְמַלְיָ֤הוּ מֶֽלֶךְ־יִשְׂרָאֵל֙ יְר֣וּשָׁלַ֔͏ִם לַמִּלְחָמָ֖ה עָלֶ֑יהָ וְלֹ֥א יָכֹ֖ל לְהִלָּחֵ֥ם עָלֶֽיהָ׃
+And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Aram, and Pekah the son of Remaliah, king of Israel, went up to Jerusalem to war against it; but could not prevail against it.
+Isaiah 7:2
+וַיֻּגַּ֗ד לְבֵ֤ית דָּוִד֙ לֵאמֹ֔ר נָ֥חָה אֲרָ֖ם עַל־אֶפְרָ֑יִם וַיָּ֤נַע לְבָבוֹ֙ וּלְבַ֣ב עַמּ֔וֹ כְּנ֥וֹעַ עֲצֵי־יַ֖עַר מִפְּנֵי־רֽוּחַ׃  {ס}
+And it was told the house of David, saying: ‘Aram is confederate with Ephraim.’ And his heart was moved, and the heart of his people, as the trees of the forest are moved with the wind.
+Isaiah 7:3
+וַיֹּ֣אמֶר יְהֹוָה֮ אֶֽל־יְשַֽׁעְיָ֒הוּ֒ צֵא־נָא֙ לִקְרַ֣את אָחָ֔ז אַתָּ֕ה וּשְׁאָ֖ר יָשׁ֣וּב בְּנֶ֑ךָ אֶל־קְצֵ֗ה תְּעָלַת֙ הַבְּרֵכָ֣ה הָעֶלְיוֹנָ֔ה אֶל־מְסִלַּ֖ת שְׂדֵ֥ה כוֹבֵֽס׃
+Then said the LORD unto Isaiah: ‘Go forth now to meet Ahaz, thou, and Shear-jashub thy son, at the end of the conduit of the upper pool, in the highway of the fullers’field;
+Isaiah 7:4
+וְאָמַרְתָּ֣ אֵ֠לָ֠יו הִשָּׁמֵ֨ר וְהַשְׁקֵ֜ט אַל־תִּירָ֗א וּלְבָֽבְךָ֙ אַל־יֵרַ֔ךְ מִשְּׁנֵ֨י זַנְב֧וֹת הָאוּדִ֛ים הָעֲשֵׁנִ֖ים הָאֵ֑לֶּה בׇּחֳרִי־אַ֛ף רְצִ֥ין וַאֲרָ֖ם וּבֶן־רְמַלְיָֽהוּ׃
+and say unto him: Keep calm, and be quiet; fear not, neither let thy heart be faint, because of these two tails of smoking firebrands, for the fierce anger of Rezin and Aram, and of the son of Remaliah.
+Isaiah 7:5
+יַ֗עַן כִּֽי־יָעַ֥ץ עָלֶ֛יךָ אֲרָ֖ם רָעָ֑ה אֶפְרַ֥יִם וּבֶן־רְמַלְיָ֖הוּ לֵאמֹֽר׃
+Because Aram hath counselled evil against thee, Ephraim also, and the son of Remaliah, saying:
+Isaiah 7:6
+נַעֲלֶ֤ה בִֽיהוּדָה֙ וּנְקִיצֶ֔נָּה וְנַבְקִעֶ֖נָּה אֵלֵ֑ינוּ וְנַמְלִ֥יךְ מֶ֙לֶךְ֙ בְּתוֹכָ֔הּ אֵ֖ת בֶּן־טָֽבְאַֽל׃  {פ}
+Let us go up against Judah, and vex it, and let us make a breach therein for us, and set up a king in the midst of it, even the son of Tabeel;
+https://www.sefaria.org/Isaiah%206
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+https://www.sefaria.org/Isaiah%207
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+Isaiah 9:5-9:6
+Isaiah 9:5
+כִּֽי־יֶ֣לֶד יֻלַּד־לָ֗נוּ בֵּ֚ן נִתַּן־לָ֔נוּ וַתְּהִ֥י הַמִּשְׂרָ֖ה עַל־שִׁכְמ֑וֹ וַיִּקְרָ֨א שְׁמ֜וֹ פֶּ֠לֶא יוֹעֵץ֙ אֵ֣ל גִּבּ֔וֹר אֲבִי־עַ֖ד שַׂר־שָׁלֽוֹם׃
+For a child is born unto us, a son is given unto us; and the government is upon his shoulder; and his name is called Pele-joez-el-gibbor Abi-ad-sar-shalom;
+Isaiah 9:6
+(לם רבה)   [לְמַרְבֵּ֨ה]   הַמִּשְׂרָ֜ה וּלְשָׁל֣וֹם אֵֽין־קֵ֗ץ עַל־כִּסֵּ֤א דָוִד֙ וְעַל־מַמְלַכְתּ֔וֹ לְהָכִ֤ין אֹתָהּ֙ וּֽלְסַעֲדָ֔הּ בְּמִשְׁפָּ֖ט וּבִצְדָקָ֑ה מֵֽעַתָּה֙ וְעַד־עוֹלָ֔ם קִנְאַ֛ת יְהֹוָ֥ה צְבָא֖וֹת תַּעֲשֶׂה־זֹּֽאת׃  {פ}
+That the government may be increased, and of peace there be no end, upon the throne of David, and upon his kingdom, to establish it, and to uphold it through justice and through righteousness From henceforth even for ever. The zeal of the LORD of hosts doth perform this.
+https://www.sefaria.org/Isaiah%209
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Sephardic · ספרד
+Isaiah 6:1-6:13
+Isaiah 6:1
+בִּשְׁנַת־מוֹת֙ הַמֶּ֣לֶךְ עֻזִּיָּ֔הוּ וָאֶרְאֶ֧ה אֶת־אֲדֹנָ֛י יֹשֵׁ֥ב עַל־כִּסֵּ֖א רָ֣ם וְנִשָּׂ֑א וְשׁוּלָ֖יו מְלֵאִ֥ים אֶת־הַהֵיכָֽל׃
+In the year that king Uzziah died I saw the Lord sitting upon a throne high and lifted up, and His train filled the temple.
+Isaiah 6:2
+שְׂרָפִ֨ים עֹמְדִ֤ים  ׀  מִמַּ֙עַל֙ ל֔וֹ שֵׁ֧שׁ כְּנָפַ֛יִם שֵׁ֥שׁ כְּנָפַ֖יִם לְאֶחָ֑ד בִּשְׁתַּ֣יִם  ׀  יְכַסֶּ֣ה פָנָ֗יו וּבִשְׁתַּ֛יִם יְכַסֶּ֥ה רַגְלָ֖יו וּבִשְׁתַּ֥יִם יְעוֹפֵֽף׃
+Above Him stood the seraphim; each one had six wings: with twain he covered his face and with twain he covered his feet, and with twain he did fly.
+Isaiah 6:3
+וְקָרָ֨א זֶ֤ה אֶל־זֶה֙ וְאָמַ֔ר קָד֧וֹשׁ  ׀  קָד֛וֹשׁ קָד֖וֹשׁ יְהֹוָ֣ה צְבָא֑וֹת מְלֹ֥א כׇל־הָאָ֖רֶץ כְּבוֹדֽוֹ׃
+And one called unto another, and said: Holy, holy, holy, is the LORD of hosts; The whole earth is full of His glory.
+Isaiah 6:4
+וַיָּנֻ֙עוּ֙ אַמּ֣וֹת הַסִּפִּ֔ים מִקּ֖וֹל הַקּוֹרֵ֑א וְהַבַּ֖יִת יִמָּלֵ֥א עָשָֽׁן׃
+And the posts of the door were moved at the voice of them that called, and the house was filled with smoke.
+Isaiah 6:5
+וָאֹמַ֞ר אֽוֹי־לִ֣י כִֽי־נִדְמֵ֗יתִי כִּ֣י אִ֤ישׁ טְמֵֽא־שְׂפָתַ֙יִם֙ אָנֹ֔כִי וּבְתוֹךְ֙ עַם־טְמֵ֣א שְׂפָתַ֔יִם אָנֹכִ֖י יוֹשֵׁ֑ב כִּ֗י אֶת־הַמֶּ֛לֶךְ יְהֹוָ֥ה צְבָא֖וֹת רָא֥וּ עֵינָֽי׃
+Then said I: Woe is me! for I am undone; Because I am a man of unclean lips, And I dwell in the midst of a people of unclean lips; For mine eyes have seen the King, The LORD of hosts.
+Isaiah 6:6
+וַיָּ֣עׇף אֵלַ֗י אֶחָד֙ מִן־הַשְּׂרָפִ֔ים וּבְיָד֖וֹ רִצְפָּ֑ה בְּמֶ֨לְקַחַ֔יִם לָקַ֖ח מֵעַ֥ל הַמִּזְבֵּֽחַ׃
+Then flew unto me one of the seraphim, with a glowing stone in his hand, which he had taken with the tongs from off the altar;
+Isaiah 6:7
+וַיַּגַּ֣ע עַל־פִּ֔י וַיֹּ֕אמֶר הִנֵּ֛ה נָגַ֥ע זֶ֖ה עַל־שְׂפָתֶ֑יךָ וְסָ֣ר עֲוֺנֶ֔ךָ וְחַטָּאתְךָ֖ תְּכֻפָּֽר׃
+and he touched my mouth with it, and said: Lo, this hath touched thy lips; And thine iniquity is taken away, And thy sin expiated.
+Isaiah 6:8
+וָאֶשְׁמַ֞ע אֶת־ק֤וֹל אֲדֹנָי֙ אֹמֵ֔ר אֶת־מִ֥י אֶשְׁלַ֖ח וּמִ֣י יֵֽלֶךְ־לָ֑נוּ וָאֹמַ֖ר הִנְנִ֥י שְׁלָחֵֽנִי׃
+And I heard the voice of the Lord, saying: Whom shall I send, And who will go for us? Then I said: ‘Here am I; send me.’
+Isaiah 6:9
+וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֙וֹעַ֙ וְאַל־תָּבִ֔ינוּ וּרְא֥וּ רָא֖וֹ וְאַל־תֵּדָֽעוּ׃
+And He said: ‘Go, and tell this people: Hear ye indeed, but understand not; and see ye indeed, but perceive not.
+Isaiah 6:10
+הַשְׁמֵן֙ לֵב־הָעָ֣ם הַזֶּ֔ה וְאׇזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן־יִרְאֶ֨ה בְעֵינָ֜יו וּבְאׇזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ׃
+Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they, seeing with their eyes, and hearing with their ears, and understanding with their heart, return, and be healed.’
+Isaiah 6:11
+וָאֹמַ֕ר עַד־מָתַ֖י אֲדֹנָ֑י וַיֹּ֡אמֶר עַ֣ד אֲשֶׁר֩ אִם־שָׁא֨וּ עָרִ֜ים מֵאֵ֣ין יוֹשֵׁ֗ב וּבָתִּים֙ מֵאֵ֣ין אָדָ֔ם וְהָאֲדָמָ֖ה תִּשָּׁאֶ֥ה שְׁמָמָֽה׃
+Then said I: ‘Lord, how long?’ And He answered: ‘Until cities be waste without inhabitant, and houses without man, And the land become utterly waste,
+Isaiah 6:12
+וְרִחַ֥ק יְהֹוָ֖ה אֶת־הָאָדָ֑ם וְרַבָּ֥ה הָעֲזוּבָ֖ה בְּקֶ֥רֶב הָאָֽרֶץ׃
+And the LORD have removed men far away, and the forsaken places be many in the midst of the land.
+Isaiah 6:13
+וְע֥וֹד בָּהּ֙ עֲשִׂ֣רִיָּ֔ה וְשָׁ֖בָה וְהָיְתָ֣ה לְבָעֵ֑ר כָּאֵלָ֣ה וְכָאַלּ֗וֹן אֲשֶׁ֤ר בְּשַׁלֶּ֙כֶת֙ מַצֶּ֣בֶת בָּ֔ם זֶ֥רַע קֹ֖דֶשׁ מַצַּבְתָּֽהּ׃  {פ}
+And if there be yet a tenth in it, it shall again be eaten up; as a terebinth, and as an oak, whose stock remaineth, when they cast their leaves, so the holy seed shall be the stock thereof.’
+https://www.sefaria.org/Isaiah%206
+Miqra according to the Masorah · CC-BY-SA
+https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94
+The Holy Scriptures: A New Translation (JPS 1917) · Public Domain
+http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/
+
+Reading assignments: Hebcal / @hebcal/leyning (BSD-2-Clause), https://github.com/hebcal/hebcal-leyning
+The study commentary is editorial interpretation, distinct from the original text. Numbering follows the Hebrew Tanakh.
+
+BSD 2-Clause License
+
+Copyright (c) 2020, hebcal
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
