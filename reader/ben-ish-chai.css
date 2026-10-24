@@ -1,0 +1,14 @@
+.ben-ish-chai-essence{margin:0 0 30px;padding:25px 28px 23px;background:var(--white);border:1px solid var(--line);border-inline-start:4px solid var(--gold);break-inside:avoid;box-shadow:0 6px 24px rgba(22,46,58,.035)}
+.ben-ish-chai-essence .bic-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap;margin-bottom:19px}
+.ben-ish-chai-essence .bic-heading h2{font-family:var(--sans);font-size:11px;font-weight:700;line-height:1.7;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
+.ben-ish-chai-essence .bic-year{padding:4px 10px;border:1px solid #d8c6a7;background:#f6efdf;color:#634b23;font-size:11px;line-height:1.65}
+.ben-ish-chai-essence .bic-year em{font-style:italic}.ben-ish-chai-essence .bic-year strong{font-weight:700;margin-inline-start:9px}.ben-ish-chai-essence .bic-year .l-he strong{margin:0;font-size:16px}
+.ben-ish-chai-essence .bic-parashah{font-family:var(--sans);font-size:10px;font-weight:700;color:var(--gold);letter-spacing:.08em;text-transform:uppercase;margin-bottom:5px}
+.ben-ish-chai-essence h3{font-family:var(--serif);font-size:25px;line-height:1.25;margin:0 0 12px}.ben-ish-chai-essence h3 .l-he{font-size:29px}
+.ben-ish-chai-essence .bic-copy p{font-family:var(--serif);font-size:19px;line-height:1.85;margin:0}.ben-ish-chai-essence .bic-copy p.l-he{font-size:24px;line-height:1.85}
+.ben-ish-chai-essence .bic-source{border-top:1px solid var(--line);padding-top:11px;margin-top:15px;color:var(--muted);font-size:10px;line-height:1.7}.ben-ish-chai-essence .bic-source .l-he{font-size:15px}
+.ben-ish-chai-essence .bic-study+.bic-study{margin-top:24px;padding-top:21px;border-top:1px solid var(--line)}
+html[data-mode=he] .ben-ish-chai-essence{text-align:right;border-inline-start:1px solid var(--line);border-inline-end:4px solid var(--gold)}
+html[data-mode=parallel] .ben-ish-chai-essence .bic-copy{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px}html[data-mode=parallel] .ben-ish-chai-essence .bic-copy .l-he{margin-top:0}
+@media(max-width:720px){.ben-ish-chai-essence{padding:20px 21px;margin-bottom:25px}.ben-ish-chai-essence .bic-heading{gap:10px;margin-bottom:16px}.ben-ish-chai-essence h3{font-size:23px}.ben-ish-chai-essence .bic-copy p{font-size:18px}html[data-mode=parallel] .ben-ish-chai-essence .bic-copy{grid-template-columns:minmax(0,1fr);gap:12px}}
+@media print{.ben-ish-chai-essence{box-shadow:none;background:#fff;border:1px solid #aaa;border-inline-start:3px solid #555;padding:12pt;margin-bottom:16pt}.ben-ish-chai-essence .bic-copy p{font-size:11pt;line-height:1.6}.ben-ish-chai-essence .bic-copy p.l-he{font-size:13pt}.ben-ish-chai-essence .bic-heading h2,.ben-ish-chai-essence .bic-parashah{color:#333}.ben-ish-chai-essence .bic-year{background:none;color:#111}.ben-ish-chai-essence h3{font-size:16pt}.ben-ish-chai-essence .bic-source{font-size:8pt}}
