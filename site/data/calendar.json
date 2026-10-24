@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "calculated_at": "2026-10-24T22:32:37.255109+03:00",
+  "calculated_at": "2026-10-25T01:33:06.166772+03:00",
   "timezone": "Asia/Jerusalem",
   "weeks": [
-    {
-      "target_shabbat": "2026-10-24",
-      "hebrew_date": "י״ג חשון תשפ״ז",
-      "israel": {
-        "en": "Lech Lecha",
-        "he": "לך לך"
-      },
-      "diaspora": {
-        "en": "Lech Lecha",
-        "he": "לך לך"
-      },
-      "different_readings": false,
-      "festival": null,
-      "festival_he": null,
-      "has_weekly_parashah": true
-    },
     {
       "target_shabbat": "2026-10-31",
       "hebrew_date": "כ׳ חשון תשפ״ז",
@@ -833,6 +817,22 @@
       "different_readings": false,
       "festival": "Succos",
       "festival_he": "סוכות",
+      "has_weekly_parashah": false
+    },
+    {
+      "target_shabbat": "2027-10-23",
+      "hebrew_date": "כ״ב תשרי תשפ״ח",
+      "israel": {
+        "en": "Shmini Atzeres",
+        "he": "שמיני עצרת"
+      },
+      "diaspora": {
+        "en": "Shmini Atzeres",
+        "he": "שמיני עצרת"
+      },
+      "different_readings": false,
+      "festival": "Shmini Atzeres",
+      "festival_he": "שמיני עצרת",
       "has_weekly_parashah": false
     }
   ]
