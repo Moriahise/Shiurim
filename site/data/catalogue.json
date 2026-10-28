@@ -39,6 +39,19 @@
       },
       "target_shabbat": "2026-10-24",
       "category": "tanach"
+    },
+    {
+      "id": "5787-2026-10-31",
+      "title": {
+        "en": "How Attention Becomes Hospitality",
+        "he": "כיצד תשומת לב נעשית הכנסת אורחים?"
+      },
+      "parashah": {
+        "en": "Vayeira",
+        "he": "וירא"
+      },
+      "target_shabbat": "2026-10-31",
+      "category": "tanach"
     }
   ]
 }
