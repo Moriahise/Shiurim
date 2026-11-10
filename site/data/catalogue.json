@@ -65,6 +65,19 @@
       },
       "target_shabbat": "2026-11-07",
       "category": "tanach"
+    },
+    {
+      "id": "5787-2026-11-14",
+      "title": {
+        "en": "What Responsibility Accompanies a Blessing?",
+        "he": "איזו אחריות נלווית לברכה?"
+      },
+      "parashah": {
+        "en": "Toldos",
+        "he": "תולדות"
+      },
+      "target_shabbat": "2026-11-14",
+      "category": "tanach"
     }
   ]
 }
