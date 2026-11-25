@@ -91,6 +91,19 @@
       },
       "target_shabbat": "2026-11-21",
       "category": "tanach"
+    },
+    {
+      "id": "5787-2026-11-28",
+      "title": {
+        "en": "Preparing for an Encounter",
+        "he": "להתכונן למפגש"
+      },
+      "parashah": {
+        "en": "Vayishlach",
+        "he": "וישלח"
+      },
+      "target_shabbat": "2026-11-28",
+      "category": "tanach"
     }
   ]
 }
